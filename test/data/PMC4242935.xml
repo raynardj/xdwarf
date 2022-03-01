@@ -1,0 +1,233 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-192</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1697</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Analysis of Core Stability Exercise Effect on the Physical and Psychological
+Function of Elderly Women Vulnerable to Falls during Obstacle Negotiation</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ko</surname><given-names>Dae-Sik</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jung</surname><given-names>Dae-In</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jeong</surname><given-names>Mi-Ae</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Occupational and Environmental Medicine,
+Chosun University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Gwangju Health University,
+Republic of Korea</aff><aff id="aff3"><label>3)</label> Department of Dental Hygiene, College of Health and
+Science, Kangwon National University, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Mi-Ae Jeong, Department of Dental Hygiene, College of Health and
+Science, Kangwon National University: 346 Hwangjo-ri, Dogye-eup, Samcheok-si, Kangwon-do
+245-905, Republic of Korea. (E-mail: <email xlink:href="comet810@hanmail.net">comet810@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1697</fpage><lpage>1700</lpage><history><date date-type="received"><day>26</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>06</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of the present study was to investigate the effects of core stability
+exercise (CSE) on the physical and psychological functions of elderly women while
+negotiating general obstacles. [Subjects and Methods] After allocating 10 elderly women
+each to the core stability training group and the control group, we carried out
+Performance-Oriented Mobility Assessment (POMA) and measured crossing velocity (CV),
+maximum vertical heel clearance (MVHC), and knee flexion angle for assessing physical
+performances. We evaluated depression and fear of falling for assessing psychological
+functions. [Results] Relative to the control group, the core stability training group
+showed statistically significant overall changes after the training session: an increase
+in POMA scores, faster CV, lower MVHC, and a decrease in knee flexion angle. Furthermore,
+depression and fear of falling decreased significantly. [Conclusion] CSE can have a
+positive effect on the improvement of physical and psychological performances of older
+women who are vulnerable to falls as they negotiate everyday obstacles.</p></abstract><kwd-group><title>Key words</title><kwd>Core stabilization exercises</kwd><kwd>Elderly women</kwd><kwd>Falls</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Falls are one of the leading injury-related accidents involving older adults whose muscular
+strength, proprioceptive sense, and bodily coordination are compromised with aging<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. The elderly lack obstacle negotiation
+capacity and are prone to trip over commonly encountered environmental barriers such as door
+sills, pavement blocks, and safety bumps<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>.
+In a local community, 33% of elderly people were reported to experience falls, of which
+42.4% suffered falls<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>.</p><p>Individuals with a history of falls have fears of repeated falls, depression, and anxiety,
+all of which lead to decreased physical activities<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. These negative experiences result in reduced physical capacity in
+terms of muscular strength, bodily flexibility, and coordination, rendering the affected
+elderly even more susceptible to falls in a vicious cycle<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Notably, elderly women are more at risk of secondary injury such as
+severe fractures after falling than elderly men because of their low bone density after
+menopause<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>.</p><p>Interventions for fall prevention include exercise, education, environmental improvements,
+and medication<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref>,<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>, of which exercise has been
+used in fall prevention programs in many ways, as it takes less time and money to implement
+and programs are easy to set up.</p><p>Carter et al.<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup> reported in a
+bibliographical study on exercise intervention that exercise improved leg strength 44.4% and
+balance ability 37.5% in older adults and that as weakness of muscle strength in the trunk
+was more important than that in the lower extremities, strengthening of lumbar function can
+improve functional stability, leading to increased balance ability, gait ability, and
+prevention of falling<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>.</p><p>Core stabilization exercise (CSE) can improve balance control ability by reinforcing
+intersegmental muscles in the multifidus, transversus abdominis, and rotators<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> and physicopsychological functions in a
+harmonious way by stimulating proprioception powerfully when it is accompanied by Swiss ball
+exercises, improving balance sense, and maintenance ability<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>. Previous studies on falling in elderly adults involving CSE have
+been limited to balance ability or gait ability<xref rid="r15" ref-type="bibr">15</xref>,
+<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>, and there have been only a few
+studies on obstacles as an environmental factor or psychological factors.</p><p>Therefore, this study evaluated changes in the physicopsychological functions of elderly
+women with a fear of falling in negotiating obstacles such as a doorstep (5.2&#x02005;cm) of a
+bathroom, where falling occurs frequently, through a Performance-Oriented Mobility
+Assessment (POMA) in order to understand whether CSE is valid as an efficient exercise to
+prevent and control falling in consideration of the physicopsychological functions of
+elderly women.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>The subjects of the study were 20 elderly women above the age of 65 who were able to walk
+independently, did not have experience participating in regular balance training more than
+twice a week within the past 6 months, had a score higher than 24 on the Mini-Mental Status
+Examination-Korea (MMSE-K), had no limits on exercise performance due to visual or
+musculoskeletal disorders and no previous experience of falling, and scored lower than 19 on
+the Tinetti POMA<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. The purpose and
+methods of this study were explained to all the participants, who read and signed an
+informed consent from that revealed all the details of the study protocol, which were
+approved by the ethics committee of Kangwon National University (No. 2013-11-001-002).</p><p>The subjects selected were divided into an experimental group and a control group by
+drawing lots, and the average age, height, and weight in the experimental group were
+73.20&#x000b1;3.46&#x02005;years, 152.15&#x000b1;4.29&#x02005;cm, and 57.78&#x000b1;7.95&#x02005;kg, while those in the control group were
+71.00&#x000b1;3.50&#x02005;years, 149.83&#x000b1;6.45&#x02005;cm, and 53.80&#x000b1;11.04&#x02005;kg. There were no significant differences
+among the groups with regard to age, height, or weight (p&#x0003e;0.05).</p><p>The core stabilization exercise program proposed by Jeffrey<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup> and Hesari et al.<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> was applied to the experimental group and CSE was composed of three
+steps. Level 1 consisted of abdominal hollowing in a supine position, abdominal hollowing in
+a prone position, abdominal hollowing in a quadruped position, abdominal hollowing in a
+supine position while curling the feet, abdominal hollowing in a prone position while
+curling the feet, and modified side bridging. Level 2 consisted of bridging with abdominal
+hollowing, pelvic bridging, the dying bug with abdominal hollowing, and abdominal hollowing
+while seated on a Swiss Ball. Level 3 consisted of pelvic bridging with a Swiss ball, bird
+dog exercise, twists on a Swiss ball, and bird dog exercises on a Swiss ball. The
+experimental group performed a core stabilization program consisting of three levels for
+30&#x02005;min, three times per week on alternate days, for 6 weeks. This program consisted of three
+levels, and the subjects began at exercise level 1 and proceeded to the next level according
+to the protocol for the day. Level 1 included static holds in a stable environment, Level 2
+included dynamic movements in a stable environment, and Level 3 included dynamic movements
+in an unstable environment, such as on a Swiss ball, and resisted dynamic movements in an
+unstable environment.</p><p>Before the program and 6 weeks after the program, the Tinetti POMA, crossing velocity (CV),
+maximum vertical heel clearance (MVHC) and knee flexion angle, which are related to physical
+functions, were measured, and with respect to psychological functions, depression and fear
+of falling were measured. The Tinetti POMA is an instrument used to decide the degree of
+fear of falling and balance and mobility in elderly adults consisting of items scored on a
+3-point scale. The maximum score is 28, with 16 points for balance and 12 points for gait.
+If a subject scores below 19, fear of falling is high, and scores of 19 to 24 indicate an
+intermediate degree for fear of falling; scores of 25 to 28 indicate no fear of falling. For
+the crossing velocity (CV), the horizontal distance from the point at which the leading limb
+leaves the ground to the point at which the heel returns to the ground again is divided by
+the time taken<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. For the maximum
+vertical heel clearance (MVHC), the vertical distance from the height of the obstacle before
+obstacle negotiation to the ball of the leading limb was measured<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>. For the knee flexion angle, the angles were measured at
+the MVHC<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>. The obstacle was 60&#x02005;cm long,
+10&#x02005;cm wide, and 5.2&#x02005;cm high. The subjects began their gait 5&#x02005;m from the obstacle and
+continued on 3&#x02005;m after obstacle negotiation. Obstacle gait variables were filmed with a
+camcorder and saved on a computer. CV and MVHC were measured with the use of Dartfish
+software (Dartfish, Fribourg, Switzerland)<xref rid="r23" ref-type="bibr">23</xref><sup>)</sup>, and the results were output in a data table. To analyze
+depression, the CES-D (Center for Epidemiological Studies-Depression Scale) was used. It is
+scored on a 4-point scale (0&#x02013;3), and includes a total of 20 questions. The higher the score,
+the higher the depression<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>. For fear of
+falling, the FOFQ (Fear of Falling Questionnaire) was used. It is scored on a 4-point scale
+(1&#x02013;4) and includes a total of 11 questions. The higher the score, the higher the fear of
+falling<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>.</p><p>For statistical analysis of the results, SPSS 18.0 was used. The Shapiro-Wilk test was
+performed as a test of normality. To explain the differences in measurement variables
+according to the measurement period between exercise groups, a 2-way ANOVA with repeated
+measure was used, and the level of statistical significance was &#x003b1;=0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Repeated measure ANOVA to analyze changes in the POMA, CV, MVHC, KF, depression, and FOF
+according to the measurement periods showed that there was a statistically significant
+difference in the interaction between time and the groups and that the changes in POMA, CV,
+MVHC, KF, depression, and FOF according to time differed (p&#x0003c;0.001) (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Changes in physical and psychological function </title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Variables</th><th align="center" rowspan="1" colspan="1">Group</th><th align="center" rowspan="1" colspan="1">Before</th><th align="center" rowspan="1" colspan="1">After</th></tr></thead><tbody><tr><td align="left" rowspan="2" valign="top" colspan="1">POMA (score)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">17.60&#x000b1;1.34</td><td align="center" rowspan="1" colspan="1">19.30&#x000b1;1.57**</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">17.80&#x000b1;1.40</td><td align="center" rowspan="1" colspan="1">17.60&#x000b1;1.43</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">CV (m/sec)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">1.56&#x000b1;0.21</td><td align="center" rowspan="1" colspan="1">1.60&#x000b1;0.21*</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">1.56&#x000b1;0.10</td><td align="center" rowspan="1" colspan="1">1.55&#x000b1;0.09</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">MVHC (cm)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">7.42&#x000b1;1.38</td><td align="center" rowspan="1" colspan="1">7.02&#x000b1;1.33*</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">7.36&#x000b1;1.62</td><td align="center" rowspan="1" colspan="1">7.31&#x000b1;1.74</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">KF (angle)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">111.00&#x000b1;3.16</td><td align="center" rowspan="1" colspan="1">108.60&#x000b1;4.06*</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">110.80&#x000b1;3.77</td><td align="center" rowspan="1" colspan="1">110.30&#x000b1;3.16</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Depression (score)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">27.10&#x000b1;3.67</td><td align="center" rowspan="1" colspan="1">24.50&#x000b1;3.34**</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">26.00&#x000b1;2.58</td><td align="center" rowspan="1" colspan="1">25.20&#x000b1;3.00</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Fear of falling (score)</td><td align="center" rowspan="1" colspan="1">EG (n=10)</td><td align="center" rowspan="1" colspan="1">22.50&#x000b1;1.43</td><td align="center" rowspan="1" colspan="1">19.80&#x000b1;1.69*</td></tr><tr><td align="center" rowspan="1" colspan="1">CG (n=10)</td><td align="center" rowspan="1" colspan="1">22.60&#x000b1;3.27</td><td align="center" rowspan="1" colspan="1">21.90&#x000b1;3.54</td></tr></tbody></table><table-wrap-foot><p>Mean&#x000b1;SD. EG, experimental group; CG, control group; POMA, Performance-Oriented
+Mobility Assessment; CV, crossing velocity; MVHC, maximum vertical heel clearance; KF,
+knee flexion. *p&#x0003c;0.05; **p&#x0003c;0.01</p></table-wrap-foot></table-wrap>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>Older adults have low balance and stability due to physiological and functional decreases
+that occur with ageing<xref rid="r26" ref-type="bibr">26</xref><sup>)</sup>, and to
+compensate for balance and stability in gait, cadence and stride length decrease<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>. In the case of obstacle negotiation, when
+the leading foot encounters obstacles, the center of the body moves forward and fear of
+falling increases<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup>. In this case, the
+MVHC, joint angle, and CV are important measures to assess the ability of elderly adults to
+safely cross obstacles during gait<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r29" ref-type="bibr">29</xref>, <xref rid="r30" ref-type="bibr">30</xref><sup>)</sup>. Although falling is not always accompanied by physical injury, fear
+of falling again can be used to predict falling in elderly adults<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Fear of falling leads to a decrease in activity and low
+self-esteem for independent behavior<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup> and
+has direct negative effects that result in decreased balance and gait disorder<xref rid="r31" ref-type="bibr">31</xref>, <xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>.</p><p>CSE is training to improve the stability of the trunk by inducing a correcting reaction and
+an equilibrium reaction through balance training of the flexors and extensors, and as it has
+been judged to have an effect on physicopsychological functions in obstacle negotiation, a
+clinical study was conducted.</p><p>The results of the present study showed that the Tinetti POMA, CV, MVHC, and knee flexion
+angle were significantly improved. Esculier et al.<xref rid="r33" ref-type="bibr">33</xref><sup>)</sup> provided lumbar stability training through a Wii Fit program for
+Parkinson&#x02019;s patients for 6 weeks and administered the Tinetti POMA. They reported that the
+scores significantly increased from 24 points to 28. Chou et al.<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup> reported that the CV was slow for elderly adults with
+lower balance ability. Weerdesteyn et al.<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup> provided balance, gait, and coordination training for elderly
+adults and reported that foot clearance decreased, which matched with the results of the
+present study. Park and Lee<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup> reported
+that the maximum knee flexion angle of normal adults with lumbar stability was significantly
+lower in comparison with that of elderly adults with lumbar instability, which partially
+matched with the results of the present study. The study by Lee et al.<xref rid="r34" ref-type="bibr">34</xref><sup>)</sup>, who reported that a falling prevention program decreased
+the GDS (Geriatric Depression Scale) significantly, was in agreement with the study by Duque
+et al.<xref rid="r35" ref-type="bibr">35</xref><sup>)</sup>, who reported that fear of
+falling by elderly adults who experienced falling significantly decreased as a result of
+balance training using a virtual reality system.</p><p>Such results indicate that stability of the trunk was secured, as CSE decreased the sway
+area of the center of mass. Through harmonious exercise of the limbs based on physical
+stability, the subjects could negotiate obstacles precisely and easily, had higher
+self-esteem and had less fear of falling and depression. It is suggested that the 6-week CSE
+decreased excessive obstacle gait with physical instability in elderly women and improved
+their physicopsychological functions involving obstacle gait.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Blake</surname><given-names>AJ</given-names></name><name><surname>Morgan</surname><given-names>K</given-names></name><name><surname>Bendall</surname><given-names>MJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Falls by elderly people at home: prevalence and associated
+factors</article-title>. <source>Age Ageing</source>, <year>1988</year>,
+<volume>17</volume>: <fpage>365</fpage>&#x02013;<lpage>372</lpage>. <pub-id pub-id-type="pmid">3266440</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Chen</surname><given-names>HC</given-names></name><name><surname>Ashton-Miller</surname><given-names>JA</given-names></name><name><surname>Alexander</surname><given-names>NB</given-names></name><etal>et al.</etal></person-group>: <article-title>Stepping over obstacles: gait patterns of healthy young
+and old adults</article-title>. <source>J Gerontol</source>, <year>1991</year>,
+<volume>46</volume>: <fpage>M196</fpage>&#x02013;<lpage>M203</lpage>. <pub-id pub-id-type="pmid">1940078</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Fletcher</surname><given-names>PC</given-names></name><name><surname>Berg</surname><given-names>K</given-names></name><name><surname>Dalby</surname><given-names>DM</given-names></name><etal>et al.</etal></person-group>: <article-title>Risk factors for falling among community-based
+seniors</article-title>. <source>J Patient Saf</source>, <year>2009</year>,
+<volume>5</volume>: <fpage>61</fpage>&#x02013;<lpage>66</lpage>. <pub-id pub-id-type="pmid">19920442</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Scheffer</surname><given-names>AC</given-names></name><name><surname>Schuurmans</surname><given-names>MJ</given-names></name><name><surname>van Dijk</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Fear of falling: measurement strategy, prevalence, risk
+factors and consequences among older persons</article-title>. <source>Age
+Ageing</source>, <year>2008</year>, <volume>37</volume>:
+<fpage>19</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="pmid">18194967</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Boyd</surname><given-names>R</given-names></name><name><surname>Stevens</surname><given-names>JA</given-names></name></person-group>: <article-title>Falls and fear of falling: burden, beliefs and
+behaviours</article-title>. <source>Age Ageing</source>, <year>2009</year>,
+<volume>38</volume>: <fpage>423</fpage>&#x02013;<lpage>428</lpage>. <pub-id pub-id-type="pmid">19420144</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Jeong</surname><given-names>GH</given-names></name><name><surname>Yang</surname><given-names>SO</given-names></name><name><surname>Lee</surname><given-names>KO</given-names></name><etal>et al.</etal></person-group>: <article-title>Bone mineral density, health-promoting behaviors, and
+self-efficacy in middle-aged women</article-title>. <source>Korean J Women Health
+Nurs</source>, <year>2003</year>, <volume>9</volume>:
+<fpage>170</fpage>&#x02013;<lpage>178</lpage>.</mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="other"><person-group><name><surname>Liu</surname><given-names>CJ</given-names></name><name><surname>Latham</surname><given-names>NK</given-names></name></person-group>: Progressive resistance strength training for improving physical function
+in older adults. Cochrane Database Syst Rev, <year>2009</year>, 8:
+CD002759.</mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Petridou</surname><given-names>ET</given-names></name><name><surname>Manti</surname><given-names>EG</given-names></name><name><surname>Ntinapogias</surname><given-names>AG</given-names></name><etal>et al.</etal></person-group>: <article-title>What works better for community-dwelling older people at
+risk to fall?: a meta-analysis of multifactorial versus physical exercise-alone
+interventions</article-title>. <source>J Aging Health</source>, <year>2009</year>,
+<volume>21</volume>: <fpage>713</fpage>&#x02013;<lpage>729</lpage>. <pub-id pub-id-type="pmid">19494361</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="other"><person-group><name><surname>Gillespie</surname><given-names>LD</given-names></name><name><surname>Robertson</surname><given-names>MC</given-names></name><name><surname>Gillespie</surname><given-names>WJ</given-names></name><etal>et al.</etal></person-group>: Interventions for preventing falls in older people living in the
+community. Cochrane Database Syst Rev, <year>2009</year>, 15: CD007146.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Carter</surname><given-names>ND</given-names></name><name><surname>Kannus</surname><given-names>P</given-names></name><name><surname>Khan</surname><given-names>KM</given-names></name></person-group>: <article-title>Exercise in the prevention of falls in older people: a
+systematic literature review examining the rationale and the evidence</article-title>.
+<source>Sports Med</source>, <year>2001</year>, <volume>31</volume>:
+<fpage>427</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="pmid">11394562</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Hicks</surname><given-names>GE</given-names></name><name><surname>Simonsick</surname><given-names>EM</given-names></name><name><surname>Harris</surname><given-names>TB</given-names></name><etal>et al.</etal></person-group>: <article-title>Trunk muscle composition as a predictor of reduced
+functional capacity in the health, aging and body composition study: the moderating role
+of back pain</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>,
+<year>2005</year>, <volume>60</volume>: <fpage>1420</fpage>&#x02013;<lpage>1424</lpage>.
+<pub-id pub-id-type="pmid">16339328</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Akuthota</surname><given-names>V</given-names></name><name><surname>Nadler</surname><given-names>SF</given-names></name></person-group>: <article-title>Core strengthening</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2004</year>, <volume>85</volume>:
+<fpage>S86</fpage>&#x02013;<lpage>S92</lpage>. <pub-id pub-id-type="pmid">15034861</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Jemmett</surname><given-names>RS</given-names></name></person-group>: <article-title>Rehabilitation of lumbar multifidus dysfunction in low
+back pain: strengthening versus a motor re-education model</article-title>. <source>Br J
+Sports Med</source>, <year>2003</year>, <volume>37</volume>:
+<fpage>91</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="pmid">12547754</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Karatas</surname><given-names>M</given-names></name><name><surname>Cetin</surname><given-names>N</given-names></name><name><surname>Bayramoglu</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Trunk muscle strength in relation to balance and
+functional disability in unihemispheric stroke patients</article-title>. <source>Am J
+Phys Med Rehabil</source>, <year>2004</year>, <volume>83</volume>:
+<fpage>81</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="pmid">14758293</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>de Vreede</surname><given-names>PL</given-names></name><name><surname>Samson</surname><given-names>MM</given-names></name><name><surname>van Meeteren</surname><given-names>NL</given-names></name><etal>et al.</etal></person-group>: <article-title>Functional tasks exercise versus resistance exercise to
+improve daily function in older women: a feasibility study</article-title>. <source>Arch
+Phys Med Rehabil</source>, <year>2004</year>, <volume>85</volume>:
+<fpage>1952</fpage>&#x02013;<lpage>1961</lpage>. <pub-id pub-id-type="pmid">15605332</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Granacher</surname><given-names>U</given-names></name><name><surname>Lacroix</surname><given-names>A</given-names></name><name><surname>Muehlbauer</surname><given-names>T</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of core instability strength training on trunk
+muscle strength, spinal mobility, dynamic balance and functional mobility in older
+adults</article-title>. <source>Gerontology</source>, <year>2013</year>,
+<volume>59</volume>: <fpage>105</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="pmid">23108436</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Tinetti</surname><given-names>ME</given-names></name><name><surname>Ginter</surname><given-names>SF</given-names></name></person-group>: <article-title>Identifying mobility dysfunctions in elderly patients.
+Standard neuromuscular examination or direct
+assessment?</article-title><source>JAMA</source>, <year>1988</year>,
+<volume>259</volume>: <fpage>1190</fpage>&#x02013;<lpage>1193</lpage>. <pub-id pub-id-type="pmid">3339820</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Jeffreys</surname><given-names>I</given-names></name></person-group>: <article-title>Developing a progressive core stability
+program</article-title>. <source>Strength Condit J</source>, <year>2002</year>,
+<volume>24</volume>: <fpage>65</fpage>&#x02013;<lpage>66</lpage>. </mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Hesari</surname><given-names>AF</given-names></name><name><surname>Mahdavi</surname><given-names>S</given-names></name><name><surname>Abadi</surname><given-names>MR</given-names></name><etal>et al.</etal></person-group>: <article-title>Comparisons of berg balance scale following core
+stabilization training in women elderly</article-title>. <source>Ann Biol Res</source>,
+<year>2012</year>, <volume>3</volume>:
+<fpage>1499</fpage>&#x02013;<lpage>1504</lpage>.</mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Chou</surname><given-names>LS</given-names></name><name><surname>Kaufman</surname><given-names>KR</given-names></name><name><surname>Hahn</surname><given-names>ME</given-names></name><etal>et al.</etal></person-group>: <article-title>Medio-lateral motion of the center of mass during obstacle
+crossing distinguishes elderly individuals with imbalance</article-title>. <source>Gait
+Posture</source>, <year>2003</year>, <volume>18</volume>:
+<fpage>125</fpage>&#x02013;<lpage>133</lpage>. <pub-id pub-id-type="pmid">14667945</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Weerdesteyn</surname><given-names>V</given-names></name><name><surname>Nienhuis</surname><given-names>B</given-names></name><name><surname>Duysens</surname><given-names>J</given-names></name></person-group>: <article-title>Exercise training can improve spatial characteristics of
+time-critical obstacle avoidance in elderly people</article-title>. <source>Hum Mov
+Sci</source>, <year>2008</year>, <volume>27</volume>:
+<fpage>738</fpage>&#x02013;<lpage>748</lpage>. <pub-id pub-id-type="pmid">18524403</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Park</surname><given-names>SY</given-names></name><name><surname>Lee</surname><given-names>YS</given-names></name></person-group>: <article-title>Kinematics of the lower limbs during obstacle crossing
+performed by young adults and the elderly</article-title>. <source>J Phys Ther
+Sci</source>, <year>2012</year>, <volume>24</volume>:
+<fpage>941</fpage>&#x02013;<lpage>944</lpage>. </mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Echegoyen</surname><given-names>S</given-names></name><name><surname>Aoyama</surname><given-names>T</given-names></name><name><surname>Rodr&#x000ed;guez</surname><given-names>C</given-names></name></person-group>: <article-title>Zapateado technique as an injury risk in Mexican folkloric
+and Spanish dance: an analysis of execution, ground reaction force, and muscle
+strength</article-title>. <source>Med Probl Perform Art</source>, <year>2013</year>,
+<volume>28</volume>: <fpage>80</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="pmid">23752281</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Radloff</surname><given-names>LS</given-names></name></person-group>: <article-title>The CES-D scale: a self-report depression scale for
+research in the general population</article-title>. <source>Appl Psychol Meas</source>,
+<year>1977</year>, <volume>1</volume>: <fpage>385</fpage>&#x02013;<lpage>401</lpage>.
+</mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="book"><person-group><name><surname>Tideiksaar</surname><given-names>R</given-names></name></person-group>: Falls in older people: Prevention and management, 3rd ed. Baltimore:
+Health Professional Press.</mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Harada</surname><given-names>N</given-names></name><name><surname>Chiu</surname><given-names>V</given-names></name><name><surname>Damron-Rodriguez</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Screening for balance and mobility impairment in elderly
+individuals living in residential care facilities</article-title>. <source>Phys
+Ther</source>, <year>1995</year>, <volume>75</volume>:
+<fpage>462</fpage>&#x02013;<lpage>469</lpage>. <pub-id pub-id-type="pmid">7770493</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Kang</surname><given-names>HG</given-names></name><name><surname>Dingwell</surname><given-names>JB</given-names></name></person-group>: <article-title>Effects of walking speed, strength and range of motion on
+gait stability in healthy older adults</article-title>. <source>J Biomech</source>,
+<year>2008</year>, <volume>41</volume>: <fpage>2899</fpage>&#x02013;<lpage>2905</lpage>.
+<pub-id pub-id-type="pmid">18790480</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Cromwell</surname><given-names>RL</given-names></name><name><surname>Newton</surname><given-names>RA</given-names></name><name><surname>Forrest</surname><given-names>G</given-names></name></person-group>: <article-title>Influence of vision on head stabilization strategies in
+older adults during walking</article-title>. <source>J Gerontol A Biol Sci Med
+Sci</source>, <year>2002</year>, <volume>57</volume>:
+<fpage>M442</fpage>&#x02013;<lpage>M448</lpage>. <pub-id pub-id-type="pmid">12096730</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Begg</surname><given-names>RK</given-names></name><name><surname>Sparrow</surname><given-names>WA</given-names></name></person-group>: <article-title>Gait characteristics of young and older individuals
+negotiating a raised surface: implications for the prevention of falls</article-title>.
+<source>J Gerontol A Biol Sci Med Sci</source>, <year>2000</year>, <volume>55</volume>:
+<fpage>M147</fpage>&#x02013;<lpage>M154</lpage>. <pub-id pub-id-type="pmid">10795727</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Chou</surname><given-names>LS</given-names></name><name><surname>Draganich</surname><given-names>LF</given-names></name></person-group>: <article-title>Increasing obstacle height and decreasing toe-obstacle
+distance affect the joint moments of the stance limb differently when stepping over an
+obstacle</article-title>. <source>Gait Posture</source>, <year>1998</year>,
+<volume>8</volume>: <fpage>186</fpage>&#x02013;<lpage>204</lpage>. <pub-id pub-id-type="pmid">10200408</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group><name><surname>Aggarwal</surname><given-names>NT</given-names></name><name><surname>Wilson</surname><given-names>RS</given-names></name><name><surname>Beck</surname><given-names>TL</given-names></name><etal>et al.</etal></person-group>: <article-title>Motor dysfunction in mild cognitive impairment and the
+risk of incident Alzheimer disease</article-title>. <source>Arch Neurol</source>,
+<year>2006</year>, <volume>63</volume>: <fpage>1763</fpage>&#x02013;<lpage>1769</lpage>.
+<pub-id pub-id-type="pmid">17172617</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group><name><surname>Delbaere</surname><given-names>K</given-names></name><name><surname>Sturnieks</surname><given-names>DL</given-names></name><name><surname>Crombez</surname><given-names>G</given-names></name><etal>et al.</etal></person-group>: <article-title>Concern about falls elicits changes in gait parameters in
+conditions of postural threat in older people</article-title>. <source>J Gerontol A Biol
+Sci Med Sci</source>, <year>2009</year>, <volume>64</volume>:
+<fpage>237</fpage>&#x02013;<lpage>242</lpage>. <pub-id pub-id-type="pmid">19196645</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group><name><surname>Esculier</surname><given-names>JF</given-names></name><name><surname>Vaudrin</surname><given-names>J</given-names></name><name><surname>B&#x000e9;riault</surname><given-names>P</given-names></name><etal>et al.</etal></person-group>: <article-title>Home-based balance training programme using Wii Fit with
+balance board for Parkinsons&#x02019;s disease: a pilot study</article-title>. <source>J Rehabil
+Med</source>, <year>2012</year>, <volume>44</volume>:
+<fpage>144</fpage>&#x02013;<lpage>150</lpage>. <pub-id pub-id-type="pmid">22266676</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>HC</given-names></name><name><surname>Chang</surname><given-names>KC</given-names></name><name><surname>Tsauo</surname><given-names>JY</given-names></name><etal>et al.</etal></person-group>Fall Prevention Initiatives in Taiwan (FPIT) Investigators:
+<article-title>Effects of a multifactorial fall prevention program on fall incidence and
+physical function in community-dwelling older adults with risk of falls</article-title>.
+<source>Arch Phys Med Rehabil</source>, <year>2013</year>, <volume>94</volume>:
+<fpage>606</fpage>&#x02013;<lpage>615, e1</lpage>. <pub-id pub-id-type="pmid">23220343</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group><name><surname>Duque</surname><given-names>G</given-names></name><name><surname>Boersma</surname><given-names>D</given-names></name><name><surname>Loza-Diaz</surname><given-names>G</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of balance training using a virtual-reality system
+in older fallers</article-title>. <source>Clin Interv Aging</source>, <year>2013</year>,
+<volume>8</volume>: <fpage>257</fpage>&#x02013;<lpage>263</lpage>. <pub-id pub-id-type="pmid">23467506</pub-id></mixed-citation></ref></ref-list></back></article>

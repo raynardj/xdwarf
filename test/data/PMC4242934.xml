@@ -1,0 +1,161 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-184</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1693</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effects of a Task-specific Exercise Program on Balance, Mobility, and Muscle
+Strength in the Elderly</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Seo</surname><given-names>Hyung-Seok</given-names></name><degrees>Ms</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Jung-Ho</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Young-Han</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Korea National University
+of Transportation, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Kyungdong University, Republic of Korea</aff><aff id="aff3"><label>3)</label> Department of Physical Therapy, Korea National University
+of Transportation, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Jung-Ho Lee, Department of Physical Therapy, Kyungdong University:
+Bongpo-ri, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea. (E-mail: <email xlink:href="ljhcivapt@naver.com">ljhcivapt@naver.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1693</fpage><lpage>1695</lpage><history><date date-type="received"><day>24</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>06</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to investigate the effects of a task-specific
+exercise program based on motor learning on balance ability and strength of the lower
+extremity in the elderly with/without falling experiences. [Subjects and Methods]
+Individuals who had experiences of falling over 2 times within the past 6 months were
+included in the falling group. The task-specific exercise program consisted of 3 stages
+(weeks 1&#x02013;2, 3&#x02013;4, and 5&#x02013;6) and was conducted according to the level of difficulty in this
+study. [Results] The scores of the Korean version of the Activities-Specific Balance
+Confidence Scale and Performance-Oriented Mobility Assessment were significantly changed
+in both the falling group and non-falling group after the task-specific exercise program.
+In comparisons between the falling group and non-falling group, there were also
+significant differences in the Korean version of the Activities-Specific Balance
+Confidence Scale and muscle strength of the semitendinosus and gastrocnemius. [Conclusion]
+The task-specific exercise program has a positive effect on balance ability and muscle
+strength related to falls in the elderly.</p></abstract><kwd-group><title>Key words</title><kwd>Falling</kwd><kwd>Task-specific exercise</kwd><kwd>Elderly people</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Falling can occur anytime in life, especially in the elderly over 65&#x02005;years old. Thirty to
+50% of elderly individuals have experienced falling, and 40% of them have been injured by
+falling<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Muscle strength in the lower
+extremities is well known as an important factor for falling, and muscle endurance and
+balance ability are also known to be necessary in order to prevent falling<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>.</p><p>Interventions such as exercise, education, and complex programs have been widely used to
+prevent falling. In a previous study, multifactorial intervention combining an exercise
+program and education was introduced as the most effective way to prevent falling, because
+falling is comprehensively affected by many factors such as physical, psychological,
+environmental, and social factors<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>.</p><p>However, in previous studies, the exercise focused on only one specific task, and the
+effects of exercise hardly relate to the improvement of ADL. Furthermore, there are not many
+studies about the effect of multi-factorial intervention. Thus, the purpose of this study
+was to investigate the effect of task-specific exercise program, which is one of
+multifactorial interventions, on muscle strength and balance ability.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><sec><title>Subjects</title><p>Thirty elderly individuals over 65 of age were randomly recruited and divided into two
+groups (FG = falling group, nFG = non-falling group) based on their responses to a
+questionnaire survey. That is, those that had fallen more than 2 times in the past 6
+months were included in FG. The inclusion criteria were as follows: 1) able to normally
+perform ADL, 2) scored over 21 in the Korean Version of the Mini-Mental State Examination
+(MMSE-K), 3) no orthopedic disease, and 4) no participation in an exercise program within
+3 months. All the subjects understood the purpose of this study and provided written
+informed consent prior to participation according to the ethical standards of the
+Declaration of Helsinki (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>General characteristics of the subjects (mean&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th valign="middle" align="center" rowspan="1" colspan="1">Falling group<break/>(n=15)</th><th valign="middle" align="center" rowspan="1" colspan="1">Non-falling group<break/>(n=15)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (yrs)</td><td align="center" rowspan="1" colspan="1">47.5&#x000b1;7.2</td><td align="center" rowspan="1" colspan="1">48.2&#x000b1;8.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Height (cm)</td><td align="center" rowspan="1" colspan="1">164.3&#x000b1;10.9</td><td align="center" rowspan="1" colspan="1">163.5&#x000b1;11.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">58.8&#x000b1;8.4</td><td align="center" rowspan="1" colspan="1">58.1&#x000b1;8.9</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE-K (score)</td><td align="center" rowspan="1" colspan="1">27.9&#x000b1;2.4</td><td align="center" rowspan="1" colspan="1">27.8&#x000b1;1.9</td></tr></tbody></table><table-wrap-foot><p>MMSE-K = Korean version of the Mini Mental State Examination</p></table-wrap-foot></table-wrap>).</p></sec><sec><title>Methods</title><p>The task-specific exercise program consisted of 3 stages (weeks 1&#x02013;2, 3&#x02013;4, and 5&#x02013;6) and
+was conducted according to the level of difficulty in this study. The next level of the
+program was performed only after the earlier level had been completed and all subjects
+performed the program for an hour a day, three times a week for 6 weeks. Warming up mainly
+consisted of self-stretching exercises, and the method of performing and purpose of the
+task were demonstrated to subjects during the warm-up period. A modified task-specific
+exercise program consisting of balance training, gait training, and strengthening was
+applied in this study. The warm-up exercises included trunk elevation, trunk rotation,
+trunk flexion and knee flexion/extension while standing. Sufficient time to rest was
+provided according to the subjects&#x02019; conditions and the subjects were instructed to
+immediately stop performing an exercise if they felt any pain. Joint stretching
+(extension) was also performed for 10 minutes to cool down after the exercise.</p><p>The task-specific exercise program was conducted under the careful monitoring of 3
+physical therapists who had more than 5&#x02005;years of clinical experience. The exercise program
+was as follows:</p><p>(1) Stage 1 (weeks 1&#x02013;2): sit-to-stand, steps (anterior/posterior, right/left), 10&#x02005;m of
+waking (anterior/posterior, right/left), squat exercise, stanfing on the tiptoes.</p><p>(2) Stage 2 (weeks 3&#x02013;4): Stage 1 + 10&#x02005;m walk from sitting position on a chair and back,
+toe extension while squatting.</p><p>(3) Stage 3 (weeks 5&#x02013;6): Stage 2 + tandem walking, kicking a ball and retrieving the
+ball.</p><p>The Activities-specific Balance Confidence Scale (ABC) was developed by Power and
+Myer<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. It consists of a total 16
+specific items that demonstrate whether a subject is able to maintain their balance and
+confidently perform the activities or not. The score is divided from 0 to 100%, and the
+scores of each item are summed to calculate the total score.</p><p>The Performance-Oriented Mobility Assessment (POMA) was conducted to evaluate mobility
+and the risk of falls. The POMA which was developed by Tinetti, is a 3-point scale and is
+helpful on measuring falling risk, balance ability and mobility<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. POMA-T (POMA total) consists of two parts, POMA-balance
+(max score: 16 score) and POMA-gait (max score: 12 score).</p><p>A myotonometer (Neurogenic Technologies Inc., Missoula, MT, USA) was also used to measure
+the lower muscle strength in this study. A myotonometer can measure muscle strength by
+digitizing the muscle activation and muscle strength. In this study, the middle of each
+muscle was measured by compressing it with 1.5&#x02005;kg of pressure applied by pressing on it
+with the myotonometer during maximum isometric contraction of the muscle. The vastus
+medialis, vastus lateralis, semitendinosus, biceps femoris, tibialis anterior and
+gastrocnemius were measured in this study. The muscle belly of each muscle was the
+measurement point, and the point was marked with a pen before measurement. In addition,
+each measurement was repeated 3 times, and the mean value was used for statistical
+analysis. Values were expressed in millimeters, and a lower value indicates higher muscle
+strength.</p><p>PASW 18.0 for Windows was used for statistical analysis in this study. FG and nFG were
+compared with Levene&#x02019;s F-test followed by the independent t-test. The paired t-test was
+also used to compare the differences in balance ability and lower muscle strength between
+before and after the intervention in both groups. Furthermore, the independent t-test was
+used again to compare the differences between the two groups. The level of significance
+was &#x003b1; = 0.05.</p></sec></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>The scores for the K-ABC and POMA were significantly changed in both FG and nFG after the
+task-specific exercise program (<xref rid="tbl_002" ref-type="table">Table
+2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Comparison of the K-ABC, POMA, and muscle strength between before and after the
+intervention</title></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" align="left" colspan="1"/><th colspan="2" align="center" valign="middle" rowspan="1">Falling group<break/>(n=15)</th><th colspan="2" align="center" valign="middle" rowspan="1">Non-falling group<break/>(n=15)</th></tr><tr><th colspan="2" rowspan="1"><hr/></th><th colspan="2" rowspan="1"><hr/></th></tr><tr><th align="center" rowspan="1" colspan="1">Before</th><th align="center" rowspan="1" colspan="1">After</th><th align="center" rowspan="1" colspan="1">Before</th><th align="center" rowspan="1" colspan="1">After</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">K-ABC</td><td align="center" rowspan="1" colspan="1">53.8&#x000b1;7.8</td><td align="center" rowspan="1" colspan="1">59.4&#x000b1;6.3*</td><td align="center" rowspan="1" colspan="1">73.5&#x000b1;5.8</td><td align="center" rowspan="1" colspan="1">76.7&#x000b1;7.3*</td></tr><tr><td align="left" rowspan="1" colspan="1">POMA</td><td align="center" rowspan="1" colspan="1">17.3&#x000b1;4.6</td><td align="center" rowspan="1" colspan="1">22.8&#x000b1;3.9*</td><td align="center" rowspan="1" colspan="1">19.6&#x000b1;3.2</td><td align="center" rowspan="1" colspan="1">23.6&#x000b1;3.2*</td></tr><tr><td align="left" rowspan="1" colspan="1">Vastus medialis</td><td align="center" rowspan="1" colspan="1">8.5&#x000b1;0.4</td><td align="center" rowspan="1" colspan="1">7.2&#x000b1;0.6*</td><td align="center" rowspan="1" colspan="1">7.5&#x000b1;0.6</td><td align="center" rowspan="1" colspan="1">7.2&#x000b1;0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Vastus lateralis</td><td align="center" rowspan="1" colspan="1">7.3&#x000b1;0.8</td><td align="center" rowspan="1" colspan="1">6.4&#x000b1;0.6*</td><td align="center" rowspan="1" colspan="1">7.5&#x000b1;0.2</td><td align="center" rowspan="1" colspan="1">6.2&#x000b1;0.6*</td></tr><tr><td align="left" rowspan="1" colspan="1">Semitendinosus</td><td align="center" rowspan="1" colspan="1">8.4&#x000b1;0.2</td><td align="center" rowspan="1" colspan="1">7.7&#x000b1;0.4*</td><td align="center" rowspan="1" colspan="1">7.8&#x000b1;0.5</td><td align="center" rowspan="1" colspan="1">7.6&#x000b1;0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Biceps femoris</td><td align="center" rowspan="1" colspan="1">8.8&#x000b1;0.5</td><td align="center" rowspan="1" colspan="1">8.5&#x000b1;0.7</td><td align="center" rowspan="1" colspan="1">8.8&#x000b1;0.2</td><td align="center" rowspan="1" colspan="1">8.6&#x000b1;0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Tibialis anterior</td><td align="center" rowspan="1" colspan="1">6.7&#x000b1;0.4</td><td align="center" rowspan="1" colspan="1">6.6&#x000b1;0.9</td><td align="center" rowspan="1" colspan="1">6.4&#x000b1;0.2</td><td align="center" rowspan="1" colspan="1">5.6&#x000b1;0.5*</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrocnemius</td><td align="center" rowspan="1" colspan="1">8.2&#x000b1;0.6</td><td align="center" rowspan="1" colspan="1">7.1&#x000b1;0.5*</td><td align="center" rowspan="1" colspan="1">6.9&#x000b1;0.4</td><td align="center" rowspan="1" colspan="1">6.2&#x000b1;0.5*</td></tr></tbody></table><table-wrap-foot><p>*p&#x0003c;0.05, Mean&#x000b1;SD, Unit = score</p></table-wrap-foot></table-wrap>). For muscle strength, there were statistically significant changes not only
+in the vastus medialis, vastus lateralis, semitendinosus, and gastrocnemius in FG but also
+in the vastus lateralis, tibialis anterior, and gastrocnemius in nFG (<xref rid="tbl_002" ref-type="table">Table 2</xref>).</p><p>In comparison between FG and nFG, there were also significant differences in K-ABC and
+muscle strength of the semitendinosus and gastrocnemius (<xref rid="tbl_003" ref-type="table">Table 3</xref><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Comparison of the K-ABC, POMA, and muscle strength between groups</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Falling group<break/>(n=15)</th><th align="center" valign="middle" rowspan="1" colspan="1">Non-falling group<break/>(n=15)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">K-ABC</td><td align="center" rowspan="1" colspan="1">&#x02212;6.46&#x000b1;3.8</td><td align="center" rowspan="1" colspan="1">&#x02212;3.34&#x000b1;3.6*</td></tr><tr><td align="left" rowspan="1" colspan="1">POMA</td><td align="center" rowspan="1" colspan="1">&#x02212;5.74&#x000b1;1.3</td><td align="center" rowspan="1" colspan="1">&#x02212;4.97&#x000b1;1.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Vastus medialis</td><td align="center" rowspan="1" colspan="1">0.24&#x000b1;0.4</td><td align="center" rowspan="1" colspan="1">0.23&#x000b1;0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Vastus lateralis</td><td align="center" rowspan="1" colspan="1">0.75&#x000b1;0.5</td><td align="center" rowspan="1" colspan="1">0.69&#x000b1;0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Semitendinosus</td><td align="center" rowspan="1" colspan="1">0.74&#x000b1;0.5</td><td align="center" rowspan="1" colspan="1">0.34&#x000b1;0.5*</td></tr><tr><td align="left" rowspan="1" colspan="1">Biceps femoris</td><td align="center" rowspan="1" colspan="1">0.32&#x000b1;0.2</td><td align="center" rowspan="1" colspan="1">0.28&#x000b1;0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Tibialis anterior</td><td align="center" rowspan="1" colspan="1">0.14&#x000b1;0.8</td><td align="center" rowspan="1" colspan="1">0.13&#x000b1;0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrocnemius</td><td align="center" rowspan="1" colspan="1">1.03&#x000b1;0.5</td><td align="center" rowspan="1" colspan="1">0.63&#x000b1;0.8*</td></tr></tbody></table><table-wrap-foot><p>*p&#x0003c;0.05, Mean&#x000b1;SD, Unit = score</p></table-wrap-foot></table-wrap>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The task-specific program reflects the concept of neuroplasticity and motor learning<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. These programs are well known as effective
+approaches, since activities consisting of functional tasks could interact with the related
+organs in the programs. In a previous study, it was reported that a task-specific program
+was effective for improvement of standing, functional movement, balance, muscle endurance,
+and gait<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.</p><p>In this study, the K-ABC and POMA were used to evaluate balance ability. The K-ABC scores
+significantly from 53.8&#x000b1;7.8 and 73.5&#x000b1;5.8 to 59.4&#x000b1;6.3 and 76.7&#x000b1;7.3 in FG and nFG.
+Respectively, after the intervention, The POMA scores were also increased from 17.3&#x000b1;4.6 to
+22.8&#x000b1;3.9 in FG and from 19.6&#x000b1;3.4 to 23.6&#x000b1;3.2 in nFG after the intervention. These results
+are in line with the results of the study of Leroux, who investigated the effects of
+task-specific exercise on balance ability in patients with stroke<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Furthermore, Kim et al.<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> also reported that dynamic balance was increased after task-specific
+exercise. These results support our study, which found that a task-specific exercise program
+may positively affect the balance ability in the elderly population.</p><p>A previous study reported that muscle weakness is the main factor for falls and closely
+related to balance and gait ability<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>.
+That is, quality of life and activities of daily living could be influenced by muscle
+weakness in the elderly. In this study, there were significant changes not only in the
+vastus medialis, vastus lateralis, semitendinosus, and gastrocnemius in FG but also in the
+vastus lateralis, tibialis anterior, and gastrocnemius in nFG after the 6-week task-specific
+exercise program. In addition, the increase in muscle strength was smaller in FG, compared
+with nFG. That is, the task-specific exercise program is effective for lower muscle strength
+in elderly individuals who have experienced falls, and a program for prevention of falls has
+to include muscle strengthening exercise for the semitendinosus and gastrocnemius. Krebs
+reported lower muscle strength increased by 26% after 6 weeks of task-specific exercise<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>, and Yang reported a 61.5% increase in
+lower muscle strength after a 4-week program<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. These results would be caused by improvement of lower muscle
+strength and balance as a result of the positive effects of repeated movements in a
+task-specific exercise program<xref rid="r13" ref-type="bibr">13</xref>, <xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>.</p><p>There are some limitations in this study. First, it is a little difficult to generalize the
+results because of the small number of subjects. Second, continuous effects of the program
+were not evaluated. Third, the difficulty level was not controlled because the exercise
+program which was designed for CNS impairment, was applied to normal elderly individuals.
+Thus, further study compensating for these limitations will be needed.</p><p>This study was implemented to investigate the effect of a task-specific exercise program
+based on motor learning on balance ability and strength of the lower extremity in elderly
+people with/without falling experiences. The K-ABC and POMA scores, which used for analysis
+of balance ability, were significantly increased in both groups. Thus, the task-specific
+exercise program is thought to be effective for improvement of balance in the elderly. In
+FG, the extensor and flexor muscles of the hip joint were significantly increased, and in
+nFG, the dorsiflexor and plantar-flexor muscles were also significantly increased.
+Furthermore, there were significant differences in the K-ABC and lower muscle strength
+(semitendinosus and gastrocnemius) between FG and nFG. That is, the task-specific exercise
+program has a positive effect on balance ability and muscle strength related to falls in the
+elderly strength in the elderly related to falls.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Sherrington</surname><given-names>C</given-names></name><name><surname>Lord</surname><given-names>SR</given-names></name><name><surname>Close</surname><given-names>JC</given-names></name><etal>et al.</etal></person-group>: <article-title>A simple tool predicted probability of falling after aged
+care inpatient rehabilitation</article-title>. <source>J Clin Epidemiol</source>,
+<year>2011</year>, <volume>64</volume>: <fpage>779</fpage>&#x02013;<lpage>786</lpage>.
+<pub-id pub-id-type="pmid">21247735</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="book"><person-group><name><surname>Spirduso</surname><given-names>WW</given-names></name><name><surname>Francis</surname><given-names>KL</given-names></name><name><surname>MacRae</surname><given-names>PG</given-names></name></person-group>: Physical dimensions of aging, 2nd ed. Champaign: Human Kinetics,
+<year>2005</year>.</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Vaapio</surname><given-names>S</given-names></name><name><surname>Salminen</surname><given-names>M</given-names></name><name><surname>Vahlberg</surname><given-names>T</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of risk-based multifactorial fall prevention on
+health-related quality of life among the community-dwelling aged: a randomized
+controlled trial</article-title>. <source>Health Qual Life Outcomes</source>,
+<year>2007</year>, <volume>5</volume>: <fpage>20</fpage>. <pub-id pub-id-type="pmid">17462083</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Powell</surname><given-names>LE</given-names></name><name><surname>Myers</surname><given-names>AM</given-names></name></person-group>: <article-title>The activities-specific balance confidence (ABC)
+scale</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>,
+<year>1995</year>, <volume>50A</volume>: <fpage>M28</fpage>&#x02013;<lpage>M34</lpage>.
+<pub-id pub-id-type="pmid">7814786</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Tinetti</surname><given-names>ME</given-names></name></person-group>: <article-title>Performance-oriented assessment of mobility problems in
+elderly patients</article-title>. <source>J Am Geriatr Soc</source>, <year>1986</year>,
+<volume>34</volume>: <fpage>119</fpage>&#x02013;<lpage>126</lpage>. <pub-id pub-id-type="pmid">3944402</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Bayona</surname><given-names>NA</given-names></name><name><surname>Bitensky</surname><given-names>J</given-names></name><name><surname>Salter</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>The role of task-specific training in rehabilitation
+therapies</article-title>. <source>Top Stroke Rehabil</source>, <year>2005</year>,
+<volume>12</volume>: <fpage>58</fpage>&#x02013;<lpage>65</lpage>. <pub-id pub-id-type="pmid">16110428</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Sullivan</surname><given-names>KJ</given-names></name><name><surname>Brown</surname><given-names>DA</given-names></name><name><surname>Klassen</surname><given-names>T</given-names></name><etal>et al.</etal></person-group>Physical Therapy Clinical Research Network (PTClinResNet):
+<article-title>Effects of task-specific locomotor and strength training in adults who
+were ambulatory after stroke: results of the STEPS randomized clinical
+trial</article-title>. <source>Phys Ther</source>, <year>2007</year>,
+<volume>87</volume>: <fpage>1580</fpage>&#x02013;<lpage>1602</lpage>. <pub-id pub-id-type="pmid">17895349</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Leroux</surname><given-names>A</given-names></name><name><surname>Pinet</surname><given-names>H</given-names></name><name><surname>Nadeau</surname><given-names>S</given-names></name></person-group>: <article-title>Task-oriented intervention in chronic stroke: changes in
+clinical and laboratory measures of balance and mobility</article-title>. <source>Am J
+Phys Med Rehabil</source>, <year>2006</year>, <volume>85</volume>:
+<fpage>820</fpage>&#x02013;<lpage>830</lpage>. <pub-id pub-id-type="pmid">16998429</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>JW</given-names></name><name><surname>Kim</surname><given-names>SM</given-names></name><name><surname>Park</surname><given-names>RJ</given-names></name></person-group>: <article-title>The effects of task-oriented functional training on
+standing balance in stroke patients</article-title>. <source>J Kor Soc Ther</source>,
+<year>2003</year>, <volume>15</volume>:
+<fpage>65</fpage>&#x02013;<lpage>81</lpage>.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Moreland</surname><given-names>JD</given-names></name><name><surname>Richardson</surname><given-names>JA</given-names></name><name><surname>Goldsmith</surname><given-names>CH</given-names></name><etal>et al.</etal></person-group>: <article-title>Muscle weakness and falls in older adults: a systematic
+review and meta-analysis</article-title>. <source>J Am Geriatr Soc</source>,
+<year>2004</year>, <volume>52</volume>: <fpage>1121</fpage>&#x02013;<lpage>1129</lpage>.
+<pub-id pub-id-type="pmid">15209650</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Krebs</surname><given-names>DE</given-names></name><name><surname>Jette</surname><given-names>AM</given-names></name><name><surname>Assmann</surname><given-names>SF</given-names></name></person-group>: <article-title>Moderate exercise improves gait stability in disabled
+elders</article-title>. <source>Arch Phys Med Rehabil</source>, <year>1998</year>,
+<volume>79</volume>: <fpage>1489</fpage>&#x02013;<lpage>1495</lpage>. <pub-id pub-id-type="pmid">9862288</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Yang</surname><given-names>YR</given-names></name><name><surname>Wang</surname><given-names>RY</given-names></name><name><surname>Lin</surname><given-names>KH</given-names></name><etal>et al.</etal></person-group>: <article-title>Task-oriented progressive resistance strength training
+improves muscle strength and functional performance in individuals with
+stroke</article-title>. <source>Clin Rehabil</source>, <year>2006</year>,
+<volume>20</volume>: <fpage>860</fpage>&#x02013;<lpage>870</lpage>. <pub-id pub-id-type="pmid">17008338</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Park</surname><given-names>JH</given-names></name><name><surname>Lee</surname><given-names>SH</given-names></name><name><surname>Ko</surname><given-names>DS</given-names></name></person-group>: <article-title>The effects of the Nintendo Wii exercise program on
+chronic work-related low back pain in industrial workers</article-title>. <source>J Phys
+Ther Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>985</fpage>&#x02013;<lpage>988</lpage>. <pub-id pub-id-type="pmid">24259899</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>JH</given-names></name><name><surname>Lee</surname><given-names>LK</given-names></name><name><surname>Lee</surname><given-names>JU</given-names></name><etal>et al.</etal></person-group>: <article-title>A pilot study on the effect of functional electrical
+stimulation of stroke patients in a sitting position on balance and activities of daily
+living</article-title>. <source>J Phys Ther Sci</source>, <year>2013</year>,
+<volume>25</volume>: <fpage>1097</fpage>&#x02013;<lpage>1101</lpage>. <pub-id pub-id-type="pmid">24259923</pub-id></mixed-citation></ref></ref-list></back></article>

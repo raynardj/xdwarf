@@ -1,0 +1,196 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-176</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1741</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Characteristics of Cervical Position Sense in Subjects with Forward Head
+Posture</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Mi-Young</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Hae-Yong</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Yong</surname><given-names>Min-Sik</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, College of Health and
+Therapy, Daegu Haany University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Rehabilitation Science, Graduate School,
+Daegu University, Republic of
+Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Min-Sik Yong, Department of Rehabilitation Science, Graduate School,
+Daegu University: 201 Daegudae-ro, Jillyang, Gyeongsan-si, Gyeongsangbuk-do, Republic of
+Korea. (E-mail: <email xlink:href="peast4ever@naver.com">peast4ever@naver.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1741</fpage><lpage>1743</lpage><history><date date-type="received"><day>24</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The purpose of this study was to investigate the effect of forward head posture
+(FHP) on proprioception by determining the cervical position-reposition error. [Subjects
+and Methods] A sample population was divided into two groups in accordance with the
+craniovertebral angle: the FHP group and the control group. We measured the
+craniovertebral angle, which is defined as the angle between a horizontal line passing
+through C7 and a line extending from the tragus of the ear to C7. The error value of the
+cervical position sense after cervical flexion, extension, and rotation was evaluated
+using the head repositioning accuracy test. [Results] There were significant differences
+in the error value of the joint position sense (cervical flexion, extension, and rotation)
+between the FHP and control groups. In addition, there was an inverse correlation between
+the craniovertebral angle and error value of the joint position sense. [Conclusion] FHP is
+associated with reduced proprioception. This result implies that the change in the muscle
+length caused by FHP decreases the joint position sense. Also, proprioception becomes
+worse as FHP becomes more severe.</p></abstract><kwd-group><title>Key words</title><kwd>Forward head posture</kwd><kwd>Joint position sense</kwd><kwd>Proprioception</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Proprioception provides sensory feedback from the body to the nervous system; therefore, it
+contributes to the maintenance of optimal body alignment<xref rid="r1" ref-type="bibr">1</xref>,<xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref>,<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. It includes several
+submodalities such as joint position sense, kinesthesia, and sense of tension. Joint
+position sense is used for not only recognizing the location of joints, but also for
+measuring proprioception. Sense of tension is also used to measure proprioception, and
+kinesthesia is considered to perceive active and passive movements<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Various receptors
+such as Ruffini receptors and Parcinian corpuscles are involved in the relay of information
+to the central nervous system; however, the receptors in the muscle called muscle spindles,
+particularly play a major role in proprioception<xref rid="r2" ref-type="bibr">2</xref>,
+<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Changes in the muscle length caused
+by poor posture for a sustained period of time result in musculoskeletal problems such as
+forward head posture (FHP)<xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>.</p><p>FHP is defined when that the head is anterior to a vertical line through the center of
+gravity. It is considered a common postural disorder related to abnormalities in
+musculoskeletal balance<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. Many studies have reported that FHP is correlated to
+headache, temporomandibular disorders, myofacial pain syndrome, and abnormal scapular
+movement. Neck pain resulting from a reduction not only in the length of muscle fibers, but
+also in the capacity to generate tension in muscles is also attributed to FHP<xref rid="r11" ref-type="bibr">11</xref>,<xref rid="r12" ref-type="bibr">12</xref>,<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Since there are many mechanoreceptors in
+the cervical muscle, the cervical region is considered to play a crucial role in the
+transmission of information. Multifactorial problems in this region are mainly caused by
+decreased joint sense<xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>.</p><p>Thus far, many studies have been conducted investigating the correlation between FHP and
+pain<xref rid="r8" ref-type="bibr">8</xref>, <xref rid="r9" ref-type="bibr">9</xref>,
+<xref rid="r16" ref-type="bibr">16</xref>, <xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. However, investigations concerning whether FHP can affect
+proprioception are few. In the current study, we investigated the effect of FHP on
+proprioception via the measurement of cervical position-reposition error.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>Thirty-nine subjects with no history of neuromuscular disorder, fracture, or moderate or
+severe scoliosis were recruited for this study. They were divided into two groups in
+accordance with their craniovertebral angles: the FHP group (n=19) and the control group
+(n=20) (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>General characteristics of the subjects</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">FHP group</th><th align="center" rowspan="1" colspan="1">Control group</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender (M/F)</td><td align="center" rowspan="1" colspan="1">7/12</td><td align="center" rowspan="1" colspan="1">12/8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" rowspan="1" colspan="1">22.2&#x000b1;1.9</td><td align="center" rowspan="1" colspan="1">22.7&#x000b1;2.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height (cm)</td><td align="center" rowspan="1" colspan="1">166.0&#x000b1;7.4</td><td align="center" rowspan="1" colspan="1">169.7&#x000b1;7.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">63.8&#x000b1;12.3</td><td align="center" rowspan="1" colspan="1">64.0&#x000b1;12.6</td></tr></tbody></table><table-wrap-foot><p>Values are expressed as the Mean&#x000b1;SD.</p></table-wrap-foot></table-wrap>). The craniovertebral angle of all subjects was measured, and when the angle
+was less than 53&#x000b0;, subjects were included in the FHP group<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. All subjects were informed of the purpose of this study and
+provided their written informed consent prior to their participation. This study adhered to
+the ethical principles of the Declaration of Helsinki.</p><p>A very common method for the assessment of FHP is taking a picture of the lateral view of
+the subject<xref rid="r18" ref-type="bibr">18</xref>, <xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. This study used this method. The base of the camera was set at the
+height of the subjects&#x02019; shoulder. The tragus of the ear was marked, and a plastic pointer
+was taped to the skin overlying the spinous process of the C7 vertebra. We measured the
+craniovertebral angle, which is defined as the angle between a horizontal line passing
+through C7 and a line extending from the tragus of the ear to C7.</p><p>The error value of cervical position sense was evaluated using a head repositioning
+accuracy (HRA) test<xref rid="r20" ref-type="bibr">20</xref>,<xref rid="r21" ref-type="bibr">21</xref>,<xref rid="r22" ref-type="bibr">22</xref>,<xref rid="r23" ref-type="bibr">23</xref><sup>)</sup>. The HRA test was used to measure the difference between the start
+(0 position) and return positions. A laser pointer attached to a cycling helmet was firmly
+placed on the subjects&#x02019; heads. With their head in a natural resting position, the subjects
+were requested to focus on a target that was positioned at eye level. All subjects were then
+instructed to close their eyes, and the target was moved so that the laser pointer&#x02019;s beam
+projected onto the target. The subjects were told to memorize this position because this was
+the reference position. Then they performed a cervical full flexion at their preferred speed
+and held this position for 5 seconds. Following this, the subjects, with their eyes still
+closed, were instructed to return to the reference position at their preferred speed. The
+stopping point of the laser beam was marked with a dot. The absolute error value was
+measured as the distance between the two marked points. Three repetitions of HRA to
+reference 0 were done following the same procedure. The same procedure was followed to
+assess extension, right rotation, and left rotation, which were performed at random.</p><p>Data satisfying the normal distribution were examined with a parametric test. To assess the
+differences in the error values of the joint position sense (cervical flexion, extension,
+and rotation) between the FHP and control groups, the independent t-test was performed. In
+addition, Pearson correlation coefficients were used to assess the degree of correlation
+between the craniovertebral angle and the error value of each joint position sense.
+Statistical analyze were performed using SPSS 14.0 for Windows (SPSS Inc., Chicago, IL, USA)
+with a significance level of &#x003b1;=0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>There were significant differences between the error values of the joint position sense
+(cervical flexion, extension, and rotations) of the FHP and control groups (p&#x0003c;0.05). In
+addition, there was an inverse correlation between the craniovertebral angle and the error
+values of position sense (p&#x0003c;0.05). The statistical values are shown in <xref rid="tbl_002" ref-type="table">Tables 2</xref> and<xref rid="tbl_003" ref-type="table">
+3</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Comparison of the cervical position sense errors of the FHP and control groups
+(Unit: cm)</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">FHP group</th><th valign="top" align="center" rowspan="1" colspan="1">Control group</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Flexion</td><td align="center" rowspan="1" colspan="1">6.23&#x000b1;1.91*</td><td align="center" rowspan="1" colspan="1">4.14&#x000b1;1.74</td></tr><tr><td align="left" rowspan="1" colspan="1">Extension</td><td align="center" rowspan="1" colspan="1">6.23&#x000b1;2.20*</td><td align="center" rowspan="1" colspan="1">4.56&#x000b1;1.62</td></tr><tr><td align="left" rowspan="1" colspan="1">Right rotation</td><td align="center" rowspan="1" colspan="1">7.08&#x000b1;2.27*</td><td align="center" rowspan="1" colspan="1">5.13&#x000b1;1.51</td></tr><tr><td align="left" rowspan="1" colspan="1">Left rotation</td><td align="left" rowspan="1" colspan="1">5.60&#x000b1;2.03*</td><td align="left" rowspan="1" colspan="1">4.23&#x000b1;1.62</td></tr></tbody></table><table-wrap-foot><p>Values are expressed as the Mean&#x000b1;SD. An asterisk (*) indicates a significant
+difference (p&#x0003c;0.05).</p></table-wrap-foot></table-wrap><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>The correlations between the craniovertebral angle and the error values of
+position sense</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Flexion</th><th valign="top" align="center" rowspan="1" colspan="1">Extension</th><th valign="top" align="center" rowspan="1" colspan="1">Right rotation</th><th valign="top" align="center" rowspan="1" colspan="1">Left rotation</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Pearson&#x02019;s correlation (r)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.597*</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.421*</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.428*</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.389*</td></tr></tbody></table><table-wrap-foot><p>An asterisk (*) indicates a significant correlation (p&#x0003c;0.05).</p></table-wrap-foot></table-wrap>.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>Nowadays, the use of visual display terminals (VDT) of computers and smart phones in almost
+all homes and organizations is very common<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>. Excessive use of VDTs results in musculoskeletal disorders. Among
+these disorders, FHP is one of the most common conditions<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r16" ref-type="bibr">16</xref>, <xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>.</p><p>FHP is characterized by both an upper cervical extension and lower cervical flexion. These
+changes in the cervical region may lead to musculoskeletal dysfunction such as an &#x0201c;upper
+crossed syndrome&#x0201d; resulting from maintaining poor head position for a long duration of
+time<xref rid="r24" ref-type="bibr">24</xref>, <xref rid="r26" ref-type="bibr">26</xref>,
+<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>. In addition, patients with FHP
+commonly complain of neck and shoulder pain<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. These pains cause a reduction of joint sense which influences
+abnormal proprioception and poor postural balance<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.</p><p>The present study examined the position-reposition error of the cervical region in order to
+investigate whether FHP affects joint position sense. Higher error rates were shown by the
+group with FHP compared to the group without FHP. In all movements (flexion, extension, and
+rotation), there were significant differences in repositioning errors between the two
+groups. This result suggests that FHP affects joint position sense. The present study also
+demonstrated that there is a correlation between the degree of FHP and joint position sense,
+additionally suggesting that as FHP becomes more severe, joint position sense becomes
+worse.</p><p>Joint position sense is regarded as one of the components of proprioception. It is the
+ability to recognize the joint location, and influences body alignment and joint
+stability<xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref>,<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. This sense is particularly influenced by receptors in the muscles
+called muscle spindles. Muscle spindles have a primary ending which responds to changes in
+the length and speed of muscle stretch as well as a secondary ending that responds only to
+changes in the muscle length<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r28" ref-type="bibr">28</xref>,<xref rid="r29" ref-type="bibr">29</xref>,<xref rid="r30" ref-type="bibr">30</xref><sup>)</sup>.</p><p>In general, FHP leads to changes in the lengths of the anterior and posterior neck muscles,
+and prolonged FHP causes sustained loading on the cervical spine<xref rid="r8" ref-type="bibr">8</xref>, <xref rid="r26" ref-type="bibr">26</xref><sup>)</sup>. In this regard,
+the results of the present study imply that changes in the lengths of muscles, as a result
+of FHP, have a bad influence on the activity of the muscle spindles, and this is the reason
+why poor joint position sense is induced by FHP. Further studies of the effect of
+therapeutic exercise for improving position sense of subjects with FHP should be
+encouraged.</p><p>In conclusion, FHP is associated with reduced proprioception. This result implies that a
+change in the muscle length caused by FHP affects decreases joint position sense.
+Furthermore, the present study also found a correlation between FHP and proprioception. This
+indicates that proprioception becomes worse as FHP becomes more severe.</p></sec></body><back><ack><p>This research was supported by the Basic Science Research Program through the National
+Research Foundation of Korea (NRF) funded by the Ministry of Science, ICT &#x00026; Future
+Planning (No. 2013R1A1A3007734).</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>HM</given-names></name><name><surname>Cheng</surname><given-names>CK</given-names></name><name><surname>Liau</surname><given-names>JJ</given-names></name></person-group>: <article-title>Correlation between proprioception, muscle strength, knee
+laxity, and dynamic standing balance in patients with chronic anterior cruciate ligament
+deficiency</article-title>. <source>Knee</source>, <year>2009</year>,
+<volume>16</volume>: <fpage>387</fpage>&#x02013;<lpage>391</lpage>. <pub-id pub-id-type="pmid">19239988</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Dover</surname><given-names>G</given-names></name><name><surname>Powers</surname><given-names>ME</given-names></name></person-group>: <article-title>Reliability of joint position sense and force-reproduction
+measures during internal and external rotation of the shoulder</article-title>.
+<source>J Athl Train</source>, <year>2003</year>, <volume>38</volume>:
+<fpage>304</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="pmid">14737211</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Bolognini</surname><given-names>N</given-names></name><name><surname>Maravita</surname><given-names>A</given-names></name></person-group>: <article-title>Proprioceptive alignment of visual and somatosensory maps
+in the posterior parietal cortex</article-title>. <source>Curr Biol</source>,
+<year>2007</year>, <volume>17</volume>: <fpage>1890</fpage>&#x02013;<lpage>1895</lpage>.
+<pub-id pub-id-type="pmid">17964160</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Jaraczewska</surname><given-names>E</given-names></name><name><surname>Long</surname><given-names>C</given-names></name></person-group>: <article-title>Kinesio taping in stroke: improving functional use of the
+upper extremity in hemiplegia</article-title>. <source>Top Stroke Rehabil</source>,
+<year>2006</year>, <volume>13</volume>: <fpage>31</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="pmid">16987790</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Gong</surname><given-names>W</given-names></name></person-group>: <article-title>Effects of cervical joint manipulation on joint position
+sense of normal adults</article-title>. <source>J Phys Ther Sci</source>,
+<year>2013</year>, <volume>25</volume>: <fpage>721</fpage>&#x02013;<lpage>723</lpage>.
+<pub-id pub-id-type="pmid">24259838</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Armstrong</surname><given-names>BS</given-names></name><name><surname>McNair</surname><given-names>PJ</given-names></name><name><surname>Williams</surname><given-names>M</given-names></name></person-group>: <article-title>Head and neck position sense in whiplash patients and
+healthy individuals and the effect of the cranio-cervical flexion
+action</article-title>. <source>Clin Biomech (Bristol, Avon)</source>, <year>2005</year>,
+<volume>20</volume>: <fpage>675</fpage>&#x02013;<lpage>684</lpage>. </mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Kang</surname><given-names>JH</given-names></name><name><surname>Park</surname><given-names>RY</given-names></name><name><surname>Lee</surname><given-names>SJ</given-names></name><etal>et al.</etal></person-group>: <article-title>The effect of the forward head posture on postural balance
+in long time computer based worker</article-title>. <source>Ann Rehabil Med</source>,
+<year>2012</year>, <volume>36</volume>: <fpage>98</fpage>&#x02013;<lpage>104</lpage>.
+<pub-id pub-id-type="pmid">22506241</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Weon</surname><given-names>JH</given-names></name><name><surname>Oh</surname><given-names>JS</given-names></name><name><surname>Cynn</surname><given-names>HS</given-names></name><etal>et al.</etal></person-group>: <article-title>Influence of forward head posture on scapular upward
+rotators during isometric shoulder flexion</article-title>. <source>J Bodyw Mov
+Ther</source>, <year>2010</year>, <volume>14</volume>:
+<fpage>367</fpage>&#x02013;<lpage>374</lpage>. <pub-id pub-id-type="pmid">20850044</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>De-la-Llave-Rinc&#x000f3;n</surname><given-names>AI</given-names></name><name><surname>Fern&#x000e1;ndez-de-las-Pe&#x000f1;as</surname><given-names>C</given-names></name><name><surname>Palacios-Ce&#x000f1;a</surname><given-names>D</given-names></name><etal>et al.</etal></person-group>: <article-title>Increased forward head posture and restricted cervical
+range of motion in patients with carpal tunnel syndrome</article-title>. <source>J
+Orthop Sports Phys Ther</source>, <year>2009</year>, <volume>39</volume>:
+<fpage>658</fpage>&#x02013;<lpage>664</lpage>. <pub-id pub-id-type="pmid">19721213</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Yip</surname><given-names>CH</given-names></name><name><surname>Chiu</surname><given-names>TT</given-names></name><name><surname>Poon</surname><given-names>AT</given-names></name></person-group>: <article-title>The relationship between head posture and severity and
+disability of patients with neck pain</article-title>. <source>Man Ther</source>,
+<year>2008</year>, <volume>13</volume>: <fpage>148</fpage>&#x02013;<lpage>154</lpage>.
+<pub-id pub-id-type="pmid">17368075</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Diab</surname><given-names>AA</given-names></name><name><surname>Moustafa</surname><given-names>IM</given-names></name></person-group>: <article-title>The efficacy of forward head correction on nerve root
+function and pain in cervical spondylotic radiculopathy: a randomized
+trial</article-title>. <source>Clin Rehabil</source>, <year>2012</year>,
+<volume>26</volume>: <fpage>351</fpage>&#x02013;<lpage>361</lpage>. <pub-id pub-id-type="pmid">21937526</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Silva</surname><given-names>AG</given-names></name><name><surname>Johnson</surname><given-names>MI</given-names></name></person-group>: <article-title>Does forward head posture affect postural control in human
+healthy volunteers?</article-title><source>Gait Posture</source>, <year>2013</year>,
+<volume>38</volume>: <fpage>352</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="pmid">23219786</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Burgess-Limerick</surname><given-names>R</given-names></name><name><surname>Plooy</surname><given-names>A</given-names></name><name><surname>Ankrum</surname><given-names>DR</given-names></name></person-group>: <article-title>The effect of imposed and self-selected computer monitor
+height on posture and gaze angle</article-title>. <source>Clin Biomech (Bristol,
+Avon)</source>, <year>1998</year>, <volume>13</volume>:
+<fpage>584</fpage>&#x02013;<lpage>592</lpage>. </mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Chester</surname><given-names>JB</given-names><suffix>Jr</suffix></name></person-group><article-title>Whiplash, postural control, and the inner
+ear</article-title>. <source>Spine</source>, <year>1991</year>, <volume>16</volume>:
+<fpage>716</fpage>&#x02013;<lpage>720</lpage>. <pub-id pub-id-type="pmid">1925743</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Treleaven</surname><given-names>J</given-names></name></person-group>: <article-title>Sensorimotor disturbances in neck disorders affecting
+postural stability, head and eye movement control</article-title>. <source>Man
+Ther</source>, <year>2008</year>, <volume>13</volume>:
+<fpage>2</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="pmid">17702636</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Chiu</surname><given-names>TT</given-names></name><name><surname>Ku</surname><given-names>WY</given-names></name><name><surname>Lee</surname><given-names>MH</given-names></name><etal>et al.</etal></person-group>: <article-title>A study on the prevalence of and risk factors for neck
+pain among university academic staff in Hong Kong</article-title>. <source>J Occup
+Rehabil</source>, <year>2002</year>, <volume>12</volume>:
+<fpage>77</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="pmid">12014228</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Silva</surname><given-names>AG</given-names></name><name><surname>Punt</surname><given-names>TD</given-names></name><name><surname>Sharples</surname><given-names>P</given-names></name><etal>et al.</etal></person-group>: <article-title>Head posture and neck pain of chronic nontraumatic origin:
+a comparison between patients and pain-free persons</article-title>. <source>Arch Phys
+Med Rehabil</source>, <year>2009</year>, <volume>90</volume>:
+<fpage>669</fpage>&#x02013;<lpage>674</lpage>. <pub-id pub-id-type="pmid">19345785</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Salahzadeh</surname><given-names>Z</given-names></name><name><surname>Maroufi</surname><given-names>N</given-names></name><name><surname>Ahmadi</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: Assessment of forward head posture in females: observational and
+photogrammetry methods. J Back Musculoskelet Rehabil, <year>2013</year>.</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Quek</surname><given-names>J</given-names></name><name><surname>Pua</surname><given-names>YH</given-names></name><name><surname>Clark</surname><given-names>RA</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of thoracic kyphosis and forward head posture on
+cervical range of motion in older adults</article-title>. <source>Man Ther</source>,
+<year>2013</year>, <volume>18</volume>: <fpage>65</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="pmid">22959228</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Rix</surname><given-names>GD</given-names></name><name><surname>Bagust</surname><given-names>J</given-names></name></person-group>: <article-title>Cervicocephalic kinesthetic sensibility in patients with
+chronic, nontraumatic cervical spine pain</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2001</year>, <volume>82</volume>:
+<fpage>911</fpage>&#x02013;<lpage>919</lpage>. <pub-id pub-id-type="pmid">11441377</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Palmgren</surname><given-names>PJ</given-names></name><name><surname>Andreasson</surname><given-names>D</given-names></name><name><surname>Eriksson</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Cervicocephalic kinesthetic sensibility and postural
+balance in patients with nontraumatic chronic neck pain&#x02014;a pilot study</article-title>.
+<source>Chiropr Osteopat</source>, <year>2009</year>, <volume>17</volume>:
+<fpage>6</fpage>. <pub-id pub-id-type="pmid">19566929</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Heikkil&#x000e4;</surname><given-names>HV</given-names></name><name><surname>Wenngren</surname><given-names>BI</given-names></name></person-group>: <article-title>Cervicocephalic kinesthetic sensibility, active range of
+cervical motion, and oculomotor function in patients with whiplash
+injury</article-title>. <source>Arch Phys Med Rehabil</source>, <year>1998</year>,
+<volume>79</volume>: <fpage>1089</fpage>&#x02013;<lpage>1094</lpage>. <pub-id pub-id-type="pmid">9749689</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Pinsault</surname><given-names>N</given-names></name><name><surname>Anxionnaz</surname><given-names>M</given-names></name><name><surname>Vuillerme</surname><given-names>N</given-names></name></person-group>: <article-title>Cervical joint position sense in rugby players versus
+non-rugby players</article-title>. <source>Phys Ther Sport</source>, <year>2010</year>,
+<volume>11</volume>: <fpage>66</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="pmid">20381004</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Yoo</surname><given-names>WG</given-names></name><name><surname>Kim</surname><given-names>MH</given-names></name></person-group>: <article-title>Effect of different seat support characteristics on the
+neck and trunk muscles and forward head posture of visual display terminal
+workers</article-title>. <source>Work</source>, <year>2010</year>, <volume>36</volume>:
+<fpage>3</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="pmid">20555171</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Good</surname><given-names>M</given-names></name><name><surname>Stiller</surname><given-names>C</given-names></name><name><surname>Zauszniewski</surname><given-names>JA</given-names></name><etal>et al.</etal></person-group>: <article-title>Sensation and distress of pain scales: reliability,
+validity, and sensitivity</article-title>. <source>J Nurs Meas</source>,
+<year>2001</year>, <volume>9</volume>: <fpage>219</fpage>&#x02013;<lpage>238</lpage>.
+<pub-id pub-id-type="pmid">11881266</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Szeto</surname><given-names>GP</given-names></name><name><surname>Straker</surname><given-names>L</given-names></name><name><surname>Raine</surname><given-names>S</given-names></name></person-group>: <article-title>A field comparison of neck and shoulder postures in
+symptomatic and asymptomatic office workers</article-title>. <source>Appl
+Ergon</source>, <year>2002</year>, <volume>33</volume>:
+<fpage>75</fpage>&#x02013;<lpage>84</lpage>. <pub-id pub-id-type="pmid">11831210</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Moore</surname><given-names>MK</given-names></name></person-group>: <article-title>Upper crossed syndrome and its relationship to
+cervicogenic headache</article-title>. <source>J Manipulative Physiol Ther</source>,
+<year>2004</year>, <volume>27</volume>: <fpage>414</fpage>&#x02013;<lpage>420</lpage>.
+<pub-id pub-id-type="pmid">15319765</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Proske</surname><given-names>U</given-names></name><name><surname>Gandevia</surname><given-names>SC</given-names></name></person-group>: <article-title>The kinaesthetic senses</article-title>. <source>J
+Physiol</source>, <year>2009</year>, <volume>587</volume>:
+<fpage>4139</fpage>&#x02013;<lpage>4146</lpage>. <pub-id pub-id-type="pmid">19581378</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Proske</surname><given-names>U</given-names></name></person-group>: <article-title>Kinesthesia: the role of muscle receptors</article-title>.
+<source>Muscle Nerve</source>, <year>2006</year>, <volume>34</volume>:
+<fpage>545</fpage>&#x02013;<lpage>558</lpage>. <pub-id pub-id-type="pmid">16897766</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Winter</surname><given-names>JA</given-names></name><name><surname>Allen</surname><given-names>TJ</given-names></name><name><surname>Proske</surname><given-names>U</given-names></name></person-group>: <article-title>Muscle spindle signals combine with the sense of effort to
+indicate limb position</article-title>. <source>J Physiol</source>, <year>2005</year>,
+<volume>568</volume>: <fpage>1035</fpage>&#x02013;<lpage>1046</lpage>. <pub-id pub-id-type="pmid">16109730</pub-id></mixed-citation></ref></ref-list></back></article>

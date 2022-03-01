@@ -1,0 +1,193 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-188</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1753</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Analysis of Crutch Position in the Horizontal Plane to Estimate the Stability
+of the Axillary Pad in the Axilla during Single-crutch Walking</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nagasaki</surname><given-names>Takayuki</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Katoh</surname><given-names>Hiroshi</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Arizono</surname><given-names>Hisashi</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Chijimatsu</surname><given-names>Hikaru</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Chijiwa</surname><given-names>Naoki</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Wada</surname><given-names>Chikamune</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Rehabilitation, Kyushu University of Nursing
+and Social Welfare, Japan</aff><aff id="aff2"><label>2)</label> Arizono Orthpedic Supplies Co., Ltd., Japan</aff><aff id="aff3"><label>3)</label> Graduate School of Life Science and Systems Engineering
+Kyushu Institute of Technology, Japan</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Takayuki Nagasaki, Department of Rehabilitation, Kyushu University of Nursing
+and Social Welfare: 888 Tominoo, Tamana City, Kumamoto 865-0062, Japan. (E-mail: <email xlink:href="nagasaki@kyushu-ns.ac.jp">nagasaki@kyushu-ns.ac.jp</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1753</fpage><lpage>1756</lpage><history><date date-type="received"><day>26</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to estimate the stability of the axillary pad in the
+axilla during single-crutch walking through kinematic analysis of the crutch position in
+the horizontal plane. [Subjects] The subjects were 19 healthy young males. [Methods] The
+subjects were instructed to walk 5&#x02005;m in a straight line while using a single crutch. This
+was repeated 10 times. Repeated-measures analysis of variance and Tukey&#x02019;s honest
+significance test were used to compare crutch angles across three time points during
+crutch stance (crutch contact, mid stance and crutch off) for each subject. [Results] A
+statistically significant effect of time was found in 17 of the 19 subjects. Sixteen of
+these 17 subjects rotated the crutch externally from crutch contact to crutch off.
+[Conclusion] External rotation of the crutch throughout the stance phase is important to
+enable the axillary pad to be held tightly against the chest wall. These results may lead
+to alterations of the instructions for crutch use and the prevention of falls.</p></abstract><kwd-group><title>Key words</title><kwd>Crutch walking</kwd><kwd>Crutch position</kwd><kwd>Stability of the axillary pad</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The axillary crutch is an assistive device used by individuals with gait disturbance due to
+lower-limb impairments such as fractures or surgery of the hip or knee joint. During crutch
+walking, users have to hold the axillary pad firmly against their chest wall with their arm
+and maintain their wrist in a dorsiflexed position on the handgrip to support their
+weight<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. However, if the axillary pad is not held firmly to the chest wall,
+it can separate from the axilla and this may lead to a fall. In the clinical experience of
+the first and second authors, the axillary pad often deviates from the axilla during the
+crutch stance phase crutch training. Sasaki et al.<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup> reported that crutch use was dangerous when the shoulder joint was
+placed in an internally rotated position (IRP), because the axillary pad is not fixed to the
+chest wall and could easily slide backward from the axilla. They suggested that a
+horizontally positioned shoulder joint was important to ensure that the axillary pad was
+securely positioned against the chest wall.</p><p>The position of shoulder joint in the horizontal plane determines the position of the
+crutch in the horizontal plane during crutch walking. Though supination or pronation of the
+forearm and radial or ulnar deviation of the wrist influence the position of the crutch, the
+position of the shoulder joint has the greatest influence<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. Therefore, we hypothesized
+that the position in the horizontal plane of the axillary pad could be used to estimate the
+stability of the axillary pad during crutch walking.</p><p>The aim of this study was to estimate the stability of the axillary pad in the axilla
+during single-crutch walking using kinematic analysis of the crutch position in the
+horizontal plane.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>The subjects were 19 healthy young males (mean age, 22.2 &#x000b1; 0.4&#x02005;years; mean height, 171.4 &#x000b1;
+5.5&#x02005;cm; mean weight; 67.4 &#x000b1; 8.2&#x02005;kg). This study was conducted in accordance with the ethical
+principles of the Declaration of Helsinki and was approved by the Ethics Committee of Kyushu
+University of Nursing and Social Welfare. All subjects received a description of this study
+and provided their written informed consent before participating in the study. Before
+measurements were made, all subjects were provided with a crutch of an appropriate length
+and practiced using the crutch. The appropriate crutch length was determined using the
+standard method described by Rusk and Lowman<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Single-crutch walking was performed with a
+pseudo-affected left leg and an unaffected right leg. Subjects were instructed to put 30% of
+their body weight on the crutch<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref>,<xref rid="r9" ref-type="bibr">9</xref>,<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>, which substituted for the left leg, and performed two-point gait
+by swinging the unaffected side out in front of the crutch.</p><p>The experimental set-up consisted of a Vicon MX13 three-dimensional motion capture system
+(Vicon Peak, UK), comprising eight infrared cameras, six force plates (AMTI, USA) and a
+digital video camera (Victor, JVC, Japan). The sampling rates of the motion capture system
+and the force plates were 100&#x02005;Hz. Two infrared reflective markers were placed on an
+extension that was attached to the axillary pad so that a straight line connecting the two
+markers indicated the long axis of the axillary pad. Subjects were instructed to walk 5&#x02005;m in
+a straight line using the single crutch, and this was repeated 10 times. Walking speed and
+step length were determined by the subject.</p><p>The position of the crutch in the horizontal plane was defined as the angle between the
+sagittal (Y-Z) plane and the long axis of the axillary pad, and it was calculated using data
+collected by the motion capture system. The value of the angle was negative when the crutch
+turned toward the body (internal rotation) and positive when the crutch turned away from the
+body (external rotation; <xref ref-type="fig" rid="fig_001">Fig. 1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig. 1.</label><caption><p>Definition of crutch angle. (1) Indicates internal rotation and (2) indicates
+external rotation.</p></caption><graphic xlink:href="jpts-26-1753-g001"/></fig>). The stance phase of the crutch during walking was identified from the ground
+reaction force data. Crutch contact was defined as the point at which the crutch tip was
+grounded on the floor, mid stance was defined as the point at which the anterior-posterior
+ground reaction force had a value of zero, and crutch off was defined as the point at which
+the crutch tip was taken off the floor.</p><p>Repeated-measures analysis of variance and the Tukey&#x02019;s honest significance test were used
+to compare the crutch position across the three phases of stance for each subject. All data
+were analyzed using standard statistics software (IBM SPSS Statistics ver. 19.0). p values
+of less than 0.05 were considered significant.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p><xref rid="tbl_001" ref-type="table">Table 1</xref>
+<table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title> Crutch angle in each phase of stance for each subject<inline-graphic xlink:href="jpts-26-1753-t001.jpg"/></title></caption></table-wrap> shows the crutch angle in each phase of crutch stance for each subject. The
+crutch angle was significantly different across the crutch stance phases for 17 of the 19
+subjects. Posthoc comparisons indicated statistically significant differences (Tukey&#x02019;s
+honest significance test) for 15 out of the 17 subjects in the following three comparisons:
+(1) crutch contact vs. mid stance, (2) crutch contact vs. crutch off, and (3) mid stance vs.
+crutch off. As for the remaining two subjects, one subject showed statistically significant
+differences for: (1) crutch contact vs. mid stance, and (2) crutch contact vs. crutch off;
+and the other subject showed a statistically significant difference for: (3) mid stance vs.
+crutch off.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>Many diverse studies of crutch walking have been performed by researchers. For example, the
+study of appropriate crutch length<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>, the study of energy cost<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>, the study of crutch palsy or fracture<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>, and the
+kinematic or kinetic study of the upper and lower extremities<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r18" ref-type="bibr">18</xref>,<xref rid="r19" ref-type="bibr">19</xref>,<xref rid="r20" ref-type="bibr">20</xref>,<xref rid="r21" ref-type="bibr">21</xref>,<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>. However, we were not able to find a study on the stability of the
+axillary pad in the axilla. We hypothesized that the stability of the axillary pad in the
+axilla is one of the main issues for safe crutch walking. Our study is the first attempt
+using kinematic analysis of the crutch position to examine the stability of the axillary pad
+during crutch walking.</p><p>We found that although there was inter-subject variation in the value of the angle, the
+crutch externally rotated in the horizontal plane during the crutch stance phase for 16
+subjects. For the remaining three subjects, the crutch rotated internally or did not rotate
+during the crutch stance phase.</p><p>The external rotation of the crutch that was observed for 16 subjects, likely occurred
+because of the shape of the chest wall, the position of the shoulder joint, and the fact
+that the axillary pad was held firmly against the chest wall. Normally, the axillary pad is
+held to the chest wall by the shoulder adductor muscles<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. If the shape of the chest wall is assumed to be a plane (<xref ref-type="fig" rid="fig_002">Fig. 2a</xref><fig orientation="portrait" fig-type="figure" id="fig_002" position="float"><label>Fig. 2.</label><caption><p>Relation between the shape of the chest wall and the position of the shoulder joint
+in the horizontal plane Grey rectangles indicate the crutch, open circles indicate the
+arm, dotted arrows indicate the direction of the force of shoulder adductors, and
+black arrows indicate the position of the shoulder joint.</p></caption><graphic xlink:href="jpts-26-1753-g002"/></fig>), the shoulder joint needs to move in flexion and extension in addition to adduction
+during crutch walking to hold the axillary pad stably against the chest wall. If this were
+the case, the shoulder joint and the axillary pad would not rotate. However, because the
+chest wall has a rounded shape, the axillary pad moves along the chest wall, and the
+shoulder joint and the axillary pad rotate to hold the axillary pad stably against the chest
+wall. That is to say, internal rotation occurs when the shoulder joint flexes and external
+rotation occurs when shoulder joint extends (<xref ref-type="fig" rid="fig_002">Fig.
+2b</xref>). We propose that the rotation of the shoulder joint and the axillary pad is
+very important for holding the axillary pad firmly to the chest wall.</p><p><xref ref-type="fig" rid="fig_003">Figure 3</xref><fig orientation="portrait" fig-type="figure" id="fig_003" position="float"><label>Fig. 3.</label><caption><p>Conceptual illustration of the position of the crutch during the crutch stance
+phase</p></caption><graphic xlink:href="jpts-26-1753-g003"/></fig> shows a conceptual illustration of this idea. At crutch contact, the shoulder joint
+is in a position of flexion, adduction and internal rotation because the crutch is grounded
+in front of the body. Therefore the crutch is located in an IRP. From crutch contact to mid
+stance, the body is moving forward. Throughout this period the shoulder joint extends; then,
+both the shoulder joint and the crutch rotate from the IRP toward an externally rotated
+position (ERP). Around mid stance, the crutch is located by the side of the body. From mid
+stance to crutch off, the body continues to move forward and the crutch is positioned to the
+rear of the body. Throughout this period the shoulder joint extends, adducts and externally
+rotates and the crutch continues to externally rotate. Accordingly, we showed that the
+crutch was grounded in an IRP, and then rotated externally throughout the crutch stance
+phase and was taken off the floor in an ERP.</p><p>In this study, we found that this movement pattern was present for 10 of the 16 subjects
+that showed a statistically significant difference in crutch angle across the three phases.
+For four of the 16 subjects the crutch was located in an ERP at crutch contact and for the
+remaining two subjects the crutch was located in an IRP at crutch off. However, all 16
+subjects the crutch externally rotated from crutch contract to toward crutch off, showing a
+similar pattern to that illustrated in <xref ref-type="fig" rid="fig_003">Fig. 3</xref>. We
+propose that these 16 subjects were able to hold the axillary pad stably against the chest
+wall because of the relative positions of the crutch and the chest wall. For two of the
+remaining three subjects the crutch maintained a similar angle throughout the crutch stance
+phase, and for one subject the crutch internally rotated throughout the crutch stance phase.
+We propose that these three subjects had an unstable connection between the axillary pad and
+the chest wall because of the relative positions of the crutch and the chest wall.
+Therefore, we conclude that external rotation of both the shoulder joint and the crutch was
+important for holding the axillary pad against the chest wall.</p><p>Maximum weight-bearing by the crutch usually occurs around mid stance. If the crutch
+externally rotates around the time of mid stance, it will be held stably to the chest wall
+at this time. As a result, the axillary pad will not easily separate from the axilla, even
+if a large movement in the anterior-posterior direction is exerted on the crutch. In
+contrast, the axillary pad would easily separate from the axilla if it were not sufficiently
+fixed to the chest wall due to internal rotation or lack of rotation. Sasaki et al.
+suggested that a horizontally positioned shoulder joint was important to ensure that the
+crutch axillary pad is securely positioned against the chest wall. Additionally, the results
+of our study suggest that external rotation of both the shoulder joint and the crutch is
+important for holding the axillary pad against the chest wall during the crutch stance
+phase. Therefore, not only the position but also appropriate rotation of the crutch is
+necessary for a stable connection between the axillary pad and the chest wall.</p><p>In conventional instructions for crutch use, users are asked to put the axillary pad
+tightly under their arm. However, we think this instruction is not sufficient, and that
+crutch users should be instructed to externally rotate the crutch during the crutch stance
+in order to decrease the likelihood of the axillary pad separating from the axilla, thereby
+reducing the risk of a fall.</p><p>In conclusion, we are confident that our study reproduced the 30% partial weight bearing
+crutch walking from the ground reaction force data. Accordingly, we think that the subjects
+successfully imitated the crutch walking of patients in our experiment. However, because the
+subjects were healthy, their physical ability to support the affected side was different
+from that of patients. Therefore, we think our findings are not sufficient to recommend
+their application in clinical settings. Further studies of kinetic analysis of the crutch,
+comparison of the crutch walking pattern, and selection of the subjects are needed to
+confirm our findings.</p></sec></body><back><ack><p>Part of this work was supported by JSPS KAKENHI Grant Number 25560273 and Grants-in-Aid for
+Research and Development Projects of Small and Medium-sized Enterprises of the
+industry-academia-government collaboration of the Kitakyushu Foundation for the Advancement
+of Industry, Science and Technology (FAIS).</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="book"><person-group><name><surname>Hoberman</surname><given-names>M</given-names></name><name><surname>Basmajian</surname><given-names>JV</given-names></name></person-group>: Crutch and cane exercises and use, Basmajian JV (Ed.), Therapeutic
+exercise, 4th ed. Baltimore: Williams and Wilkins, <year>1984</year>, pp
+267-284.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Hashimoto</surname><given-names>T</given-names></name></person-group>: Tsue&#x02022;hokouhozyogu no syurui to dousasyougai ni oujita mochiikata no
+youtenn. Rigaku Ryoho, <year>2010</year>, 27: 192&#x02013;207 (in Japanese).</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Sasaki</surname><given-names>S</given-names></name><name><surname>Nose</surname><given-names>Y</given-names></name><name><surname>Shimada</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: The biomechanics of crutches and canes. Rigaku Ryoho, <year>2000</year>,
+17: 814&#x02013;823 (in Japanese).</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Sasaki</surname><given-names>S</given-names></name><name><surname>Shimada</surname><given-names>S</given-names></name><name><surname>Nakayama</surname><given-names>Y</given-names></name><etal>et al.</etal></person-group>: <article-title>Denkikakudokei niyoru syukansetu no undoukaiseki: tokuni
+hozyogu wo mochiita idoudousa nituite</article-title>. <source>Jpn Phys Ther
+Assoc</source>, <year>1987</year>, <volume>14</volume>: <fpage>178</fpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Lowman</surname><given-names>EW</given-names></name><name><surname>Rusk</surname><given-names>HA</given-names></name></person-group>: <article-title>Self-help devices, crutch prescription:
+measurement</article-title>. <source>Postgrad Med</source>, <year>1962</year>,
+<volume>31</volume>: <fpage>303</fpage>&#x02013;<lpage>305</lpage>.</mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Bauer</surname><given-names>DM</given-names></name><name><surname>Finch</surname><given-names>DC</given-names></name><name><surname>McGough</surname><given-names>KP</given-names></name><etal>et al.</etal></person-group>: <article-title>A comparative analysis of several crutch-length-estimation
+techniques</article-title>. <source>Phys Ther</source>, <year>1991</year>,
+<volume>71</volume>: <fpage>294</fpage>&#x02013;<lpage>300</lpage>. <pub-id pub-id-type="pmid">2008452</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Jebsen</surname><given-names>RH</given-names></name><name><surname>Jebsen</surname><given-names>RH</given-names></name></person-group>: <article-title>Use and abuse of ambulation aids</article-title>.
+<source>JAMA</source>, <year>1967</year>, <volume>199</volume>:
+<fpage>5</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="pmid">6071129</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Takeuchi</surname><given-names>T</given-names></name></person-group>: Kokansetu-sikkan no rigakuryoho. Rinsho Rigaku Ryoho, <year>1981</year>,
+8: 95&#x02013;113 (in Japanese).</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="book"><person-group><name><surname>George</surname><given-names>V</given-names></name></person-group>: Crutches, canes, and walkers, Redford JB (Ed.), Orthotics etcetera, 3rd
+ed. Baltimore: Williams and Wilkins, <year>1986</year>, pp 453-463.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Seki</surname><given-names>K</given-names></name><name><surname>Morohashi</surname><given-names>I</given-names></name><name><surname>Kamata</surname><given-names>I</given-names></name><etal>et al.</etal></person-group>: Gait analysis of axillary crutch gait: the first report. Tohoku Rigaku
+Ryohogaku, <year>2003</year>, 15: 13&#x02013;18 (in Japanese).</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Beckwith</surname><given-names>JM</given-names></name></person-group>: <article-title>Analysis of methods of teaching axillary crutch
+measurement</article-title>. <source>Phys Ther</source>, <year>1965</year>,
+<volume>45</volume>: <fpage>1060</fpage>&#x02013;<lpage>1065</lpage>. <pub-id pub-id-type="pmid">5834356</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Crosbie</surname><given-names>J</given-names></name><name><surname>Armstrong</surname><given-names>E</given-names></name><name><surname>Kempson</surname><given-names>J</given-names></name></person-group>: <article-title>Is walking aid height
+critical?</article-title><source>Aust J Phys Ther</source>, <year>1992</year>,
+<volume>38</volume>: <fpage>261</fpage>&#x02013;<lpage>266</lpage>. </mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Mullis</surname><given-names>R</given-names></name><name><surname>Dent</surname><given-names>RM</given-names></name></person-group>: <article-title>Crutch length: effect on energy cost and activity
+intensity in non-weight-bearing ambulation</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2000</year>, <volume>81</volume>:
+<fpage>569</fpage>&#x02013;<lpage>572</lpage>. <pub-id pub-id-type="pmid">10807093</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Raikin</surname><given-names>S</given-names></name><name><surname>Froimson</surname><given-names>MI</given-names></name></person-group>: <article-title>Bilateral brachial plexus compressive neuropathy (crutch
+palsy)</article-title>. <source>J Orthop Trauma</source>, <year>1997</year>,
+<volume>11</volume>: <fpage>136</fpage>&#x02013;<lpage>138</lpage>. <pub-id pub-id-type="pmid">9057152</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Garcia Suarez</surname><given-names>G</given-names></name><name><surname>Garcia Garcia</surname><given-names>J</given-names></name><name><surname>Perez Carro</surname><given-names>L</given-names></name></person-group>: <article-title>Stress fracture of the ulna associated with crutch
+use</article-title>. <source>J Orthop Trauma</source>, <year>2001</year>,
+<volume>15</volume>: <fpage>524</fpage>&#x02013;<lpage>525</lpage>. <pub-id pub-id-type="pmid">11602837</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Wilson</surname><given-names>JF</given-names></name><name><surname>Gilbert</surname><given-names>JA</given-names></name></person-group>: <article-title>Dynamic body forces on axillary crutch walkers during
+swing-through gait</article-title>. <source>Am J Phys Med</source>, <year>1982</year>,
+<volume>61</volume>: <fpage>85</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="pmid">7072838</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Reisman</surname><given-names>M</given-names></name><name><surname>Burdett</surname><given-names>RG</given-names></name><name><surname>Simon</surname><given-names>SR</given-names></name><etal>et al.</etal></person-group>: <article-title>Elbow moment and forces at the hands during swing-through
+axillary crutch gait</article-title>. <source>Phys Ther</source>, <year>1985</year>,
+<volume>65</volume>: <fpage>601</fpage>&#x02013;<lpage>605</lpage>. <pub-id pub-id-type="pmid">3991804</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Shiokawa</surname><given-names>K</given-names></name></person-group>: <article-title>[Dynamic roles of the upper extremity during axillary
+crutch gait]</article-title>. <source>Nippon Seikeigeka Gakkai Zasshi</source>,
+<year>1993</year>, <volume>67</volume>:
+<fpage>1014</fpage>&#x02013;<lpage>1025</lpage><comment>(in Japanese)</comment>.
+<pub-id pub-id-type="pmid">8283113</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Armstrong</surname><given-names>CW</given-names></name><name><surname>Cipriani</surname><given-names>D</given-names></name></person-group>: <article-title>Three-point gait crutch walking: variability in ground
+reaction force during weight bearing</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2001</year>, <volume>82</volume>:
+<fpage>86</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="pmid">11239291</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Soma</surname><given-names>T</given-names></name><name><surname>Onishi</surname><given-names>H</given-names></name><name><surname>Oyama</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Electromyography analysis of shoulder joint muscles in
+standing with three ambulatory aids</article-title>. <source>J Phys Ther Sci</source>,
+<year>2007</year>, <volume>19</volume>: <fpage>117</fpage>&#x02013;<lpage>123</lpage>.
+</mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JU</given-names></name><name><surname>Kim</surname><given-names>MY</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name><etal>et al.</etal></person-group>: <article-title>Analysis of plantar foot pressure during the non-crutch,
+two-point, and four-point crutch gait performed by healthy volunteers</article-title>.
+<source>J Phys Ther Sci</source>, <year>2011</year>, <volume>23</volume>:
+<fpage>489</fpage>&#x02013;<lpage>493</lpage>. </mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JU</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name><name><surname>Lee</surname><given-names>LK</given-names></name><etal>et al.</etal></person-group>: <article-title>Posture analysis of various types of crutch gait of
+healthy volunteers</article-title>. <source>J Phys Ther Sci</source>, <year>2013</year>,
+<volume>25</volume>: <fpage>453</fpage>&#x02013;<lpage>458</lpage>. </mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,187 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-105</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1667</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The Effect of Exercise Using a Sliding Rehabilitation Machine on the Gait
+Function of Children with Cerebral Palsy</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Yang-soo</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Won-bok</given-names></name><degrees>MD, MS</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Joo-wan</given-names></name><degrees>PT, MSc</degrees><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><aff id="aff1"><label>1) </label>Department of Physical Medicine and Rehabilitation,
+Kyungpook National University Hospital, Republic of Korea</aff><aff id="aff2"><label>2) </label>Department of Physical Therapy, College of Rehabilitation
+Science, Daegu University, Republic of
+Korea</aff><aff id="aff3"><label>3) </label>Department of Physical Therapy, College of Rehabilitation
+Science, Graduate School, Daegu University, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Won-bok Kim, Department of Physical Therapy, College of Rehabilitation
+Science, Daegu University: 201 Jilyang, Gyeongsan-si, Kyeongbuk 712-714, Republic of
+Korea. (E-mail: <email xlink:href="ak090700@gmail.com">ak090700@gmail.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1667</fpage><lpage>1669</lpage><history><date date-type="received"><day>26</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>26</day><month>4</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The purpose of the present study was to examine the effect of strength training
+using a sliding rehabilitation machine (SRM) on the gait function of cerebral palsy
+children. [Subjects and Methods] Thirteen children aged 6&#x02013;18 years participated in the SRM
+training for 8 weeks (30&#x02005;min/day, 2 times/week). The SRM is designed for the performance
+of a closed-kinetic chain exercise in which a tilt table is moved up and down using wheels
+on the table. Participants began in a position of flexion of the 3 lower joints (hips,
+knees, and ankles) on the SRM. In each exercise session, they extended and flexed the 3
+joints. The level of exercise was set by changing the inclination of the tilt table.
+Functional gait ability was measured with the 6-minute walk test (6MWT), 10-m walk test
+(10MWT), and timed up-and-go test (TUG) before and after the training. Muscle strength was
+also measured using an isokinetic dynamometer. [Results] Nine of the thirteen children
+completed the entire study. The peak torques of the knee extensor and flexor group muscles
+significantly improved after training with the SRM. The total distance of the 6 MWT
+significantly increased after training. The times of the 10 MWT and the TUG significantly
+improved after training. The changes in muscle tone were also investigated using the MAS
+(Modified Ashworth Scale) and Tardieu scale, but no significant changes were found in
+muscle tone between the pre- and post-test measurements. [Conclusion] The findings
+demonstrate the effect of the SRM intervention which resulted in improved muscle strength
+and functional gait.</p></abstract><kwd-group><title>Key words</title><kwd>Cerebral palsy</kwd><kwd>Sliding rehabilitation machine</kwd><kwd>Gait</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Cerebral palsy (CP), which is the most common physical developmental disability in
+childhood, describes a group of disorders in the development of movement and posture that
+cause activity limitations, and are attributed to non-progressive disturbances that occur in
+the developing brains of infants<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. The impairment in cerebral palsy, including
+secondary impairments such as spasticity, muscle contracture, bone deformity, muscle
+weakness, and coordination disorders, is multifactorial and is characterized primarily in
+the lower extremities, which account for most of the functional impairments seen in CP, such
+as deficits in walking ability<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. Improvement in gait function is a primary concern of
+patients and their caregivers. Thus, it has naturally become the most important aim of
+treatment<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. To treat impaired gait,
+strengthening exercises, such as sit-to-stand (STS) exercises have been attempted. In a
+study using electromyographic analysis, Berger and Olney reported that muscle weakness is
+the principal component of limited or decreased gait ability in children with cerebral
+palsy<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. Hua-Fung Liau et al. reported that loaded sit-to-stand exercises
+improved basic motor abilities, functional muscle strength, and walking efficiency<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. However, the application of STS exercises
+is limited to patients who have sufficient power to maintain a standing position or who do
+not have severe contractures of the plantar flexor. Therefore, in this study, a sliding
+rehabilitation machine (SRM) was used because the SRM can provide partial body weight
+support by adjusting the inclination of the supporting carriage. It is also possible to
+allow the patients&#x02019; feet to make full contact with the plate by adjusting the inclination of
+the footplate. Furthermore, the SRM can facilitate the performance of forced use exercise by
+removing the footplate of the unaffected side, and it can also provide weight bearing
+exercise by controlling center-of-gravity movement, with the trunk fixed on the
+carriage<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. In addition, in SRM, the
+angle of knee flexion can be better controlled than in the sit to stand exercise. Lee
+reported that sit-to-stand performance at different angles of knee flexion by individuals
+with hemiparesis changed the peak value of plantar pressure and the symmetry of the gait
+pattern<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>.Therefore, this study was
+designed to determine the effect of strength exercises, using SRM, on the muscle power and
+gait function of children with CP.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><sec><title>Subjects</title><p>Thirteen children who visited an outpatient clinic for treatment were recruited for this
+study according to the inclusion and exclusion criteria (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Demographic data of the subjects</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="center" rowspan="1" colspan="1">Subject</th><th valign="top" align="center" rowspan="1" colspan="1">Age</th><th valign="top" align="center" rowspan="1" colspan="1">Sex</th><th valign="top" align="center" rowspan="1" colspan="1">GMFCS</th><th valign="top" align="center" rowspan="1" colspan="1">Type</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Quadriplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Rt. Hemiplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">13</td><td align="center" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Lt. Hemiplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Lt. Hemiplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">16</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Diplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">18</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Diplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Quadriplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">14</td><td align="center" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Lt. Hemiplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Diplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">Quadriplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Diplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Rt. Hemiplegia</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="center" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Rt. Hemiplegia</td></tr></tbody></table></table-wrap>). The inclusion criteria of this study were as follows: GMFCS levels I-III;
+age from 6 to 18&#x02005;years old; and ability to follow verbal instructions. Children who were
+not able to walk independently, or with an orthosis, or who had any disease that might
+have had a negative effect on the results were excluded. Children who had undergone
+surgery or who had received Botox treatment within the previous 6 months were also
+excluded. All the subject&#x02019;s parents or guardians understood the purpose of this study and
+gave their prior written consent to their children&#x02019;s participation, in accordance with the
+ethical principles of the Declaration of Helsinki. Ethical approval was obtained from our
+local university and hospital research ethics boards.</p></sec><sec><title>Methods</title><p>The children and their parents were provided information about the purpose, method,
+advantages or inconveniences, warnings, and the test schedule of this study. A SRM was
+used in this study. It consists of a patient-supporting carriage, a footplate, and a
+Velcro safety strap that is connected to the carriage. It also has a rail system, which is
+designed to allow the patients to perform a closed-kinetic chain exercise by moving the
+tilt table up and down using the wheels on the table. The wheels, which minimize
+frictional force, make the exercise easier. In this exercise, participants began in a
+position of flexion of the hips, knees, and ankles. In each exercise session, the patients
+extended the hips, knees and ankles from the flexed posture and then returned them to
+their original flexed posture (<xref ref-type="fig" rid="fig_001">Fig. 1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig. 1.</label><caption><p>SRM training</p></caption><graphic xlink:href="jpts-26-1667-g001"/></fig>). The level of exercise was set according to the level of weight supported by
+changing the inclination of the tilt table for each patient. Adjusting the inclination of
+the footplate to produce full contact between the soles and plates made the exercise
+possible for those patients who had difficulty performing plantar flexion due to severe
+contracture. During the exercise, Velcro straps were fixed to the patient&#x02019;s trunks and
+ankles for their safety. All of the children who participated in this study trained with
+the sliding rehabilitation machine for 30 minutes per day, twice a week for 8 weeks, with
+concurrent conventional Bobath therapy. The intensity of the exercise was controlled by
+increasing the inclination of the carriage and by adjusting the number of trials per
+session. Break times were also provided when the children requested rest, but they were
+minimized as the training progressed. Every training session was conducted under the
+supervision of an experienced physical therapist. To confirm the effects of the training
+with the SRM, functional gait ability was measured with the 6-minute walk test (6MWT),
+10-m walk test (10MWT), and timed up-and-go test (TUG). Muscle strength was measured using
+an isokinetic dynamometer (Cybex International, Inc., USA). The peak torque was measured
+during flexion and extension exercises of the knee joint before and after the training.
+Furthermore, tests for possible adverse effects, such as changes in muscle tone, were
+performed the pre and post-test. Statistical analysis was conducted using SPSS 18.0 for
+Windows. Non-parametric tests were used as not all data were normally distributed. To
+identify the changes in each parameter between before and after the training with the SRM,
+Wilcoxon&#x02019;s signed rank test was used. Significance was accepted for values of p&#x0003c;0.05 in
+the statistical analysis.</p></sec></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Nine of the thirteen children completed the entire study, and 4 children withdrew before
+the completion of this study because the children or their parents did not want to continue
+due to academic problems or conflicts in scheduling. Subject 4 started the SRM training
+during his school vacation. As a new semester started, however, he could not continue the
+SRM training because of regular school classes and additional private lessons. Subjects 1
+and 3 were excluded from the analysis because their attendance rates were low during the
+2-month training period. Subject 2 was transferred to another hospital because her parents
+wanted whole-day treatment, so she also could not continue the SRM training. The remaining
+children completed the entire training and all of the tests.</p><p>The peak torque of the knee extensor muscles had significantly improved after the training
+with the SRM (p&#x0003c;0.05); the mean value increased from 31.11&#x000b1;7.42 to 40.55&#x000b1;10.37 Nm. The
+peak torque of the knee flexor also significantly improved after the training (p&#x0003c;0.05);
+the mean value increased from 20.22&#x000b1;16.2 to 26.33&#x000b1;19.11 Nm. The total distance of the 6MWT
+significantly increased after the training (p&#x0003c;0.05); the mean value increased from
+227.14&#x000b1;42.93 to 260.951&#x000b1;48.71 meters. The times taken for the 10MWT and the TUG had
+significantly decreased after the training, compared with before training (p&#x0003c;0.05). The
+mean values of these tests decreased from 16.42&#x000b1;3.71 to 14.14&#x000b1;3.52 sec and from 25.17&#x000b1;7.53
+to 21.79&#x000b1;6.43 sec, respectively. No adverse effects, such as seizures or pain, occurred
+during the intervention. In addition, the changes in muscle tone were also investigated
+using the MAS and Tardieu scale, but no significant changes were found in muscle tone
+between the pre- and post-test measurements.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The findings of this study indicate that SRM might provide a useful therapeutic
+intervention for the improvement of the muscle strength and walking ability of children with
+cerebral palsy. Several studies have reported that when hemiplegic patients with stroke
+performed strengthening exercises using a sliding rehabilitation machine, their muscle
+strength and walking ability significantly improved after the training. In the current
+study, muscle strength was significantly improved by training with the SRM. This finding is
+in agreement with those previous studies which reported that the strength of the quadriceps
+femoris muscle of children with cerebral palsy improved as a result of resistance
+exercise<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Our study subjects showed
+improvements in walking ability after training using the SRM. We believe that this finding
+is explained by an increase in muscle strength sufficient to improve functioning. For
+children with diplegia, weight could be distributed on both the soles by adjusting the
+inclination of the footplate, and strengthening could be focused on the qaudriceps muscle,
+by fixing the trunk on the carriage. Consequently, the muscle strength of the quadriceps
+significantly improved. Furthermore, for the hemiplegic children, it was possible to conduct
+forced use exercise through concentrating the weight only on the paretic limb by removing
+the footplate from the opposite, nonparetic side<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. In addition, increased muscular strength of the quadriceps femoris
+would make it possible to counteract the hamstring muscle and increase the stride length by
+decreasing the cadence which results from overcompensatory action<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>.</p><p>We thought that strengthening of the ankle plantarflexor was improved by enabling full
+contact of the feet with the plate by adjusting the inclination of the footplate. Ankle
+plantarflexor strengthening may lead to improvements in the gait function of children with
+cerebral palsy<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Furthermore, it is
+believed that improved strength can facilitate faster and more stable walking by increasing
+the angular velocity during extension and by improving the stability of the joints<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>.</p><p>This study had some limitations. First, the number of patients who participated in this
+study was somewhat small. Second, the simple design did not include a control group. Third,
+follow-up testing of the sustainability of the intervention&#x02019;s effectiveness was not
+performed. However, despite these limitations, this study is meaningful because the
+effectiveness of the SRM for children with cerebral palsy was objectively confirmed and has
+been presented for the first time. Additional studies will be needed which address these
+limitations.</p></sec></body><back><ack><p>This research was supported by the Daegu University Research Grant, 2011.</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Himmelmann</surname><given-names>K</given-names></name><name><surname>Hagberg</surname><given-names>G</given-names></name><name><surname>Beckung</surname><given-names>E</given-names></name><etal>et al.</etal></person-group>: <article-title>The changing panorama of cerebral palsy in Sweden. IX.
+Prevalence and origin in the birth-year period
+1995&#x02013;1998</article-title>. <source>Acta
+Paediatr</source>, <year>2005</year>, <volume>94</volume>:
+<fpage>287</fpage>&#x02013;<lpage>294</lpage>. <pub-id pub-id-type="pmid">16028646</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Bax</surname><given-names>M</given-names></name><name><surname>Goldstein</surname><given-names>M</given-names></name><name><surname>Rosenbaum</surname><given-names>P</given-names></name><etal>et al.</etal></person-group>Executive Committee for the Definition of Cerebral Palsy:
+<article-title>Proposed definition and classification of cerebral palsy, April
+2005</article-title>. <source>Dev Med Child Neurol</source>, <year>2005</year>,
+<volume>47</volume>: <fpage>571</fpage>&#x02013;<lpage>576</lpage>. <pub-id pub-id-type="pmid">16108461</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Binder</surname><given-names>H</given-names></name><name><surname>Eng</surname><given-names>GD</given-names></name></person-group>: <article-title>Rehabilitation management of children with spastic
+diplegic cerebral palsy</article-title>. <source>Arch Phys Med Rehabil</source>,
+<year>1989</year>, <volume>70</volume>: <fpage>482</fpage>&#x02013;<lpage>489</lpage>.
+<pub-id pub-id-type="pmid">2658915</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Gormley</surname><given-names>ME</given-names><suffix>Jr</suffix></name></person-group><article-title>Treatment of neuromuscular and musculoskeletal problems in
+cerebral palsy</article-title>. <source>Pediatr Rehabil</source>, <year>2001</year>,
+<volume>4</volume>: <fpage>5</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="pmid">11330850</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Bleck</surname><given-names>EE</given-names></name></person-group>EE: <article-title>Management of the lower extremities in children who have
+cerebral palsy</article-title>. <source>J Bone Joint Surg Am</source>,
+<year>1990</year>, <volume>72</volume>: <fpage>140</fpage>&#x02013;<lpage>144</lpage>.
+<pub-id pub-id-type="pmid">2404019</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Berger</surname><given-names>W</given-names></name><name><surname>Quintern</surname><given-names>J</given-names></name><name><surname>Dietz</surname><given-names>V</given-names></name></person-group>: <article-title>Pathophysiology of gait in children with cerebral
+palsy</article-title>. <source>Electroencephalogr Clin Neurophysiol</source>,
+<year>1982</year>, <volume>53</volume>: <fpage>538</fpage>&#x02013;<lpage>548</lpage>.
+<pub-id pub-id-type="pmid">6177498</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Olney</surname><given-names>SJ</given-names></name><name><surname>MacPhail</surname><given-names>HE</given-names></name><name><surname>Hedden</surname><given-names>DM</given-names></name><etal>et al.</etal></person-group>: <article-title>Work and power in hemiplegic cerebral palsy
+gait</article-title>. <source>Phys Ther</source>, <year>1990</year>,
+<volume>70</volume>: <fpage>431</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="pmid">2356219</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Liao</surname><given-names>HF</given-names></name><name><surname>Liu</surname><given-names>YC</given-names></name><name><surname>Liu</surname><given-names>WY</given-names></name><etal>et al.</etal></person-group>: <article-title>Effectiveness of loaded sit-to-stand resistance exercise
+for children with mild spastic diplegia: a randomized clinical trial</article-title>.
+<source>Arch Phys Med Rehabil</source>, <year>2007</year>, <volume>88</volume>:
+<fpage>25</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="pmid">17207671</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Byun</surname><given-names>SD</given-names></name><name><surname>Jung</surname><given-names>TD</given-names></name><name><surname>Kim</surname><given-names>CH</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of the sliding rehabilitation machine on balance
+and gait in chronic stroke patients&#x02014;a controlled clinical trial</article-title>.
+<source>Clin Rehabil</source>, <year>2011</year>, <volume>25</volume>:
+<fpage>408</fpage>&#x02013;<lpage>415</lpage>. <pub-id pub-id-type="pmid">21131336</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>MY</given-names></name><name><surname>Lee</surname><given-names>HY</given-names></name></person-group>: <article-title>Analysis for sit-to-stand performance according to the
+angle of knee flexion in individuals with hemiparesis</article-title>. <source>J Phys
+Ther Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>1583</fpage>&#x02013;<lpage>1585</lpage>. <pub-id pub-id-type="pmid">24409025</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JH</given-names></name><name><surname>Sung</surname><given-names>IY</given-names></name><name><surname>Yoo</surname><given-names>JY</given-names></name></person-group>: <article-title>Therapeutic effects of strengthening exercise on gait
+function of cerebral palsy</article-title>. <source>Disabil Rehabil</source>,
+<year>2008</year>, <volume>30</volume>: <fpage>1439</fpage>&#x02013;<lpage>1444</lpage>.
+<pub-id pub-id-type="pmid">19230216</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Damiano</surname><given-names>DL</given-names></name><name><surname>Vaughan</surname><given-names>CL</given-names></name><name><surname>Abel</surname><given-names>MF</given-names></name></person-group>: <article-title>Muscle response to heavy resistance exercise in children
+with spastic cerebral palsy</article-title>. <source>Dev Med Child Neurol</source>,
+<year>1995</year>, <volume>37</volume>: <fpage>731</fpage>&#x02013;<lpage>739</lpage>.
+<pub-id pub-id-type="pmid">7672470</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Jung</surname><given-names>JW</given-names></name><name><surname>Her</surname><given-names>JG</given-names></name><name><surname>Ko</surname><given-names>J</given-names></name></person-group>: <article-title>Effect of strength training of ankle plantarflexors on
+selective voluntary motor control, gait parameters, and gross motor function of children
+with cerebral palsy</article-title>. <source>J Phys Ther Sci</source>,
+<year>2013</year>, <volume>25</volume>: <fpage>1259</fpage>&#x02013;<lpage>1263</lpage>.
+<pub-id pub-id-type="pmid">24259771</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>MacPhail</surname><given-names>HE</given-names></name><name><surname>Kramer</surname><given-names>JF</given-names></name></person-group>: <article-title>Effect of isokinetic strength-training on functional
+ability and walking efficiency in adolescents with cerebral palsy</article-title>.
+<source>Dev Med Child Neurol</source>, <year>1995</year>, <volume>37</volume>:
+<fpage>763</fpage>&#x02013;<lpage>775</lpage>. <pub-id pub-id-type="pmid">7589859</pub-id></mixed-citation></ref></ref-list></back></article>

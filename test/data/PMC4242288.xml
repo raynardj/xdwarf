@@ -1,0 +1,1001 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nucl Recept Signal</journal-id><journal-id journal-id-type="iso-abbrev">Nucl Recept Signal</journal-id><journal-id journal-id-type="publisher-id">NRS</journal-id><journal-title-group><journal-title>Nuclear Receptor Signaling</journal-title></journal-title-group><issn pub-type="epub">1550-7629</issn><publisher><publisher-name>Nuclear Receptor Signaling Atlas</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25422595</article-id><article-id pub-id-type="publisher-id">nrs12005</article-id><article-id pub-id-type="doi">10.1621/nrs.12005</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Control of steroid receptor dynamics and function by genomic actions
+of the cochaperones p23 and Bag-1L</article-title><alt-title alt-title-type="left-running">Running Head: p23 and Bag-1L
+cochaperones</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cato</surname><given-names>Laura</given-names></name></contrib><contrib contrib-type="author"><name><surname>Neeb</surname><given-names>Antje</given-names></name></contrib><contrib contrib-type="author"><name><surname>Brown</surname><given-names>Myles</given-names></name></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Cato</surname><given-names>Andrew C. B.</given-names></name></contrib><aff id="aff1">Division of Molecular and Cellular Oncology, Department of Medical
+Oncology and Center for Functional Cancer Epigenetics, Dana-Farber Cancer
+Institute, Harvard Medical School, Boston, MA 02215, USA (LC, MB) and Institute
+of Toxicology and Genetics, Karlsruhe Institute of Technology, 76344
+Eggenstein-Leopoldshafen, Germany (AN, ACBC).</aff></contrib-group><author-notes><fn id="afn1"><p>LC and AN contributed equally to this work</p></fn><corresp id="cor1">Corresponding Author: Andrew C. B. Cato, <email xlink:href="andrew.cato@kit.edu">andrew.cato@kit.edu</email></corresp></author-notes><pub-date pub-type="collection"><year>2014</year></pub-date><pub-date pub-type="epub"><day>04</day><month>11</month><year>2014</year></pub-date><volume>12</volume><elocation-id>e005</elocation-id><history><date date-type="received"><day>02</day><month>7</month><year>2014</year></date><date date-type="accepted"><day>20</day><month>9</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 Cato et al.</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Cato et al.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/2.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Non-Commercial
+Attribution License, which permits unrestricted non-commercial use distribution and reproduction in any medium, provided the
+original work is properly cited.</license-p></license></permissions><abstract><p>Molecular chaperones encompass a group of unrelated proteins that facilitate the
+correct assembly and disassembly of other macromolecular structures, which they
+themselves do not remain a part of. They associate with a large and diverse set
+of coregulators termed cochaperones that regulate their function and
+specificity. Amongst others, chaperones and cochaperones regulate the activity
+of several signaling molecules including steroid receptors, which upon ligand
+binding interact with discrete nucleotide sequences within the nucleus to
+control the expression of diverse physiological and developmental genes.
+Molecular chaperones and cochaperones are typically known to provide the correct
+conformation for ligand binding by the steroid receptors. While this
+contribution is widely accepted, recent studies have reported that they further
+modulate steroid receptor action outside ligand binding. They are thought to
+contribute to receptor turnover, transport of the receptor to different
+subcellular localizations, recycling of the receptor on chromatin and even
+stabilization of the DNA-binding properties of the receptor. In addition to
+these combined effects with molecular chaperones, cochaperones are reported to
+have additional functions that are independent of molecular chaperones. Some of
+these functions also impact on steroid receptor action. Two well-studied
+examples are the cochaperones p23 and Bag-1L, which have been identified as
+modulators of steroid receptor activity in nuclei. Understanding details of
+their regulatory action will provide new therapeutic opportunities of
+controlling steroid receptor action independent of the widespread effects of
+molecular chaperones.</p></abstract><kwd-group kwd-group-type="author"><title>Keywords: </title><kwd>steroid receptors</kwd><kwd>nuclear receptors</kwd><kwd>chaperones</kwd><kwd>cellular transport</kwd></kwd-group></article-meta><notes><def-list list-type="simple" list-content="abbreviations"><title>Abbreviations: </title><def-item><term>17-AAG</term><def><p>17-Allylamino-17-demethoxygeldanamycin</p></def></def-item><def-item><term>ADP</term><def><p>Adenosine diphosphate</p></def></def-item><def-item><term>AR</term><def><p>Androgen receptor</p></def></def-item><def-item><term>BF-3</term><def><p>Binding function-3</p></def></def-item><def-item><term>ChIP</term><def><p>Chromatin immunoprecipitation</p></def></def-item><def-item><term>ChIP-seq</term><def><p>Chromatin immunoprecipitation-sequencing</p></def></def-item><def-item><term>ER</term><def><p>Estrogen receptor</p></def></def-item><def-item><term>GA</term><def><p>Geldanamycin</p></def></def-item><def-item><term>GILZ</term><def><p>Glucocorticoid-inducible leucine zipper</p></def></def-item><def-item><term>GR</term><def><p>Glucocorticoid receptor</p></def></def-item><def-item><term>GRE</term><def><p>Glucocorticoid response element</p></def></def-item><def-item><term>HTC</term><def><p>Hepatoma cells</p></def></def-item><def-item><term>KO</term><def><p>Knock out</p></def></def-item><def-item><term>LBD</term><def><p>Ligand-binding domain</p></def></def-item><def-item><term>MMTV</term><def><p>Mouse mammary tumor virus</p></def></def-item><def-item><term>MR</term><def><p>Mineralocorticoid receptor</p></def></def-item><def-item><term>NLS</term><def><p>Nuclear localization sequence</p></def></def-item><def-item><term>PR</term><def><p>Progesterone receptor</p></def></def-item><def-item><term>RXR</term><def><p>Retinoid X receptor</p></def></def-item><def-item><term>SLiMs</term><def><p>short linear motifs</p></def></def-item><def-item><term>SR</term><def><p>Steroid receptor</p></def></def-item><def-item><term>TAT</term><def><p>Tyrosine aminotransferase</p></def></def-item><def-item><term>TO</term><def><p>Tryptophan oxygenase</p></def></def-item><def-item><term>TPR</term><def><p>Tetratricopeptide repeats</p></def></def-item><def-item><term>UBQ</term><def><p>Ubiquitin-like domain</p></def></def-item><def-item><term>VDR</term><def><p>Vitamin D receptor</p></def></def-item><def-item><term>WT</term><def><p>Wild-type</p></def></def-item></def-list></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>In the early 1990&#x02019;s, studies with the glucocorticoid receptor (GR; a member of
+the steroid/nuclear receptor superfamily) showed that immunoprecipitated GR, when
+incubated with reticulocyte lysate that contains molecular chaperones and a source
+of adenosine triphosphate (ATP), could be made to bind hormone <italic>in
+vitro</italic> [<xref rid="r1" ref-type="bibr">1</xref>]. These reconstitutions
+could also be achieved with purified GR, molecular chaperones (Hsp90, Hsp70) and
+cochaperones (Hsp60 or Hip, Hsp40 or its yeast equivalent YDJ-1 and p23), which
+displayed an orderly and dynamic assembly of the receptor. The first step in this
+assembly was the formation of a molecular complex
+(Hsp90)<sub>2</sub>.Hop.Hsp70.Hsp40, termed the foldosome [<xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref>] (<xref ref-type="fig" rid="f1">Figure 1, A and B</xref>). Two of the mayor players of the foldosome,
+Hsp90 and Hsp70, contain nucleotide-binding domains that act as ATP/ADP-binding
+switches that allow them to assume different properties depending on which form of
+energy is bound. In its ATP-bound form, Hsp90 interacts with the cochaperone p23 and
+activates client protein activity through folding, whereas in its ADP-bound form it
+shows high affinity to hydrophobic proteins [<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>]. In the case of Hsp70, its
+ATPase activity is enhanced by the cochaperone, Hsp40, as well as a variety of other
+cochaperones [<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref>]. In general, Hsp-interacting cochaperones can be grouped according to
+the presence or absence of tetratricopeptide repeats (TPR) in their sequence (<xref ref-type="fig" rid="f2">Figure 2</xref>). The TPR domains are typically composed
+of three tandem repeats of a loosely conserved 34 amino acid sequence motif [<xref rid="r9" ref-type="bibr">9</xref>]. Each motif favors formation of two
+anti-parallel &#x003b1;-helices, and the core TPR domain consists of six total
+&#x003b1;-helices that form a saddle-like structure. The surface of the domain
+provides an interaction site that can accommodate specific peptide binding [<xref rid="r10" ref-type="bibr">10</xref>]. For example, TPR-containing cochaperones
+are able to interact with Hsp90 through its EEVD motif at the extreme C-terminus, as
+well as with Hsp70 via a EEVD-like sequence at its C-terminus [<xref rid="r10" ref-type="bibr">10</xref>,<xref rid="r11" ref-type="bibr">11</xref>]. The repertoire
+of the TPR-containing cochaperones known to regulate steroid receptor signaling
+pathways includes the Hsc70-interacting protein (Hip; p48), the
+Hsp70/Hsp90-organizing protein (Hop; p60), FK506 binding protein of 51 kDa (FKBP51),
+FK506 binding protein of 52 kDa (FKBP52), cyclophilin 40 (Cyp40), protein
+phosphatase 5 (PP5), FK506-binding protein like protein (FKBPL), and general cell
+UNC-45 (GCUNC-45) [<xref rid="r12" ref-type="bibr">12</xref>-<xref rid="r15" ref-type="bibr">15</xref>] (<xref ref-type="fig" rid="f2">Figure 2</xref>). More
+recently, a small glutamine-rich TPR-containing protein alpha (SGTA) has been added
+to the growing diversity of TPR-containing cochaperones involved in the modulation
+of steroid receptor action [<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>] (<xref ref-type="fig" rid="f2">Figure
+2</xref>). It should be noted that although several cochaperones use TPR motifs
+to bind to the molecular chaperone [<xref rid="r10" ref-type="bibr">10</xref>,<xref rid="r18" ref-type="bibr">18</xref>], other cochaperones such as Prostaglandin E
+synthase 3 (p23), Activator of Hsp90 ATPase homolog 1 (Aha1) and Bcl-2-associated
+athanogene 1 (Bag-1) lack TPRs (<xref ref-type="fig" rid="f2">Figure 2</xref>) and
+use their own, unique sequences to associate with Hsp90 and Hsp70. These
+cochaperones may have other activities of their own that are independent of their
+interaction with the molecular chaperones. Such actions were referred to in a recent
+quantitative analysis of the chaperone-cochaperone-client interaction networks in
+human cells, where the physical interaction landscape of all known Hsp70- and
+Hsp90-bound cochaperones was analyzed [<xref rid="r19" ref-type="bibr">19</xref>].</p><fig id="f1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><title>A model depicting some of the key steps of the maturation pathway of
+steroid receptors.</title><p>(A) Binding of the Hsp90, p23 and a preassembled complex of Hop, Hsp70 and
+Hsp40 assists a mature folding of the steroid receptor (SR). Cytoplasmic
+Bag-1 isoforms (Bag-1, -1M, -1S) control this process and mediate
+proteasomal degradation of misfolded SRs. Addition of Hsp90-dimers and p23
+complete the assembled complex, termed the &#x0201c;foldosome&#x0201d; (B).
+Release of Hop, Hsp70 and Hsp40 and addition of any one of the
+TPR-containing cochaperones, for example FKBP51 (as shown here), further
+stabilize the SR in a high affinity form (C). After ligand binding FKBP51 is
+replaced by FKBP52, which mediates translocation to the nucleus via the
+microtubuli system (via dynein and dynamitin) in a molecular complex termed
+the &#x0201c;transportosome&#x0201d; (D). Within the nucleus FKBP52 is
+released and the receptor binds the response elements as an active dimer.
+Cochaperones, such as p23 and Bag-1L (that has been described to bind to
+chromatin prior to the nuclear entry of the receptor), enhance the activity
+of the SR most likely by stabilizing the active state of the receptor. The
+molecular chaperones Hsp90 and Hsp70 possibly also play a role in this
+process (E).</p></caption><graphic xlink:href="nrs-12-005.g1"/></fig><fig id="f2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><title>The structure of TPR-containing and TPR-lacking cochaperones.</title><p><italic>Top</italic>: Domain structure of cochaperones containing
+tetratricopeptide repeats (TPR) motifs. All TPR motifs are shown in yellow.
+Other important protein domains are indicated. <italic>Bottom</italic>: The
+domain structures of three cochaperones (p23, AHA1 and BAG-1) lacking the
+classical TPR motifs, with their Hsp90/Hsp70-binding domains highlighted in
+blue. All domain information (including residue numbers) were obtained from
+the RefSeq database (NCBI) [<xref rid="r8" ref-type="bibr">8</xref>]). STI1:
+Stress inducible protein 1 (Heat shock protein binding motif); NLS: Nuclear
+localization signal; PPlase: Peptidyl-prolyl cis-trans isomerase. ARM:
+Armadillo; CS: CHORD-containing protein SGT1; Aha1: Activator of Hsp90
+ATPase; SRPBCC: START/RHOs_alpha_C/PITP/Bet v 1/CoxG/CalC: UBQ:
+Ubiquitin-like domain; BAG: Bcl-2-associated athanogene (Heat shock protein
+binding motif). Single alphabet letters (with or without separation by a
+slash) correspond to particular amino acids (or amino acid sequences) that
+are over-represented in a certain region.</p></caption><graphic xlink:href="nrs-12-005.g2"/></fig><p>Our views on the role of Hsp70 and Hsp90 in steroid receptor action are changing in
+recent times. Cryoelectron microscopy studies have demonstrated that Hsp70, known to
+facilitate GR delivery to Hsp90, actually inactivates GR through partial unfolding
+of the receptor [<xref rid="r20" ref-type="bibr">20</xref>]. Conversely, Hsp90 is
+able to reverse this function and promote GR activation. Although this
+unfolding/inactivation by Hsp70 and refolding/reactivation by Hsp90 might seem
+contradictory, this combination could in fact be complementary; constant rounds of
+Hsp70-mediated unfolding/ligand release and Hsp90-mediated refolding/ligand binding
+could allow for the non-liganded GR to remain in a non-aggregating, high-affinity
+state poised for a rapid response to changing hormone levels. In another
+cryoelectron microscopy study, Hop, once thought of as a mere adaptor protein for
+Hsp90 and Hsp70 binding which coordinates their actions on folding protein
+substrates [<xref rid="r21" ref-type="bibr">21</xref>], was shown to have additional
+functions in a reconstruction of the Hsp90/Hop complex. Here Hop formed extensive
+interactions with Hsp90, preorganizing its N-terminal domain for ATP hydrolysis and
+client protein binding [<xref rid="r22" ref-type="bibr">22</xref>]. In the classical
+model, Hop is eventually released from the complex and is replaced by one of the
+other TPR cochaperones such as FKBP51, FKBP52 or Cyp40 [<xref rid="r18" ref-type="bibr">18</xref>] (<xref ref-type="fig" rid="f1">Figure 1C</xref>). This
+dynamic exchange occurs on Hsp90 dimers of the foldosome. Although any one of the
+TPR proteins can in principle replace Hop, only one TPR protein is found bound to
+the Hsp90 dimers at any one time [<xref rid="r23" ref-type="bibr">23</xref>]; it is
+as if Hsp90 surveys the local environment for available TPR proteins to bind to.
+There is some evidence suggesting that the type of ligand that ultimately associates
+with the receptor complex influences which TPR protein is recruited. For example,
+aldosterone binding to the mineralocorticoid receptor (MR) favors the exchange of
+FKBP51 for FKPB52, while binding of 11,19-oxidoprogesterone favors the association
+with the immunophilin-like PP5 [<xref rid="r24" ref-type="bibr">24</xref>].</p><p>In previous studies it was though that steroid receptors remain in the cytoplasm in
+complex with molecular chaperones and cochaperones in the absence of hormone [<xref rid="r25" ref-type="bibr">25</xref>]. Upon ligand binding, it was thought that
+the complex dissociates and the receptors are transported into the nucleus, where
+they bind chromatin and regulate the expression of multiple target genes. However,
+this classic model of molecular chaperones action is perhaps a bit too simple.
+Steroid receptors are known to shuttle between the cytoplasm and the nucleus [<xref rid="r26" ref-type="bibr">26</xref>] and some, for example, estrogen and
+progesterone receptors (ER and PR) prefer to remain in the nucleus bound to
+molecular chaperones in the absence of hormone [<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref>]. Several questions
+therefore arise concerning how the molecular chaperones and cochaperones get
+transported into the nucleus. Are they transported on their own or in complex with
+the steroid receptors and what role do they play in the nucleus? More importantly,
+in view of the recent data on chaperone-independent functions of cochaperones, one
+might ask whether cochaperones exert specific effects on steroid hormone action. In
+this review, we will focus on two cochaperones, p23 and Bag-1L that are present in
+the nucleus, where they reportedly influence steroid receptor action through
+receptor recycling or via modulation of receptor binding to chromatin. We will
+describe how these cochaperones exert their action and suggest how
+cochaperone/steroid receptor action could be targeted for therapeutic purposes.</p></sec><sec><title>From foldosomes to transportosomes</title><p>The two step hypothesis of Jensen of a cytoplasmic/nuclear transportation of steroid
+receptors [<xref rid="r29" ref-type="bibr">29</xref>], together with the finding
+that molecular chaperones and cochaperones bind to nonliganded receptors, generated
+the concept that molecular chaperones confine steroid receptors in an inactive,
+cytoplasmic state. However nonliganded receptor/molecular chaperone complexes have
+been found to constantly shuttle between the cytoplasm and the nucleus [<xref rid="r30" ref-type="bibr">30</xref>,<xref rid="r31" ref-type="bibr">31</xref>].
+Nevertheless, shuttling by the PR and ER, which are largely nuclear, may be
+mechanistically different from shuttling by the mineralocorticoid and androgen
+receptors (MR and AR respectively). This is also different from the shuttling of the
+GR, which is mainly localized in the cytoplasm, but can also be found at the nuclear
+periphery as part of a (non-liganded) GR/molecular chaperone complex in association
+with the integral nuclear pore glycoprotein Nup62 and importin &#x003b2; [<xref rid="r32" ref-type="bibr">32</xref>]. The Hsp90 cochaperone Aha 1 may also be
+involved in this complex as it was shown to contribute to the nucleocytoplasmic
+transport of the GR; cells lacking Aha 1 showed a reduced and impartial
+translocation of the receptor into the nucleus [<xref rid="r33" ref-type="bibr">33</xref>]. Whether Aha 1 is transported into the nucleus together with the GR
+is however not known. Several studies now show that molecular chaperones and
+cochaperones are transported along with the liganded steroid receptors into the
+nucleus [<xref rid="r34" ref-type="bibr">34</xref>,<xref rid="r35" ref-type="bibr">35</xref>]. In fact more recent studies have shown a constitutive requirement
+of Hsp90 throughout the functional lifetime of the GR and not just during the
+initial folding phase [<xref rid="r20" ref-type="bibr">20</xref>].</p><p>The ligand-dependent GR translocation to the nucleus was found to be considerably
+reduced using the Hsp90 inhibitor geldanamycin (GA) [<xref rid="r36" ref-type="bibr">36</xref>,<xref rid="r37" ref-type="bibr">37</xref>]. Furthermore,
+microinjection of an antibody against the cochaperone FKBP52, but not an isotype
+control also inhibited ligand-induced nuclear transport of the GR [<xref rid="r38" ref-type="bibr">38</xref>]. This suggests that FKBP52 contributes to
+the nuclear translocation of the GR. Additional evidence that FKBP52 plays a role in
+the nuclear transport of the GR is the finding that it directly binds to the motor
+protein dynein, via dynamitin [<xref rid="r39" ref-type="bibr">39</xref>,<xref rid="r40" ref-type="bibr">40</xref>]. Through this interaction, the
+receptor/chaperone complex is thought to move along the cytoskeleton to the nucleus
+on what has been described as the transportosome [<xref rid="r41" ref-type="bibr">41</xref>] (<xref ref-type="fig" rid="f1">Figure 1D</xref>). The affinity of
+the FKBP52-receptor complex for dynein possibly determines the rate of
+transportation of the steroid receptors into the nucleus [<xref rid="r40" ref-type="bibr">40</xref>]. While GR has a high affinity for FKBP52, MR has a
+preferred affinity for FKBP51. Experiments carried out with cross-linked MR-Hsp90 or
+GR-Hsp90 heterocomplexes showed that these large heterocomplexes can be found in the
+nucleus in the presence of hormone, demonstrating that they can pass undissociated
+through the nuclear pore to the nucleus [<xref rid="r32" ref-type="bibr">32</xref>,<xref rid="r42" ref-type="bibr">42</xref>]. Once in the nucleus, the
+steroid receptor/molecular chaperone complex dissociates and the steroid receptor is
+converted into a DNA-binding form as has been shown by Davies <italic>et
+al.</italic> (2002) [<xref rid="r43" ref-type="bibr">43</xref>].</p><p>Mouse knockout models of FKBP51 and FKBP52 have been generated to find out how these
+cochaperones affect steroid hormone action <italic>in vivo</italic> [<xref rid="r44" ref-type="bibr">44</xref>]. Although FKBP51 and FKBP52 are implicated
+in steroid hormone action, knockout mice of the former cochaperone do not show any
+disruption in endocrine activity. In FKBP52 KO mice, no overt defects of
+GR-regulated physiology were observed. Mouse embryonic fibroblasts (MEFs) were
+therefore generated from wild-type (WT) and FKBP52-deficient animals and analyzed
+[<xref rid="r45" ref-type="bibr">45</xref>]. Contrary to expectation, loss of
+FKBP52 had no effect on the composition of hormone-free GR heterocomplexes nor did
+it show any effect on hormone-binding function or the ability of the GR to move to
+sites of chromatin action within the nucleus. Instead, FKBP52 was found to play an
+unexpected role as a gene-specific modulator of GR transcriptional activity.
+However, GR activity at endogenous glucocorticoid-target genes was not globally
+affected in FKBP52 KO cells. Reduced activity were observed at
+glucocorticoid-inducible leucine zipper (GILZ) and FKBP51, but not at serum- and
+glucocorticoid-kinase (SGK) and p21 genes [<xref rid="r45" ref-type="bibr">45</xref>]. The FKBP52 knockout mice however demonstrated the importance of this
+cochaperone for reproductive tissue development. Female knockout mice showed defects
+in uterine receptivity for embryo implantation and male knockouts displayed
+ambiguous external genitalia and dysgenic prostates [<xref rid="r46" ref-type="bibr">46</xref>,<xref rid="r47" ref-type="bibr">47</xref>]. Furthermore, in the
+female knockout mice FKBP52 was shown to be an essential regulator of PR action in
+the uterus, while being a non-essential but contributory regulator of steroid
+receptors in the mammary gland and ovaries [<xref rid="r48" ref-type="bibr">48</xref>]. These data may now provide the basis for selective targeting
+steroid-regulated physiology through co-chaperones.</p></sec><sec><title>Role of molecular chaperones in the nucleus</title><p>Studies using <italic>in vitro</italic> receptor/DNA interaction techniques and
+<italic>in vitro</italic> transcription experiments have provided hints that, in
+the nucleus, molecular chaperones function as modulators of the DNA-binding and
+transcriptional activities of steroid receptors [<xref rid="r49" ref-type="bibr">49</xref>,<xref rid="r50" ref-type="bibr">50</xref>]. One example is the work
+of Etienne Baulieu and colleagues in 1996 which showed that the binding of
+ER&#x003b1; to the estrogen response element from the vitellogenin A2 gene is
+inversely dependent on the relative concentration of Hsp90 [<xref rid="r49" ref-type="bibr">49</xref>]. In another assay, recombinant (ligand-free) PR was only
+able to bind to and induce transcription on (hormone-containing) chromatin templates
+in the presence of rabbit reticulocyte lysate rich in molecular chaperones [<xref rid="r50" ref-type="bibr">50</xref>]. The use of the Hsp90-specific inhibitor GA
+blocked the transcriptional activity of this receptor on chromatin [<xref rid="r50" ref-type="bibr">50</xref>], demonstrating a crucial role of Hsp90 in
+the nuclear function of the PR.</p><p>Additional experiments have provided more proof for a regulatory role of molecular
+chaperones on steroid receptor action at the chromatin level. Using live cell
+imaging, the groups of Gordon Hager, David Toft and Don DeFranco demonstrated that
+molecular chaperones contribute to the rapid mobility and dynamic exchange of
+steroid receptors at transcriptionally active chromatin sites [<xref rid="r37" ref-type="bibr">37</xref>]. They showed an impairment of nuclear mobility of GR and PR
+using transcriptionally active nuclei depleted in soluble factors. Receptor mobility
+was regained upon incubation of the nuclei with an ATP-dependent regenerating system
+and combinations of purified chaperones and cochaperones. A mixture of seven
+components (Hsp90, Hsp70, p23, Hop, Ydj-1, FKBP51) and CHIP was the most effective,
+but a mixture of five proteins (Hsp90, Hsp70, p23, Hop, and Ydj-1) or even three
+(Hsp90, Hsp70, and Hop) restored steroid receptor movement, albeit to a lesser
+extent [<xref rid="r37" ref-type="bibr">37</xref>]. Together these findings led to
+the conclusion that the molecular chaperones and cochaperones are involved in
+recycling of the receptors on chromatin.</p></sec><sec><title>Nuclear action of p23</title><p>Although the experiments described above argue that molecular chaperones and
+cochaperones enter the nucleus bound to the steroid receptors, some of the
+cochaperones appear to have a nuclear function of their own, independent of their
+regulation of receptor action. Two examples are the cochaperones p23 and Bag-1L.
+Mammalian p23 (or Sba1 in yeast) is composed of a simple molecular structure
+consisting of a compact eight &#x003b2;-strand antiparallel sandwich (the CS domain
+in <xref ref-type="fig" rid="f2">Figure 2</xref>) followed by an acidic C-terminal
+tail [<xref rid="r51" ref-type="bibr">51</xref>,<xref rid="r52" ref-type="bibr">52</xref>]. This structure is conserved from humans to yeast with orthologs in
+both plants and protozoa. The main role of p23/Sba1 is to bind the ATP-engaged
+N-terminal domain of Hsp90, thereby stabilizing a high-affinity client binding
+conformation. At the same time this slows down the hydrolysis of ATP and increases
+the dwell time of client proteins in the Hsp90 chaperone complex [<xref rid="r53" ref-type="bibr">53</xref>]. However, it appears that p23 also has a
+chaperone activity of its own, independent of Hsp90. A large portion (approximately
+69%&#x02013;75%) of the p23/Sba1 interacting proteins (as determined by genetic and
+proteomic high throughput approaches in yeast) is not shared with Hsp90 [<xref rid="r54" ref-type="bibr">54</xref>]. Further analysis of the effect of Sba/p23
+on chromatin events showed that deletion of the yeast p23 (Sba1&#x00394;) reduced the
+number of DNase I hypersensitive sites in chromatin. The number of sites was
+decreased from 3260 in wild-type to 2439 in Sba1&#x00394; cells. However, this
+reduction in the total number of DNase I hypersensitive sites in Sba1&#x00394; cells
+(approximately a 25% loss), was not a mere reduction but was associated with the
+appearance of novel sites within chromatin. p23 does not harbor any obvious
+DNA-binding domains and it appears that its effect on transcription factors and
+chromatin is therefore mediated through protein-protein interactions with chromatin
+remodelers, such as the histone acetyltransferase GCN5 [<xref rid="r55" ref-type="bibr">55</xref>].</p><sec><title>p23-mediated regulation of steroid receptor action on chromatin</title><p>Brian Freeman and Keith Yamamoto have previously suggested a genomic action of
+the cochaperone p23 in the dissociation of receptors from coactivators and
+response elements on chromatin [<xref rid="r56" ref-type="bibr">56</xref>].
+Using chromatin immunoprecipitation (ChIP), they observed that molecular
+chaperones together with cochaperones are recruited to the response elements of
+the liver-specific, glucocorticoid-inducible tyrosine aminotransferase (TAT) and
+tryptophan oxygenase (TO) genes in rat hepatoma HTC cells. They could also show
+that p23 and Hsp90, but not Hsp70, were localized to the same response elements,
+in a hormone-dependent manner [<xref rid="r57" ref-type="bibr">57</xref>] (<xref ref-type="fig" rid="f1">Figure 1E</xref>). In an unrelated
+immunofluorescence experiment, Hsp90, Hsp70 and p23 were visualized together
+with GR on an integrated array of glucocorticoid response elements (GRE) from
+the mouse mammary tumor virus (MMTV) DNA in the genome of a mouse adenocarcinoma
+cell line [<xref rid="r58" ref-type="bibr">58</xref>]. In this assay, the
+molecular chaperones and particularly Hsp90 and p23, were shown to stabilize GR
+binding. Inhibition of Hsp90 activity simultaneously reduced the binding of the
+molecular chaperones, p23 and GR to the response elements [<xref rid="r58" ref-type="bibr">58</xref>]. Accordingly contrasting explanations to the action of
+molecular chaperones and cochaperones have been presented. On the one hand their
+involvement in the dissociation of the receptor complex (as described by Brian
+Freeman and Keith Yamamoto [<xref rid="r56" ref-type="bibr">56</xref>]) and on
+the other hand their ability to stabilize the receptor complex (as outlined
+above). This discrepancy could be due to a key difference in the experimental
+setup of the two studies. In one study, Hsp90 function was disrupted by GA
+treatment and since this drug prevents p23 binding to Hsp90 [<xref rid="r59" ref-type="bibr">59</xref>], it was thought it would also affect
+p23 action [<xref rid="r58" ref-type="bibr">58</xref>]. In the other study,
+altered p23 activity was achieved by the addition of purified p23 to <italic>in
+vitro</italic> transcription assays [<xref rid="r57" ref-type="bibr">57</xref>]. Although p23 and Hsp90 normally act in concert within the
+chaperone complex, they may not act together on DNA. Therefore inhibiting the
+interaction of Hsp90 with p23 may not have the same effect as the addition of
+p23. However, both studies agree that Hsp90 and p23 modulate the action of the
+GR at the chromatin level.</p><p>The physiological function of GR requires the ligand to be presented to target
+cells in discrete pulses to agree with the pulsatile production of
+glucocorticoid from the adrenal gland [<xref rid="r60" ref-type="bibr">60</xref>]. Using ChIP, a connection between the function and cyclical action
+of GR and intranuclear molecular chaperones and cochaperones at glucocorticoid
+target genes was demonstrated [<xref rid="r61" ref-type="bibr">61</xref>]. When
+the chaperone activity was disrupted by GA treatment, pulsatile GR
+transcriptional activity was abrogated [<xref rid="r61" ref-type="bibr">61</xref>]. Furthermore it was shown that the ligand-bound GR complexes
+exchange rapidly and continuously with response elements in chromatin (in the
+time scale of seconds). During each exchange, the receptor may lose its ligand
+and require entry into the &#x0201c;chaperone cycle&#x0201d; (possibly through the
+foldosome activity) to re-acquire its ligand. Alternatively, the receptor may
+retain its ligand, but may need to return to the chromatin template with the
+help of the chaperone/cochaperone complexes [<xref rid="r60" ref-type="bibr">60</xref>]. These cycling reactions of the GR are different from those of
+the other steroid receptors, such as the AR or ER. Although cycling of AR and ER
+on chromatin have previously been described [<xref rid="r62" ref-type="bibr">62</xref>,<xref rid="r63" ref-type="bibr">63</xref>], these cycling events
+are intrinsic properties of these receptors and they depend on proteasome
+function and the degradation of the receptors. Furthermore, these processes
+occur in the presence of constant hormone levels, which is different from the
+oscillations of the GR.</p><p>Increased expression of p23 achieved by transfection in the estrogen-dependent
+breast cancer cell line MCF-7 increased ER&#x003b1; recruitment and activity at
+select regulatory elements of ER target genes [<xref rid="r64" ref-type="bibr">64</xref>]. Utilizing ChIP-sequencing (ChIP-seq), a 230% increase in the
+number of estrogen-induced ER-binding sites, compared with control cells, could
+be demonstrated in response to the increased expression of p23. Interestingly,
+motif analysis revealed that ER&#x003b1; bound to the same DNA sequences,
+regardless of p23 status. Thus, the increase in ER binding sites was not due to
+enhanced ER binding but most likely due to p23-mediate changes in histone
+modification; a consequence of this would be an increased chromatin
+accessibility and binding by the ER&#x003b1; [<xref rid="r64" ref-type="bibr">64</xref>]. More recently the action of the cochaperones p23 has been
+analyzed on AR activity. It was shown that p23 can enhance AR transactivation
+function through steps in both the cytoplasm (by increasing the ligand-binding
+capacity, possibly via direct interaction with AR) and the nucleus (by enhancing
+AR occupancy at target promoters) [<xref rid="r65" ref-type="bibr">65</xref>].
+An interaction between AR and p23 was demonstrated even after treatment with the
+geldanamycin analog, 17-N-Allylamino-17-demethoxygeldanamycin (17-AAG), a Hsp90
+inhibitor that displaces p23 from the complex with Hsp90 [<xref rid="r65" ref-type="bibr">65</xref>]. The effects of p23 on AR activity was, at least in
+part, Hsp90-independent, since a mutant form of p23 that was unable to bind
+Hsp90 increased AR activity nevertheless [<xref rid="r65" ref-type="bibr">65</xref>]. Collectively, these studies suggest that p23 has other
+functions in addition to its action as an Hsp90 cochaperone.</p></sec><sec><title>Knockout mouse model of p23</title><p>A knockout mouse model has been generated for studies on the role of p23 in
+steroid hormone action. p23 was found absolutely necessary for perinatal
+survival, but it was inessential for overall prenatal development and
+morphogenesis [<xref rid="r66" ref-type="bibr">66</xref>]. The skin barriers at
+the final fetal stages of development were incompletely formed and the lungs of
+p23 null embryos displayed underdeveloped airspaces and substantially reduced
+expression of surfactant genes [<xref rid="r66" ref-type="bibr">66</xref>]. The
+defects in skin and surfactant gene expression correlate with defects in
+glucocorticoid function in promoting lung maturation, and the development of
+epithelial barriers [<xref rid="r67" ref-type="bibr">67</xref>-<xref rid="r69" ref-type="bibr">69</xref>]. Accordingly, embryonic fibroblasts
+from p23 null mice displayed a defective glucocorticoid response [<xref rid="r66" ref-type="bibr">66</xref>]. The perinatal phenotype of the p23
+null mice has prevented analysis of the contributions of this cochaperone to
+other endocrine functions in adult mice.</p></sec></sec><sec><title>Nuclear action of Bag-1</title><sec><title>The Bag-1 isoforms</title><p>Another cochaperone that has been shown to function in the nucleus in addition to
+p23 is Bag-1L, a member of the Bag-1 family of proteins. In humans, the Bag-1
+family is made up of polypeptides translated from one mRNA by a leaky scanning
+mechanism [<xref rid="r70" ref-type="bibr">70</xref>,<xref rid="r71" ref-type="bibr">71</xref>]. This generates four differentially-sized isoforms;
+Bag-1L, Bag-1M, Bag-1 and Bag-1S (<xref ref-type="fig" rid="f3">Figure
+3A</xref>). These proteins differ at their N-terminal sequences, but have a
+conserved C-terminal Hsp70-binding domain (otherwise known as BAG domain) [<xref rid="r74" ref-type="bibr">74</xref>,<xref rid="r75" ref-type="bibr">75</xref>]. Additionally, Bag-1 proteins contain a ubiquitin-like domain
+(UBQ) through which they can be connected to the proteasome [<xref rid="r76" ref-type="bibr">76</xref>]. The UBQ was shown to be important in
+CHIP (carboxyl terminus of Hsp70-interacting protein)/E3 ligase-dependent
+degradation of the GR [<xref rid="r77" ref-type="bibr">77</xref>]. Bag-1 is
+therefore a coupling factor, which can link the chaperones and the proteolytic
+complex together and thereby plays a role in steroid receptor turnover (<xref ref-type="fig" rid="f1">Figure 1A</xref>) [<xref rid="r78" ref-type="bibr">78</xref>].</p><fig id="f3" fig-type="figure" orientation="portrait" position="float"><label>Figure 3</label><caption><title>The Bag-1 protein family and their structural domains.</title><p><italic>A. </italic><italic>Top</italic>: Intron-exon structure of
+the human Bag-1 gene and corresponding transcript. The start codons for
+the different Bag-1 transcripts are indicated by arrows. Note, Bag-1L,
+the longest family member, is the only one with a CUG start codon.
+<italic>Bottom</italic>: The domain structures of the four human
+Bag-1 isoforms (<italic>left</italic>) and the two isoforms of
+<italic>Schizosaccharomyces pombe</italic> (<italic>right</italic>),
+with their Hsp70/Hsc70-binding domains (BAG) highlighted in blue. The
+TR/QSEEX repeat region is shown as vertical lines and other functional
+domains are indicated. The domain information (including residue
+numbers) for the human Bag-1 isoforms were obtained from the RefSeq
+database (NCBI), while the domain information for the yeast homologues
+were taken from Kriegenburg <italic>et al. 2014</italic> [<xref rid="r72" ref-type="bibr">72</xref>]. NLS: Nuclear localization
+signal; UBQ: Ubiquitin-like domain; TM: Transmembrane domain. B, C.
+Phylogenetic tree (B) and sequence alignment (C) of the first 80
+N-terminal amino acids of the human Bag-1L protein compared with Bag-1
+isoforms in other organisms. Both graphs were generated using the
+MultAlin website [<xref rid="r73" ref-type="bibr">73</xref>].</p></caption><graphic xlink:href="nrs-12-005.g3"/></fig><p>The Bag-1 proteins do not contain a TPR motif but instead use their BAG domain to
+bind the Hsp70 ATPase. The BAG domain is approximately 100 amino acids in length
+and is made up of three antiparallel alpha helices, which serve as a
+protein-protein interaction surface for a number of cellular proteins [<xref rid="r79" ref-type="bibr">79</xref>]. In a 1.9 &#x000c5; crystal structure in
+complex with the ATPase of Hsc70 (a homologous protein of Hsp70), the BAG domain
+was shown to induce a conformational switch in the ATPase that is incompatible
+with further nucleotide binding. A similar switch was observed in the bacterial
+Hsp70 homolog DnaK, when bound by the structurally unrelated nucleotide exchange
+factor GrpE. The Bag-1 proteins and in particular Bag-1 are therefore often
+described as mammalian nucleotide exchange factors of Hsp70 [<xref rid="r75" ref-type="bibr">75</xref>]. Furthermore, the interaction of Bag-1
+with Hsp70 and with the unliganded GR has made it a member of the foldosome
+complex [<xref rid="r80" ref-type="bibr">80</xref>]. In fact, early studies
+showed that Bag-1 is involved in the release of Hop from the foldosome complex
+[<xref rid="r80" ref-type="bibr">80</xref>] (<xref ref-type="fig" rid="f1">Figure 1A and B</xref>) but later analysis demonstrated that it actually
+competes with Hip for binding to the Hsp70 ATPase domain [<xref rid="r6" ref-type="bibr">6</xref>].</p><p>Bag-1L, the largest member of the family, possesses a N-terminal nuclear
+localization sequence (NLS) and is therefore exclusively localized to the
+nucleus. The other Bag-1 isoforms are mainly cytoplasmic [<xref rid="r71" ref-type="bibr">71</xref>], although under stress conditions these members and
+notably Bag-1M, are reported to also localize to the nucleus [<xref rid="r81" ref-type="bibr">81</xref>]. Intriguingly, two orthologs of Bag-1,
+Bag101 and Bag102 (<xref ref-type="fig" rid="f3">Figure 3A</xref>), have been
+identified in the fission yeast <italic>Schizosaccharomyces pombe</italic> that
+show about 20% sequence identity and 45% sequence homology with the human Bag-1
+isoforms [<xref rid="r82" ref-type="bibr">82</xref>]. Bag101 and 102 also
+contain BAG and UBQ domains and have the ability to bind to Hsp70 and the 26S
+proteasome [<xref rid="r82" ref-type="bibr">82</xref>]. Like the human Bag-1
+proteins, the fission yeast proteins have different cellular localizations.
+While Bag101 is localize to the cytosol, Bag102 is found exclusively in the
+nuclear envelope. In accordance, genetic and biochemical assays show that only
+Bag102 has a nuclear function. It is required for a nuclear chaperone-assisted
+degradation mechanism and is involved in protein nuclear quality control and
+kinetochore integrity [<xref rid="r82" ref-type="bibr">82</xref>].</p></sec><sec><title>Nuclear action of human Bag-1L</title><p>The human Bag-1 proteins were shown to either positively or negatively regulate
+the action of many steroid/nuclear receptors ranging from GR, PR, MR, AR, ER and
+vitamin D receptor (VDR) to retinoid X receptor (RXR) [<xref rid="r79" ref-type="bibr">79</xref>,<xref rid="r83" ref-type="bibr">83</xref>]. In
+particular ER&#x003b1;, ER&#x003b2;, AR and VDR were reported to be positively
+regulated by Bag-1L, and to a lesser extend by Bag-1M [<xref rid="r84" ref-type="bibr">84</xref>-<xref rid="r86" ref-type="bibr">86</xref>]. This
+suggests that the (NLS-containing) N-terminus of Bag-1L, which is absent in
+Bag-1M, contributes to the positive effect of Bag-1L on steroid receptor action.
+To confirm this experimentally, the cytoplasmic Bag-1 proteins (Bag-1M and
+Bag-1S) were tagged with a SV40 NLS and their effect on AR regulation was
+monitored. Although NLS-Bag-1M and NLS-Bag-1S translocated to the nucleus and
+were able to exert positive regulation on AR transactivation, they did not
+achieve the regulatory activity of Bag-1L [<xref rid="r87" ref-type="bibr">87</xref>,<xref rid="r88" ref-type="bibr">88</xref>]. This suggests that
+the N-terminus of Bag-1L has a function distinct from the cochaperone activity
+of its C-terminal BAG domain.</p><p>In addition to the presence of a NLS at the N-terminus, Bag-1L binds the AR,
+ER&#x003b1; and VDR [<xref rid="r85" ref-type="bibr">85</xref>,<xref rid="r88" ref-type="bibr">88</xref>,<xref rid="r89" ref-type="bibr">89</xref>] and harbors two additional, unique functions. First, the region
+between amino acids 72 to 79 is reported to bind non-specifically to DNA. This
+region contains positively charged sequences of three consecutive lysine and
+three arginine residues, separated by a centrally located neutral residue.
+Mutational analysis has identified both trimeric blocks as essential for DNA
+binding [<xref rid="r90" ref-type="bibr">90</xref>,<xref rid="r91" ref-type="bibr">91</xref>]. Second, sequences between amino acids 17-50 have been
+described as important for the nuclear retention of Bag-1L. It is thought that
+this region holds the cochaperone anchored to structures in the nucleus,
+possibly histone proteins [<xref rid="r87" ref-type="bibr">87</xref>]. Together,
+these regulatory elements keep Bag-1L in the nucleus and contribute to its
+effect as a modulator of steroid receptor action. In ChIP experiments, Bag-1L
+was bound to chromatin along with the AR at androgen-regulated target genes
+[<xref rid="r88" ref-type="bibr">88</xref>,<xref rid="r92" ref-type="bibr">92</xref>].</p></sec><sec><title>The GARRPR motif of Bag-1L</title><p>More recently a duplicated sequence &#x0201c;GARRPR&#x0201d; at positions 6-11 and
+66-71 at the N-terminus of Bag-1L was shown to interact with the AR and the
+ER&#x003b1; [<xref rid="r92" ref-type="bibr">92</xref>]. Mutation of these motifs
+destroyed binding of Bag-1L to the AR but did not impair the chromatin binding
+potential of the mutant Bag-1L [<xref rid="r92" ref-type="bibr">92</xref>]. This
+indicates that chromatin and receptor binding are not linked for this protein.
+While the C-terminal BAG domain shows a high degree of sequence homology among
+the Bag-1 proteins found throughout evolution (in yeast, invertebrates,
+amphibians, mammals and plants), the first 128 N-terminal amino acids containing
+the duplicated GARRPR motif are less well conserved [<xref rid="r93" ref-type="bibr">93</xref>]. Nevertheless, a high sequence homology exists among
+the GARRPR motifs of human and monkey (<italic>M. mulatta, N. leucogenys and C.
+jacchus</italic>) (<xref ref-type="fig" rid="f3">Figures 3B and C</xref>).
+Protein binding studies using peptides encompassing the GARRPR motifs showed
+that they bind to the ligand-binding domain (LBD) of the AR to a region termed
+binding function-3, which allosterically modulates the activity of the receptor
+[<xref rid="r92" ref-type="bibr">92</xref>]. Structure-based sequence
+alignments of the LBD of multiple steroid receptors show that the BF-3 pocket is
+highly conserved among steroid receptors as well as being present in other major
+nuclear receptors [<xref rid="r94" ref-type="bibr">94</xref>]. It is therefore
+expected that the GARRPR motif would also bind to other steroid/nuclear
+receptors. However, <italic>in vitro</italic> experiments showed that the GARRPR
+motif bound only to the AR and ER&#x003b1; and not the PR or GR [<xref rid="r92" ref-type="bibr">92</xref>]. This suggests that other receptor
+sequences contribute to the binding to the GARRPR motif. So far the only other
+protein that has been found to bind the BF-3 region is the cochaperone FKBP52
+that has a GARRPR-like sequence [<xref rid="r92" ref-type="bibr">92</xref>,<xref rid="r95" ref-type="bibr">95</xref>].</p><p>It is interesting to note that for both Bag-1L and FKBP52 the sequences that
+interact with the BF-3 domain are different from those reported to bind Hsp70
+and Hsp90. Another interesting observation is that mutation of the GARRPR motifs
+in both proteins results in a gain-of-function phenotype [<xref rid="r92" ref-type="bibr">92</xref>,<xref rid="r96" ref-type="bibr">96</xref>]. In Bag-1L
+the mutations do not completely inhibit AR-mediated gene expression but rather
+increase the expression of a subset of androgen-regulated genes involved in
+metabolic processes [<xref rid="r92" ref-type="bibr">92</xref>].</p></sec><sec><title>The BAG domain of Bag-1L</title><p>In addition to the regulation of steroid receptor action through the GARRPR
+motif, several lines of evidence suggest that Bag-1L may indirectly regulate the
+activity of the steroid receptors through its BAG domain. First, deletion of the
+BAG domain destroys the ability of Bag-1L to enhance the activity of the AR
+[<xref rid="r88" ref-type="bibr">88</xref>,<xref rid="r97" ref-type="bibr">97</xref>]. Second, mutation of amino acids in the BAG domain involved in
+the interaction with the ATPase domain of Hsc70, not only destroyed the
+interaction between Bag-1L and Hsc70, but simultaneously obliterate the ability
+of Bag-1L to enhance the transactivation function of the AR [<xref rid="r97" ref-type="bibr">97</xref>]. Combined, these results show that the
+BAG domain of Bag-1L, which also acts as a nucleotide exchange factor for Hsp70,
+contributes to the regulation of steroid receptor action, at least for AR.
+Intriguingly, protein-protein interaction studies showed that the BAG domain of
+Bag-1L does not interact with the AR-LBD, but rather with its N-terminal
+transactivation domain [<xref rid="r88" ref-type="bibr">88</xref>]. This region
+of the AR is intrinsically disordered, which means that it exists without a
+stable tertiary structure. However, the lack of structure has several
+advantages. For example, it provides a large interaction surface compared with
+other globular proteins of the same size. Secondly, intrinsically disordered
+proteins have short linear motifs (SLiMs) that allow them to recognize binding
+partners by undergoing coupled folding and binding processes. SLiMs have
+extremely compact protein interaction interfaces that are generally encoded by
+less than four major (affinity- and specificity-determining) residues within a
+stretch of 2&#x02013;10 amino acids [<xref rid="r98" ref-type="bibr">98</xref>].
+The occurrence of SLiMs in intrinsically disordered regions gives way to
+specific, yet transient, interactions that enable them to play central roles in
+signaling pathways and allow them to act as hubs for protein interaction
+networks [<xref rid="r99" ref-type="bibr">99</xref>]. It is likely that the
+ability to be involved in such protein-protein interactions allows the BAG
+domain of Bag-1L to exert a great impact on AR function. Since several steroid
+receptors have SLiMs-containing regions at their intrinsically disordered
+N-termini [<xref rid="r100" ref-type="bibr">100</xref>], it seems plausible that
+they could also be targeted by the BAG domain of Bag-1L. It is likely that they
+already account for the reported effects of Bag-1L on steroid receptor action
+[<xref rid="r84" ref-type="bibr">84</xref>-<xref rid="r86" ref-type="bibr">86</xref>].</p></sec></sec><sec><title>Knockout mouse model of Bag-1</title><p>Bag-1 knockout mice are available for studies of how the deletion of this gene
+affects steroid hormone action. Regrettably, the Bag-1 null mice are lethal between
+embryonic days 12.5 and 13.5 (E12.5 and E13.5). Bag-1 is reported to have an
+essential role in the survival of differentiating neurons and hematopoietic cells
+[<xref rid="r101" ref-type="bibr">101</xref>]. Consequently, Bag-1 knockout mice
+display massive apoptosis in cells of the fetal liver and developing nervous system
+[<xref rid="r101" ref-type="bibr">101</xref>]. However, Bag-1 heterozygous mice
+are viable and show no difference in development, growth and body size compared to
+their wild-type counterparts. They also show no obvious defects in the endocrine
+system (our unpublished observations). The Bag-1 gene is separated by only 414 bp
+from Chmp 5, a gene that codes for charged multivesicular body protein 5. These two
+genes are encoded by different DNA strands and their 5&#x02019; ends are positioned
+head-to-head [<xref rid="r102" ref-type="bibr">102</xref>]. Targeted disruption of
+Bag-1 resulted in a double knockout, ablating the expression of both Bag-1 and of
+Chmp 5 (our unpublished data). The Chmp 5 knockout, like the Bag-1 knockout, is
+embryonic [<xref rid="r102" ref-type="bibr">102</xref>]. This double knockout has
+hampered analysis of the contribution of Bag-1 to steroid receptor action in the
+mouse. A new strategy for Bag-1 knockout mice (Bag1<sup>tm1a(EUCOMM)Hmgu/Ics</sup>)
+has been generated by the European conditional mouse mutagenesis (EUCOMM) program.
+Future characterization of these mice will determine the contribution of Bag-1 to
+steroid receptor action.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Although the molecular chaperones Hsp70 and Hsp90 are present in both the cytoplasm
+and the nucleus, a clear role of these proteins in the regulation of steroid
+receptor function at the chromatin level has not been identified. Instead,
+unambiguous evidence exists that cochaperones that regulate the activity of these
+molecular chaperones, and are themselves recruited into the nucleus, where they
+modulate the transcriptional activities of the steroid receptors on chromatin. To
+date, two cochaperones have been characterized in this respect: p23 and Bag-1L. Both
+proteins belong to the family of cochaperones that do not interact with Hsp70 and
+Hsp90 through the classical TPR domains. Instead these proteins employ domains that
+are multifunctional and are also involved in chaperone-independent activities. This
+is particularly the case for Bag-1L, where in fact two domains have been identified
+for regulating cellular processes; the BAG domain that serves as a nucleotide
+exchange factor for Hsp70 and steroid receptor binding, and the GARRPR motif at its
+N-terminus that is essential for AR and ER&#x003b1; binding. It is currently unclear
+whether the two domains functionally cooperate in regulating steroid receptor action
+or if they act independent from one another. Similarly, p23 mutational and inhibitor
+studies have shown that the sequences it uses to bind Hsp90 are different from those
+for interaction with the AR. Combined, these findings therefore offer great
+opportunities for the discovery of small molecular-weight chemicals that can
+specifically target these interaction surfaces and thereby inhibit the steroid
+receptor action in a novel way without affecting the overall chaperone activity.
+Some interesting candidate compounds have already emerged. For example,
+2-((2-(2,6-dimethylphenoxy)ethyl)thio)-1H-benzo[d]imidazole competes with the
+binding of the Bag-1L GARRPR motif to the AR [<xref rid="r92" ref-type="bibr">92</xref>]. Thio-2 binds to the BAG domain of Bag-1 [<xref rid="r103" ref-type="bibr">103</xref>] and Gedunin binds to the N-terminus of p23 [<xref rid="r104" ref-type="bibr">104</xref>]. In the latter two cases, the inhibitors
+are only &#x0201c;partially dissociated&#x0201d; compounds and therefore still inhibit
+Hsp70 and Hsp90 action, albeit weakly. Future detailed studies on how these
+cochaperones regulate steroid receptor activity independent of their activity
+through the molecular chaperones will open new avenues to the identification of more
+specific compounds that can produce a new generation of steroid receptor
+therapeutics.</p></sec></body><back><ack><title>Acknowledgements</title><p>This work was supported, in part, by grants from the Deutsche Krebshilfe (110237) to
+A. C. B. C. and from the National Cancer Institute (1P01CA163227) and (P50CA090381)
+to M. B.</p></ack><fn-group><fn fn-type="COI-statement"><p>The authors declare no conflicts of interest.</p></fn></fn-group><ref-list><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hutchison</surname><given-names>KA</given-names></name><name><surname>Dittmar</surname><given-names>KD</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>All of the factors required for
+assembly of the glucocorticoid receptor into a functional heterocomplex with
+heat shock protein 90 are preassociated in a self-sufficient protein folding
+structure, a "foldosome".</article-title>
+<source>J Biol Chem</source>
+<year>1994</year>,
+<volume>269</volume>:<fpage>27894</fpage>-<lpage>27899</lpage>.<?supplied-pmid 7961721?><pub-id pub-id-type="pmid">7961721</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dittmar</surname><given-names>KD</given-names></name><name><surname>Banach</surname><given-names>M</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>The role of DnaJ-like proteins in
+glucocorticoid receptor.hsp90 heterocomplex assembly by the reconstituted
+hsp90.p60.hsp70 foldosome complex.</article-title>
+<source>J Biol Chem</source>
+<year>1998</year>, <volume>273</volume>:<fpage>7358</fpage>-<lpage>7366</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.273.13.7358</pub-id><?supplied-pmid 9516432?><pub-id pub-id-type="pmid">9516432</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pratt</surname><given-names>WB</given-names></name><name><surname>Dittmar</surname><given-names>KD</given-names></name></person-group>: <article-title>Studies with Purified Chaperones
+Advance the Understanding of the Mechanism of Glucocorticoid Receptor-hsp90
+Heterocomplex Assembly.</article-title>
+<source>Trends Endocrinol Metab</source>
+<year>1998</year>, <volume>9</volume>:<fpage>244</fpage>-<lpage>252</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1043-2760(98)00059-9</pub-id><?supplied-pmid 18406276?><pub-id pub-id-type="pmid">18406276</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wandinger</surname><given-names>S</given-names></name><name><surname>Richter</surname><given-names>K</given-names></name><name><surname>Buchner</surname><given-names>J</given-names></name></person-group>: <article-title>The Hsp90 chaperone
+machinery.</article-title>
+<source>J Biol Chem</source>
+<year>2008</year>,
+<volume>283</volume>:<fpage>18473</fpage>-<lpage>18477</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.R800007200</pub-id><?supplied-pmid 18442971?><pub-id pub-id-type="pmid">18442971</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toft</surname><given-names>DO</given-names></name></person-group>: <article-title>Recent Advances in the Study of hsp90
+Structure and Mechanism of Action.</article-title>
+<source>Trends Endocrinol Metab</source>
+<year>1998</year>, <volume>9</volume>:<fpage>238</fpage>-<lpage>243</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1043-2760(98)00060-5</pub-id><?supplied-pmid 18406275?><pub-id pub-id-type="pmid">18406275</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kanelakis</surname><given-names>KC</given-names></name><name><surname>Murphy</surname><given-names>PJ</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Morishima</surname><given-names>Y</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name><name><surname>Toft</surname><given-names>DO</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Hsp70 interacting protein Hip does
+not affect glucocorticoid receptor folding by the hsp90-based chaperone
+machinery except to oppose the effect of BAG-1.</article-title>
+<source>Biochemistry</source>
+<year>2000</year>,
+<volume>39</volume>:<fpage>14314</fpage>-<lpage>14321</lpage>. <pub-id pub-id-type="doi">10.1021/bi001671c</pub-id><?supplied-pmid 11087380?><pub-id pub-id-type="pmid">11087380</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prapapanich</surname><given-names>V</given-names></name><name><surname>Chen</surname><given-names>S</given-names></name><name><surname>Toran</surname><given-names>EJ</given-names></name><name><surname>Rimerman</surname><given-names>RA</given-names></name><name><surname>Smith</surname><given-names>DF</given-names></name></person-group>: <article-title>Mutational analysis of the
+hsp70-interacting protein Hip.</article-title>
+<source>Mol Cell Biol</source>
+<year>1996</year>,
+<volume>16</volume>:<fpage>6200</fpage>-<lpage>6207</lpage>.<?supplied-pmid 8887650?><pub-id pub-id-type="pmid">8887650</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pruitt</surname><given-names>KD</given-names></name><name><surname>Brown</surname><given-names>GR</given-names></name><name><surname>Hiatt</surname><given-names>SM</given-names></name><name><surname>Thibaud-Nissen</surname><given-names>F</given-names></name><name><surname>Astashyn</surname><given-names>A</given-names></name><name><surname>Ermolaeva</surname><given-names>O</given-names></name><name><surname>Farrell</surname><given-names>CM</given-names></name><name><surname>Hart</surname><given-names>J</given-names></name><name><surname>Landrum</surname><given-names>MJ</given-names></name><name><surname>McGarvey</surname><given-names>KM</given-names></name><name><surname>Murphy</surname><given-names>MR</given-names></name><name><surname>O&#x02019;Leary</surname><given-names>NA</given-names></name><name><surname>Pujar</surname><given-names>S</given-names></name><name><surname>Rajput</surname><given-names>B</given-names></name><name><surname>Rangwala</surname><given-names>SH</given-names></name><name><surname>Riddick</surname><given-names>LD</given-names></name><name><surname>Shkeda</surname><given-names>A</given-names></name><name><surname>Sun</surname><given-names>H</given-names></name><name><surname>Tamez</surname><given-names>P</given-names></name><name><surname>Tully</surname><given-names>RE</given-names></name><name><surname>Wallin</surname><given-names>C</given-names></name><name><surname>Webb</surname><given-names>D</given-names></name><name><surname>Weber</surname><given-names>J</given-names></name><name><surname>Wu</surname><given-names>W</given-names></name><name><surname>DiCuccio</surname><given-names>M</given-names></name><name><surname>Kitts</surname><given-names>P</given-names></name><name><surname>Maglott</surname><given-names>DR</given-names></name><name><surname>Murphy</surname><given-names>TD</given-names></name><name><surname>Ostell</surname><given-names>JM</given-names></name></person-group>: <article-title>RefSeq: an update on mammalian
+reference sequences.</article-title>
+<source>Nucleic Acids Res</source>
+<year>2014</year>, <volume>42</volume>:<fpage>D756</fpage>-<lpage>763</lpage>.
+<pub-id pub-id-type="doi">10.1093/nar/gkt1114</pub-id><?supplied-pmid 24259432?><pub-id pub-id-type="pmid">24259432</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>DF</given-names></name></person-group>: <article-title>Tetratricopeptide repeat cochaperones
+in steroid receptor complexes.</article-title>
+<source>Cell Stress Chaperones</source>
+<year>2004</year>, <volume>9</volume>:<fpage>109</fpage>-<lpage>121</lpage>.
+<pub-id pub-id-type="doi">10.1379/CSC-31.1</pub-id><?supplied-pmid 15497498?><pub-id pub-id-type="pmid">15497498</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scheufler</surname><given-names>C</given-names></name><name><surname>Brinker</surname><given-names>A</given-names></name><name><surname>Bourenkov</surname><given-names>G</given-names></name><name><surname>Pegoraro</surname><given-names>S</given-names></name><name><surname>Moroder</surname><given-names>L</given-names></name><name><surname>Bartunik</surname><given-names>H</given-names></name><name><surname>Hartl</surname><given-names>FU</given-names></name><name><surname>Moarefi</surname><given-names>I</given-names></name></person-group>: <article-title>Structure of TPR domain-peptide
+complexes: critical elements in the assembly of the Hsp70-Hsp90
+multichaperone machine.</article-title>
+<source>Cell</source>
+<year>2000</year>, <volume>101</volume>:<fpage>199</fpage>-<lpage>210</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)80830-2</pub-id><?supplied-pmid 10786835?><pub-id pub-id-type="pmid">10786835</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>FH</given-names></name><name><surname>Wu</surname><given-names>SJ</given-names></name><name><surname>Hu</surname><given-names>SM</given-names></name><name><surname>Hsiao</surname><given-names>CD</given-names></name><name><surname>Wang</surname><given-names>C</given-names></name></person-group>: <article-title>Specific interaction of the 70-kDa
+heat shock cognate protein with the tetratricopeptide
+repeats.</article-title>
+<source>J Biol Chem</source>
+<year>1999</year>,
+<volume>274</volume>:<fpage>34425</fpage>-<lpage>34432</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.274.48.34425</pub-id><?supplied-pmid 10567422?><pub-id pub-id-type="pmid">10567422</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="other">Echeverria PC, Picard D: Molecular
+chaperones, essential partners of steroid hormone receptors for activity and
+mobility. <italic>Biochim Biophys Acta</italic> 2010,
+1803:641-649.</mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>DF</given-names></name><name><surname>Toft</surname><given-names>DO</given-names></name></person-group>: <article-title>Minireview: the intersection of
+steroid receptors with molecular chaperones: observations and
+questions.</article-title>
+<source>Mol Endocrinol</source>
+<year>2008</year>, <volume>22</volume>:<fpage>2229</fpage>-<lpage>2240</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2008-0089</pub-id><?supplied-pmid 18451092?><pub-id pub-id-type="pmid">18451092</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McKeen</surname><given-names>HD</given-names></name><name><surname>McAlpine</surname><given-names>K</given-names></name><name><surname>Valentine</surname><given-names>A</given-names></name><name><surname>Quinn</surname><given-names>DJ</given-names></name><name><surname>McClelland</surname><given-names>K</given-names></name><name><surname>Byrne</surname><given-names>C</given-names></name><name><surname>O&#x02019;Rourke</surname><given-names>M</given-names></name><name><surname>Young</surname><given-names>S</given-names></name><name><surname>Scott</surname><given-names>CJ</given-names></name><name><surname>McCarthy</surname><given-names>HO</given-names></name><name><surname>Hirst</surname><given-names>DG</given-names></name><name><surname>Robson</surname><given-names>T</given-names></name></person-group>: <article-title>A novel FK506-like binding protein
+interacts with the glucocorticoid receptor and regulates steroid receptor
+signaling.</article-title>
+<source>Endocrinology</source>
+<year>2008</year>, <volume>149</volume>:<fpage>5724</fpage>-<lpage>5734</lpage>.
+<pub-id pub-id-type="doi">10.1210/en.2008-0168</pub-id><?supplied-pmid 18669603?><pub-id pub-id-type="pmid">18669603</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chadli</surname><given-names>A</given-names></name><name><surname>Graham</surname><given-names>JD</given-names></name><name><surname>Abel</surname><given-names>MG</given-names></name><name><surname>Twila</surname><given-names>A</given-names></name><name><surname>Gordon</surname><given-names>DF</given-names></name><name><surname>Wood</surname><given-names>WM</given-names></name><name><surname>Felts</surname><given-names>SJ</given-names></name><name><surname>Horwitz</surname><given-names>KB</given-names></name><name><surname>Toft</surname><given-names>D</given-names></name></person-group>: <article-title>GCUNC-45 is a novel regulator for the
+progesterone receptor/hsp90 chaperoning pathway.</article-title>
+<source>Mol Cell Biol</source>
+<year>2006</year>, <volume>26</volume>:<fpage>1722</fpage>-<lpage>1730</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.26.5.1722-1730.2006</pub-id><?supplied-pmid 16478993?><pub-id pub-id-type="pmid">16478993</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buchanan</surname><given-names>G</given-names></name><name><surname>Ricciardelli</surname><given-names>C</given-names></name><name><surname>Harris</surname><given-names>JM</given-names></name><name><surname>Prescott</surname><given-names>J</given-names></name><name><surname>Yu</surname><given-names>ZCL</given-names></name><name><surname>Jia</surname><given-names>L</given-names></name><name><surname>Butler</surname><given-names>LM</given-names></name><name><surname>Marshall</surname><given-names>VR</given-names></name><name><surname>Scher</surname><given-names>HI</given-names></name><name><surname>Gerald</surname><given-names>WL</given-names></name><name><surname>Coetzee</surname><given-names>GA</given-names></name><name><surname>Tilley</surname><given-names>WD</given-names></name></person-group>: <article-title>Control of androgen receptor
+signaling in prostate cancer by the cochaperone small glutamine rich
+tetratricopeptide repeat containing protein alpha.</article-title>
+<source>Cancer Res</source>
+<year>2007</year>,
+<volume>67</volume>:<fpage>10087</fpage>-<lpage>10096</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-1646</pub-id><?supplied-pmid 17942943?><pub-id pub-id-type="pmid">17942943</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paul</surname><given-names>A</given-names></name><name><surname>Garcia</surname><given-names>YA</given-names></name><name><surname>Zierer</surname><given-names>B</given-names></name><name><surname>Patwardhan</surname><given-names>C</given-names></name><name><surname>Gutierrez</surname><given-names>O</given-names></name><name><surname>Hildenbrand</surname><given-names>Z</given-names></name><name><surname>Harris</surname><given-names>DC</given-names></name><name><surname>Balsiger</surname><given-names>HA</given-names></name><name><surname>Sivils</surname><given-names>JC</given-names></name><name><surname>Johnson</surname><given-names>JL</given-names></name><name><surname>Buchner</surname><given-names>J</given-names></name><name><surname>Chadli</surname><given-names>A</given-names></name><name><surname>Cox</surname><given-names>MB</given-names></name></person-group>: <article-title>The cochaperone SGTA (small
+glutamine-rich tetratricopeptide repeat-containing protein alpha)
+demonstrates regulatory specificity for the androgen, glucocorticoid and
+progesterone receptors.</article-title>
+<source>J Biol Chem</source>
+<year>2014</year>,
+<volume>289</volume>:<fpage>15297</fpage>-<lpage>15308</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M113.535229</pub-id><?supplied-pmid 24753260?><pub-id pub-id-type="pmid">24753260</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Young</surname><given-names>JC</given-names></name><name><surname>Obermann</surname><given-names>WM</given-names></name><name><surname>Hartl</surname><given-names>FU</given-names></name></person-group>: <article-title>Specific binding of tetratricopeptide
+repeat proteins to the C-terminal 12-kDa domain of hsp90.</article-title>
+<source>J Biol Chem</source>
+<year>1998</year>,
+<volume>273</volume>:<fpage>18007</fpage>-<lpage>18010</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.273.29.18007</pub-id><?supplied-pmid 9660753?><pub-id pub-id-type="pmid">9660753</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taipale</surname><given-names>M</given-names></name><name><surname>Tucker</surname><given-names>G</given-names></name><name><surname>Peng</surname><given-names>J</given-names></name><name><surname>Krykbaeva</surname><given-names>I</given-names></name><name><surname>Lin</surname><given-names>Z-Y</given-names></name><name><surname>Larsen</surname><given-names>B</given-names></name><name><surname>Choi</surname><given-names>H</given-names></name><name><surname>Berger</surname><given-names>B</given-names></name><name><surname>Gingras</surname><given-names>A-C</given-names></name><name><surname>Lindquist</surname><given-names>SA</given-names></name></person-group>: <article-title>Quantitative Chaperone Interaction
+Network Reveals the Architecture of Cellular Protein Homeostasis
+Pathways.</article-title>
+<source>Cell</source>
+<year>2014</year>, <volume>158</volume>:
+<fpage>434</fpage>&#x02013;<lpage>448</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2014.05.039</pub-id><?supplied-pmid 25036637?><pub-id pub-id-type="pmid">25036637</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kirschke</surname><given-names>E</given-names></name><name><surname>Goswami</surname><given-names>D</given-names></name><name><surname>Southworth</surname><given-names>D</given-names></name><name><surname>Griffin</surname><given-names>PR</given-names></name><name><surname>Agard</surname><given-names>DA</given-names></name></person-group>: <article-title>Glucocorticoid Receptor Function
+Regulated by Coordinated Action of the Hsp90 and Hsp70 Chaperone
+Cycles.</article-title>
+<source>Cell</source>
+<year>2014</year>, <volume>157</volume>:
+<fpage>1685</fpage>&#x02013;<lpage>1697</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2014.04.038</pub-id><?supplied-pmid 24949977?><pub-id pub-id-type="pmid">24949977</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carrigan</surname><given-names>PE</given-names></name><name><surname>Sikkink</surname><given-names>LA</given-names></name><name><surname>Smith</surname><given-names>DF</given-names></name><name><surname>Ramirez-Alvarado</surname><given-names>M</given-names></name></person-group>: <article-title>Domain:domain interactions within
+Hop, the Hsp70/Hsp90 organizing protein, are required for protein stability
+and structure.</article-title>
+<source>Protein Sci</source>
+<year>2006</year>, <volume>15</volume>:<fpage>522</fpage>-<lpage>532</lpage>.
+<pub-id pub-id-type="doi">10.1110/ps.051810106</pub-id><?supplied-pmid 16452615?><pub-id pub-id-type="pmid">16452615</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Southworth</surname><given-names>DR</given-names></name><name><surname>Agard</surname><given-names>DA</given-names></name></person-group>: <article-title>Client-loading conformation of the
+Hsp90 molecular chaperone revealed in the cryo-EM structure of the human
+Hsp90:Hop complex.</article-title>
+<source>Mol Cell</source>
+<year>2011</year>, <volume>42</volume>:
+<fpage>771</fpage>&#x02013;<lpage>781</lpage>. <pub-id pub-id-type="doi">10.1016/j.molcel.2011.04.023</pub-id><?supplied-pmid 21700222?><pub-id pub-id-type="pmid">21700222</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silverstein</surname><given-names>AM</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Kanelakis</surname><given-names>KC</given-names></name><name><surname>Radanyi</surname><given-names>C</given-names></name><name><surname>Renoir</surname><given-names>JM</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Different regions of the immunophilin
+FKBP52 determine its association with the glucocorticoid receptor, hsp90,
+and cytoplasmic dynein.</article-title>
+<source>J Biol Chem</source>
+<year>1999</year>,
+<volume>274</volume>:<fpage>36980</fpage>-<lpage>36986</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.274.52.36980</pub-id><?supplied-pmid 10601253?><pub-id pub-id-type="pmid">10601253</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gallo</surname><given-names>LI</given-names></name><name><surname>Ghini</surname><given-names>AA</given-names></name><name><surname>Piwien</surname><given-names>PG</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name></person-group>: <article-title>Differential recruitment of
+tetratricorpeptide repeat domain immunophilins to the mineralocorticoid
+receptor influences both heat-shock protein 90-dependent retrotransport and
+hormone-dependent transcriptional activity.</article-title>
+<source>Biochemistry</source>
+<year>2007</year>,
+<volume>46</volume>:<fpage>14044</fpage>-<lpage>14057</lpage>. <pub-id pub-id-type="doi">10.1021/bi701372c</pub-id><?supplied-pmid 18001136?><pub-id pub-id-type="pmid">18001136</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Picard</surname><given-names>D</given-names></name><name><surname>Khursheed</surname><given-names>B</given-names></name><name><surname>Garabedian</surname><given-names>MJ</given-names></name><name><surname>Fortin</surname><given-names>MG</given-names></name><name><surname>Lindquist</surname><given-names>S</given-names></name><name><surname>Yamamoto</surname><given-names>KR</given-names></name></person-group>: <article-title>Reduced levels of hsp90 compromise
+steroid receptor action in vivo.</article-title>
+<source>Nature</source>
+<year>1990</year>, <volume>348</volume>:
+<fpage>166</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1038/348166a0</pub-id><?supplied-pmid 2234079?><pub-id pub-id-type="pmid">2234079</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hache</surname><given-names>RJG</given-names></name><name><surname>Tse</surname><given-names>R</given-names></name><name><surname>Reich</surname><given-names>T</given-names></name><name><surname>Savory</surname><given-names>JGA</given-names></name><name><surname>Lefebvre</surname><given-names>YA</given-names></name></person-group>: <article-title>Nucleocytoplasmic Trafficking of
+Steroid-free Glucocorticoid Receptor.</article-title>
+<source>J Biol Chem</source>
+<year>1999</year>, <volume>274</volume>:
+<fpage>1432</fpage>&#x02013;<lpage>1439</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.274.3.1432</pub-id><?supplied-pmid 9880517?><pub-id pub-id-type="pmid">9880517</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>King</surname><given-names>WJ</given-names></name><name><surname>Greene</surname><given-names>GL</given-names></name></person-group>: <article-title>Monoclonal antibodies localize
+oestrogen receptor in the nuclei of target cells.</article-title>
+<source>Nature</source>
+<year>1984</year>, <volume>307</volume>:<fpage>745</fpage>-<lpage>747</lpage>.
+<pub-id pub-id-type="doi">10.1038/307745a0</pub-id><?supplied-pmid 6700704?><pub-id pub-id-type="pmid">6700704</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perrot-Applanat</surname><given-names>M</given-names></name><name><surname>Logeat</surname><given-names>F</given-names></name><name><surname>Groyer-Picard</surname><given-names>MT</given-names></name><name><surname>Milgrom</surname><given-names>E</given-names></name></person-group>: <article-title>Immunocytochemical study of mammalian
+progesterone receptor using monoclonal antibodies.</article-title>
+<source>Endocrinology</source>
+<year>1985</year>, <volume>116</volume>:<fpage>1473</fpage>-<lpage>1484</lpage>.
+<pub-id pub-id-type="doi">10.1210/endo-116-4-1473</pub-id><?supplied-pmid 3971924?><pub-id pub-id-type="pmid">3971924</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jensen</surname><given-names>EV</given-names></name><name><surname>Suzuki</surname><given-names>T</given-names></name><name><surname>Kawashima</surname><given-names>T</given-names></name><name><surname>Stumpf</surname><given-names>WE</given-names></name><name><surname>Jungblut</surname><given-names>PW</given-names></name><name><surname>DeSombre</surname><given-names>ER</given-names></name></person-group>: <article-title>A two-step mechanism for the
+interaction of estradiol with rat uterus.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>1968</year>, <volume>59</volume>:<fpage>632</fpage>-<lpage>638</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.59.2.632</pub-id><?supplied-pmid 5238991?><pub-id pub-id-type="pmid">5238991</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guiochon-Mantel</surname><given-names>A</given-names></name><name><surname>Delabre</surname><given-names>K</given-names></name><name><surname>Lescop</surname><given-names>P</given-names></name><name><surname>Milgrom</surname><given-names>E</given-names></name></person-group>: <article-title>The Ernst Schering Poster Award.
+Intracellular traffic of steroid hormone receptors.</article-title>
+<source>J Steroid Biochem Mol Biol</source>
+<year>1996</year>, <volume>56</volume>:<fpage>3</fpage>-<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/0960-0760(95)00268-5</pub-id><?supplied-pmid 8603044?><pub-id pub-id-type="pmid">8603044</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>The role of heat shock proteins in
+regulating the function, folding, and trafficking of the glucocorticoid
+receptor.</article-title>
+<source>J Biol Chem</source>
+<year>1993</year>,
+<volume>268</volume>:<fpage>21455</fpage>-<lpage>21458</lpage>.<?supplied-pmid 8407992?><pub-id pub-id-type="pmid">8407992</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Echeverr&#x000ed;a</surname><given-names>PC</given-names></name><name><surname>Mazaira</surname><given-names>G</given-names></name><name><surname>Erlejman</surname><given-names>A</given-names></name><name><surname>Gomez-Sanchez</surname><given-names>C</given-names></name><name><surname>Piwien Pilipuk</surname><given-names>G</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name></person-group>: <article-title>Nuclear import of the glucocorticoid
+receptor-hsp90 complex through the nuclear pore complex is mediated by its
+interaction with Nup62 and importin beta.</article-title>
+<source>Mol Cell Biol</source>
+<year>2009</year>, <volume>29</volume>:<fpage>4788</fpage>-<lpage>4797</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.00649-09</pub-id><?supplied-pmid 19581287?><pub-id pub-id-type="pmid">19581287</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Echeverr&#x000ed;a</surname><given-names>PC</given-names></name><name><surname>Bernthaler</surname><given-names>A</given-names></name><name><surname>Dupuis</surname><given-names>P</given-names></name><name><surname>Mayer</surname><given-names>B</given-names></name><name><surname>Picard</surname><given-names>D</given-names></name></person-group>: <article-title>An interaction network predicted from
+public data as a discovery tool: application to the Hsp90 molecular
+chaperone machine.</article-title>
+<source>PLoS One</source>
+<year>2011</year>, <volume>6</volume>:<fpage>e26044</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0026044</pub-id><?supplied-pmid 22022502?><pub-id pub-id-type="pmid">22022502</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grossmann</surname><given-names>C</given-names></name><name><surname>Ruhs</surname><given-names>S</given-names></name><name><surname>Langenbruch</surname><given-names>L</given-names></name><name><surname>Mildenberger</surname><given-names>S</given-names></name><name><surname>Str&#x000e4;tz</surname><given-names>N</given-names></name><name><surname>Schumann</surname><given-names>K</given-names></name><name><surname>Gekle</surname><given-names>M</given-names></name></person-group>: <article-title>Nuclear shuttling precedes
+dimerization in mineralocorticoid receptor signaling.</article-title>
+<source>Chem Biol</source>
+<year>2012</year>, <volume>19</volume>:<fpage>742</fpage>-<lpage>751</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.chembiol.2012.04.014</pub-id><?supplied-pmid 22726688?><pub-id pub-id-type="pmid">22726688</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galigniana</surname><given-names>MD</given-names></name></person-group>: <article-title>Steroid receptor coupling becomes
+nuclear.</article-title>
+<source>Chem Biol</source>
+<year>2012</year>, <volume>19</volume>:<fpage>662</fpage>-<lpage>663</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.chembiol.2012.06.001</pub-id><?supplied-pmid 22726677?><pub-id pub-id-type="pmid">22726677</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Scruggs</surname><given-names>JL</given-names></name><name><surname>Herrington</surname><given-names>J</given-names></name><name><surname>Welsh</surname><given-names>MJ</given-names></name><name><surname>Carter-Su</surname><given-names>C</given-names></name><name><surname>Housley</surname><given-names>PR</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Heat shock protein 90-dependent
+(geldanamycin-inhibited) movement of the glucocorticoid receptor through the
+cytoplasm to the nucleus requires intact cytoskeleton.</article-title>
+<source>Mol Endocrinol</source>
+<year>1998</year>, <volume>12</volume>:<fpage>1903</fpage>-<lpage>1913</lpage>.
+<pub-id pub-id-type="doi">10.1210/mend.12.12.0204</pub-id><?supplied-pmid 9849964?><pub-id pub-id-type="pmid">9849964</pub-id></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elbi</surname><given-names>C</given-names></name><name><surname>Walker</surname><given-names>DA</given-names></name><name><surname>Romero</surname><given-names>G</given-names></name><name><surname>Sullivan</surname><given-names>WP</given-names></name><name><surname>Toft</surname><given-names>DO</given-names></name><name><surname>Hager</surname><given-names>GL</given-names></name><name><surname>DeFranco</surname><given-names>DB</given-names></name></person-group>: <article-title>Molecular chaperones function as
+steroid receptor nuclear mobility factors.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>2004</year>, <volume>101</volume>:<fpage>2876</fpage>-<lpage>2881</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.0400116101</pub-id><?supplied-pmid 14978266?><pub-id pub-id-type="pmid">14978266</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Czar</surname><given-names>MJ</given-names></name><name><surname>Lyons</surname><given-names>RH</given-names></name><name><surname>Welsh</surname><given-names>MJ</given-names></name><name><surname>Renoir</surname><given-names>JM</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Evidence that FK506-binding
+immunophilin heat shock protein 56 is required for the trafficking of the
+glucocorticoid receptor from the cytoplasm to the nucleus.</article-title>
+<source>Mol Endocrinol</source>
+<year>1995</year>,
+<volume>9</volume>:<fpage>1549</fpage>-<lpage>1560</lpage>.<?supplied-pmid 8584032?><pub-id pub-id-type="pmid">8584032</pub-id></mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Radanyi</surname><given-names>C</given-names></name><name><surname>Renoir</surname><given-names>JM</given-names></name><name><surname>Housley</surname><given-names>PR</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Evidence that the peptidylprolyl
+isomerase domain of the hsp90-binding immunophilin FKBP52 is involved in
+both dynein interaction and glucocorticoid receptor movement to the
+nucleus.</article-title>
+<source>J Biol Chem</source>
+<year>2001</year>,
+<volume>276</volume>:<fpage>14884</fpage>-<lpage>14889</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M010809200</pub-id><?supplied-pmid 11278753?><pub-id pub-id-type="pmid">11278753</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wochnik</surname><given-names>GM</given-names></name><name><surname>R&#x000fc;egg</surname><given-names>J</given-names></name><name><surname>Abel</surname><given-names>GA</given-names></name><name><surname>Schmidt</surname><given-names>U</given-names></name><name><surname>Holsboer</surname><given-names>F</given-names></name><name><surname>Rein</surname><given-names>T</given-names></name></person-group>: <article-title>FK506-binding proteins 51 and 52
+differentially regulate dynein interaction and nuclear translocation of the
+glucocorticoid receptor in mammalian cells.</article-title>
+<source>J Biol Chem</source>
+<year>2005</year>, <volume>280</volume>:<fpage>4609</fpage>-<lpage>4616</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M407498200</pub-id><?supplied-pmid 15591061?><pub-id pub-id-type="pmid">15591061</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pratt</surname><given-names>WB</given-names></name><name><surname>Silverstein</surname><given-names>AM</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name></person-group>: <article-title>A model for the cytoplasmic
+trafficking of signalling proteins involving the hsp90-binding immunophilins
+and p50 cdc37.</article-title>
+<source>Cell Signal</source>
+<year>1999</year>, <volume>11</volume>:<fpage>839</fpage>-<lpage>851</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0898-6568(99)00064-9</pub-id><?supplied-pmid 10659992?><pub-id pub-id-type="pmid">10659992</pub-id></mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Erlejman</surname><given-names>AG</given-names></name><name><surname>Monte</surname><given-names>M</given-names></name><name><surname>Gomez-Sanchez</surname><given-names>C</given-names></name><name><surname>Piwien-Pilipuk</surname><given-names>G</given-names></name></person-group>: <article-title>The hsp90-FKBP52 complex links the
+mineralocorticoid receptor to motor proteins and persists bound to the
+receptor in early nuclear events.</article-title>
+<source>Mol Cell Biol</source>
+<year>2010</year>, <volume>30</volume>:<fpage>1285</fpage>-<lpage>1298</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.01190-09</pub-id><?supplied-pmid 20038533?><pub-id pub-id-type="pmid">20038533</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davies</surname><given-names>TH</given-names></name><name><surname>Ning</surname><given-names>YM</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>ER</given-names></name></person-group>: <article-title>A new first step in activation of
+steroid receptors: hormone-induced switching of FKBP51 and FKBP52
+immunophilins.</article-title>
+<source>J Biol Chem</source>
+<year>2002</year>, <volume>277</volume>:<fpage>4597</fpage>-<lpage>4600</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.C100531200</pub-id><?supplied-pmid 11751894?><pub-id pub-id-type="pmid">11751894</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yong</surname><given-names>W</given-names></name><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Periyasamy</surname><given-names>S</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Yucel</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Lin</surname><given-names>LY</given-names></name><name><surname>Wolf</surname><given-names>IM</given-names></name><name><surname>Cohn</surname><given-names>MJ</given-names></name><name><surname>Baskin</surname><given-names>LS</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>ER</given-names></name><name><surname>Shou</surname><given-names>W</given-names></name></person-group>: <article-title>Essential role for Co-chaperone
+Fkbp52 but not Fkbp51 in androgen receptor-mediated signaling and
+physiology.</article-title>
+<source>J Biol Chem.</source>
+<year>2007</year>, <volume>282</volume>:<fpage>5026</fpage>-<lpage>5036</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M609360200</pub-id><?supplied-pmid 17142810?><pub-id pub-id-type="pmid">17142810</pub-id></mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wolf</surname><given-names>IM</given-names></name><name><surname>Periyasamy</surname><given-names>S</given-names></name><name><surname>Hinds</surname><given-names>T</given-names><suffix>Jr</suffix></name><name><surname>Yong</surname><given-names>W</given-names></name><name><surname>Shou</surname><given-names>W</given-names></name><name><surname>Sanchez</surname><given-names>ER</given-names></name></person-group>: <article-title>Targeted ablation reveals a novel
+role of FKBP52 in gene-specific regulation of glucocorticoid receptor
+transcriptional activity.</article-title>
+<source>J Steroid Biochem Mol Biol</source>
+<year>2009</year>, <volume>113</volume>:<fpage>36</fpage>-<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jsbmb.2008.11.006</pub-id><?supplied-pmid 19073255?><pub-id pub-id-type="pmid">19073255</pub-id></mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tranguch</surname><given-names>S</given-names></name><name><surname>Cheung-Flynn</surname><given-names>J</given-names></name><name><surname>Daikoku</surname><given-names>T</given-names></name><name><surname>Prapapanich</surname><given-names>V</given-names></name><name><surname>Cox</surname><given-names>MB</given-names></name><name><surname>Xie</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Das</surname><given-names>SK</given-names></name><name><surname>Smith</surname><given-names>DF</given-names></name><name><surname>Dey</surname><given-names>SK</given-names></name></person-group>: <article-title>Cochaperone immunophilin FKBP52 is
+critical to uterine receptivity for embryo implantation.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>2005</year>,
+<volume>102</volume>:<fpage>14326</fpage>-<lpage>14331</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0505775102</pub-id><?supplied-pmid 16176985?><pub-id pub-id-type="pmid">16176985</pub-id></mixed-citation></ref><ref id="r47"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheung-Flynn</surname><given-names>J</given-names></name><name><surname>Prapapanich</surname><given-names>V</given-names></name><name><surname>Cox</surname><given-names>MB</given-names></name><name><surname>Riggs</surname><given-names>DL</given-names></name><name><surname>Suarez-Quian</surname><given-names>C</given-names></name><name><surname>Smith</surname><given-names>DF</given-names></name></person-group>: <article-title>Physiological role for the
+cochaperone FKBP52 in androgen receptor signaling.</article-title>
+<source>Mol Endocrinol</source>
+<year>2005</year>, <volume>19</volume>:<fpage>1654</fpage>-<lpage>1666</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2005-0071</pub-id><?supplied-pmid 15831525?><pub-id pub-id-type="pmid">15831525</pub-id></mixed-citation></ref><ref id="r48"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Wolf</surname><given-names>IM</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Periyasamy</surname><given-names>S</given-names></name><name><surname>Chen</surname><given-names>Z</given-names></name><name><surname>Yong</surname><given-names>W</given-names></name><name><surname>Shi</surname><given-names>S</given-names></name><name><surname>Zhao</surname><given-names>W</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name><name><surname>Srivastava</surname><given-names>A</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>ER</given-names></name><name><surname>Shou</surname><given-names>W</given-names></name></person-group>: <article-title>FK506-binding protein 52 is essential
+to uterine reproductive physiology controlled by the progesterone receptor A
+isoform.</article-title>
+<source>Mol Endocrinol</source>
+<year>2006</year>, <volume>20</volume>:<fpage>2682</fpage>-<lpage>2694</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2006-0024</pub-id><?supplied-pmid 16873445?><pub-id pub-id-type="pmid">16873445</pub-id></mixed-citation></ref><ref id="r49"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabbah</surname><given-names>M</given-names></name><name><surname>Radanyi</surname><given-names>C</given-names></name><name><surname>Redeuilh</surname><given-names>G</given-names></name><name><surname>Baulieu</surname><given-names>EE</given-names></name></person-group>: <article-title>The 90 kDa heat-shock protein (hsp90)
+modulates the binding of the oestrogen receptor to its cognate
+DNA.</article-title>
+<source>Biochem J</source>
+<year>1996</year>,
+<volume>314</volume>:<fpage>205</fpage>-<lpage>213</lpage>.<?supplied-pmid 8660284?><pub-id pub-id-type="pmid">8660284</pub-id></mixed-citation></ref><ref id="r50"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thackray</surname><given-names>VG</given-names></name><name><surname>Toft</surname><given-names>DO</given-names></name><name><surname>Nordeen</surname><given-names>SK</given-names></name></person-group>: <article-title>Novel activation step required for
+transcriptional competence of progesterone receptor on chromatin
+templates.</article-title>
+<source>Mol Endocrinol</source>
+<year>2003</year>, <volume>17</volume>:<fpage>2543</fpage>-<lpage>2553</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2003-0200</pub-id><?supplied-pmid 14551264?><pub-id pub-id-type="pmid">14551264</pub-id></mixed-citation></ref><ref id="r51"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Felts</surname><given-names>SJ</given-names></name><name><surname>Toft</surname><given-names>DO</given-names></name></person-group>: <article-title>P23, a simple protein with complex
+activities.</article-title>
+<source>Cell Stress Chaperones</source>
+<year>2003</year>, <volume>8</volume>:<fpage>108</fpage>-<lpage>113</lpage>.
+<pub-id pub-id-type="doi">10.1379/1466-1268(2003)008&#x0003c;0108:PASPWC&#x0003e;2.0.CO;2</pub-id><?supplied-pmid 14627195?><pub-id pub-id-type="pmid">14627195</pub-id></mixed-citation></ref><ref id="r52"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ali</surname><given-names>MM</given-names></name><name><surname>Roe</surname><given-names>SM</given-names></name><name><surname>Vaughan</surname><given-names>CK</given-names></name><name><surname>Meyer</surname><given-names>P</given-names></name><name><surname>Panaretou</surname><given-names>B</given-names></name><name><surname>Piper</surname><given-names>PW</given-names></name><name><surname>Prodromou</surname><given-names>C</given-names></name><name><surname>Pearl</surname><given-names>LH</given-names></name></person-group>: <article-title>Crystal structure of an
+Hsp90-nucleotide-p23/Sba1 closed chaperone complex.</article-title>
+<source>Nature</source>
+<year>2006</year>, <volume>440</volume>:<fpage>1013</fpage>-<lpage>1017</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature04716</pub-id><?supplied-pmid 16625188?><pub-id pub-id-type="pmid">16625188</pub-id></mixed-citation></ref><ref id="r53"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bose</surname><given-names>S</given-names></name><name><surname>Weikl</surname><given-names>T</given-names></name><name><surname>B&#x000fc;gl</surname><given-names>H</given-names></name><name><surname>Buchner</surname><given-names>J</given-names></name></person-group>: <article-title>Chaperone function of
+Hsp90-associated proteins.</article-title>
+<source>Science</source>
+<year>1996</year>, <volume>274</volume>:<fpage>1715</fpage>-<lpage>1717</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.274.5293.1715</pub-id><?supplied-pmid 8939863?><pub-id pub-id-type="pmid">8939863</pub-id></mixed-citation></ref><ref id="r54"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Echtenkamp</surname><given-names>FJ</given-names></name><name><surname>Zelin</surname><given-names>E</given-names></name><name><surname>Oxelmark</surname><given-names>E</given-names></name><name><surname>Woo</surname><given-names>JI</given-names></name><name><surname>Andrews</surname><given-names>BJ</given-names></name><name><surname>Garabedian</surname><given-names>M</given-names></name><name><surname>Freeman</surname><given-names>BC</given-names></name></person-group>: <article-title>Global functional map of the p23
+molecular chaperone reveals an extensive cellular network.</article-title>
+<source>Mol Cell</source>
+<year>2011</year>, <volume>43</volume>:<fpage>229</fpage>-<lpage>241</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molcel.2011.05.029</pub-id><?supplied-pmid 21777812?><pub-id pub-id-type="pmid">21777812</pub-id></mixed-citation></ref><ref id="r55"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zelin</surname><given-names>E</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Toogun</surname><given-names>OA</given-names></name><name><surname>Zhong</surname><given-names>S</given-names></name><name><surname>Freeman</surname><given-names>BC</given-names></name></person-group>: <article-title>The p23 molecular chaperone and GCN5
+acetylase jointly modulate protein-DNA dynamics and open chromatin
+status.</article-title>
+<source>Mol Cell</source>
+<year>2012</year>, <volume>48</volume>:<fpage>459</fpage>-<lpage>470</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molcel.2012.08.026</pub-id><?supplied-pmid 23022381?><pub-id pub-id-type="pmid">23022381</pub-id></mixed-citation></ref><ref id="r56"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Freeman</surname><given-names>BC</given-names></name><name><surname>Yamamoto</surname><given-names>KR</given-names></name></person-group>: <article-title>Continuous recycling: a mechanism for
+modulatory signal transduction.</article-title>
+<source>Trends Biochem Sci</source>
+<year>2001</year>, <volume>26</volume>:<fpage>285</fpage>-<lpage>290</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0968-0004(01)01834-5</pub-id><?supplied-pmid 11343920?><pub-id pub-id-type="pmid">11343920</pub-id></mixed-citation></ref><ref id="r57"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Freeman</surname><given-names>BC</given-names></name><name><surname>Yamamoto</surname><given-names>KR</given-names></name></person-group>: <article-title>Disassembly of transcriptional
+regulatory complexes by molecular chaperones.</article-title>
+<source>Science</source>
+<year>2002</year>, <volume>296</volume>:2232-2235. <pub-id pub-id-type="doi">10.1126/science.1073051</pub-id><?supplied-pmid 12077419?><pub-id pub-id-type="pmid">12077419</pub-id></mixed-citation></ref><ref id="r58"><label>58</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stavreva</surname><given-names>DA</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>WG</given-names></name><name><surname>Hager</surname><given-names>GL</given-names></name><name><surname>Smith</surname><given-names>CL</given-names></name><name><surname>McNally</surname><given-names>JG</given-names></name></person-group>: <article-title>Rapid glucocorticoid receptor
+exchange at a promoter is coupled to transcription and regulated by
+chaperones and proteasomes.</article-title>
+<source>Mol Cell Biol</source>
+<year>2004</year>, <volume>24</volume>:<fpage>2682</fpage>-<lpage>2697</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.24.7.2682-2697.2004</pub-id><?supplied-pmid 15024059?><pub-id pub-id-type="pmid">15024059</pub-id></mixed-citation></ref><ref id="r59"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>DF</given-names></name><name><surname>Whitesell</surname><given-names>L</given-names></name><name><surname>Nair</surname><given-names>SC</given-names></name><name><surname>Chen</surname><given-names>S</given-names></name><name><surname>Prapapanich</surname><given-names>V</given-names></name><name><surname>Rimerman</surname><given-names>RA</given-names></name></person-group>: <article-title>Progesterone receptor structure and
+function altered by geldanamycin, an hsp90-binding agent.</article-title>
+<source>Mol Cell Biol</source>
+<year>1995</year>,
+<volume>15</volume>:<fpage>6804</fpage>-<lpage>6812</lpage>.<?supplied-pmid 8524246?><pub-id pub-id-type="pmid">8524246</pub-id></mixed-citation></ref><ref id="r60"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stavreva</surname><given-names>D</given-names></name><name><surname>Wiench</surname><given-names>M</given-names></name><name><surname>John</surname><given-names>S</given-names></name><name><surname>Conway-Campbell</surname><given-names>B</given-names></name><name><surname>McKenna</surname><given-names>M</given-names></name><name><surname>Pooley</surname><given-names>J</given-names></name><name><surname>Johnson</surname><given-names>T</given-names></name><name><surname>Voss</surname><given-names>T</given-names></name><name><surname>Lightman</surname><given-names>S</given-names></name><name><surname>Hager</surname><given-names>G</given-names></name></person-group>: <article-title>Ultradian hormone stimulation induces
+glucocorticoid receptor-mediated pulses of gene
+transcription.</article-title>
+<source>Nat Cell Biol</source>
+<year>2009</year>, <volume>11</volume>:<fpage>1093</fpage>-<lpage>1102</lpage>.
+<pub-id pub-id-type="doi">10.1038/ncb1922</pub-id><?supplied-pmid 19684579?><pub-id pub-id-type="pmid">19684579</pub-id></mixed-citation></ref><ref id="r61"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Conway-Campbell</surname><given-names>BL</given-names></name><name><surname>George</surname><given-names>CL</given-names></name><name><surname>Pooley</surname><given-names>JR</given-names></name><name><surname>Knight</surname><given-names>DM</given-names></name><name><surname>Norman</surname><given-names>MR</given-names></name><name><surname>Hager</surname><given-names>GL</given-names></name><name><surname>Lightman</surname><given-names>SL</given-names></name></person-group>: <article-title>The HSP90 molecular chaperone cycle
+regulates cyclical transcriptional dynamics of the glucocorticoid receptor
+and its coregulatory molecules CBP/p300 during ultradian ligand
+treatment.</article-title>
+<source>Mol Endocrinol</source>
+<year>2011</year>, <volume>25</volume>:<fpage>944</fpage>-<lpage>954</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2010-0073</pub-id><?supplied-pmid 21511880?><pub-id pub-id-type="pmid">21511880</pub-id></mixed-citation></ref><ref id="r62"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M&#x000e9;tivier</surname><given-names>R</given-names></name><name><surname>Penot</surname><given-names>G</given-names></name><name><surname>H&#x000fc;bner</surname><given-names>MR</given-names></name><name><surname>Reid</surname><given-names>G</given-names></name><name><surname>Brand</surname><given-names>H</given-names></name><name><surname>Kos</surname><given-names>M</given-names></name><name><surname>Gannon</surname><given-names>F</given-names></name></person-group>: <article-title>Estrogen receptor-alpha directs
+ordered, cyclical, and combinatorial recruitment of cofactors on a natural
+target promoter.</article-title>
+<source>Cell</source>
+<year>2003</year>, <volume>115</volume>:<fpage>751</fpage>-<lpage>763</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(03)00934-6</pub-id><?supplied-pmid 14675539?><pub-id pub-id-type="pmid">14675539</pub-id></mixed-citation></ref><ref id="r63"><label>63</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kang</surname><given-names>Z</given-names></name><name><surname>Pirskanen</surname><given-names>A</given-names></name><name><surname>J&#x000e4;nne</surname><given-names>OA</given-names></name><name><surname>Palvimo</surname><given-names>JJ</given-names></name></person-group>: <article-title>Involvement of proteasome in the
+dynamic assembly of the androgen receptor transcription
+complex.</article-title>
+<source>J Biol Chem</source>
+<year>2002</year>,
+<volume>277</volume>:<fpage>48366</fpage>-<lpage>48371</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M209074200</pub-id><?supplied-pmid 12376534?><pub-id pub-id-type="pmid">12376534</pub-id></mixed-citation></ref><ref id="r64"><label>64</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simpson</surname><given-names>NE</given-names></name><name><surname>Gertz</surname><given-names>J</given-names></name><name><surname>Imberg</surname><given-names>K</given-names></name><name><surname>Myers</surname><given-names>RM</given-names></name><name><surname>Garabedian</surname><given-names>MJ</given-names></name></person-group>: <article-title>Research resource: enhanced
+genome-wide occupancy of estrogen receptor &#x003b1; by the cochaperone p23
+in breast cancer cells.</article-title>
+<source>Mol Endocrinol</source>
+<year>2012</year>, <volume>26</volume>:<fpage>194</fpage>-<lpage>202</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2011-1068</pub-id><?supplied-pmid 22074947?><pub-id pub-id-type="pmid">22074947</pub-id></mixed-citation></ref><ref id="r65"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reebye</surname><given-names>V</given-names></name><name><surname>Cano</surname><given-names>L</given-names></name><name><surname>Lavery</surname><given-names>D</given-names></name><name><surname>Brooke</surname><given-names>G</given-names></name><name><surname>Powell</surname><given-names>S</given-names></name><name><surname>Chotai</surname><given-names>D</given-names></name><name><surname>Walker</surname><given-names>M</given-names></name><name><surname>Whitaker</surname><given-names>H</given-names></name><name><surname>Wait</surname><given-names>R</given-names></name><name><surname>Hurst</surname><given-names>H</given-names></name><name><surname>Bevan</surname><given-names>C</given-names></name></person-group>: <article-title>Role of the HSP90-associated
+cochaperone p23 in enhancing activity of the androgen receptor and
+significance for prostate cancer.</article-title>
+<source>Mol Endocrinol</source>
+<year>2012</year>, <volume>26</volume>:<fpage>1694</fpage>-<lpage>1706</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2012-1056</pub-id><?supplied-pmid 22899854?><pub-id pub-id-type="pmid">22899854</pub-id></mixed-citation></ref><ref id="r66"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grad</surname><given-names>I</given-names></name><name><surname>McKee</surname><given-names>TA</given-names></name><name><surname>Ludwig</surname><given-names>SM</given-names></name><name><surname>Hoyle</surname><given-names>GW</given-names></name><name><surname>Ruiz</surname><given-names>P</given-names></name><name><surname>Wurst</surname><given-names>W</given-names></name><name><surname>Floss</surname><given-names>T</given-names></name><name><surname>Miller</surname><given-names>CA</given-names></name><name><surname>Picard</surname><given-names>D</given-names></name></person-group>: <article-title>The Hsp90 cochaperone p23 is
+essential for perinatal survival.</article-title>
+<source>Mol Cell Biol</source>
+<year>2006</year>, <volume>26</volume>:<fpage>8976</fpage>-<lpage>8983</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.00734-06</pub-id><?supplied-pmid 17000766?><pub-id pub-id-type="pmid">17000766</pub-id></mixed-citation></ref><ref id="r67"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grier</surname><given-names>DG</given-names></name><name><surname>Halliday</surname><given-names>HL</given-names></name></person-group>: <article-title>Effects of glucocorticoids on fetal
+and neonatal lung development.</article-title>
+<source>Treat Respir Med</source>
+<year>2004</year>, <volume>3</volume>:<fpage>295</fpage>-<lpage>306</lpage>.
+<pub-id pub-id-type="doi">10.2165/00151829-200403050-00004</pub-id><?supplied-pmid 15606220?><pub-id pub-id-type="pmid">15606220</pub-id></mixed-citation></ref><ref id="r68"><label>68</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aszterbaum</surname><given-names>M</given-names></name><name><surname>Feingold</surname><given-names>KR</given-names></name><name><surname>Menon</surname><given-names>GK</given-names></name><name><surname>Williams</surname><given-names>ML</given-names></name></person-group>: <article-title>Glucocorticoids accelerate fetal
+maturation of the epidermal permeability barrier in the rat.</article-title>
+<source>J Clin Invest</source>
+<year>1993</year>, <volume>91</volume>:<fpage>2703</fpage>-<lpage>2708</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI116509</pub-id><?supplied-pmid 8514877?><pub-id pub-id-type="pmid">8514877</pub-id></mixed-citation></ref><ref id="r69"><label>69</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hanley</surname><given-names>K</given-names></name><name><surname>Feingold</surname><given-names>KR</given-names></name><name><surname>K&#x000f6;m&#x000fc;ves</surname><given-names>LG</given-names></name><name><surname>Elias</surname><given-names>PM</given-names></name><name><surname>Muglia</surname><given-names>LJ</given-names></name><name><surname>Majzoub</surname><given-names>JA</given-names></name><name><surname>Williams</surname><given-names>ML</given-names></name></person-group>: <article-title>Glucocorticoid deficiency delays
+stratum corneum maturation in the fetal mouse.</article-title>
+<source>J Inves Dermatol</source>
+<year>1998</year>, <volume>111</volume>:<fpage>440</fpage>-<lpage>444</lpage>.
+<pub-id pub-id-type="doi">10.1046/j.1523-1747.1998.00303.x</pub-id><?supplied-pmid 9740238?><pub-id pub-id-type="pmid">9740238</pub-id></mixed-citation></ref><ref id="r70"><label>70</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Chernenko</surname><given-names>G</given-names></name><name><surname>Hao</surname><given-names>Y</given-names></name><name><surname>Ding</surname><given-names>Z</given-names></name><name><surname>Pater</surname><given-names>MM</given-names></name><name><surname>Pater</surname><given-names>A</given-names></name><name><surname>Tang</surname><given-names>SC</given-names></name></person-group>: <article-title>Human BAG-1/RAP46 protein is
+generated as four isoforms by alternative translation initiation and
+overexpressed in cancer cells.</article-title>
+<source>Oncogene</source>
+<year>1998</year>, <volume>17</volume>:<fpage>981</fpage>-<lpage>989</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.onc.1202032</pub-id><?supplied-pmid 9747877?><pub-id pub-id-type="pmid">9747877</pub-id></mixed-citation></ref><ref id="r71"><label>71</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Krajewski</surname><given-names>S</given-names></name><name><surname>Krajewska</surname><given-names>M</given-names></name><name><surname>Kitada</surname><given-names>S</given-names></name><name><surname>Zapata</surname><given-names>JM</given-names></name><name><surname>Kochel</surname><given-names>K</given-names></name><name><surname>Knee</surname><given-names>D</given-names></name><name><surname>Scudiero</surname><given-names>D</given-names></name><name><surname>Tudor</surname><given-names>G</given-names></name><name><surname>Miller</surname><given-names>GJ</given-names></name><name><surname>Miyashita</surname><given-names>T</given-names></name><name><surname>Yamada</surname><given-names>M</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name></person-group>: <article-title>Expression and location of
+Hsp70/Hsc-binding anti-apoptotic protein BAG-1 and its variants in normal
+tissues and tumor cell lines.</article-title>
+<source>Cancer Res</source>
+<year>1998</year>,
+<volume>58</volume>:<fpage>3116</fpage>-<lpage>3131</lpage>.<?supplied-pmid 9679980?><pub-id pub-id-type="pmid">9679980</pub-id></mixed-citation></ref><ref id="r72"><label>72</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kriegenburg</surname><given-names>F</given-names></name><name><surname>Jakopec</surname><given-names>V</given-names></name><name><surname>Poulsen</surname><given-names>EG</given-names></name><name><surname>Nielsen</surname><given-names>SV</given-names></name><name><surname>Roguev</surname><given-names>A</given-names></name><name><surname>Krogan</surname><given-names>N</given-names></name><name><surname>Gordon</surname><given-names>C</given-names></name><name><surname>Fleig</surname><given-names>U</given-names></name><name><surname>Hartmann-Petersen</surname><given-names>R</given-names></name></person-group>: <article-title>A chaperone-assisted degradation
+pathway targets kinetochore proteins to ensure genome
+stability.</article-title>
+<source>PLoS Genet</source>
+<year>2014</year>, <volume>10</volume>:<fpage>e1004140</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pgen.1004140</pub-id><?supplied-pmid 24497846?><pub-id pub-id-type="pmid">24497846</pub-id></mixed-citation></ref><ref id="r73"><label>73</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corpet</surname><given-names>F</given-names></name></person-group>: <article-title>Multiple sequence alignment with
+hierarchical clustering.</article-title>
+<source>Nucleic Acids Res</source>
+<year>1988</year>,
+<volume>16</volume>:<fpage>10881</fpage>-<lpage>10890</lpage>. <pub-id pub-id-type="doi">10.1093/nar/16.22.10881</pub-id><?supplied-pmid 2849754?><pub-id pub-id-type="pmid">2849754</pub-id></mixed-citation></ref><ref id="r74"><label>74</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brehmer</surname><given-names>D</given-names></name><name><surname>Rudiger</surname><given-names>S</given-names></name><name><surname>Gassler</surname><given-names>CS</given-names></name><name><surname>Klostermeier</surname><given-names>D</given-names></name><name><surname>Packschies</surname><given-names>L</given-names></name><name><surname>Reinstein</surname><given-names>J</given-names></name><name><surname>Mayer</surname><given-names>MP</given-names></name><name><surname>Bukau</surname><given-names>B</given-names></name></person-group>: <article-title>Tuning of chaperone activity of Hsp70
+proteins by modulation of nucleotide exchange.</article-title>
+<source>Nat Struct Biol</source>
+<year>2001</year>, <volume>8</volume>:<fpage>427</fpage>-<lpage>432</lpage>.
+<pub-id pub-id-type="doi">10.1038/87588</pub-id><?supplied-pmid 11323718?><pub-id pub-id-type="pmid">11323718</pub-id></mixed-citation></ref><ref id="r75"><label>75</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sondermann</surname><given-names>H</given-names></name><name><surname>Scheufler</surname><given-names>C</given-names></name><name><surname>Schneider</surname><given-names>C</given-names></name><name><surname>Hohfeld</surname><given-names>J</given-names></name><name><surname>Hartl</surname><given-names>FU</given-names></name><name><surname>Moarefi</surname><given-names>I</given-names></name></person-group>: <article-title>Structure of a Bag/Hsc70 complex:
+convergent functional evolution of Hsp70 nucleotide exchange
+factors.</article-title>
+<source>Science</source>
+<year>2001</year>, <volume>291</volume>:<fpage>1553</fpage>-<lpage>1557</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1057268</pub-id><?supplied-pmid 11222862?><pub-id pub-id-type="pmid">11222862</pub-id></mixed-citation></ref><ref id="r76"><label>76</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alberti</surname><given-names>S</given-names></name><name><surname>Esser</surname><given-names>C</given-names></name><name><surname>Hohfeld</surname><given-names>J</given-names></name></person-group>: <article-title>BAG-1 - a nucleaotide exchange factor
+of Hsc70 with multiple cellular functions.</article-title>
+<source>Cell Stress Chaperones</source>
+<year>2003</year>, <volume>8</volume>: <fpage>225</fpage>-<lpage>231</lpage>.
+<pub-id pub-id-type="doi">10.1379/1466-1268(2003)008&#x0003c;0225:BNEFOH&#x0003e;2.0.CO;2</pub-id><?supplied-pmid 14984055?><pub-id pub-id-type="pmid">14984055</pub-id></mixed-citation></ref><ref id="r77"><label>77</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>L&#x000fc;ders</surname><given-names>J</given-names></name><name><surname>Demand</surname><given-names>J</given-names></name><name><surname>H&#x000f6;hfeld</surname><given-names>J</given-names></name></person-group>: <article-title>The ubiquitin-related BAG-1 provides
+a link between the molecular chaperones Hsc70/Hsp70 and the
+proteasome.</article-title>
+<source>J Biol Chem</source>
+<year>2000</year>, <volume>275</volume>:<fpage>4613</fpage>-<lpage>4617</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.275.7.4613</pub-id><?supplied-pmid 10671488?><pub-id pub-id-type="pmid">10671488</pub-id></mixed-citation></ref><ref id="r78"><label>78</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Demand</surname><given-names>J</given-names></name><name><surname>Alberti</surname><given-names>S</given-names></name><name><surname>Patterson</surname><given-names>C</given-names></name><name><surname>H&#x000f6;hfeld</surname><given-names>J</given-names></name></person-group>: <article-title>Cooperation of a ubiquitin domain
+protein and an E3 ubiquitin ligase during chaperone/proteasome
+coupling.</article-title>
+<source>Curr Biol</source>
+<year>2001</year>, <volume>11</volume>:<fpage>1569</fpage>-<lpage>1577</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0960-9822(01)00487-0</pub-id><?supplied-pmid 11676916?><pub-id pub-id-type="pmid">11676916</pub-id></mixed-citation></ref><ref id="r79"><label>79</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cato</surname><given-names>AC</given-names></name><name><surname>Mink</surname><given-names>S</given-names></name></person-group>: <article-title>BAG-1 family of cochaperones in the
+modulation of nuclear receptor action.</article-title>
+<source>J Steroid Biochem Mol Biol</source>
+<year>2001</year>, <volume>78</volume>:<fpage>379</fpage>-<lpage>388</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0960-0760(01)00114-5</pub-id><?supplied-pmid 11738548?><pub-id pub-id-type="pmid">11738548</pub-id></mixed-citation></ref><ref id="r80"><label>80</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kanelakis</surname><given-names>KC</given-names></name><name><surname>Morishima</surname><given-names>Y</given-names></name><name><surname>Dittmar</surname><given-names>KD</given-names></name><name><surname>Galigniana</surname><given-names>MD</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name><name><surname>Pratt</surname><given-names>WB</given-names></name></person-group>: <article-title>Differential effects of the
+hsp70-binding protein BAG-1 on glucocorticoid receptor folding by the
+hsp90-based chaperone machinery.</article-title>
+<source>J Biol Chem</source>
+<year>1999</year>,
+<volume>274</volume>:<fpage>34134</fpage>-<lpage>34140</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.274.48.34134</pub-id><?supplied-pmid 10567384?><pub-id pub-id-type="pmid">10567384</pub-id></mixed-citation></ref><ref id="r81"><label>81</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Niyaz</surname><given-names>Y</given-names></name><name><surname>Zeiner</surname><given-names>M</given-names></name><name><surname>Gehring</surname><given-names>U</given-names></name></person-group>: <article-title>Transcriptional activation by the
+human Hsp70-associating protein Hap50.</article-title>
+<source>J Cell Sci</source>
+<year>2001</year>,
+<volume>114</volume>:<fpage>1839</fpage>-<lpage>1845</lpage>.<?supplied-pmid 11329370?><pub-id pub-id-type="pmid">11329370</pub-id></mixed-citation></ref><ref id="r82"><label>82</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kriegenburg</surname><given-names>F</given-names></name><name><surname>Jakopec</surname><given-names>V</given-names></name><name><surname>Poulsen</surname><given-names>EG</given-names></name><name><surname>Nielsen</surname><given-names>SV</given-names></name><name><surname>Roguev</surname><given-names>A</given-names></name><name><surname>Krogan</surname><given-names>N</given-names></name><name><surname>Gordon</surname><given-names>C</given-names></name><name><surname>Fleig</surname><given-names>U</given-names></name><name><surname>Hartmann-Petersen</surname><given-names>R</given-names></name></person-group>: <article-title>A chaperone-assisted degradation
+pathway targets kinetochore proteins to ensure genome
+stability.</article-title>
+<source>PLoS Genet</source>
+<year>2014</year>, <volume>10</volume>:<fpage>e1004140</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pgen.1004140</pub-id><?supplied-pmid 24497846?><pub-id pub-id-type="pmid">24497846</pub-id></mixed-citation></ref><ref id="r83"><label>83</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knapp</surname><given-names>RT</given-names></name><name><surname>Steiner</surname><given-names>A</given-names></name><name><surname>Schmidt</surname><given-names>U</given-names></name><name><surname>Hafner</surname><given-names>K</given-names></name><name><surname>Holsboer</surname><given-names>F</given-names></name><name><surname>Rein</surname><given-names>T</given-names></name></person-group>: <article-title>BAG-1 diversely affects steroid
+receptor activity.</article-title>
+<source>Biochem J</source>
+<year>2012</year>, <volume>441</volume>:<fpage>297</fpage>-<lpage>303</lpage>.
+<pub-id pub-id-type="doi">10.1042/BJ20111456</pub-id><?supplied-pmid 21919886?><pub-id pub-id-type="pmid">21919886</pub-id></mixed-citation></ref><ref id="r84"><label>84</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Froesch</surname><given-names>BA</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name></person-group>: <article-title>BAG-1L protein enhances androgen
+receptor function.</article-title>
+<source>J Biol Chem</source>
+<year>1998</year>,
+<volume>273</volume>:<fpage>11660</fpage>-<lpage>11666</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.273.19.11660</pub-id><?supplied-pmid 9565586?><pub-id pub-id-type="pmid">9565586</pub-id></mixed-citation></ref><ref id="r85"><label>85</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cutress</surname><given-names>RI</given-names></name><name><surname>Townsend</surname><given-names>PA</given-names></name><name><surname>Sharp</surname><given-names>A</given-names></name><name><surname>Maison</surname><given-names>A</given-names></name><name><surname>Wood</surname><given-names>L</given-names></name><name><surname>Lee</surname><given-names>R</given-names></name><name><surname>Brimmell</surname><given-names>M</given-names></name><name><surname>Mullee</surname><given-names>MA</given-names></name><name><surname>Johnson</surname><given-names>PWM</given-names></name><name><surname>Royle</surname><given-names>GT</given-names></name><name><surname>Bateman</surname><given-names>AC</given-names></name><name><surname>Packham</surname><given-names>G</given-names></name></person-group>: <article-title>The nuclear BAG-1 isoform, BAG-1L,
+enhances oestrogen-dependent transcription.</article-title>
+<source>Oncogene</source>
+<year>2003</year>, <volume>22</volume>:<fpage>4973</fpage>-<lpage>4982</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.onc.1206688</pub-id><?supplied-pmid 12902980?><pub-id pub-id-type="pmid">12902980</pub-id></mixed-citation></ref><ref id="r86"><label>86</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>SS</given-names></name><name><surname>Crabb</surname><given-names>SJ</given-names></name><name><surname>Janghra</surname><given-names>N</given-names></name><name><surname>Carlberg</surname><given-names>C</given-names></name><name><surname>Williams</surname><given-names>AC</given-names></name><name><surname>Cutress</surname><given-names>RI</given-names></name><name><surname>Packham</surname><given-names>G</given-names></name><name><surname>Hague</surname><given-names>A</given-names></name></person-group>: <article-title>Subcellular localisation of BAG-1 and
+its regulation of vitamin D receptor-mediated transactivation and involucrin
+expression in oral keratinocytes: implications for oral
+carcinogenesis.</article-title>
+<source>Exp Cell Res</source>
+<year>2007</year>, <volume>313</volume>:<fpage>3222</fpage>-<lpage>3238</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.yexcr.2007.06.010</pub-id><?supplied-pmid 17662274?><pub-id pub-id-type="pmid">17662274</pub-id></mixed-citation></ref><ref id="r87"><label>87</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knee</surname><given-names>DA</given-names></name><name><surname>Froesch</surname><given-names>BA</given-names></name><name><surname>Nuber</surname><given-names>U</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name></person-group>: <article-title>Structure-function analysis of Bag1
+proteins. Effects on androgen receptor transcriptional
+activity.</article-title>
+<source>J Biol Chem</source>
+<year>2001</year>,
+<volume>276</volume>:<fpage>12718</fpage>-<lpage>12724</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M010841200</pub-id><?supplied-pmid 11278763?><pub-id pub-id-type="pmid">11278763</pub-id></mixed-citation></ref><ref id="r88"><label>88</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shatkina</surname><given-names>L</given-names></name><name><surname>Mink</surname><given-names>S</given-names></name><name><surname>Rogatsch</surname><given-names>H</given-names></name><name><surname>Klocker</surname><given-names>H</given-names></name><name><surname>Langer</surname><given-names>G</given-names></name><name><surname>Nestl</surname><given-names>A</given-names></name><name><surname>Cato</surname><given-names>AC</given-names></name></person-group>: <article-title>The cochaperone Bag-1L enhances
+androgen receptor action via interaction with the NH2-terminal region of the
+receptor.</article-title>
+<source>Mol Cell Biol</source>
+<year>2003</year>, <volume>23</volume>:<fpage>7189</fpage>-<lpage>7197</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.23.20.7189-7197.2003</pub-id><?supplied-pmid 14517289?><pub-id pub-id-type="pmid">14517289</pub-id></mixed-citation></ref><ref id="r89"><label>89</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Witcher</surname><given-names>M</given-names></name><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Pater</surname><given-names>A</given-names></name><name><surname>Tang</surname><given-names>SC</given-names></name></person-group>: <article-title>BAG-1 p50 isoform interacts with the
+vitamin D receptor and its cellular overexpression inhibits the vitamin D
+pathway.</article-title>
+<source>Exp Cell Res</source>
+<year>2001</year>, <volume>265</volume>:<fpage>167</fpage>-<lpage>173</lpage>.
+<pub-id pub-id-type="doi">10.1006/excr.2001.5176</pub-id><?supplied-pmid 11281654?><pub-id pub-id-type="pmid">11281654</pub-id></mixed-citation></ref><ref id="r90"><label>90</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zeiner</surname><given-names>M</given-names></name><name><surname>Niyaz</surname><given-names>Y</given-names></name><name><surname>Gehring</surname><given-names>U</given-names></name></person-group>: <article-title>The hsp70-associating protein Hap46
+binds to DNA and stimulates transcription.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>1999</year>,
+<volume>96</volume>:<fpage>10194</fpage>-<lpage>10199</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.96.18.10194</pub-id><?supplied-pmid 10468585?><pub-id pub-id-type="pmid">10468585</pub-id></mixed-citation></ref><ref id="r91"><label>91</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>U</given-names></name><name><surname>Wochnik</surname><given-names>GM</given-names></name><name><surname>Rosenhagen</surname><given-names>MC</given-names></name><name><surname>Young</surname><given-names>JC</given-names></name><name><surname>Hartl</surname><given-names>FU</given-names></name><name><surname>Holsboer</surname><given-names>F</given-names></name><name><surname>Rein</surname><given-names>T</given-names></name></person-group>: <article-title>Essential role of the unusual
+DNA-binding motif of BAG-1 for inhibition of the glucocorticoid
+receptor.</article-title>
+<source>J Biol Chem</source>
+<year>2003</year>, <volume>278</volume>:<fpage>4926</fpage>-<lpage>4931</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M212000200</pub-id><?supplied-pmid 12482863?><pub-id pub-id-type="pmid">12482863</pub-id></mixed-citation></ref><ref id="r92"><label>92</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jehle</surname><given-names>K</given-names></name><name><surname>Cato</surname><given-names>L</given-names></name><name><surname>Neeb</surname><given-names>A</given-names></name><name><surname>Muhle-Goll</surname><given-names>C</given-names></name><name><surname>Jung</surname><given-names>N</given-names></name><name><surname>Smith</surname><given-names>E</given-names></name><name><surname>Buzon</surname><given-names>V</given-names></name><name><surname>Carbo</surname><given-names>L</given-names></name><name><surname>Estebanez-Perpina</surname><given-names>E</given-names></name><name><surname>Schmitz</surname><given-names>K</given-names></name><name><surname>Fruk</surname><given-names>L</given-names></name><name><surname>Luy</surname><given-names>B</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Cox</surname><given-names>M</given-names></name><name><surname>Brase</surname><given-names>S</given-names></name><name><surname>Brown</surname><given-names>M</given-names></name><name><surname>Cato</surname><given-names>A</given-names></name></person-group>: <article-title>Coregulator control of androgen
+receptor action by a novel nuclear receptor-binding motif.</article-title>
+<source>J Biol Chem</source>
+<year>2014</year>, <volume>289</volume>:<fpage>8839</fpage>-<lpage>8851</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M113.534859</pub-id><?supplied-pmid 24523409?><pub-id pub-id-type="pmid">24523409</pub-id></mixed-citation></ref><ref id="r93"><label>93</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name></person-group>: <article-title>Molecular chaperone targeting and
+regulation by BAG family proteins.</article-title>
+<source>Nat Cell Biol</source>
+<year>2001</year>, <volume>3</volume>:<fpage>E237</fpage>-<lpage>241</lpage>.
+<pub-id pub-id-type="doi">10.1038/ncb1001-e237</pub-id><?supplied-pmid 11584289?><pub-id pub-id-type="pmid">11584289</pub-id></mixed-citation></ref><ref id="r94"><label>94</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buzon</surname><given-names>V</given-names></name><name><surname>Carbo</surname><given-names>LR</given-names></name><name><surname>Estruch</surname><given-names>SB</given-names></name><name><surname>Fletterick</surname><given-names>RJ</given-names></name><name><surname>Estebanez-Perpina</surname><given-names>E</given-names></name></person-group>: <article-title>A conserved surface on the ligand
+binding domain of nuclear receptors for allosteric control.</article-title>
+<source>Mol Cell Endocrinol</source>
+<year>2012</year>, <volume>348</volume>:<fpage>394</fpage>-<lpage>402</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.mce.2011.08.012</pub-id><?supplied-pmid 21878368?><pub-id pub-id-type="pmid">21878368</pub-id></mixed-citation></ref><ref id="r95"><label>95</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Leon</surname><given-names>JT</given-names></name><name><surname>Iwai</surname><given-names>A</given-names></name><name><surname>Feau</surname><given-names>C</given-names></name><name><surname>Garcia</surname><given-names>Y</given-names></name><name><surname>Balsiger</surname><given-names>HA</given-names></name><name><surname>Storer</surname><given-names>CL</given-names></name><name><surname>Suro</surname><given-names>RM</given-names></name><name><surname>Garza</surname><given-names>KM</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><name><surname>Kim</surname><given-names>YS</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Ning</surname><given-names>YM</given-names></name><name><surname>Riggs</surname><given-names>DL</given-names></name><name><surname>Fletterick</surname><given-names>RJ</given-names></name><name><surname>Guy</surname><given-names>RK</given-names></name><name><surname>Trepel</surname><given-names>JB</given-names></name><name><surname>Neckers</surname><given-names>LM</given-names></name><name><surname>Cox</surname><given-names>MB</given-names></name></person-group>: <article-title>Targeting the regulation of androgen
+receptor signaling by the heat shock protein 90 cochaperone FKBP52 in
+prostate cancer cells.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>2011</year>,
+<volume>108</volume>:<fpage>11878</fpage>-<lpage>11883</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1105160108</pub-id><?supplied-pmid 21730179?><pub-id pub-id-type="pmid">21730179</pub-id></mixed-citation></ref><ref id="r96"><label>96</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Riggs</surname><given-names>DL</given-names></name><name><surname>Cox</surname><given-names>MB</given-names></name><name><surname>Tardif</surname><given-names>HL</given-names></name><name><surname>Hessling</surname><given-names>M</given-names></name><name><surname>Buchner</surname><given-names>J</given-names></name><name><surname>Smith</surname><given-names>DF</given-names></name></person-group>: <article-title>Noncatalytic role of the FKBP52
+peptidyl-prolyl isomerase domain in the regulation of steroid hormone
+signaling.</article-title>
+<source>Mol Cell Biol</source>
+<year>2007</year>, <volume>27</volume>:<fpage>8658</fpage>-<lpage>8669</lpage>.
+<pub-id pub-id-type="doi">10.1128/MCB.00985-07</pub-id><?supplied-pmid 17938211?><pub-id pub-id-type="pmid">17938211</pub-id></mixed-citation></ref><ref id="r97"><label>97</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Briknarova</surname><given-names>K</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Brive</surname><given-names>L</given-names></name><name><surname>Havert</surname><given-names>ML</given-names></name><name><surname>Knee</surname><given-names>DA</given-names></name><name><surname>Velasco</surname><given-names>J</given-names></name><name><surname>Homma</surname><given-names>S</given-names></name><name><surname>Cabezas</surname><given-names>E</given-names></name><name><surname>Stuart</surname><given-names>J</given-names></name><name><surname>Hoyt</surname><given-names>DW</given-names></name><name><surname>Satterthwait</surname><given-names>AC</given-names></name><name><surname>Llinas</surname><given-names>M</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name><name><surname>Ely</surname><given-names>KR</given-names></name></person-group>: <article-title>Structural analysis of BAG1
+cochaperone and its interactions with Hsc70 heat shock
+protein.</article-title>
+<source>Nat Struct Biol</source>
+<year>2001</year>, <volume>8</volume>:<fpage>349</fpage>-<lpage>352</lpage>.
+<pub-id pub-id-type="doi">10.1038/86236</pub-id><?supplied-pmid 11276257?><pub-id pub-id-type="pmid">11276257</pub-id></mixed-citation></ref><ref id="r98"><label>98</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davey</surname><given-names>NE</given-names></name><name><surname>Van Roey</surname><given-names>K</given-names></name><name><surname>Weatheritt</surname><given-names>RJ</given-names></name><name><surname>Toedt</surname><given-names>G</given-names></name><name><surname>Uyar</surname><given-names>B</given-names></name><name><surname>Altenberg</surname><given-names>B</given-names></name><name><surname>Budd</surname><given-names>A</given-names></name><name><surname>Diella</surname><given-names>F</given-names></name><name><surname>Dinkel</surname><given-names>H</given-names></name><name><surname>Gibson</surname><given-names>TJ</given-names></name></person-group>: <article-title>Attributes of short linear
+motifs.</article-title>
+<source>Mol Biosyst</source>
+<year>2012</year>, <volume>8</volume>:<fpage>268</fpage>-<lpage>281</lpage>.
+<pub-id pub-id-type="doi">10.1039/c1mb05231d</pub-id><?supplied-pmid 21909575?><pub-id pub-id-type="pmid">21909575</pub-id></mixed-citation></ref><ref id="r99"><label>99</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>PE</given-names></name><name><surname>Dyson</surname><given-names>HJ</given-names></name></person-group>: <article-title>Linking folding and
+binding.</article-title>
+<source>Curr Opin Struct Biol</source>
+<year>2009</year>, <volume>19</volume>:<fpage>31</fpage>-<lpage>38</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.sbi.2008.12.003</pub-id><?supplied-pmid 19157855?><pub-id pub-id-type="pmid">19157855</pub-id></mixed-citation></ref><ref id="r100"><label>100</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xue</surname><given-names>R</given-names></name><name><surname>Zakharov</surname><given-names>MN</given-names></name><name><surname>Xia</surname><given-names>Y</given-names></name><name><surname>Bhasin</surname><given-names>S</given-names></name><name><surname>Costello</surname><given-names>JC</given-names></name><name><surname>Jasuja</surname><given-names>R</given-names></name></person-group>: <article-title>Research resource: EPSLiM: ensemble
+predictor for short linear motifs in nuclear hormone
+receptors.</article-title>
+<source>Mol Endocrinol</source>
+<year>2014</year>, <volume>28</volume>:<fpage>768</fpage>-<lpage>777</lpage>.
+<pub-id pub-id-type="doi">10.1210/me.2014-1006</pub-id><?supplied-pmid 24678734?><pub-id pub-id-type="pmid">24678734</pub-id></mixed-citation></ref><ref id="r101"><label>101</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>G&#x000f6;tz</surname><given-names>R</given-names></name><name><surname>Wiese</surname><given-names>S</given-names></name><name><surname>Takayama</surname><given-names>S</given-names></name><name><surname>Camarero</surname><given-names>GC</given-names></name><name><surname>Rossoll</surname><given-names>W</given-names></name><name><surname>Schweizer</surname><given-names>U</given-names></name><name><surname>Troppmair</surname><given-names>J</given-names></name><name><surname>Jablonka</surname><given-names>S</given-names></name><name><surname>Holtmann</surname><given-names>B</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name><name><surname>Rapp</surname><given-names>UR</given-names></name><name><surname>Sendtner</surname><given-names>M</given-names></name></person-group>: <article-title>Bag1 is essential for differentiation
+and survival of hematopoietic and neuronal cells.</article-title>
+<source>Nat Neurosci</source>
+<year>2005</year>, <volume>8</volume>:<fpage>1169</fpage>-<lpage>1178</lpage>.
+<pub-id pub-id-type="doi">10.1038/nn1524</pub-id><?supplied-pmid 16116448?><pub-id pub-id-type="pmid">16116448</pub-id></mixed-citation></ref><ref id="r102"><label>102</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shim</surname><given-names>JH</given-names></name><name><surname>Xiao</surname><given-names>C</given-names></name><name><surname>Hayden</surname><given-names>MS</given-names></name><name><surname>Lee</surname><given-names>KY</given-names></name><name><surname>Trombetta</surname><given-names>ES</given-names></name><name><surname>Pypaert</surname><given-names>M</given-names></name><name><surname>Nara</surname><given-names>A</given-names></name><name><surname>Yoshimori</surname><given-names>T</given-names></name><name><surname>Wilm</surname><given-names>B</given-names></name><name><surname>Erdjument-Bromage</surname><given-names>H</given-names></name><name><surname>Tempst</surname><given-names>P</given-names></name><name><surname>Hogan</surname><given-names>BLM</given-names></name><name><surname>Mellman</surname><given-names>I</given-names></name><name><surname>Ghosh</surname><given-names>S</given-names></name></person-group>: <article-title>CHMP5 is essential for late endosome
+function and down-regulation of receptor signaling during mouse
+embryogenesis.</article-title>
+<source>J Cell Biol</source>
+<year>2006</year>, <volume>172</volume>:<fpage>1045</fpage>-<lpage>1056</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.200509041</pub-id><?supplied-pmid 16567502?><pub-id pub-id-type="pmid">16567502</pub-id></mixed-citation></ref><ref id="r103"><label>103</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enthammer</surname><given-names>M</given-names></name><name><surname>Papadakis</surname><given-names>ES</given-names></name><name><surname>Gachet</surname><given-names>MS</given-names></name><name><surname>Deutsch</surname><given-names>M</given-names></name><name><surname>Schwaiger</surname><given-names>S</given-names></name><name><surname>Koziel</surname><given-names>K</given-names></name><name><surname>Ashraf</surname><given-names>MI</given-names></name><name><surname>Khalid</surname><given-names>S</given-names></name><name><surname>Wolber</surname><given-names>G</given-names></name><name><surname>Packham</surname><given-names>G</given-names></name><name><surname>Cutress</surname><given-names>RI</given-names></name><name><surname>Stuppner</surname><given-names>H</given-names></name><name><surname>Troppmair</surname><given-names>J</given-names></name></person-group>: <article-title>Isolation of a novel thioflavin
+S-derived compound that inhibits BAG-1-mediated protein interactions and
+targets BRAF inhibitor-resistant cell lines.</article-title>
+<source>Mol Cancer Ther</source>
+<year>2013</year>, <volume>12</volume>:<fpage>2400</fpage>-<lpage>2414</lpage>.
+<pub-id pub-id-type="doi">10.1158/1535-7163.MCT-13-0142</pub-id><?supplied-pmid 24048738?><pub-id pub-id-type="pmid">24048738</pub-id></mixed-citation></ref><ref id="r104"><label>104</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Patwardhan</surname><given-names>CA</given-names></name><name><surname>Fauq</surname><given-names>A</given-names></name><name><surname>Peterson</surname><given-names>LB</given-names></name><name><surname>Miller</surname><given-names>C</given-names></name><name><surname>Blagg</surname><given-names>BSJ</given-names></name><name><surname>Chadli</surname><given-names>A</given-names></name></person-group>: <article-title>Gedunin inactivates the co-chaperone
+p23 protein causing cancer cell death by apoptosis.</article-title>
+<source>J Biol Chem</source>
+<year>2013</year>, <volume>288</volume>:<fpage>7313</fpage>-<lpage>7325</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M112.427328</pub-id><?supplied-pmid 23355466?><pub-id pub-id-type="pmid">23355466</pub-id></mixed-citation></ref></ref-list></back></article>

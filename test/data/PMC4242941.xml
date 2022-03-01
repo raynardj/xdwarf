@@ -1,0 +1,326 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-200</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1723</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effect of Walking Exercise on Changes in Cardiorespiratory Fitness, Metabolic
+Syndrome Markers, and High-molecular-weight Adiponectin in Obese Middle-aged
+Women</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Dae-Young</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Seo</surname><given-names>Byoung-Do</given-names></name><degrees>MS, PT</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Dong-Je</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><aff id="aff1"><label>1)</label> Research Institute of Sports Medicine, Department of
+Protection Science, Kyungwoon University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, College of Health,
+Kyungwoon University,
+Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Byoung-Do Seo, Department of Physical Therapy, College of Health,
+Kyungwoon University: 55 Induck-ri, Sandong-myeon, Gumi-si, Gyeongsangbuk-do 730-739,
+Republic of Korea. (E-mail: <email xlink:href="oksbd@naver.com">oksbd@naver.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1723</fpage><lpage>1727</lpage><history><date date-type="received"><day>02</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>11</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The purpose of this study was to assess the effect of a 24-week exercise
+intervention on cardiorespiratory fitness, metabolic syndrome markers, and
+high-molecular-weight (HMW) adiponectin among obese middle-aged women. [Subjects] The
+subjects were 14 obese middle-aged women. [Methods] The exercise program involved walking
+at 50&#x02013;60% of the maximum oxygen consumption, 3 times a week, for 24 weeks. Body
+composition analysis, blood pressure measurements, and blood analysis were performed
+before the exercise program and at weeks 6, 12, 18, and 24. [Results] The results showed
+that after 24 weeks in the exercise program, the obesity indices and metabolic risk
+factors, namely, weight, body fat, body mass index, waist circumference, systolic blood
+pressure, diastolic blood pressure, and triglycerides decreased significantly, whereas
+HDLC, a metabolic improvement factor, increased significantly. Additionally,
+VO<sub>2max</sub> increased significantly, together with the level of total and HMW
+adiponectins. Correlation analysis of the changes in measured variables (&#x02206; score) during
+resulting from the 24-week exercise program showed that body fat had a significant
+negative correlation and VO<sub>2max</sub> had a significant positive correlation with HMW
+adiponectin. [Conclusion] Among obese middle-aged women, regular exercise increases
+cardiorespiratory fitness and HMW adiponectin expression and therefore can be effective in
+the prevention and treatment of obesity and metabolic syndrome.</p></abstract><kwd-group><title>Key words</title><kwd>Exercise</kwd><kwd>Cardiorespiratory fitness</kwd><kwd>Obesity</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The worldwide increase in the prevalence of obesity has prompted most countries to focus on
+its prevention and treatment to improve public health. Obesity is defined as an excessive
+accumulation of adipose tissue that leads to health problems and, in pathological terms,
+serves as the main risk factor for metabolic syndrome<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Metabolic syndrome refers to a cluster of disorders consisting of
+obesity, insulin resistance, hypertension, and hyperlipidemia, which may increase the risk
+for the development of chronic disease<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>.</p><p>Adipose tissues have been traditionally considered as the energy reservoir of the body.
+Recently, they have been recognized as an endocrine organ with various biological
+activities, including the synthesis of adipocytokines. Adiponectin is an adipocytokine that
+acts as an important mediator in insulin and glucose metabolism. The mechanism of
+adiponectin is currently a major focus in obesity and metabolic syndrome research. The name
+adiponectin was derived from the fusion of the terms adipocyte and protein, thus signifying
+a protein secreted by the adipose tissue. Its plasma concentration is within the range of
+5&#x02013;30&#x02005;&#x000b5;g/ml, which is 1,000 times higher than the hormones leptin and cortisol and about 1
+million times higher than the cytokines tumor necrosis factor (TNF)-&#x003b1; and interleukin
+(IL)-6<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Specifically,
+high-molecular-weight (HMW) adiponectin is the biologically active form of adiponectin and
+is more functionally important than low-molecular-weight (LMW) and medium-molecular-weight
+(MMW) adiponectin<xref rid="r4" ref-type="bibr">4</xref>, <xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>.</p><p>The currently elucidated roles of adiponectin include promoting oxidation of fat in the
+liver and muscles to improve insulin sensitivity<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>, anti-inflammatory effects by suppressing the secretion of cytokines
+from endothelial cells, and anti-atherosclerotic effects by suppressing the proliferation
+and migration of vascular smooth muscle cells promoted by the platelet-derived growth factor
+(PDGF)<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. Additionally, the concentration
+of adiponectin plays an important role in insulin sensitivity and glucose homeostasis and is
+also closely associated with an increased risk for obesity and the components of metabolic
+syndrome such as type II diabetes, cardiovascular disease, hypertension, and
+dyslipidemia<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>.</p><p>Finding ways to increase the secretion of adiponectin or its activity has been suggested to
+be a potential factor in the treatment of obesity and metabolic disorders, and one of the
+most effective ways to achieve this condition is through regular exercise. Regular exercise
+decreases abdominal fat, increases high-density lipoprotein cholesterol (HDLC), decreases
+neutral fat, decreases blood pressure, and increases insulin sensitivity<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. Specifically, the increase in metabolic
+equivalents and cardiorespiratory fitness (CRF) due to exercise has been reported to
+decrease the risk for metabolic syndrome, increase insulin sensitivity, and prevent
+cardiovascular diseases<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. In studies on the relationship between exercise and
+adiponectin, Esposito et al.<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup> applied
+dietary changes and aerobic exercise to obese middle-aged women and observed a decrease in
+body weight and a significant increase in adiponectin levels. Kriketos et al.<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> reported an increase in adiponectin levels
+when overweight men engaged in walking exercises for 40&#x02005;min a day, 4&#x02013;5 times a week, for 10
+weeks, at an intensity of 55&#x02013;70% of maximum oxygen consumption (VO<sub>2max</sub>).
+Furthermore, Boudou et al.<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> showed that
+middle-aged men and women who underwent a 16-week exercise program consisting of 30&#x02005;min of
+aerobic exercise 5 times a week, at an intensity of 80&#x02013;90% HRmax exhibited an increase in
+adiponectin levels. However, Polak et al.<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup> reported no changes in adiponectin among obese women who
+participated in a 12-week program consisting of aerobic exercise 5 times a week at an
+intensity of 50% VO<sub>2max</sub>. Giannopoulou et al.<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup> also did not observe any changes in adiponectin expression after 6
+months of aerobic exercise, although a decrease in blood insulin concentrations and an
+increase in insulin sensitivity were reported. In a 6-month study on weight loss through
+dietary changes or treatment with medications that decrease insulin sensitivity, the total
+adiponectin levels did not change, although HMW adiponectin increased<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>.</p><p>Various studies have reported the effect of exercise on adiponectin expression; however,
+they have reported show conflicting findings. Furthermore, studies on the effect of
+long-term exercise intervention on adiponectin in middle-aged women, who generally undergo
+changes in body weight, are currently insufficient to generate robust conclusions.
+Additionally, we believe that assessing HMW adiponectin along with total adiponectin can
+more effectively determine the effect of exercise on this specific population. Therefore,
+the purpose of this study was to determine the effect of a 24-week exercise intervention on
+the cardiorespiratory fitness, metabolic syndrome indices, and HMW adiponectin in
+middle-aged women.</p></sec><sec id="s2"><title>SUBJECT AND METHODS</title><p>The study population included 14 middle-aged women who were 42 to 55&#x02005;years of age and free
+of medical disorders. The subjects were selected after assessing age, physical activity
+level, changes in body weight in the past year, smoking, and current medication. Women who
+had both a waist circumference (WC) &#x02265; 80&#x02005;cm and a body mass index (BMI) &#x02265;
+25&#x02005;kg/m<sup>2</sup> and exercised less than twice a week were selected as subjects. Before
+conducting the experiment, the content and purpose of the experiment were fully explained to
+the subjects and they provided written consent. Kyungwoon university approved this study,
+which complies with the ethical standards of the Declaration of Helsinki. The general
+characteristics of the subjects are listed in <xref rid="tbl_001" ref-type="table">Table
+1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Physical characteristics of the participants in the experiment</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">Age (years)</th><th align="center" rowspan="1" colspan="1">Height (cm)</th><th align="center" rowspan="1" colspan="1">Weight (kg)</th><th align="center" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</th><th align="center" rowspan="1" colspan="1">Body fat (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Subjects (N = 14)</td><td align="center" rowspan="1" colspan="1">48.9 &#x000b1; 4.4</td><td align="center" rowspan="1" colspan="1">156.9 &#x000b1; 3.9</td><td align="center" rowspan="1" colspan="1">64.4 &#x000b1; 3.7</td><td align="center" rowspan="1" colspan="1">26.2 &#x000b1; 2.1</td><td align="center" rowspan="1" colspan="1">34.4 &#x000b1; 2.8</td></tr></tbody></table><table-wrap-foot><p>Data are means &#x000b1; SD</p></table-wrap-foot></table-wrap>.</p><p>VO<sub>2max</sub>, as an index of CRF, was measured on a motor driven treadmill using the
+Bruce protocol as described in the American College of Sports Medicine (ACSM)
+guidelines<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. Specifically, the speed
+of the treadmill was initially set at a comfortable walking speed of 1.0&#x02013;1.7 mph and at 10%
+grade. Speed and grade were then increased every 3&#x02005;min until volitional exhaustion.
+VO<sub>2</sub> was measured using standard breath-by-breath techniques of pulmonary gas
+exchange variables (Metabolic Gas Analyzer System; Quark b<sup>2</sup>, Cosmed Rome, Italy)
+and exercise heart rate was measured using 12-lead electrocardiography (Q4500, Quinton
+Instrument Company, Bothell, WA, USA). VO<sub>2max</sub> was considered as the highest
+oxygen consumption attained at the moment of exhaustion<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. During the incremental exercise test, the rate of perceived
+exertion (RPE, Borg scale) was measured. RPE was reported by the subjects at the end of each
+session based on the response to the question, &#x0201c;How hard did you work during this session?&#x0201d;
+The subjects rated their RPE while looking at a printed copy of the Borg scale. This
+self-reported scale has a score ranging from 6 to 20 and uses descriptive cues for each
+category of exertion within the scale, ranging from &#x0201c;very, very light&#x0201d; to &#x0201c;very, very
+heavy&#x0201d;<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. The requirements to strictly
+define whether subjects reached their VO<sub>2max</sub> max included meeting at least two of
+the following four criteria: (1) a respiratory exchange ratio of &#x0003e;1.15; (2) rate of
+perceived exertion &#x0003e;17 for the original category scale; (3) volitional exertion; and (4)
+achievement of age-predicted maximal heart rate. Study participants were verbally encouraged
+to exercise to exhaustion during the test.</p><p>The exercise program in this experiment consisted of walking at an intensity of 50&#x02013;60%
+VO<sub>2max</sub>, 3 times a week, for 24 weeks. After a treadmill VO<sub>2max</sub> test,
+the individual&#x02019;s regression line was calculated from the oxygen consumption per minute and
+heart rate. To determine whether the target calorie expenditure was achieved, the target
+heart rate of the subject during the walking exercise was assessed using an automatic heart
+rate monitor (Polar S610i heart rate monitor, Polar Electro, Kempele, Finland), from which
+energy expenditure was calculated. The energy expenditure per session was set at 400&#x02005;kcal,
+120&#x02005;kcal per week (three sessions per week), and the duration of each session was set
+between 60 and 120&#x02005;min, depending on individual performance.</p><p>Height and body mass were recorded using a stadiometer attached to a scale (DS-102, Jenix,
+Seoul, Republic of Korea). WC measurements were made using a cloth tape measure at the level
+of the umbilicus. Percent body fat was assessed using an X-scan II bioelectrical body
+composition analyzer (Jawon Medical, Seoul, Republic of Korea), according to the procedures
+recommended by the ACSM<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. After a
+resting period of at least 5&#x02005;min in a sitting position, resting BP was measured using an
+automated blood pressure cuff (FT-500R Automatic Blood Pressure Monitor, Jawon Medical,
+Seoul, Republic of Korea). All procedures were administrated by trained technicians who
+followed standardized protocols.</p><p>To minimize any possible effects of the last meal consumed before blood collection, the
+samples were collected after a 10&#x02013;12&#x02005;h overnight fast and in a sitting position. Blood
+samples were collected before the exercise program and at weeks 6, 12, 18, and 24 of the
+exercise program at the same time of the day and under the same conditions. The plasma was
+separated from the whole blood by centrifugation at 4&#x02005;&#x000b0;C and plasma triglyceride levels were
+determined using a TG slide (Vitros TRIG DTD, Johnson &#x00026; Johnson, New Brunswick, NJ, USA)
+and Vitros Chemistry DT60II (Johnson &#x00026; Johnson, New Brunswick, NJ, USA). HDLC was
+determined after precipitating apoB-containing cholesterol with magnesium chloride and
+dextran sulfate using an HDLC slide (HDL cholesterol; Vitros HDLC DTD, Johnson &#x00026;
+Johnson, NY, USA) and Vitros Chemistry DT60II (Johnson &#x00026; Johnson, New Brunswick, NJ,
+USA). Glucose levels were determined using a glucose slide (Vitros GLU DTD, Johnson &#x00026;
+Johnson, New Brunswick, NJ, USA) and Vitros Chemistry DT60II (Johnson &#x00026; Johnson, New
+Brunswick, NJ, USA).</p><p>Total adiponectin levels were determined using a commercial ELISA kit (BioVendor LLC,
+Asheville, NC, USA) and HMW adiponectin levels were measured using an ELISA kit (Daiichi
+Pure Chemicals, Tokyo, Japan).</p><p>We used the Shapiro-Wilk test for detecting the normality of the observed data. The
+significance level of the variables was above 0.05, indicating a normal distribution. All
+data are presented as the mean with standard deviation and the changes in the average of the
+measured variable before and after the 24-week exercise program were analyzed using the
+paired sample t test. In addition, the score changes (&#x02206;) before and after the 24-week
+exercise program were calculated and the correlation between the measured variables was
+tested using the Pearson correlation coefficient. All statistical analyses were performed
+using the SPSS for Windows (version 14.0) software, with p = 0.05 as the threshold of
+statistical significance.(&#x02206; score = score changes between before and after the 24-week
+program).</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Compared with the values before the exercise program, the obesity indices and metabolic
+risk factors of weight (p &#x0003c; 0.001), body fat (p &#x0003c; 0.001), BMI (p &#x0003c; 0.001), WC (p
+&#x0003c; 0.008), SBP (p &#x0003c; 0.023), DBP (p &#x0003c; 0.001), and TG (p &#x0003c; 0.049 decreased
+significantly, and HDLC, a metabolic improvement factor, increased significantly (p &#x0003c;
+0.020) after 24 weeks of exercise training (<xref rid="tbl_002" ref-type="table">Table
+2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Change in the obesity indices and metabolic risk factors after 24 weeks of
+exercise training</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Measured variable</th><th align="center" rowspan="1" colspan="1">Baseline</th><th align="center" rowspan="1" colspan="1">6 weeks</th><th align="center" rowspan="1" colspan="1">12 weeks</th><th align="center" rowspan="1" colspan="1">18 weeks</th><th align="center" rowspan="1" colspan="1">24 weeks</th><th align="center" rowspan="1" colspan="1">&#x02206; score</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">64.4 &#x000b1; 3.7</td><td align="center" rowspan="1" colspan="1">62.4 &#x000b1; 4.5**</td><td align="center" rowspan="1" colspan="1">61.4 &#x000b1; 4.3***</td><td align="center" rowspan="1" colspan="1">60.6 &#x000b1; 4.7***</td><td align="center" rowspan="1" colspan="1">59.9 &#x000b1; 5.1***</td><td align="center" rowspan="1" colspan="1">&#x02212;4.5 &#x000b1; 3.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Body fat (%)</td><td align="center" rowspan="1" colspan="1">34.4 &#x000b1; 2.8</td><td align="center" rowspan="1" colspan="1">32.8 &#x000b1; 3.4**</td><td align="center" rowspan="1" colspan="1">32.4 &#x000b1; 3.3***</td><td align="center" rowspan="1" colspan="1">31.4 &#x000b1; 3.5***</td><td align="center" rowspan="1" colspan="1">31.4 &#x000b1; 3.7***</td><td align="center" rowspan="1" colspan="1">&#x02212;3.0 &#x000b1; 2.4</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="center" rowspan="1" colspan="1">26.2 &#x000b1; 2.1</td><td align="center" rowspan="1" colspan="1">25.4 &#x000b1; 2.3**</td><td align="center" rowspan="1" colspan="1">25.0 &#x000b1; 2.3***</td><td align="center" rowspan="1" colspan="1">24.5 &#x000b1; 2.4***</td><td align="center" rowspan="1" colspan="1">24.2 &#x000b1; 2.60***</td><td align="center" rowspan="1" colspan="1">&#x02212;1.9 &#x000b1; 1.3</td></tr><tr><td align="left" rowspan="1" colspan="1">WC (cm)</td><td align="center" rowspan="1" colspan="1">89.8 &#x000b1; 5.5</td><td align="center" rowspan="1" colspan="1">88.6 &#x000b1; 4.8</td><td align="center" rowspan="1" colspan="1">86.1 &#x000b1; 5.3**</td><td align="center" rowspan="1" colspan="1">86.9 &#x000b1; 5.5**</td><td align="center" rowspan="1" colspan="1">86.6 &#x000b1; 5.33**</td><td align="center" rowspan="1" colspan="1">&#x02212;3.2 &#x000b1; 3.8</td></tr><tr><td align="left" rowspan="1" colspan="1">SBP (mmHg)</td><td align="center" rowspan="1" colspan="1">120.4 &#x000b1; 13.1</td><td align="center" rowspan="1" colspan="1">115.5 &#x000b1; 16.2</td><td align="center" rowspan="1" colspan="1">112.2 &#x000b1; 17.0*</td><td align="center" rowspan="1" colspan="1">111.4 &#x000b1; 15.1**</td><td align="center" rowspan="1" colspan="1">113.7 &#x000b1; 14.0**</td><td align="center" rowspan="1" colspan="1">&#x02212;6.6 &#x000b1; 9.7</td></tr><tr><td align="left" rowspan="1" colspan="1">DBP (mmHg)</td><td align="center" rowspan="1" colspan="1">80.3 &#x000b1; 10.6</td><td align="center" rowspan="1" colspan="1">69.2 &#x000b1; 8.3**</td><td align="center" rowspan="1" colspan="1">66.8 &#x000b1; 9.6***</td><td align="center" rowspan="1" colspan="1">66.8 &#x000b1; 9.0***</td><td align="center" rowspan="1" colspan="1">69.5 &#x000b1; 6.6***</td><td align="center" rowspan="1" colspan="1">&#x02212;10.7 &#x000b1; 6.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Glucose (mg/dL)</td><td align="center" rowspan="1" colspan="1">100.2 &#x000b1; 14.5</td><td align="center" rowspan="1" colspan="1">90.1 &#x000b1; 15.7**</td><td align="center" rowspan="1" colspan="1">93.5 &#x000b1; 15.7*</td><td align="center" rowspan="1" colspan="1">91.8 &#x000b1; 11.0**</td><td align="center" rowspan="1" colspan="1">97.0 &#x000b1; 16.3</td><td align="center" rowspan="1" colspan="1">&#x02212;5.3 &#x000b1; 12.4</td></tr><tr><td align="left" rowspan="1" colspan="1">TG (mg/dL)</td><td align="center" rowspan="1" colspan="1">117.0 &#x000b1; 52.1</td><td align="center" rowspan="1" colspan="1">111.6 &#x000b1; 89.7</td><td align="center" rowspan="1" colspan="1">127.7 &#x000b1; 82.8</td><td align="center" rowspan="1" colspan="1">97.2 &#x000b1; 38.8</td><td align="center" rowspan="1" colspan="1">84.4 &#x000b1; 35.0*</td><td align="center" rowspan="1" colspan="1">&#x02212;32.6 &#x000b1; 56.2</td></tr><tr><td align="left" rowspan="1" colspan="1">HDLC (mg/dL)</td><td align="left" rowspan="1" colspan="1">48.5 &#x000b1; 15.6</td><td align="center" rowspan="1" colspan="1">46.5 &#x000b1; 13.3</td><td align="center" rowspan="1" colspan="1">45.8 &#x000b1; 13.4</td><td align="center" rowspan="1" colspan="1">45.4 &#x000b1; 10.4</td><td align="center" rowspan="1" colspan="1">53.6 &#x000b1; 14.3*</td><td align="center" rowspan="1" colspan="1">6.6 &#x000b1; 9.3</td></tr></tbody></table><table-wrap-foot><p>Data are means &#x000b1; SD. Significant differences are indicated by asterisks for
+comparisons with the values before the exercise program: *: p &#x0003c; 0.05; ** p &#x0003c;
+0.01; *** p &#x0003c; 0.001. &#x02206; score = change in the score from baseline to 24 weeks; BMI,
+body mass index; WC, waist circumference; SBP, systolic blood pressure; DBP, diastolic
+blood pressure; TG, triglycerides; HDLC, high-density lipoprotein cholesterol.</p></table-wrap-foot></table-wrap>).</p><p>Compared with the values before the exercise program, VO<sub>2max</sub> increased
+significantly (p &#x0003c; 0.001) and total (p &#x0003c; 0.006), and HMW adiponectin (p &#x0003c; 0.006
+increased significantly after the 24 weeks of exercise training (<xref rid="tbl_003" ref-type="table">Table 3</xref><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Change in the cardiorespiratory fitness and adiponectin levels according to 24
+weeks exercise training</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Measured variable</th><th align="center" rowspan="1" colspan="1">Pre</th><th align="center" rowspan="1" colspan="1">6 weeks</th><th align="center" rowspan="1" colspan="1">12 weeks</th><th align="center" rowspan="1" colspan="1">18 weeks</th><th align="center" rowspan="1" colspan="1">24 weeks</th><th align="center" rowspan="1" colspan="1">&#x02206; score</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">VO<sub>2</sub>max (mL&#x000b7;kg<sup>&#x02212;1</sup>&#x000b7;min<sup>&#x02212;1</sup>)</td><td align="center" rowspan="1" colspan="1">28.5 &#x000b1; 2.9</td><td align="center" rowspan="1" colspan="1">31.1 &#x000b1; 3.6**</td><td align="center" rowspan="1" colspan="1">30.6 &#x000b1; 4.3*</td><td align="center" rowspan="1" colspan="1">31.5 &#x000b1; 3.8*</td><td align="center" rowspan="1" colspan="1">34.5 &#x000b1; 2.8***</td><td align="center" rowspan="1" colspan="1">6.0 &#x000b1; 2.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Total adiponectin (&#x000b5;g/mL)</td><td align="center" rowspan="1" colspan="1">10.1 &#x000b1; 5.5</td><td align="center" rowspan="1" colspan="1">10.6 &#x000b1; 4.0</td><td align="center" rowspan="1" colspan="1">12.1 &#x000b1; 4.8</td><td align="center" rowspan="1" colspan="1">14.0 &#x000b1; 4.9*</td><td align="center" rowspan="1" colspan="1">18.0 &#x000b1; 8.6**</td><td align="center" rowspan="1" colspan="1">7.8 &#x000b1; 9.0</td></tr><tr><td align="left" rowspan="1" colspan="1">HMW adiponectin (ng/mL)</td><td align="center" rowspan="1" colspan="1">208.0 &#x000b1; 73.9</td><td align="center" rowspan="1" colspan="1">228.4 &#x000b1; 67.2</td><td align="center" rowspan="1" colspan="1">239.8 &#x000b1; 105.8</td><td align="center" rowspan="1" colspan="1">270.5 &#x000b1; 102.6*</td><td align="center" rowspan="1" colspan="1">314.2 &#x000b1; 130.4**</td><td align="center" rowspan="1" colspan="1">106.1 &#x000b1; 121.8</td></tr></tbody></table><table-wrap-foot><p>SD. Significant differences are indicated by asterisks for comparisons with the
+values before the exercise program: *: p &#x0003c; 0.05; ** p &#x0003c; 0.01; *** p &#x0003c; 0.001.
+&#x02206; score = change in the score from before the exercise program to 24 weeks</p></table-wrap-foot></table-wrap>).</p><p><xref rid="tbl_004" ref-type="table">Table 4</xref><table-wrap id="tbl_004" orientation="portrait" position="float"><label>Table 4.</label><caption><title>Pearson correlations of variation after 24 weeks of exercise training</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Measured variable</th><th align="center" rowspan="1" colspan="1">Body fat</th><th align="center" rowspan="1" colspan="1">DBP</th><th align="center" rowspan="1" colspan="1">VO<sub>2max</sub></th><th align="center" rowspan="1" colspan="1">Total adiponectin</th><th align="center" rowspan="1" colspan="1">HMW adiponectin</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Body fat</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0.369</td><td align="center" rowspan="1" colspan="1">&#x02212;0.242</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6*</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5*</td></tr><tr><td align="left" rowspan="1" colspan="1">DBP</td><td align="center" rowspan="1" colspan="1">0.3</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6**</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6**</td></tr><tr><td align="left" rowspan="1" colspan="1">VO<sub>2</sub>max</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6**</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0.4</td><td align="center" rowspan="1" colspan="1">0.7**</td></tr><tr><td align="left" rowspan="1" colspan="1">Total adiponectin</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6*</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3</td><td align="center" rowspan="1" colspan="1">0.4</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0.7**</td></tr><tr><td align="left" rowspan="1" colspan="1">HMW adiponectin</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5*</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6**</td><td align="center" rowspan="1" colspan="1">0.7**</td><td align="center" rowspan="1" colspan="1">0.7**</td><td align="center" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><p>DBP, diastolic blood pressure; VO<sub>2max</sub>, maximum oxygen consumption; HMW,
+high molecular weight. *Correlation is significant at the 0.05 level (two-tailed). **Correlation is
+significant at the 0.01 level (two-tailed)</p></table-wrap-foot></table-wrap> shows the correlation of the score changes score) of each measured variable.
+Body fat showed a significant negative correlation with total (r = &#x02212;0.608) and HMW (r =
+&#x02212;0.557) adiponectins; cardiorespiratory fitness (i.e., VO<sub>2max</sub>) showed a
+significant negative correlation with DBP (r = &#x02212;0.677) and a significant positive
+correlation with HMW adiponectin (r = &#x02212;0.753).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The ACSM<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup> recommends walking as a safe
+aerobic exercise to reduce obesity and increase CRF and have suggested 50&#x02013;85% of
+VO<sub>2max</sub> as an appropriate intensity. This study showed that a 24-week walking
+program at 50&#x02013;60% of VO<sub>2max</sub> improved the CRF of obese women. This is consistent
+with prior studies reporting CRF improvements as result of regular walking exercises<xref rid="r21" ref-type="bibr">21</xref>, <xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>
+and we think the exercise was suitable for the purpose of this study.</p><p>The results of our study showed that a 24-week regular exercise program significantly
+improved obesity indices and metabolic risk factors of weight, percent body fat (%BF), BMI,
+WC, SBP, DBP, and TG. This is consistent with results of previous studies showing that
+regular exercise decreases obesity and metabolic risk fators; for example, it was shown to
+decrease abdominal obesity, improve blood pressure, decrease the neutral fat percentage, and
+increase HDLC<xref rid="r23" ref-type="bibr">23</xref>, <xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>. Venables and Jeukendrup<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup> suggested that exercise is effective in improving obesity because
+it leads to a decrease in body fat, an increase in fat-free mass, and an overall activation
+of body function, compared with other measures. Additionally, a decrease in waist
+circumference from exercise indicates a decrease in abdominal fat and this is effective in
+decreasing the risk for cardiovascular and metabolic diseases<xref rid="r26" ref-type="bibr">26</xref><sup>)</sup>. Wessel et al.<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>
+surveyed 906 women in terms of obesity, CRF, and death rate due to atherosclerosis and
+reported that low CRF is directly correlated with death rate. These results suggest that
+maintenance and improvements of CRF through regular exercise, along with obesity prevention,
+are important approaches in preventing and treating cardiovascular and metabolic
+diseases.</p><p>In this study, total and HMW adiponectin significantly increased after the 24-week exercise
+program, compared with the values before the program. Further, the correlation of the score
+changes of the measured variables before and after the program (&#x02206; score) showed that body
+fat, which decreased as a result of exercise, is inversely correlated with HMW adiponectin,
+which increases as body fat decreases.</p><p>In previous studies on adiponectin expression in response to exercise, Gan et al.<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup> reported that the blood adiponectin
+concentration increased by up to 260% in 19 obese men who exercised for 10 weeks, 4&#x02013;5 times
+a week, at 55&#x02013;70% of the VO<sub>2max</sub> intensity, compared with the non-exercise group,
+despite the lack of a change in body weight. Hulver et al.<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup> studied 11 healthy men and women and reported that after 6 months
+of an endurance exercise program, 4 times a week at 65&#x02013;80% of the VO<sub>2max</sub>
+intensity, the group that showed a decrease in body weight also showed a significant
+increase in adiponectin levels. However, the group that did not show a decrease in body
+weight showed no change in adiponectin levels. Yuji et al.<xref rid="r30" ref-type="bibr">30</xref><sup>)</sup> studied 27 middle-aged women with an average age of 55 and reported
+that body fat and BMI decreased, whereas adiponectin levels significantly increased (by 20%)
+after a 12-week program consisting of walking exercise 5 times a week at 65&#x02013;80% of the
+VO<sub>2max</sub> intensity, which is similar to the results of our study.</p><p>The results of our study showed that the increase in VO<sub>2max</sub> due to the exercise
+was positively correlated with HMW adiponectin, indicating that increases in the CRF from
+exercise can be an effective method of increasing MHW adiponectin. Church et al.<xref rid="r31" ref-type="bibr">31</xref><sup>)</sup> divided their subjects into 4 groups
+according to obesity and CRF levels and compared their risks of early death. Compared with
+the group with the highest fitness levels, the groups with the second, third, and fourth
+highest fitness levels had 1.6, 2.8, and 4.5 times higher risks, respectively, of early
+death. If corrected for CRF, obesity did not significantly increase the risk of early death.
+Also, Church et al.<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup> conducted an
+additional 15&#x02005;year longitudinal study and reported that a decrease in CRF led to a
+significant increase in risk of death. If CRF decreased by 1 MET, then the risk of death
+increased by 20%. These results indicate that obese people with high CRF can have a
+relatively lower risk of metabolic disorders than obese people with low CRF. In this
+context, the decrease in body fat and improvements in VO<sub>2max</sub> from the exercise
+intervention program in this study can be a very important factor in increasing HMW
+adiponectin<xref rid="r33" ref-type="bibr">33</xref><sup>)</sup>.</p><p>Currently, adiponectin is considered an important factor in obesity and metabolic syndrome
+and because people with abdominal obesity have an even lower concentration of adiponectin,
+their risk of degenerative diseases such as diabetes, chronic inflammation, atherosclerosis,
+and cancer is reported to be higher<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>.
+Specifically, studies show that the HMW adiponectin distribution is more important than that
+of total adiponectin, highlighting the importance of the fraction of HMW adiponectin<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. The results of our study proved that
+regular exercise, by increasing CRF and decreasing body fat, could be an effective technique
+for increasing total and HMW adiponectin. In addition, obesity indices and metabolic risk
+factors are interrelated in a very complex manner and exercise can lead to a general
+improvement in metabolism, without side effects that certain medications can have. These
+results support the role of exercise in the treatment of obesity and chronic illnesses among
+women in middle age, which is when changes in body fat distribution and incidence rates of
+metabolic diseases precipitously increase.</p></sec></body><back><ref-list><title>References</title><ref id="r1"><label>1</label><mixed-citation publication-type="other">World Health Organization:
+Obesity and overweight. Global strategy on diet, physical activity and health,
+<year>2011</year>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Sarti</surname><given-names>C</given-names></name><name><surname>Gallagher</surname><given-names>J</given-names></name></person-group>: <article-title>The metabolic syndrome: prevalence, CHD risk, and
+treatment</article-title>. <source>J Diabetes Complications</source>, <year>2006</year>,
+<volume>20</volume>: <fpage>121</fpage>&#x02013;<lpage>132</lpage>. <pub-id pub-id-type="pmid">16504841</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Gil-Campos</surname><given-names>M</given-names></name><name><surname>Ca&#x000f1;ete</surname><given-names>RR</given-names></name><name><surname>Gil</surname><given-names>A</given-names></name></person-group>: <article-title>Adiponectin, the missing link in insulin resistance and
+obesity</article-title>. <source>Clin Nutr</source>, <year>2004</year>,
+<volume>23</volume>: <fpage>963</fpage>&#x02013;<lpage>974</lpage>. <pub-id pub-id-type="pmid">15380884</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Kawada</surname><given-names>T</given-names></name><name><surname>Hasegawa</surname><given-names>M</given-names></name></person-group>: <article-title>Predictive ability of serum high-molecular-weight
+adiponectin in combination with serum insulin and serum C-reactive protein for the
+presence of metabolic syndrome</article-title>. <source>Ann Hum Biol</source>,
+<year>2012</year>, <volume>39</volume>: <fpage>108</fpage>&#x02013;<lpage>112</lpage>.
+<pub-id pub-id-type="pmid">22324836</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Hara</surname><given-names>K</given-names></name><name><surname>Uchida</surname><given-names>T</given-names></name><name><surname>Takebayashi</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>Determinants of serum high molecular weight (HMW)
+adiponectin levels in patients with coronary artery disease: associations with
+cardio-renal-anemia syndrome</article-title>. <source>Intern Med</source>,
+<year>2011</year>, <volume>50</volume>: <fpage>2953</fpage>&#x02013;<lpage>2960</lpage>.
+<pub-id pub-id-type="pmid">22185985</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Winzer</surname><given-names>C</given-names></name><name><surname>Wagner</surname><given-names>O</given-names></name><name><surname>Festa</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Plasma adiponectin, insulin sensitivity, and subclinical
+inflammation in women with prior gestational diabetes mellitus</article-title>.
+<source>Diabetes Care</source>, <year>2004</year>, <volume>27</volume>:
+<fpage>1721</fpage>&#x02013;<lpage>1727</lpage>. <pub-id pub-id-type="pmid">15220253</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Medved</surname><given-names>L</given-names></name><name><surname>Nieuwenhuizen</surname><given-names>W</given-names></name></person-group>: <article-title>Molecular mechanisms of initiation of fibrinolysis by
+fibrin</article-title>. <source>Thromb Haemost</source>, <year>2003</year>,
+<volume>89</volume>: <fpage>409</fpage>&#x02013;<lpage>419</lpage>. <pub-id pub-id-type="pmid">12624622</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Matsuzawa</surname><given-names>Y</given-names></name></person-group>: <article-title>Establishment of a concept of visceral fat syndrome and
+discovery of adiponectin</article-title>. <source>Proc Jpn Acad, Ser B, Phys Biol
+Sci</source>, <year>2010</year>, <volume>86</volume>:
+<fpage>131</fpage>&#x02013;<lpage>141</lpage>. </mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>DC</given-names></name><name><surname>Sui</surname><given-names>X</given-names></name><name><surname>Church</surname><given-names>TS</given-names></name><etal>et al.</etal></person-group>: <article-title>Changes in fitness and fatness on the development of
+cardiovascular disease risk factors hypertension, metabolic syndrome, and
+hypercholesterolemia</article-title>. <source>J Am Coll Cardiol</source>,
+<year>2012</year>, <volume>59</volume>: <fpage>665</fpage>&#x02013;<lpage>672</lpage>.
+<pub-id pub-id-type="pmid">22322083</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Richter</surname><given-names>EA</given-names></name><name><surname>Ruderman</surname><given-names>NB</given-names></name></person-group>: <article-title>AMPK and the biochemistry of exercise: implications for
+human health and disease</article-title>. <source>Biochem J</source>, <year>2009</year>,
+<volume>418</volume>: <fpage>261</fpage>&#x02013;<lpage>275</lpage>. <pub-id pub-id-type="pmid">19196246</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Chockalingam</surname><given-names>A</given-names></name><name><surname>Linden</surname><given-names>MA</given-names></name><name><surname>Del Rosario</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise and weight loss improve exercise capacity
+independent of cardiac function in metabolic syndrome</article-title>.
+<source>Angiology</source>, <year>2010</year>, <volume>61</volume>:
+<fpage>192</fpage>&#x02013;<lpage>197</lpage>. <pub-id pub-id-type="pmid">20118106</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Esposito</surname><given-names>K</given-names></name><name><surname>Pontillo</surname><given-names>A</given-names></name><name><surname>Di Palo</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of weight loss and lifestyle changes on vascular
+inflammatory markers in obese women: a randomized trial</article-title>.
+<source>JAMA</source>, <year>2003</year>, <volume>289</volume>:
+<fpage>1799</fpage>&#x02013;<lpage>1804</lpage>. <pub-id pub-id-type="pmid">12684358</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Kriketos</surname><given-names>AD</given-names></name><name><surname>Gan</surname><given-names>SK</given-names></name><name><surname>Poynten</surname><given-names>AM</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise increases adiponectin levels and insulin
+sensitivity in humans</article-title>. <source>Diabetes Care</source>,
+<year>2004</year>, <volume>27</volume>: <fpage>629</fpage>&#x02013;<lpage>630</lpage>.
+<pub-id pub-id-type="pmid">14747265</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Boudou</surname><given-names>P</given-names></name><name><surname>Sobngwi</surname><given-names>E</given-names></name><name><surname>Mauvais-Jarvis</surname><given-names>F</given-names></name><etal>et al.</etal></person-group>: <article-title>Absence of exercise-induced variations in adiponectin
+levels despite decreased abdominal adiposity and improved insulin sensitivity in type 2
+diabetic men</article-title>. <source>Eur J Endocrinol</source>, <year>2003</year>,
+<volume>149</volume>: <fpage>421</fpage>&#x02013;<lpage>424</lpage>. <pub-id pub-id-type="pmid">14585088</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Polak</surname><given-names>J</given-names></name><name><surname>Klimcakova</surname><given-names>E</given-names></name><name><surname>Moro</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of aerobic training on plasma levels and
+subcutaneous abdominal adipose tissue gene expression of adiponectin, leptin,
+interleukin 6, and tumor necrosis factor alpha in obese women</article-title>.
+<source>Metabolism</source>, <year>2006</year>, <volume>55</volume>:
+<fpage>1375</fpage>&#x02013;<lpage>1381</lpage>. <pub-id pub-id-type="pmid">16979409</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Giannopoulou</surname><given-names>I</given-names></name><name><surname>Ploutz-Snyder</surname><given-names>LL</given-names></name><name><surname>Carhart</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise is required for visceral fat loss in
+postmenopausal women with type 2 diabetes</article-title>. <source>J Clin Endocrinol
+Metab</source>, <year>2005</year>, <volume>90</volume>:
+<fpage>1511</fpage>&#x02013;<lpage>1518</lpage>. <pub-id pub-id-type="pmid">15598677</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Ryo</surname><given-names>M</given-names></name><name><surname>Nakamura</surname><given-names>T</given-names></name><name><surname>Kihara</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Adiponectin as a biomarker of the metabolic
+syndrome</article-title>. <source>Circ J</source>, <year>2004</year>,
+<volume>68</volume>: <fpage>975</fpage>&#x02013;<lpage>981</lpage>. <pub-id pub-id-type="pmid">15502375</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="book">American College of Sports
+Medicine: ACSM&#x02019;s Guidelines for exercise testing and prescription, 8th ed. Lippincott
+Williams &#x00026; Wilkins, <year>2010</year>.</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Howley</surname><given-names>ET</given-names></name><name><surname>Bassett</surname><given-names>DR</given-names><suffix>Jr</suffix></name><name><surname>Welch</surname><given-names>HG</given-names></name></person-group>: <article-title>Criteria for maximal oxygen uptake: review and
+commentary</article-title>. <source>Med Sci Sports Exerc</source>, <year>1995</year>,
+<volume>27</volume>: <fpage>1292</fpage>&#x02013;<lpage>1301</lpage>. <pub-id pub-id-type="pmid">8531628</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Pfeiffer</surname><given-names>KA</given-names></name><name><surname>Pivarnik</surname><given-names>JM</given-names></name><name><surname>Womack</surname><given-names>CJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Reliability and validity of the Borg and OMNI rating of
+perceived exertion scales in adolescent girls</article-title>. <source>Med Sci Sports
+Exerc</source>, <year>2002</year>, <volume>34</volume>:
+<fpage>2057</fpage>&#x02013;<lpage>2061</lpage>. <pub-id pub-id-type="pmid">12471316</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Terblanche</surname><given-names>E</given-names></name><name><surname>Page</surname><given-names>C</given-names></name><name><surname>Kroff</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>The effect of backward locomotion training on the body
+composition and cardiorespiratory fitness of young women</article-title>. <source>Int J
+Sports Med</source>, <year>2005</year>, <volume>26</volume>:
+<fpage>214</fpage>&#x02013;<lpage>219</lpage>. <pub-id pub-id-type="pmid">15776337</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Vilhena de Mendon&#x000e7;a</surname><given-names>G</given-names></name><name><surname>Pereira</surname><given-names>FD</given-names></name></person-group>: <article-title>Between-day variability of net and gross oxygen uptake
+during graded treadmill walking: effects of different walking intensities on the
+reliability of locomotion economy</article-title>. <source>Appl Physiol Nutr
+Metab</source>, <year>2008</year>, <volume>33</volume>:
+<fpage>1199</fpage>&#x02013;<lpage>1206</lpage>. <pub-id pub-id-type="pmid">19088778</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Mestek</surname><given-names>ML</given-names></name><name><surname>Garner</surname><given-names>JC</given-names></name><name><surname>Plaisance</surname><given-names>EP</given-names></name><etal>et al.</etal></person-group>: <article-title>Blood lipid responses after continuous and accumulated
+aerobic exercise</article-title>. <source>Int J Sport Nutr Exerc Metab</source>,
+<year>2006</year>, <volume>16</volume>: <fpage>245</fpage>&#x02013;<lpage>254</lpage>.
+<pub-id pub-id-type="pmid">16948481</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>DiPietro</surname><given-names>L</given-names></name><name><surname>Dziura</surname><given-names>J</given-names></name><name><surname>Yeckel</surname><given-names>CW</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise and improved insulin sensitivity in older women:
+evidence of the enduring benefits of higher intensity training</article-title>.
+<source>J Appl Physiol 1985</source>, <year>2006</year>, <volume>100</volume>:
+<fpage>142</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="pmid">16141382</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Venables</surname><given-names>MC</given-names></name><name><surname>Jeukendrup</surname><given-names>AE</given-names></name></person-group>: <article-title>Physical inactivity and obesity: links with insulin
+resistance and type 2 diabetes mellitus</article-title>. <source>Diabetes Metab Res
+Rev</source>, <year>2009</year>, <volume>25</volume>:
+<fpage>S18</fpage>&#x02013;<lpage>S23</lpage>. <pub-id pub-id-type="pmid">19662619</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Rezende</surname><given-names>FA</given-names></name><name><surname>Rosado</surname><given-names>LE</given-names></name><name><surname>Ribeiro</surname><given-names>RC</given-names></name><etal>et al.</etal></person-group>: <article-title>Body mass index and waist circumference: association with
+cardiovascular risk factors</article-title>. <source>Arq Bras Cardiol</source>,
+<year>2006</year>, <volume>87</volume>: <fpage>728</fpage>&#x02013;<lpage>734</lpage>.
+<pub-id pub-id-type="pmid">17262110</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Wessel</surname><given-names>TR</given-names></name><name><surname>Arant</surname><given-names>CB</given-names></name><name><surname>Olson</surname><given-names>MB</given-names></name><etal>et al.</etal></person-group>: <article-title>Relationship of physical fitness vs body mass index with
+coronary artery disease and cardiovascular events in women</article-title>.
+<source>JAMA</source>, <year>2004</year>, <volume>292</volume>:
+<fpage>1179</fpage>&#x02013;<lpage>1187</lpage>. <pub-id pub-id-type="pmid">15353530</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Gan</surname><given-names>SK</given-names></name><name><surname>Kriketos</surname><given-names>AD</given-names></name><name><surname>Ellis</surname><given-names>BA</given-names></name><etal>et al.</etal></person-group>: <article-title>Changes in aerobic capacity and visceral fat but not
+myocyte lipid levels predict increased insulin action after exercise in overweight and
+obese men</article-title>. <source>Diabetes Care</source>, <year>2003</year>,
+<volume>26</volume>: <fpage>1706</fpage>&#x02013;<lpage>1713</lpage>. <pub-id pub-id-type="pmid">12766098</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Hulver</surname><given-names>MW</given-names></name><name><surname>Zheng</surname><given-names>D</given-names></name><name><surname>Tanner</surname><given-names>CJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Adiponectin is not altered with exercise training despite
+enhanced insulin action</article-title>. <source>Am J Physiol Endocrinol Metab</source>,
+<year>2002</year>, <volume>283</volume>: <fpage>E861</fpage>&#x02013;<lpage>E865</lpage>.
+<pub-id pub-id-type="pmid">12217905</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Yanagimoto</surname><given-names>Y</given-names></name><name><surname>Ohshita</surname><given-names>K</given-names></name><name><surname>Akiyama</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Increased plasma adiponectin after low-intensity exercise
+in middle-aged women</article-title>. <source>Diabetes</source>, <year>2009</year>,
+<volume>52</volume>: <fpage>1355</fpage>&#x02013;<lpage>1363</lpage>.</mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group><name><surname>Church</surname><given-names>TS</given-names></name><name><surname>Cheng</surname><given-names>YJ</given-names></name><name><surname>Earnest</surname><given-names>CP</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise capacity and body composition as predictors of
+mortality among men with diabetes</article-title>. <source>Diabetes Care</source>,
+<year>2004</year>, <volume>27</volume>: <fpage>83</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="pmid">14693971</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group><name><surname>Church</surname><given-names>TS</given-names></name><name><surname>LaMonte</surname><given-names>MJ</given-names></name><name><surname>Barlow</surname><given-names>CE</given-names></name><etal>et al.</etal></person-group>: <article-title>Cardiorespiratory fitness and body mass index as
+predictors of cardiovascular disease mortality among men with diabetes</article-title>.
+<source>Arch Intern Med</source>, <year>2005</year>, <volume>165</volume>:
+<fpage>2114</fpage>&#x02013;<lpage>2120</lpage>. <pub-id pub-id-type="pmid">16217001</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>DY</given-names></name><name><surname>Seo</surname><given-names>BD</given-names></name><name><surname>Choi</surname><given-names>PA</given-names></name></person-group>: <article-title>Influence of taekwondo as security martial arts training
+on anaerobic threshold, cardiorespiratory fitness, and blood lactate
+recovery</article-title>. <source>J Phys Ther Sci</source>, <year>2014</year>,
+<volume>26</volume>: <fpage>471</fpage>&#x02013;<lpage>474</lpage>. <pub-id pub-id-type="pmid">24764613</pub-id></mixed-citation></ref></ref-list></back></article>

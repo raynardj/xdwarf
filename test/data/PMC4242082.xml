@@ -1,0 +1,791 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d2 20140930//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nat Commun</journal-id><journal-id journal-id-type="iso-abbrev">Nat Commun</journal-id><journal-title-group><journal-title>Nature Communications</journal-title></journal-title-group><issn pub-type="epub">2041-1723</issn><publisher><publisher-name>Nature Pub. Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pii">ncomms6419</article-id><article-id pub-id-type="doi">10.1038/ncomms6419</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Mechanistic determinants of the directionality and energetics of active export by a
+heterodimeric ABC transporter</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Grossmann</surname><given-names>Nina</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="author-notes" rid="n1">*</xref></contrib><contrib contrib-type="author"><name><surname>Vakkasoglu</surname><given-names>Ahmet S.</given-names></name><xref ref-type="aff" rid="a2">2</xref><xref ref-type="author-notes" rid="n1">*</xref></contrib><contrib contrib-type="author"><name><surname>Hulpke</surname><given-names>Sabine</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Abele</surname><given-names>Rupert</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Gaudet</surname><given-names>Rachelle</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Tamp&#x000e9;</surname><given-names>Robert</given-names></name><xref ref-type="corresp" rid="c2">b</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a3">3</xref></contrib><aff id="a1"><label>1</label><institution>Institute of Biochemistry, Biocenter, Goethe-University
+Frankfurt</institution>, Max-von-Laue-Street 9, D-60438
+Frankfurt/M., <country>Germany</country></aff><aff id="a2"><label>2</label><institution>Department of Molecular and Cellular Biology, Harvard
+University</institution>, 52 Oxford Street, Cambridge,
+Massachusetts
+02138, <country>USA</country></aff><aff id="a3"><label>3</label><institution>Cluster of Excellence Frankfurt&#x02014;Macromolecular Complexes,
+Goethe-University Frankfurt</institution>, Max-von-Laue-Street 9,
+D-60438
+Frankfurt/M., <country>Germany</country></aff></contrib-group><author-notes><corresp id="c1"><label>a</label>
+<email>gaudet@mcb.harvard.edu</email>
+</corresp><corresp id="c2"><label>b</label>
+<email>tampe@em.uni-frankfurt.de</email>
+</corresp><fn id="n1"><label>*</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>07</day><month>11</month><year>2014</year></pub-date><volume>5</volume><elocation-id>5419</elocation-id><history><date date-type="received"><day>06</day><month>06</month><year>2014</year></date><date date-type="accepted"><day>29</day><month>09</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights
+Reserved.</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights
+Reserved.</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International
+License. The images or other third party material in this article are included in the
+article&#x02019;s Creative Commons license, unless indicated otherwise in the credit
+line; if the material is not included under the Creative Commons license, users will
+need to obtain permission from the license holder to reproduce the material. To view a
+copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>The ATP-binding cassette (ABC) transporter associated with antigen processing (TAP)
+participates in immune surveillance by moving proteasomal products into the endoplasmic
+reticulum (ER) lumen for major histocompatibility complex class I loading and cell
+surface presentation to cytotoxic T cells. Here we delineate the mechanistic basis for
+antigen translocation. Notably, TAP works as a molecular diode, translocating peptide
+substrates against the gradient in a strict unidirectional way. We reveal the importance
+of the D-loop at the dimer interface of the two nucleotide-binding domains (NBDs) in
+coupling substrate translocation with ATP hydrolysis and defining transport vectoriality. Substitution of
+the conserved aspartate, which
+coordinates the ATP-binding site, decreases NBD dimerization affinity and turns the
+unidirectional primary active pump into a passive bidirectional nucleotide-gated
+facilitator. Thus, ATP hydrolysis is
+not required for translocation <italic>per se</italic>, but is essential for both active and
+unidirectional transport. Our data provide detailed mechanistic insight into how
+heterodimeric ABC exporters operate.</p></abstract><abstract abstract-type="web-summary"><p>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="i1" xlink:href="ncomms6419-i1.jpg"/>ABC systems are an important class of transporters involved in human
+pathologies for which the basis for transport remains poorly understood. Here the authors
+suggest a molecular basis for ATP-powered vectorial peptide export by the human transporter
+associated with antigen processing (TAP).</p></abstract></article-meta></front><body><p>Life depends on transport systems that shuttle ions and molecules across cell membranes.
+ATP-binding cassette (ABC) transporters, which represent the largest family of primary
+active transporters, convert the energy of ATP binding and hydrolysis via two NBDs into conformational changes of
+two transmembrane domains and thus move a wide range of essential as well as harmful
+substrates across membranes<xref ref-type="bibr" rid="b1">1</xref><xref ref-type="bibr" rid="b2">2</xref><xref ref-type="bibr" rid="b3">3</xref><xref ref-type="bibr" rid="b4">4</xref><xref ref-type="bibr" rid="b5">5</xref>. In humans, ABC transporters
+participate in a wide range of important cellular processes such as chloride homeostasis,
+cholesterol and lipid metabolism,
+insulin secretion, detoxification and adaptive immunity. Accordingly, ABC transporter
+malfunction is linked to many pathological conditions, including cystic fibrosis, diabetes,
+adrenoleukodystrophy, multidrug resistance, neurological and infectious diseases<xref ref-type="bibr" rid="b6">6</xref>.</p><p>The ABC transporter associated with antigen processing (TAP) plays a prime role in adaptive
+immunity by supplying proteasomal degradation products for loading of major
+histocompatibility (MHC) class I molecules in the ER lumen. This sophisticated peptide
+loading process is accomplished by a macromolecular complex composed of TAP, tapasin, calreticulin, ERp57 and
+MHC I (refs <xref ref-type="bibr" rid="b7">7</xref>, <xref ref-type="bibr" rid="b8">8</xref>, <xref ref-type="bibr" rid="b9">9</xref>). Loaded MHC I molecules then traffic to the cell surface to present their
+antigenic cargo to CD8<sup>+</sup> cytotoxic T cells for immune surveillance, detection
+and elimination of abnormalities such as virally or malignantly transformed cells.</p><p>TAP consists of two ABC half-transporters, TAP1 and TAP2, each
+composed of a transmembrane domain (TMD) followed by an NBD<xref ref-type="bibr" rid="b5">5</xref>. The two NBDs
+are thought to run through a cycle of dimer formation and dissociation controlled by
+ATP binding and hydrolysis,
+respectively, which in turn drives the TMDs from an inward- to an outward-facing
+conformation and back<xref ref-type="bibr" rid="b10">10</xref><xref ref-type="bibr" rid="b11">11</xref><xref ref-type="bibr" rid="b12">12</xref>. The communication between the TMDs and NBDs
+is mediated by interactions between two coupling helices found in each TMD and conserved
+regions of the NBDs<xref ref-type="bibr" rid="b10">10</xref><xref ref-type="bibr" rid="b13">13</xref>. The NBDs contain conserved motifs with distinct
+functions in ATP binding and hydrolysis.
+Interestingly, the two composite ATP-binding sites are functionally non-equivalent. The
+Walker A and B motifs of TAP2 and the
+C-loop of TAP1 form the active
+ATP-binding site II (<xref ref-type="fig" rid="f1">Fig. 1a</xref>), whereas the degenerate ATP-binding
+site I displays a very low ATPase activity<xref ref-type="bibr" rid="b14">14</xref><xref ref-type="bibr" rid="b15">15</xref><xref ref-type="bibr" rid="b16">16</xref><xref ref-type="bibr" rid="b17">17</xref>.</p><p>The D-loop is the second hallmark found in all ABC transporters, besides the signature
+C-loop essential for ATP hydrolysis.
+However, the function of this conserved &#x02018;SALD&#x02019; sequence motif is not well
+characterized and contradictory results exist. In SUR1, substitution of the aspartate by a cysteine in one of the NBDs interferes with the gating of the associated
+Kir6.2 channel<xref ref-type="bibr" rid="b18">18</xref>. On
+the other hand, exchange of the D-loop aspartate to alanine
+in the sterol transporter ABCG5/8 had no
+impact on sterol transport <italic>in vivo</italic><xref ref-type="bibr" rid="b19">19</xref>. In the homodimeric lipid A
+exporter MsbA, substitution of the conserved aspartate to glycine
+strongly interferes with bacterial viability<xref ref-type="bibr" rid="b20">20</xref>. In ATP-bound NBD dimers, the two D-loops contact one
+another at the dimer interface (<xref ref-type="fig" rid="f1">Fig. 1a</xref>) and position the Walker A
+motif and H-loop of the opposite NBD via a complex hydrogen bond and electrostatic
+network<xref ref-type="bibr" rid="b21">21</xref><xref ref-type="bibr" rid="b22">22</xref>. Moreover, the D-loop and Walker B motifs position,
+coordinate and activate the putative attacking water for ATP hydrolysis<xref ref-type="bibr" rid="b17">17</xref><xref ref-type="bibr" rid="b23">23</xref>. By forming contacts with the
+ATP-binding sites in <italic>cis</italic> and <italic>trans</italic>, the D-loops are in a prime position to
+mediate communication between both ATPase sites.</p><p>Despite the important task of TAP in immune surveillance, fundamental questions regarding
+antigen translocation by TAP, questions that are also relevant to other ABC export systems,
+remain to be answered: (i) Can the TAP complex pump peptide substrates against a
+concentration gradient? (ii) Does TAP operate uni- or bidirectionally? (iii) What
+determines its directionality? Previous studies in semi-permeabilized cells or isolated
+microsomes relied on the trapping of translocated peptides into the ER lumen by
+glycosylation to prevent export from the ER<xref ref-type="bibr" rid="b24">24</xref>, making it impossible to
+tackle these questions. Moreover, determining the concentration of free peptide in the ER
+lumen is important to understand peptide editing and selection of immunodominant epitopes.
+These questions are also difficult to address in other well-studied ABC transporters, many
+of which transport hydrophobic substrates that partition to some extent within the lipid
+bilayer. To the best of our knowledge, the only report of substrate accumulation against a
+concentration gradient for an ABC exporter is that of P-gp (ABCB1), where
+tenfold substrate accumulation has been estimated<xref ref-type="bibr" rid="b25">25</xref>. Furthermore, the
+directionality of transport was challenged by the observation that a bacterial homologue of
+P-gp may function as ATP synthase at
+the expense of drug transport in the reverse direction<xref ref-type="bibr" rid="b26">26</xref>.</p><p>To address these questions, fundamental to the function of primary transporters, we
+reconstituted TAP in proteoliposomes and performed influx and efflux assays. We demonstrate
+that TAP accumulates peptides in a unidirectional manner to a threshold concentration
+determined by trans-inhibition. Transport unidirectionality and the generation of a
+concentration gradient are coupled to ATP
+hydrolysis as we have identified a specific D-loop mutant inactive in ATP hydrolysis, which functions as a
+nucleotide-gated facilitator. Furthermore, this mutation has only a minor impact on
+ATP and peptide binding. Using rat
+TAP1 NBD homodimerization as a model
+system for biophysical measurements and structural studies, we showed that the D-loop
+mutation decreases the ATP-driven NBD
+dimerization affinity by nearly an order of magnitude and affects NBD dimer structure in
+subtle ways. We combine our biochemical, biophysical and structural data to propose a model
+in which peptide release to the lumenal side is a checkpoint for ATP hydrolysis, thus making ATP hydrolysis the key step in unidirectional
+peptide transport.</p><sec disp-level="1" sec-type="results"><title>Results</title><sec disp-level="2"><title>D-loop mutation enables translocation without ATP hydrolysis</title><p>We focused our mechanistic studies on the D-loops of TAP, whose functions are
+ill-defined. By scanning mutagenesis, we analysed first the D-loop of TAP1, which forms part of the active
+ATP-binding site II (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+1</xref>). Similar to wild-type (wt) TAP, all D-loop mutants showed ATP-dependent peptide transport activity (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 2a</xref>). Surprisingly, the
+D674A/wt complex translocates peptides not only in the presence of ATP but also of ADP (<xref ref-type="fig" rid="f1">Fig. 1b</xref>).
+ADP binds to TAP with a similar
+affinity to that of ATP but cannot
+energize peptide transport of wt TAP<xref ref-type="bibr" rid="b27">27</xref><xref ref-type="bibr" rid="b28">28</xref><xref ref-type="bibr" rid="b29">29</xref>. Interestingly, the
+corresponding D-to-A mutation in TAP2 (wt/D638A), affecting the degenerate ATP-binding site I,
+behaves like wt TAP. In contrast, the double D-loop mutant D674A/D638A is inactive in
+peptide transport. It is worth noting that all mutants displayed similar affinity for
+peptides and ATP as compared with
+wt TAP (<xref ref-type="supplementary-material" rid="S1">Supplementary Table 1</xref>).</p><p>We also addressed the physiological consequences of the surprising D-loop
+substitution. To this end, the pathway of MHC I antigen processing was reconstituted
+in insect cells lacking the components of this pathway. The cell surface expression
+of the MHC I allele B*4402 was monitored by flow cytometry (<xref ref-type="fig" rid="f1">Fig.
+1c</xref>). Expression of wt TAP and D674A/wt mutant leads to a similar upshift in
+MHC I cell surface expression, whereas the lack of TAP1 impairs MHC I antigen presentation. These results indicate
+that the energetically uncoupled D674A/wt complex promotes antigen processing and MHC
+I presentation to the same extent as wt TAP.</p></sec><sec disp-level="2"><title>D-loop enables coupling of transport and hydrolysis</title><p>To explore the molecular mechanism of antigen translocation, wt TAP and the D674A/wt
+complex were purified and functionally reconstituted in proteoliposomes. Peptide
+translocation by wt TAP is strictly ATP dependent, whereas the D674A/wt TAP mediated peptide
+translocation even in the presence of ADP or non-hydrolysable adenosine 5&#x02032;-(&#x003b2;,&#x003b3;-imido)triphosphate
+(AMPPNP) (<xref ref-type="fig" rid="f2">Fig.
+2a</xref>). Notably, both wt TAP and D674A/wt need Mg<sup>2+</sup> ions for
+peptide translocation (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+2b</xref>). Also, wt and D674A/wt TAP showed the same binding properties for
+ATP, ADP (<xref ref-type="fig" rid="f2">Fig. 2b</xref>) and
+peptides (<xref ref-type="supplementary-material" rid="S1">Supplementary Table 1</xref>).
+Consistent with these data on full-length human TAP, a fluorescence
+polarization-based competition assay showed that the affinities for ATP and ADP of isolated wt and D-loop (D651A) mutant rat TAP1-NBD are similar (<xref ref-type="supplementary-material" rid="S1">Supplementary Table 2</xref>). Furthermore, the
+Michaelis&#x02013;Menten kinetics for peptide transport by wt TAP and D674A/wt are
+equal (<xref ref-type="fig" rid="f2">Fig. 2c</xref>, <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 2c</xref> and <xref ref-type="supplementary-material" rid="S1">Supplementary Table 3</xref>), confirming that the affinity for ATP and peptides is not affected by the D-loop
+substitution.</p><p>We next analysed the coupling between peptide translocation and ATP hydrolysis. As shown in <xref ref-type="fig" rid="f2">Fig. 2d</xref>, peptide-stimulated ATP hydrolysis by wt TAP was observed. Notably, TAP has no basal
+ATPase activity as concluded from a comparison with an ATPase inactive mutant
+(3xKO)<xref ref-type="bibr" rid="b30">30</xref>. In contrast to wt TAP, the D674A/wt complex is inactive
+in ATP hydrolysis, either in the
+presence or absence of peptide substrate. Consistently, mutating the D-loop of the
+isolated rat TAP1-NBD also impairs
+its ATPase activity (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+3</xref>). Therefore, peptide transport still occurs despite impairments in
+ATP hydrolysis, indicating that
+the crosstalk between peptide translocation and ATP hydrolysis is disrupted.</p></sec><sec disp-level="2"><title>Active exporter turned into a nucleotide-gated facilitator</title><p>We then examined the kinetics and energetics of antigen translocation. Over time, wt
+TAP transports peptides to much higher levels than the D674A/wt complex (<xref ref-type="fig" rid="f3">Fig. 3a</xref>). However, the initial translocation rate constants
+(zero-trans flux) of wt TAP and D674A/wt were comparable at 11.1&#x000b1;1.0 and
+10.1&#x000b1;0.8&#x02009;nmol&#x02009;min<sup>&#x02212;1</sup>&#x02009;mg<sup>&#x02212;1</sup>,
+respectively, implying that the rate of conversion from the inward- to the
+outward-facing conformation does not depend on ATP hydrolysis. Unfortunately, loss of TAP activity prevented
+observations over incubation times longer than 1&#x02009;h. Quantification of the
+lumenal concentration revealed that if 1&#x02009;&#x003bc;M of peptide was added
+externally, wt TAP accumulated peptides to 8.3&#x000b1;0.6&#x02009;&#x003bc;M, whereas
+D674A/wt reached 0.9&#x000b1;0.3&#x02009;&#x003bc;M (<xref ref-type="fig" rid="f3">Fig. 3b</xref>). At low
+concentration of peptides added (0.1&#x02009;&#x003bc;M), a 38-fold accumulation was
+observed for wt TAP, whereas the D674A/wt complex equilibrated at
+0.1&#x02009;&#x003bc;M. These experiments prove for the first time that TAP uses the
+chemical energy of ATP to pump
+peptides against the concentration gradient. In stark contrast, the D-loop mutation
+disrupts the tight coupling between peptide translocation and ATP hydrolysis, allowing only for a passive
+peptide flux, which still requires binding of ADP or ATP.</p></sec><sec disp-level="2"><title>Trans-inhibition at high lumenal substrate concentration</title><p>Notably, at high substrate concentrations, for example, 100&#x02009;&#x003bc;M, the
+translocated peptides did not reach above 16&#x02009;&#x003bc;M in the liposomes for wt
+TAP and D674A/wt, ruling out that the D-loop mutation converts the transporter into a
+channel. Furthermore, these results are not affected by the amount of TAP
+reconstituted per liposome (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+4</xref>). Also, single vesicle-based translocation assays show that more than 95%
+of the proteoliposomes are transport active, establishing that each liposome contains
+at least one active transport complex. An initial lipid-to-TAP (w/w) reconstitution
+ratio of 20 leads to approximately 300,000 lipids per active and correctly oriented
+TAP complex, ensuring that peptide accumulation is not underestimated by low
+reconstitution efficiency (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+5</xref>). These data indicate that TAP is inhibited in <italic>trans</italic> by accumulated
+lumenal peptide. Because of active transport by wt TAP, trans-inhibition is reached
+at a much lower external peptide concentration than for the D-loop mutant. Because
+substrate translocation in the D674A/wt complex is uncoupled from ATP hydrolysis, the measured EC<sub>50</sub>
+can be attributed to a low-affinity peptide-binding site, exposed to the vesicle
+lumen, with a <italic>K</italic><sub>d</sub> of 10.7&#x000b1;0.5&#x02009;&#x003bc;M. It is worth
+noting that peptide transport is not inhibited by proton or ion gradients, because
+nigericin or valinomycin did not affect the transport
+activity either of wt TAP or D674A/wt (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 6</xref>). These results provide direct evidence that TAP
+operates as primary active transporter, which is inhibited by saturating a
+low-affinity binding site that is accessible from the ER lumen. We propose that this
+trans-inhibition process is important for a fine-tuned balance between antigen
+processing and ER homeostasis, thereby preventing a harmful accumulation of peptides
+in the ER and induction of ER stress<xref ref-type="bibr" rid="b31">31</xref>.</p></sec><sec disp-level="2"><title>ATP hydrolysis mediates
+unidirectional/vectorial transport</title><p>Membrane transport via alternating access can occur either uni- or bidirectionally.
+We therefore analysed the vectoriality by dual-colour import/export assays (<xref ref-type="fig" rid="f4">Fig. 4a</xref>). Peptides were labelled by spectrally separated
+fluorophores, which affect neither their binding affinities nor transport
+kinetics<xref ref-type="bibr" rid="b32">32</xref>. First, the translocation of Atto565-labelled peptides
+was recorded. After washing, a second transport period was initiated under the same
+conditions by adding the fluorescein-labelled peptide. By parallel detection of both
+peptides, we observed that initially transported peptides were not retrotranslocated
+by wt TAP (<xref ref-type="fig" rid="f4">Fig. 4b</xref> and <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 7</xref>), as also established by observing the uptake of the
+differently labelled peptides over time during the second transport period (<xref ref-type="fig" rid="f4">Fig. 4c</xref>). If retrotranslocation occurred, a decrease of
+Atto565-labelled peptide would be observed because re-uptake would be competed by the
+large excess of fluorescein peptide in the second transport period. On the contrary,
+the D674A/wt complex facilitated the retrotranslocation of initially translocated
+Atto565-labelled peptides at the expense of the fluorescein-labelled peptides,
+whereas the total lumenal peptide concentration remained constant (<xref ref-type="fig" rid="f4">Fig. 4c,d</xref>). Counter-flow experiments with proteoliposomes prefilled with
+fluorescein-labelled peptides demonstrated that peptide influx and efflux by D674A/wt
+are not coupled but require ATP
+(<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 7</xref>). In
+conclusion, wt TAP operates unidirectionally, even if the proteoliposomes contain
+saturating concentrations of peptide, whereas the D-loop mutant acts as a
+nucleotide-gated facilitator allowing for passive (downhill) flux in both
+directions.</p></sec><sec disp-level="2"><title>The D-loop influences the affinity for NBD dimerization</title><p>To understand the D-loop substitution at a biochemical and structural level, we used
+a model system relying on homodimerization of the isolated rat TAP1-NBD<xref ref-type="bibr" rid="b17">17</xref>. This model system
+enables structural studies of NBD dimers as well as biophysical measurements of NBD
+dimerization affinities that are not accessible in full-length transporter systems.
+Importantly, the hydrolysis-deficient Walker B mutant (D645N) has a D-loop structure
+and interactions very similar to those seen in physiological NBD dimer
+structures<xref ref-type="bibr" rid="b17">17</xref><xref ref-type="bibr" rid="b23">23</xref><xref ref-type="bibr" rid="b33">33</xref><xref ref-type="bibr" rid="b34">34</xref>. We introduced the D-loop D651A mutation
+in this model system, which is equivalent to D674A in human TAP1, to study its effect on NBD dimerization,
+yielding two copies of the D-loop mutation in the homodimeric state. It should be
+noted that no heterodimeric ABC transporter or isolated NBDs in the fully closed
+state have been assembled and structurally analysed so far. Our homodimeric model
+system, although imperfect, does enable us to measure the impact of the D-loop
+mutation on dimerization. We determined the dissociation constant
+(<italic>K</italic><sub>d</sub>) of the NBD dimer using analytical ultracentrifugation. As
+observed in sedimentation velocity experiments, sedimentation coefficient
+distributions displayed two populations, corresponding to NBD monomer and dimer
+(<xref ref-type="fig" rid="f5">Fig. 5</xref> and <xref ref-type="table" rid="t1">Table 1</xref>). The
+hydrolysis-deficient Walker B mutant was predominantly dimeric only in the presence
+of ATP, whereas in the presence of
+ADP the monomeric form was
+dominant. In contrast, the Walker B/D-loop double mutant is mostly monomeric
+regardless of the nucleotide present. <italic>K</italic><sub>d</sub>s obtained from
+sedimentation equilibrium experiments (<xref ref-type="table" rid="t1">Table 1</xref>) confirm the
+sedimentation velocity results, and indicate ~8-fold decreased affinity of NBD
+dimerization for the double mutant TAP1-NBD in the presence of ATP, yielding a <italic>K</italic><sub>d</sub> similar to that in the
+presence of ADP. In summary, these
+results demonstrate that the rat TAP1-NBD dimerizes in an ATP-dependent manner, and that the D-loop substitution (present at
+both ATPase sites in this model system) essentially eliminates the increased affinity
+observed in the presence of ATP. In
+the context of the full-length transporter, a reduction of the affinity for NBD
+dimerization would not prevent, but would destabilize the outward-facing
+conformation.</p></sec><sec disp-level="2"><title>D-loop mutation subtly alters the NBD dimer structure</title><p>To visualize the structural changes caused by the D-loop substitution, we determined
+the crystal structure of Walker B/D-loop double mutant rat TAP1-NBD (<xref ref-type="table" rid="t2">Table 2</xref>).
+Interestingly, a dimer is observed through crystallographic twofold symmetry,
+revealing that although dimerization affinity is diminished, the double mutant can
+form the canonical NBD sandwich interface. Comparison with the previously determined
+Walker B mutant structure<xref ref-type="bibr" rid="b17">17</xref>, which contains an entire dimer in the
+asymmetric unit, reveals two significant differences. First, there is a global twist
+of the two protomers along the dimer interface (<xref ref-type="fig" rid="f6">Fig. 6a</xref> and
+<xref ref-type="supplementary-material" rid="S1">Supplementary Movie 1</xref>). Although the
+two ATPs and their binding sites are essentially unaffected by this structural
+re-organization, the C-terminal regions slide with respect to each other. Second,
+although the D-loop and interacting Walker A positions are essentially unaffected
+despite the loss of several hydrogen bonds (see below and <xref ref-type="fig" rid="f6">Fig.
+6b,c</xref> and <xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+8</xref>), the D-loop shows evidence of increased flexibility. A closer look at the
+TAP1-NBD structure reveals two
+key interactions for the D-loop aspartate. First, it interacts with the backbone of Walker A
+asparagine (N517) from the other protomer, a &#x003b3;-phosphate sensor for the bound
+nucleotide<xref ref-type="bibr" rid="b35">35</xref>. Second, the D-loop aspartyl side chain caps the short
+helix that is C-terminal to it. In the D-loop mutant structure, the position and
+orientation of N517 is essentially unchanged, and it still interacts with the
+&#x003b3;-phosphate, backbone of A649 and A651, and N654 side chain (<xref ref-type="fig" rid="f6">Fig. 6c</xref>). Therefore, although the interactions through the D-loop
+aspartate side chain are lost
+due to mutation to alanine, the
+overall D-loop and Walker A positions are essentially unaffected. However, the
+B-factors for the D-loop and first turn of the helix that follows it (residues
+648&#x02013;655; 74.9&#x02009;&#x000c5;<sup>2</sup>) are significantly higher than the
+whole protomer average for the Walker B/D-loop double mutant
+(67.8&#x02009;&#x000c5;<sup>2</sup>), but not the Walker B mutant
+(24.2&#x02009;&#x000c5;<sup>2</sup> for the D-loop versus a whole protomer average
+of 34.6&#x02009;&#x000c5;<sup>2</sup>), indicating that aspartate helps rigidify the D-loop region by
+acting as a helix cap. Both the global reorganization of the NBD dimer and the
+destabilization of the D-loop suggest that the D-to-A mutation in the TAP1 D-loop may impair communication between
+the ATPase sites in the NBDs and the peptide-binding site in the TMDs.</p><p>We note that our homodimeric TAP1
+NBD structure represents only one state within the transport cycle, likely the fully
+closed NBD dimer state nearing ATP
+hydrolysis. Our structure also bears two copies of the D-loop mutation, unlike the
+heterodimeric D674A/wt complex that we observed behaves as a nucleotide-dependent
+facilitator. It is therefore possible that functional consequences of the D674A
+mutation stem at least in part from yet-to-be observed structural changes in the
+heterodimeric closed-NBD assembly and/or other steps in the transport cycle. Recent
+structures of a bacterial ABC exporter, TM287/288, provide some evidence for
+additional roles of the D-loop in NBD&#x02013;NBD communication. Nearly identical
+structures of a nucleotide-free state and a state with one AMPPNP, bound to the degenerate ATPase site
+(root-mean-square deviation of 0.636&#x02009;&#x000c5;)<xref ref-type="bibr" rid="b36">36</xref>, both retain
+D-loop-mediated NBD&#x02013;NBD contacts. Neither of these structures represents a
+fully closed-NBD dimer state, and these D-loop contacts are quite different from the
+ones we observed in our TAP1 NBD
+dimer.</p></sec></sec><sec disp-level="1" sec-type="discussion"><title>Discussion</title><p>To the best of our knowledge, our study establishes for the first time that TAP (i)
+indeed acts as an active transporter pumping peptides against a gradient and (ii)
+mechanistically operates as a molecular diode translocating peptides in a strict
+unidirectional mode. This formally excludes the possibility that TAP can
+retrotranslocate antigens to the cytosol, an important process in cross-presentation
+that is essential for the priming of naive cytotoxic T cells<xref ref-type="bibr" rid="b37">37</xref>. To define
+the vectoriality, the pathway from inward- to outward-facing conformation must differ
+from the reverse.</p><p>Based on our findings we derive the following mechanistic model (<xref ref-type="fig" rid="f7">Fig.
+7</xref>): ATP and peptide, which
+can bind independently from each other<xref ref-type="bibr" rid="b38">38</xref>, trigger a conformational switch
+from the inward- to outward-facing conformation<xref ref-type="bibr" rid="b39">39</xref>. Peptide release into
+the ER triggers ATP hydrolysis, which
+is required for disassembly of the NBD dimer driving the outward-facing conformation
+back to the inward-facing one. Trans-inhibition takes place if peptide association to
+the ER-lumenal low-affinity binding site is faster than the conformational changes from
+the outward- into the inward-open state because of the high lumenal peptide
+concentration.</p><p>In the D674A/wt complex (red pathway), the loss of critical H-bonds and higher
+flexibility of the D-loop destabilize the NBD dimer and precludes ATP hydrolysis (<xref ref-type="fig" rid="f3">Fig. 3a</xref>).
+Thus, NBD dissociation and the subsequent conformational change can occur independently
+from ATP hydrolysis and/or peptide
+release. Consequently, the inward- and outward-facing conformations can switch back and
+forth, leading to an uncoupled bidirectional flow of peptides along their gradient
+(<xref ref-type="fig" rid="f3">Fig. 3</xref>). We propose that in wt TAP the dissociation of the
+dimer is driven by an intermediate, post-hydrolysis state that is necessarily
+incompatible with the dimer&#x02014;much more so than ADP. The existence of this intermediate step (or rather, the need for
+the system to escape it) would impose vectoriality to the process. In the D-loop mutant,
+by contrast, association/dissociation is not directionally driven because ATP hydrolysis cannot occur. The D674A complex
+returns to the resting state by the reversal of the forward reaction and can therefore
+shuttle peptides in both directions. Therefore, the D-loop serves as one of likely
+several elements that contribute to vectoriality. Based on the principle of
+&#x02018;microscopic reversibility&#x02019;, the wt transport system should, in theory,
+run in the opposite direction at a very high lumenal-to-cytosolic peptide, high
+ADP and inorganic phosphate
+concentrations. However, we did not observe this in our experiments, suggesting that
+this pathway is kinetically disfavoured and TAP is arrested by trans-inhibition at high
+lumenal peptide concentrations. These findings present a prime example of kinetic versus
+thermodynamic control and of the mechanistic link between unidirectional, primary active
+ABC transporters and bidirectional, passive facilitators.</p></sec><sec disp-level="1" sec-type="methods"><title>Methods</title><sec disp-level="2"><title>Functional assays</title><p>Baculovirus expression of TAP1 and
+TAP2 in <italic>Sf</italic>9 insect cells
+(Life Technologies), membrane preparation, solubilization, purification,
+reconstitution, peptide binding, peptide translocation and ATPase assays were
+performed as described<xref ref-type="bibr" rid="b30">30</xref>. D-loop substitutions were introduced in
+human TAP1 and TAP2 by standard cloning procedures. To
+analyse ATP binding, purified TAP
+was incubated with 8-azido-[&#x003b1;<sup>32</sup>P]ATP (1&#x02009;&#x003bc;M) and
+MgCl<sub>2</sub> (1&#x02009;mM)
+for 5&#x02009;min at 4&#x02009;&#x000b0;C in standard buffer (20&#x02009;mM HEPES, 140&#x02009;mM NaCl, 15% glycerol, 0.05% digitonin, pH 7.4). After photo-crosslinking for 5&#x02009;min,
+subunits of the TAP complex were analysed by SDS&#x02013;PAGE (6%) and subsequent
+autoradiography was done. TAP2 was
+fused N-terminally to tapasin to
+allow for separation of both TAP subunits<xref ref-type="bibr" rid="b40">40</xref>. The antigen-processing
+pathway and MHC I surface expression was reconstituted by coexpression of the
+tapasin, HLA-B*4402 and
+TAP1/2 in <italic>Sf</italic>9 insect
+cells using baculovirus expression system<xref ref-type="bibr" rid="b41">41</xref>. The MHC I surface
+expression was analysed by flow cytometry using the conformation-specific
+anti-HLA-A/B/C antibody (W6/32) coupled to phycoerythrin (BioLegend). Monoclonal
+antibodies used for blots were anti-TAP1 mAb 148.3 (ref. <xref ref-type="bibr" rid="b42">42</xref>),
+anti-TAP2 mAb 435.3 (ref.
+<xref ref-type="bibr" rid="b43">43</xref>) and anti-tapasin mAb 7F6 (ref. <xref ref-type="bibr" rid="b44">44</xref>).</p></sec><sec disp-level="2"><title>Peptide translocation in proteoliposomes</title><p>Purified TAP was reconstituted into liposomes of <italic>Escherichia coli</italic> polar lipids
+and 1,2-dioleoyl-<italic>sn</italic>-glycero-3-phosphocholine (70/30%) as
+described<xref ref-type="bibr" rid="b30">30</xref>. Proteoliposomes containing a lipid-to-TAP (w/w) ratio
+of 20 were incubated in transport buffer (20&#x02009;mM HEPES, 140&#x02009;mM NaCl, 3&#x02009;mM MgCl<sub>2</sub>, 5% glycerol, pH 7.4) with indicated
+concentrations of the peptide RRYQNSTC<sup>(FL488 or AT633)</sup>L or
+RRYC<sup>(FL488)</sup>NSTEL<xref ref-type="bibr" rid="b32">32</xref> in the presence or absence of
+ATP (3&#x02009;mM) at
+37&#x02009;&#x000b0;C in a volume of 50&#x02009;&#x003bc;l. Peptide transport was stopped by
+adding ice-cold stopping buffer (10&#x02009;mM EDTA in phosphate-buffered saline) containing 100-fold molar
+excess of unlabelled peptide RRYQKSTEL to prevent peptide binding to TAP.
+Proteoliposomes were washed twice by centrifugation for 15&#x02009;min at
+125,000<italic>g</italic> at 4&#x02009;&#x000b0;C. In the case of two consecutive transport
+periods, the first translocation period was performed with peptide
+RRYQNSTC<sup>(AT565)</sup>L. After intensive washing of proteoliposomes, a
+second transport period was conducted with peptide RRYQNSTC.<sup>(FL448)</sup>L.
+To determine the encapsulated volume of liposomes, 50&#x02009;&#x003bc;M of
+5(6)-carboxyfluorescein was added during the swelling of the lipid film and kept
+constant during the entire reconstitution procedure.</p></sec><sec disp-level="2"><title>Crystallization, data collection and refinement</title><p>Rat TAP1 NBDs were expressed and
+purified as before<xref ref-type="bibr" rid="b17">17</xref>. Briefly, the proteins were expressed in <italic>E.
+coli</italic> BL21(DE3), affinity-purified on Ni-NTA resin (Qiagen), eluting with an
+imidazole step gradient. Fractions containing the NBD were further purified on a
+Superdex200 column (GE Healthcare). All mutations were introduced by using QuikChange
+mutagenesis kit (primers for D645N:
+5&#x02032;-CTTATCTTGGACAATGCCACCAGTGC-3&#x02032; and
+5&#x02032;-CAGGGCACTGGTGGCATTGTCCAAGA-3&#x02032;; primers for
+D651A: 5&#x02032;-CCAGTGCCCTGGCTGCTGGCAACCAGCTACGGGTC-3&#x02032; and
+5&#x02032;-CTGGTTGCCAGCAGCCAGGGCACTGGTGGCATCGTC-3&#x02032;) and
+confirmed by DNA sequencing. Rat TAP1 NBD D645N/D651A
+(15&#x02009;mg&#x02009;ml<sup>&#x02212;1</sup>) was crystallized at
+4&#x02009;&#x000b0;C in 1+1&#x02009;&#x003bc;l sitting drops by vapour diffusion against
+reservoir solution (0.84&#x02009;M Na<sub>3</sub>
+citrate, 100&#x02009;mM Tris, pH 8.0, 3.6&#x02009;mM NiCl<sub>2</sub>). Crystals were frozen in reservoir solution
+plus 25% glycerol. Diffraction
+data were collected at Advanced Photon Source (APS) beamline 24-ID-C (NE-CAT, Argonne
+National Labs) and processed with X-ray Detector Software (XDS)<xref ref-type="bibr" rid="b45">45</xref>.
+Structure was determined by molecular replacement with PHASER<xref ref-type="bibr" rid="b46">46</xref> using
+rat TAP1-NBD (D645N; 2IXE) with
+nucleotide removed as the search model. Model building and refinement were done with
+PHENIX<xref ref-type="bibr" rid="b47">47</xref> and Coot<xref ref-type="bibr" rid="b46">46</xref>. Morph movie was made with the
+molmovdb.org server<xref ref-type="bibr" rid="b48">48</xref>. Figures were made in PyMOL (Schr&#x000f6;dinger,
+LLC).</p></sec><sec disp-level="2"><title>Analytical ultracentrifugation</title><p>Protein samples (33&#x02009;&#x003bc;M) dialysed against sample buffer (20&#x02009;mM
+Tris, pH 8.0, 50&#x02009;mM
+NaCl, 5&#x02009;mM MgCl<sub>2</sub>) in the presence of the
+indicated nucleotide. Experiments were performed in an Optima XL-I analytical
+ultracentrifuge equipped with interference optics (Beckman Coulter) using an
+eight-hole An-50 Ti rotor (Beckman Coulter), and interference scans were acquired
+every 9&#x02009;min. Buffer density, viscosity and partial specific volumes were
+estimated using SEDNTERP<xref ref-type="bibr" rid="b49">49</xref>. Sedimentation velocity experiments were
+run at 40,000&#x02009;r.p.m. at 10&#x02009;&#x000b0;C for 14&#x02009;h in double sector
+cells with sapphire windows. Data were analysed according to continuous sedimentation
+coefficient distribution (c(S)) model in Sedfit<xref ref-type="bibr" rid="b50">50</xref>, to determine
+sedimentation coefficients for each sample. Sedimentation equilibrium experiments
+were performed at 12,000, 15,000 and 22,000&#x02009;r.p.m. at 10&#x02009;&#x000b0;C in
+six-sector cells using three different concentrations (3, 11 and 33&#x02009;&#x003bc;M)
+of each sample or sample buffer containing the indicated nucleotide. After
+24&#x02009;h, samples reached equilibrium and ten interference spectra were recorded.
+Data were analysed according to the monomer-dimer self-association model in
+SedPhat<xref ref-type="bibr" rid="b51">51</xref>. The convergence of data fitting to a global minimum was
+verified using different methods including Simplex, Marquardt-Levenberg and Simulated
+Annealing.</p></sec><sec disp-level="2"><title>TAP1-NBD ATP hydrolysis</title><p>ATP hydrolysis assays were performed as described<xref ref-type="bibr" rid="b41">41</xref>, except
+TAP1-NBD protein samples were
+stripped of bound nucleotide by passing twice through a PD-10 column equilibrated
+with ATPase reaction buffer (150&#x02009;mM potassium acetate, 10% glycerol, 1&#x02009;mM dithiothreitol and 50&#x02009;mM K-HEPES (pH 7.5)) and the
+A<sub>260</sub>/A<sub>280</sub> ratio was verified to be &#x0003c;0.6. Data were
+collected on a FlexStation 3 (Molecular Devices).</p></sec><sec disp-level="2"><title>TAP1-NBD nucleotide
+binding</title><p>Nucleotide-stripped TAP1-NBD
+samples were re-concentrated to ~100&#x02009;&#x003bc;M, and used to make a
+series of eight twofold dilutions in assay buffer (20&#x02009;mM Tris, pH 8.0, 50&#x02009;mM NaCl, 1&#x02009;mM dithiothreitol) with 1&#x02009;&#x003bc;M
+ATP-Bodipy (Invitrogen). A background control contained no protein. For competitive
+binding experiments, NBDs (25&#x02009;&#x003bc;M final) were mixed with
+1&#x02009;&#x003bc;M ATP-Bodipy and a series of ten twofold dilutions of unlabelled
+nucleotide, with samples with no labelled nucleotide serving as background control.
+Fluorescence polarization was measured in FlexStation 3 with excitation at
+488&#x02009;nm. All samples were run two or three times in triplicates. Data were
+analysed with Origin (OriginLab Corp.). Binding affinities of unlabelled nucleotides
+(<italic>K</italic><sub>i</sub>s) were obtained using
+<italic>K</italic><sub>i</sub>=IC<sub>50</sub>/([<italic>L</italic>]/<italic>K</italic><sub>d</sub>+1).</p></sec></sec><sec disp-level="1"><title>Author contributions</title><p>N.G., R.A. and R.T. performed all experiments with the full-length TAP complex. A.S.V.
+and R.G. carried out all experiments with the NBDs of TAP. S.H. constructed the Tsn-TAP
+fusion construct. R.A., R.G. and R.T. designed the experiments, N.G., A.S.V., R.A., R.G.
+and R.T. analysed the data and wrote the paper.</p></sec><sec disp-level="1"><title>Additional information</title><p><bold>Accession codes:</bold> The atomic coordinates and structure factors for the rat
+TAP1 NBD D645N/D651A structure
+have been deposited under accession code <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="4K8O">4K8O</ext-link> in the
+Protein Data Bank.</p><p><bold>How to cite this article:</bold> Grossmann, N. <italic>et al.</italic> Mechanistic determinants of
+the directionality and energetics of active export by a heterodimeric ABC transporter.
+<italic>Nat. Commun.</italic> 5:5419 doi: 10.1038/ncomms6419 (2014).</p></sec><sec sec-type="supplementary-material" id="S1"><title>Supplementary Material</title><supplementary-material id="d33e19" content-type="local-data"><caption><title>Supplementary Information</title><p>Supplementary Figures 1-8, Supplementary Tables 1-3 and Supplementary
+References.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-s1.pdf"/></supplementary-material><supplementary-material id="d33e25" content-type="local-data"><caption><title>Supplementary Movie 1</title><p>Morph of the Walker B D645N mutant TAP1-NBD dimer structure (2IXE) to the
+D645N/D651A double mutant TAP1-NBD dimer structure. The morph is animated first as
+view from the membrane, and then as viewed from the side. Conserved ABC
+transporter sequence motifs important for ATP binding and hydrolysis are colored:
+Walker A, yellow; Walker B, blue, D-loop, red; C-loop, green, Q-loop, pink,
+H-loop, orange.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-s2.mov"/></supplementary-material></sec></body><back><ack><p>We thank Drs Jos&#x000e9; Faraldo-Gomez, Ute Hellmich, Andreas Hinz, Peter Mayerhofer and
+David Parcej for helpful comments on the manuscript, Sriram Srikant for help with
+crystallization, Dr Mehmet Sen for help with X-ray data processing and the MIT
+Biophysical Instrumentation Facility for AUC use. The German Research Foundation (SFB
+807&#x02014;Transport and Communication across Biological Membranes, AB149/2 to R.A. and
+R.T.), the European Drug Initiative on Channels and Transporters (EDICT to R.T.) funded
+by the European Commission Seventh Framework Program and the American Cancer Society
+(111847 to R.G.) supported this work. Use of APS NE-CAT beamlines was supported by NIH
+award P41 GM103403 and DOE contract DE-AC02-06CH11357.</p></ack><ref-list><ref id="b1"><mixed-citation publication-type="journal"><name><surname>Higgins</surname><given-names>C. F.</given-names></name> &#x00026;
+<name><surname>Linton</surname><given-names>K. J.</given-names></name>
+<article-title>The ATP switch model for ABC transporters</article-title>. <source>Nat. Struct. Mol.
+Biol.</source>
+<volume>11</volume>, <fpage>918</fpage>&#x02013;<lpage>926</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15452563</pub-id></mixed-citation></ref><ref id="b2"><mixed-citation publication-type="journal"><name><surname>Oldham</surname><given-names>M. L.</given-names></name>, <name><surname>Davidson</surname><given-names>A. L.</given-names></name> &#x00026; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Structural insights into ABC transporter mechanism</article-title>. <source>Curr. Opin.
+Struct. Biol.</source>
+<volume>18</volume>, <fpage>726</fpage>&#x02013;<lpage>733</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18948194</pub-id></mixed-citation></ref><ref id="b3"><mixed-citation publication-type="journal"><name><surname>Hollenstein</surname><given-names>K.</given-names></name>, <name><surname>Dawson</surname><given-names>R. J.</given-names></name> &#x00026; <name><surname>Locher</surname><given-names>K.
+P.</given-names></name>
+<article-title>Structure and mechanism of ABC transporter proteins</article-title>. <source>Curr. Opin.
+Struct. Biol.</source>
+<volume>17</volume>, <fpage>412</fpage>&#x02013;<lpage>418</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17723295</pub-id></mixed-citation></ref><ref id="b4"><mixed-citation publication-type="journal"><name><surname>Rees</surname><given-names>D. C.</given-names></name>, <name><surname>Johnson</surname><given-names>E.</given-names></name> &#x00026; <name><surname>Lewinson</surname><given-names>O.</given-names></name>
+<article-title>ABC transporters: the power to change</article-title>. <source>Nat. Rev. Mol. Cell.
+Biol.</source>
+<volume>10</volume>, <fpage>218</fpage>&#x02013;<lpage>227</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19234479</pub-id></mixed-citation></ref><ref id="b5"><mixed-citation publication-type="journal"><name><surname>Abele</surname><given-names>R.</given-names></name> &#x00026;
+<name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>The ABCs of immunology: structure and function of TAP, the transporter
+associated with antigen processing</article-title>. <source>Physiology</source>
+<volume>19</volume>, <fpage>216</fpage>&#x02013;<lpage>224</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15304636</pub-id></mixed-citation></ref><ref id="b6"><mixed-citation publication-type="journal"><name><surname>Borst</surname><given-names>P.</given-names></name> &#x00026; <name><surname>Elferink</surname><given-names>R. O.</given-names></name>
+<article-title>Mammalian ABC transporters in health and disease</article-title>. <source>Annu. Rev.
+Biochem.</source>
+<volume>71</volume>, <fpage>537</fpage>&#x02013;<lpage>592</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12045106</pub-id></mixed-citation></ref><ref id="b7"><mixed-citation publication-type="journal"><name><surname>Parcej</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>ABC proteins in antigen translocation and viral inhibition</article-title>. <source>Nat.
+Chem. Biol.</source>
+<volume>6</volume>, <fpage>572</fpage>&#x02013;<lpage>580</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20644544</pub-id></mixed-citation></ref><ref id="b8"><mixed-citation publication-type="journal"><name><surname>Procko</surname><given-names>E.</given-names></name>, <name><surname>O'Mara</surname><given-names>M. L.</given-names></name>, <name><surname>Bennett</surname><given-names>W. F.</given-names></name>,
+<name><surname>Tieleman</surname><given-names>D. P.</given-names></name> &#x00026;
+<name><surname>Gaudet</surname><given-names>R.</given-names></name>
+<article-title>The mechanism of ABC transporters: general lessons from structural and
+functional studies of an antigenic peptide transporter</article-title>. <source>FASEB J.</source>
+<volume>23</volume>, <fpage>1287</fpage>&#x02013;<lpage>1302</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19174475</pub-id></mixed-citation></ref><ref id="b9"><mixed-citation publication-type="journal"><name><surname>Hulpke</surname><given-names>S.</given-names></name> &#x00026;
+<name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>The MHC I loading complex: a multitasking machinery in adaptive immunity</article-title>.
+<source>Trends Biochem. Sci.</source>
+<volume>38</volume>, <fpage>412</fpage>&#x02013;<lpage>420</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23849087</pub-id></mixed-citation></ref><ref id="b10"><mixed-citation publication-type="journal"><name><surname>Dawson</surname><given-names>R. J.</given-names></name> &#x00026;
+<name><surname>Locher</surname><given-names>K. P.</given-names></name>
+<article-title>Structure of a bacterial multidrug ABC transporter</article-title>. <source>Nature</source>
+<volume>443</volume>, <fpage>180</fpage>&#x02013;<lpage>185</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16943773</pub-id></mixed-citation></ref><ref id="b11"><mixed-citation publication-type="journal"><name><surname>Aller</surname><given-names>S. G.</given-names></name>
+<italic>et al.</italic>
+<article-title>Structure of P-glycoprotein reveals a molecular basis for poly-specific drug
+binding</article-title>. <source>Science</source>
+<volume>323</volume>, <fpage>1718</fpage>&#x02013;<lpage>1722</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19325113</pub-id></mixed-citation></ref><ref id="b12"><mixed-citation publication-type="journal"><name><surname>Ward</surname><given-names>A.</given-names></name>, <name><surname>Reyes</surname><given-names>C.
+L.</given-names></name>, <name><surname>Yu</surname><given-names>J.</given-names></name>,
+<name><surname>Roth</surname><given-names>C. B.</given-names></name> &#x00026; <name><surname>Chang</surname><given-names>G.</given-names></name>
+<article-title>Flexibility in the ABC transporter MsbA: Alternating access with a twist</article-title>.
+<source>Proc. Natl Acad. Sci. USA</source>
+<volume>104</volume>, <fpage>19005</fpage>&#x02013;<lpage>19010</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">18024585</pub-id></mixed-citation></ref><ref id="b13"><mixed-citation publication-type="journal"><name><surname>Oancea</surname><given-names>G.</given-names></name>
+<italic>et al.</italic>
+<article-title>Structural arrangement of the transmission interface in the antigen ABC
+transport complex TAP</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>106</volume>, <fpage>5551</fpage>&#x02013;<lpage>5556</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19297616</pub-id></mixed-citation></ref><ref id="b14"><mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>M.</given-names></name>, <name><surname>Abele</surname><given-names>R.</given-names></name> &#x00026; <name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>Functional non-equivalence of ATP-binding cassette signature motifs in the
+transporter associated with antigen processing (TAP)</article-title>. <source>J. Biol.
+Chem.</source>
+<volume>279</volume>, <fpage>46073</fpage>&#x02013;<lpage>46081</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15322097</pub-id></mixed-citation></ref><ref id="b15"><mixed-citation publication-type="journal"><name><surname>Arora</surname><given-names>S.</given-names></name>, <name><surname>Lapinski</surname><given-names>P. E.</given-names></name> &#x00026; <name><surname>Raghavan</surname><given-names>M.</given-names></name>
+<article-title>Use of chimeric proteins to investigate the role of transporter associated with
+antigen processing (TAP) structural domains in peptide binding and
+translocation</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>98</volume>, <fpage>7241</fpage>&#x02013;<lpage>7246</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11416206</pub-id></mixed-citation></ref><ref id="b16"><mixed-citation publication-type="journal"><name><surname>Alberts</surname><given-names>P.</given-names></name>, <name><surname>Daumke</surname><given-names>O.</given-names></name>, <name><surname>Deverson</surname><given-names>E. V.</given-names></name>,
+<name><surname>Howard</surname><given-names>J. C.</given-names></name> &#x00026;
+<name><surname>Knittler</surname><given-names>M. R.</given-names></name>
+<article-title>Distinct functional properties of the TAP subunits coordinate the
+nucleotide-dependent transport cycle</article-title>. <source>Curr. Biol.</source>
+<volume>11</volume>, <fpage>242</fpage>&#x02013;<lpage>251</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11250152</pub-id></mixed-citation></ref><ref id="b17"><mixed-citation publication-type="journal"><name><surname>Procko</surname><given-names>E.</given-names></name>,
+<name><surname>Ferrin-O&#x02019;Connell</surname><given-names>I.</given-names></name>,
+<name><surname>Ng</surname><given-names>S. L.</given-names></name> &#x00026; <name><surname>Gaudet</surname><given-names>R.</given-names></name>
+<article-title>Distinct structural and functional properties of the ATPase sites in an
+asymmetric ABC transporter</article-title>. <source>Mol. Cell</source>
+<volume>24</volume>, <fpage>51</fpage>&#x02013;<lpage>62</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">17018292</pub-id></mixed-citation></ref><ref id="b18"><mixed-citation publication-type="journal"><name><surname>Masia</surname><given-names>R.</given-names></name> &#x00026; <name><surname>Nichols</surname><given-names>C. G.</given-names></name>
+<article-title>Functional clustering of mutations in the dimer interface of the nucleotide
+binding folds of the sulfonylurea receptor</article-title>. <source>J. Biol. Chem.</source>
+<volume>283</volume>, <fpage>30322</fpage>&#x02013;<lpage>30329</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18715873</pub-id></mixed-citation></ref><ref id="b19"><mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>J.</given-names></name>
+<italic>et al.</italic>
+<article-title>Sequences in the nonconsensus nucleotide-binding domain of ABCG5/ABCG8 required
+for sterol transport</article-title>. <source>J. Biol. Chem.</source>
+<volume>286</volume>, <fpage>7308</fpage>&#x02013;<lpage>7314</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21209088</pub-id></mixed-citation></ref><ref id="b20"><mixed-citation publication-type="journal"><name><surname>Schultz</surname><given-names>K. M.</given-names></name>, <name><surname>Merten</surname><given-names>J. A.</given-names></name> &#x00026; <name><surname>Klug</surname><given-names>C. S.</given-names></name>
+<article-title>Effects of the L511P and D512G mutations on the <italic>Escherichia coli</italic> ABC
+transporter MsbA</article-title>. <source>Biochemistry</source>
+<volume>50</volume>, <fpage>2594</fpage>&#x02013;<lpage>2602</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21344946</pub-id></mixed-citation></ref><ref id="b21"><mixed-citation publication-type="journal"><name><surname>Zaitseva</surname><given-names>J.</given-names></name>, <name><surname>Jenewein</surname><given-names>S.</given-names></name>, <name><surname>Jumpertz</surname><given-names>T.</given-names></name>,
+<name><surname>Holland</surname><given-names>I. B.</given-names></name> &#x00026;
+<name><surname>Schmitt</surname><given-names>L.</given-names></name>
+<article-title>H662 is the linchpin of ATP hydrolysis in the nucleotide-binding domain of the
+ABC transporter HlyB</article-title>. <source>EMBO J.</source>
+<volume>24</volume>, <fpage>1901</fpage>&#x02013;<lpage>1910</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">15889153</pub-id></mixed-citation></ref><ref id="b22"><mixed-citation publication-type="journal"><name><surname>Oldham</surname><given-names>M. L.</given-names></name> &#x00026; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Crystal structure of the maltose transporter in a pretranslocation intermediate
+state</article-title>. <source>Science</source>
+<volume>332</volume>, <fpage>1202</fpage>&#x02013;<lpage>1205</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21566157</pub-id></mixed-citation></ref><ref id="b23"><mixed-citation publication-type="journal"><name><surname>Smith</surname><given-names>P. C.</given-names></name>
+<italic>et al.</italic>
+<article-title>ATP binding to the motor domain from an ABC transporter drives formation of a
+nucleotide sandwich dimer</article-title>. <source>Mol. Cell</source>
+<volume>10</volume>, <fpage>139</fpage>&#x02013;<lpage>149</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12150914</pub-id></mixed-citation></ref><ref id="b24"><mixed-citation publication-type="journal"><name><surname>Koopmann</surname><given-names>J. O.</given-names></name>
+<italic>et al.</italic>
+<article-title>Export of antigenic peptides from the endoplasmic reticulum intersects with
+retrograde protein translocation through the Sec61p channel</article-title>.
+<source>Immunity</source>
+<volume>13</volume>, <fpage>117</fpage>&#x02013;<lpage>127</lpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10933400</pub-id></mixed-citation></ref><ref id="b25"><mixed-citation publication-type="journal"><name><surname>Omote</surname><given-names>H.</given-names></name> &#x00026; <name><surname>Al-Shawi</surname><given-names>M. K.</given-names></name>
+<article-title>A novel electron paramagnetic resonance approach to determine the mechanism of
+drug transport by P-glycoprotein</article-title>. <source>J. Biol. Chem.</source>
+<volume>277</volume>, <fpage>45688</fpage>&#x02013;<lpage>45694</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12244102</pub-id></mixed-citation></ref><ref id="b26"><mixed-citation publication-type="journal"><name><surname>Balakrishnan</surname><given-names>L.</given-names></name>, <name><surname>Venter</surname><given-names>H.</given-names></name>, <name><surname>Shilling</surname><given-names>R. A.</given-names></name>
+&#x00026; <name><surname>van Veen</surname><given-names>H. W.</given-names></name>
+<article-title>Reversible transport by the ATP-binding cassette multidrug export pump LmrA: ATP
+synthesis at the expense of downhill ethidium uptake</article-title>. <source>J. Biol.
+Chem.</source>
+<volume>279</volume>, <fpage>11273</fpage>&#x02013;<lpage>11280</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">14660649</pub-id></mixed-citation></ref><ref id="b27"><mixed-citation publication-type="journal"><name><surname>Neefjes</surname><given-names>J. J.</given-names></name>, <name><surname>Momburg</surname><given-names>F.</given-names></name> &#x00026; <name><surname>H&#x000e4;mmerling</surname><given-names>G.
+J.</given-names></name>
+<article-title>Selective and ATP-dependent translocation of peptides by the MHC-encoded
+transporter</article-title>. <source>Science</source>
+<volume>261</volume>, <fpage>769</fpage>&#x02013;<lpage>771</lpage> (<year>1993</year>).<pub-id pub-id-type="pmid">8342042</pub-id></mixed-citation></ref><ref id="b28"><mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>M.</given-names></name>, <name><surname>Abele</surname><given-names>R.</given-names></name> &#x00026; <name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>Peptides induce ATP hydrolysis at both subunits of the transporter associated
+with antigen processing</article-title>. <source>J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>29686</fpage>&#x02013;<lpage>29692</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12777379</pub-id></mixed-citation></ref><ref id="b29"><mixed-citation publication-type="journal"><name><surname>Lapinski</surname><given-names>P. E.</given-names></name>,
+<name><surname>Raghuraman</surname><given-names>G.</given-names></name> &#x00026;
+<name><surname>Raghavan</surname><given-names>M.</given-names></name>
+<article-title>Nucleotide interactions with membrane-bound transporter associated with antigen
+processing proteins</article-title>. <source>J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>8229</fpage>&#x02013;<lpage>8237</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12501238</pub-id></mixed-citation></ref><ref id="b30"><mixed-citation publication-type="journal"><name><surname>Herget</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Purification and reconstitution of the antigen transport complex TAP: a
+prerequisite for determination of peptide stoichiometry and ATP hydrolysis</article-title>.
+<source>J. Biol. Chem.</source>
+<volume>284</volume>, <fpage>33740</fpage>&#x02013;<lpage>33749</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19808685</pub-id></mixed-citation></ref><ref id="b31"><mixed-citation publication-type="journal"><name><surname>Walter</surname><given-names>P.</given-names></name> &#x00026; <name><surname>Ron</surname><given-names>D.</given-names></name>
+<article-title>The unfolded protein response: from stress pathway to homeostatic
+regulation</article-title>. <source>Science</source>
+<volume>334</volume>, <fpage>1081</fpage>&#x02013;<lpage>1086</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">22116877</pub-id></mixed-citation></ref><ref id="b32"><mixed-citation publication-type="journal"><name><surname>Baldauf</surname><given-names>C.</given-names></name>, <name><surname>Schrodt</surname><given-names>S.</given-names></name>, <name><surname>Herget</surname><given-names>M.</given-names></name>,
+<name><surname>Koch</surname><given-names>J.</given-names></name> &#x00026;
+<name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>Single residue within the antigen translocation complex TAP controls the epitope
+repertoire by stabilizing a receptive conformation</article-title>. <source>Proc. Natl Acad.
+Sci. USA</source>
+<volume>107</volume>, <fpage>9135</fpage>&#x02013;<lpage>9140</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20439763</pub-id></mixed-citation></ref><ref id="b33"><mixed-citation publication-type="journal"><name><surname>Oldham</surname><given-names>M. L.</given-names></name> &#x00026; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Snapshots of the maltose transporter during ATP hydrolysis</article-title>. <source>Proc.
+Natl Acad. Sci. USA</source>
+<volume>108</volume>, <fpage>15152</fpage>&#x02013;<lpage>15156</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21825153</pub-id></mixed-citation></ref><ref id="b34"><mixed-citation publication-type="journal"><name><surname>Korkhov</surname><given-names>V. M.</given-names></name>, <name><surname>Mireku</surname><given-names>S. A.</given-names></name> &#x00026; <name><surname>Locher</surname><given-names>K.
+P.</given-names></name>
+<article-title>Structure of AMP-PNP-bound vitamin B12 transporter BtuCD-F</article-title>.
+<source>Nature</source>
+<volume>490</volume>, <fpage>367</fpage>&#x02013;<lpage>372</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">23000901</pub-id></mixed-citation></ref><ref id="b35"><mixed-citation publication-type="journal"><name><surname>Jones</surname><given-names>P. M.</given-names></name> &#x00026;
+<name><surname>George</surname><given-names>A. M.</given-names></name>
+<article-title>Role of the D-loops in allosteric control of ATP hydrolysis in an ABC
+transporter</article-title>. <source>J. Phys. Chem. A</source>
+<volume>116</volume>, <fpage>3004</fpage>&#x02013;<lpage>3013</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22369471</pub-id></mixed-citation></ref><ref id="b36"><mixed-citation publication-type="journal"><name><surname>Hohl</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Structural basis for allosteric cross-talk between the asymmetric nucleotide
+binding sites of a heterodimeric ABC exporter</article-title>. <source>Proc. Natl Acad. Sci.
+USA</source>
+<volume>111</volume>, <fpage>11025</fpage>&#x02013;<lpage>11030</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25030449</pub-id></mixed-citation></ref><ref id="b37"><mixed-citation publication-type="journal"><name><surname>Joffre</surname><given-names>O. P.</given-names></name>, <name><surname>Segura</surname><given-names>E.</given-names></name>, <name><surname>Savina</surname><given-names>A.</given-names></name> &#x00026;
+<name><surname>Amigorena</surname><given-names>S.</given-names></name>
+<article-title>Cross-presentation by dendritic cells</article-title>. <source>Nat. Rev. Immunol.</source>
+<volume>12</volume>, <fpage>557</fpage>&#x02013;<lpage>569</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22790179</pub-id></mixed-citation></ref><ref id="b38"><mixed-citation publication-type="journal"><name><surname>Uebel</surname><given-names>S.</given-names></name>
+<italic>et al.</italic>
+<article-title>Requirements for peptide binding to the human transporter associated with
+antigen processing revealed by peptide scans and complex peptide libraries</article-title>.
+<source>J. Biol. Chem.</source>
+<volume>270</volume>, <fpage>18512</fpage>&#x02013;<lpage>18516</lpage> (<year>1995</year>).<pub-id pub-id-type="pmid">7543103</pub-id></mixed-citation></ref><ref id="b39"><mixed-citation publication-type="journal"><name><surname>Geng</surname><given-names>J.</given-names></name>,
+<name><surname>Sivaramakrishnan</surname><given-names>S.</given-names></name> &#x00026;
+<name><surname>Raghavan</surname><given-names>M.</given-names></name>
+<article-title>Analyses of conformational states of the transporter associated with antigen
+processing (TAP) in a native cellular membrane environment</article-title>. <source>J. Biol.
+Chem.</source>
+<volume>288</volume>, <fpage>37039</fpage>&#x02013;<lpage>37047</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24196954</pub-id></mixed-citation></ref><ref id="b40"><mixed-citation publication-type="journal"><name><surname>Hulpke</surname><given-names>S.</given-names></name>, <name><surname>Baldauf</surname><given-names>C.</given-names></name> &#x00026; <name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>Molecular architecture of the MHC I peptide-loading complex: one tapasin
+molecule is essential and sufficient for antigen processing</article-title>. <source>FASEB
+J.</source>
+<volume>26</volume>, <fpage>5071</fpage>&#x02013;<lpage>5080</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22923333</pub-id></mixed-citation></ref><ref id="b41"><mixed-citation publication-type="journal"><name><surname>Procko</surname><given-names>E.</given-names></name> &#x00026; <name><surname>Gaudet</surname><given-names>R.</given-names></name>
+<article-title>Functionally important interactions between the nucleotide-binding domains of an
+antigenic peptide transporter</article-title>. <source>Biochemistry</source>
+<volume>47</volume>, <fpage>5699</fpage>&#x02013;<lpage>5708</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18452308</pub-id></mixed-citation></ref><ref id="b42"><mixed-citation publication-type="journal"><name><surname>Meyer</surname><given-names>T. H.</given-names></name>, <name><surname>van Endert</surname><given-names>P. M.</given-names></name>, <name><surname>Uebel</surname><given-names>S.</given-names></name>,
+<name><surname>Ehring</surname><given-names>B.</given-names></name> &#x00026;
+<name><surname>Tamp&#x000e9;</surname><given-names>R.</given-names></name>
+<article-title>Functional expression and purification of the ABC transporter complex associated
+with antigen processing (TAP) in insect cells</article-title>. <source>FEBS Lett.</source>
+<volume>351</volume>, <fpage>443</fpage>&#x02013;<lpage>447</lpage> (<year>1994</year>).<pub-id pub-id-type="pmid">8082812</pub-id></mixed-citation></ref><ref id="b43"><mixed-citation publication-type="journal"><name><surname>van Endert</surname><given-names>P. M.</given-names></name>
+<italic>et al.</italic>
+<article-title>A sequential model for peptide binding and transport by the transporters
+associated with antigen processing</article-title>. <source>Immunity</source>
+<volume>1</volume>, <fpage>491</fpage>&#x02013;<lpage>500</lpage> (<year>1994</year>).<pub-id pub-id-type="pmid">7895159</pub-id></mixed-citation></ref><ref id="b44"><mixed-citation publication-type="journal"><name><surname>Hulpke</surname><given-names>S.</given-names></name>
+<italic>et al.</italic>
+<article-title>Direct evidence that the N-terminal extensions of the TAP complex act as
+autonomous interaction scaffolds for the assembly of the MHC I peptide-loading
+complex</article-title>. <source>Cell. Mol. Life Sci.</source>
+<volume>69</volume>, <fpage>3317</fpage>&#x02013;<lpage>3327</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22638925</pub-id></mixed-citation></ref><ref id="b45"><mixed-citation publication-type="journal"><name><surname>Kabsch</surname><given-names>W.</given-names></name> in<source>Crystallography of
+Biological Macromolecules</source> eds Rossmann M. G., Arnold E. Kluwer Academic
+Publishers. (<year>2001</year>).</mixed-citation></ref><ref id="b46"><mixed-citation publication-type="journal"><name><surname>McCoy</surname><given-names>A. J.</given-names></name>
+<italic>et al.</italic>
+<article-title>Phaser crystallographic software</article-title>. <source>J. Appl. Crystallogr.</source>
+<volume>40</volume>, <fpage>658</fpage>&#x02013;<lpage>674</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">19461840</pub-id></mixed-citation></ref><ref id="b47"><mixed-citation publication-type="journal"><name><surname>Adams</surname><given-names>P. D.</given-names></name>
+<italic>et al.</italic>
+<article-title>PHENIX: a comprehensive Python-based system for macromolecular structure
+solution</article-title>. <source>Acta Crystallogr. D Biol. Crystallogr.</source>
+<volume>66</volume>, <fpage>213</fpage>&#x02013;<lpage>221</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20124702</pub-id></mixed-citation></ref><ref id="b48"><mixed-citation publication-type="journal"><name><surname>Krebs</surname><given-names>W. G.</given-names></name> &#x00026;
+<name><surname>Gerstein</surname><given-names>M.</given-names></name>
+<article-title>The morph server: a standardized system for analyzing and visualizing
+macromolecular motions in a database framework</article-title>. <source>Nucleic Acids
+Res.</source>
+<volume>28</volume>, <fpage>1665</fpage>&#x02013;<lpage>1675</lpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10734184</pub-id></mixed-citation></ref><ref id="b49"><mixed-citation publication-type="journal"><name><surname>Laue</surname><given-names>M.</given-names></name>, <name><surname>Shah</surname><given-names>B.
+D.</given-names></name>, <name><surname>Ridgeway</surname><given-names>T. M.</given-names></name> &#x00026;
+<name><surname>Pelletier</surname><given-names>S. L.</given-names></name>
+<source>Analytical Ultracentrifugation in Biochemistry and Polymer Science</source> eds
+Harding S., Rowe A. Royal Society of Chemistry (<year>1992</year>).</mixed-citation></ref><ref id="b50"><mixed-citation publication-type="journal"><name><surname>Lebowitz</surname><given-names>J.</given-names></name>, <name><surname>Lewis</surname><given-names>M. S.</given-names></name> &#x00026; <name><surname>Schuck</surname><given-names>P.</given-names></name>
+<article-title>Modern analytical ultracentrifugation in protein science: a tutorial
+review</article-title>. <source>Protein Sci.</source>
+<volume>11</volume>, <fpage>2067</fpage>&#x02013;<lpage>2079</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12192063</pub-id></mixed-citation></ref><ref id="b51"><mixed-citation publication-type="journal"><name><surname>Vistica</surname><given-names>J.</given-names></name>
+<italic>et al.</italic>
+<article-title>Sedimentation equilibrium analysis of protein interactions with global implicit
+mass conservation constraints and systematic noise decomposition</article-title>. <source>Anal.
+Biochem.</source>
+<volume>326</volume>, <fpage>234</fpage>&#x02013;<lpage>256</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15003564</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="f1"><label>Figure 1</label><caption><title>A D-loop mutation in TAP1
+enables antigen peptide export without ATP hydrolysis.</title><p>(<bold>a</bold>) Two asymmetric ATP-binding sites are formed at the NBD dimer interface
+of TAP1 (cyan) and
+TAP2 (green). The conserved
+aspartate in each D-loop
+contributes to the degenerate site I and consensus site II formed by the Walker A
+and B of the opposite subunit. The NBD interface is modelled on the TAP1-NBD dimer (PDB 2IXE)<xref ref-type="bibr" rid="b17">17</xref>. The electrostatic and hydrogen bond network of the active site II is enlarged
+in the lower panel. Key amino-acid residues, ATP and Mg<sup>2+</sup> (sphere) are illustrated.
+(<bold>b</bold>) Transport of fluorescein-labelled peptide
+RRYQNSTC<sup>(FL488)</sup>L (1&#x02009;&#x003bc;M) across ER membranes
+containing equal amount of wt TAP and D-loop variants was analysed in the presence
+of ATP, ADP (3&#x02009;mM each) or 200-fold molar
+excess of unlabelled competitor peptide plus ATP for 3&#x02009;min. Transported peptides were quantified
+fluorometrically. Data are normalized to wt TAP and presented as means&#x000b1;s.d.
+(<italic>n</italic>=3). Equal expression levels of TAP1 and TAP2 were confirmed by immunoblotting. (<bold>c</bold>) MHC class I
+antigen processing was established by expressing wt TAP (black) or the D674A/wt
+complex (orange) in the presence of tapasin and MHC I (HLA-B*4402). MHC I surface expression was
+monitored by flow cytometry using the conformation-specific anti-HLA-A/B/C
+antibody W6/32. The absence of TAP1 (blue) or MHC I (grey) resulted in a suppression of MHC I
+surface expression or background level, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f1"/></fig><fig id="f2"><label>Figure 2</label><caption><title>The D-loop controls the allosteric coupling between peptide transport and
+ATP hydrolysis.</title><p>(<bold>a</bold>) Transport of fluorescein-labelled peptide
+RRYC<sup>(FL488)</sup>KSTEL (1&#x02009;&#x003bc;M) by reconstituted TAP
+(1.1&#x02009;&#x003bc;g initial amount) was analysed for 10&#x02009;min in the
+presence of different nucleotides (3&#x02009;mM each) or ATP in the presence of a 200-fold excess
+of unlabelled peptide (comp.). (<bold>b</bold>) Purified wt TAP or the D674A/wt complex
+(0.5&#x02009;&#x003bc;M each) was incubated with 8-azido-[&#x003b1;-<sup>32</sup>P]-ATP (1&#x02009;&#x003bc;M)
+in the absence or presence of a 200-fold excess of ATP or ADP. Cross-linked products were separated by SDS&#x02013;PAGE
+(6%) and visualized by autoradiography. *Tapasin-TAP2
+fusion used to separate the TAP subunits<xref ref-type="bibr" rid="b40">40</xref>. (<bold>c</bold>)
+ATP-dependent peptide
+transport was analysed in the presence of RRYC<sup>(FL488)</sup>KSTEL
+(1&#x02009;&#x003bc;M). (<bold>d</bold>) Hydrolysis of ATP (3&#x02009;mM) by purified TAP variants (0.5&#x02009;&#x003bc;M
+each) was analysed for 20&#x02009;min in the presence (black) or absence (white) of
+peptide RRYQKSTEL (1&#x02009;&#x003bc;M). An ATPase inactive TAP complex (3xKO) with
+a triple mutation in the Walker A of TAP1 and TAP2 (K544A and K509A, respectively) and H-loop of
+TAP2 (H661A) was used as
+control to measure TAP-independent residual ATPase activity<xref ref-type="bibr" rid="b30">30</xref>. Data
+are normalized to wt TAP and presented as means&#x000b1;s.d. (<italic>n</italic>=3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f2"/></fig><fig id="f3"><label>Figure 3</label><caption><title>TAP is an active peptide export pump, whereas D674/wt is a facilitator.</title><p>(<bold>a</bold>) Time-dependent peptide transport of reconstituted wt TAP and D674A/wt
+complex (1.1&#x02009;&#x003bc;g initial amount each) was followed in the presence of
+peptide RRYC<sup>(FL488)</sup>KSTEL (1&#x02009;&#x003bc;M) and ATP (3&#x02009;mM). Data are normalized to
+the transported peptide by wt TAP after 1&#x02009;h. (<bold>b</bold>) The concentration
+of peptides accumulated by wt or D674A/wt TAP was analysed after 1&#x02009;h at
+different concentrations of external Atto633-labelled peptide
+RRYC<sup>(AT633)</sup>KSTEL. The internal volume of the liposomes was
+quantified by encapsulated 5(6)-carboxyfluorescein. The red line reflects a
+lumenal-to-external peptide ratio (L/E) of 1 (passive flux). The dashed red line
+illustrates trans-inhibition at ~16&#x02009;&#x003bc;M. The inset shows the
+curves and fit in the low peptide concentration range.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f3"/></fig><fig id="f4"><label>Figure 4</label><caption><title>The D-loop sets the directionality of antigen translocation.</title><p>(<bold>a</bold>) Vectoriality of antigen translocation by TAP was demonstrated by
+dual-colour transport assays with Atto565 (red)- and fluorescein (green)-labelled
+peptides (RRYQNSTC<sup>(AT565)</sup>L and RRYQNSTC<sup>(FL488)</sup>L,
+respectively). (<bold>b</bold>&#x02013;<bold>d</bold>) After the first 10-min translocation of
+RRYQNSTC<sup>(AT565)</sup>L (1&#x02009;&#x003bc;M; initial TAP amount for
+reconstitution 1.4 mg) and subsequent washing, a second transport reaction was
+performed with RRYQNSTC<sup>(FL488)</sup>L (1&#x02009;&#x003bc;M) for
+10&#x02009;min; <bold>b</bold>) or followed over time (<bold>c</bold>,<bold>d</bold>). In <bold>b</bold>,
+amount of Atto565-labelled peptide encapsulated in the lysosomes after first (1st)
+and second (2nd) transport is depicted, whereas in <bold>c</bold>,<bold>d</bold> show the
+amounts of Atto565-labelled (red), fluorescein-labelled (green) and total peptide
+(black) in the lumen of liposomes after different time points of the second
+transport process. Data are normalized to the first transport reaction of wt TAP
+and are presented as means&#x000b1;s.d. (<italic>n</italic>=3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f4"/></fig><fig id="f5"><label>Figure 5</label><caption><title>The D-loop D-to-A substitution greatly reduces ATP-driven NBD dimerization.</title><p>(<bold>a</bold>,<bold>b</bold>) Sedimentation coefficient distributions derived from
+sedimentation velocity experiments. Distributions for Walker B D645N (black
+traces) and Walker B D645N/D-loop D651A (cyan traces) rat TAP1-NBD are shown in ATP (<bold>a</bold>) or ADP (<bold>b</bold>) containing buffer. Peaks
+are labelled &#x02018;monomer&#x02019; and &#x02018;dimer&#x02019; based on the
+calculated molecular weights (see <xref ref-type="table" rid="t1">Table 1</xref>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f5"/></fig><fig id="f6"><label>Figure 6</label><caption><title>Stable NBD dimer formation and ATP hydrolysis serve as a checkpoint for unidirectional
+transport.</title><p>(<bold>a</bold>) Overall alignment of dimers of rat TAP1-NBD Walker B D645N (grey, PDB 2IXE) and Walker B/D-loop
+D645N/D651A (cyan) mutants, viewed from the membrane plane (left) or side (right).
+The structures are superimposed using the protomer on the left to show the
+relative position of the protomer on the right, the cyan arrow showing the change.
+D-loops and Walker A motifs are blue and yellow, respectively. (<bold>b</bold>)
+2F<sub>o</sub>&#x02212;F<sub>c</sub> electron density map contoured at 1&#x003c3;
+showing the interface of the D-loop from one promoter (light cyan) and Walker A
+motif from the second promoter (dark cyan). (<bold>c</bold>) Detail of the dimer
+interface in <bold>a</bold> including the D-loop aspartate from one protomer and Walker A asparagine from the other protomer. Polar
+interactions are highlighted.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f6"/></fig><fig id="f7"><label>Figure 7</label><caption><title>Model of the TAP transport cycle: stable NBD dimer formation and ATP hydrolysis serve as a checkpoint for
+unidirectional transport.</title><p>In the resting state, the TAP NBDs are loaded with ATP. Peptide binding induces a
+conformation change (1), which triggers engagement of the NBDs and a
+conformational switch into the outward-facing ATP-bound state (2). Peptide release (3) triggers ATP hydrolysis (4), results in
+disengagement of the NBDs and restores the inward-facing conformation (5). The
+cycle is closed by an ADP/ATP exchange (6). The D-loop mutant can cycle without
+hydrolysis or peptide release in the ER lumen (red pathway), leading to a
+facilitator phenotype. The inset depicts the energetics of ATP-bound wt TAP (black) and the D674A/wt
+mutant (red). A high lumenal peptide concentration causes trans-inhibition of TAP
+by saturating an ER-lumenal-binding site, thereby inhibiting step 3.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms6419-f7"/></fig><table-wrap position="float" id="t1"><label>Table 1</label><caption><title>Data analysis for sedimentation experiments.</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="char" char="("/><col align="char" char="("/><col align="char" char="."/><col align="char" char="("/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+<bold>Mutant</bold>
+</th><th align="center" valign="top" charoff="50">
+<bold>Nucleotide</bold>
+</th><th colspan="3" align="center" valign="top" char="(" charoff="50">
+<bold>Sedimentation velocity</bold>
+<hr/></th><th align="center" valign="top" char="(" charoff="50">
+<bold>Sedimentation equilibrium</bold>
+</th></tr><tr><th align="left" valign="top" charoff="50">&#x000a0;</th><th align="center" valign="top" charoff="50">&#x000a0;</th><th colspan="2" align="center" valign="top" char="(" charoff="50">
+<bold>Molecular weight in kDa</bold>
+<hr/></th><th align="center" valign="top" char="." charoff="50">
+<bold>2nd/1st ratio</bold>
+</th><th align="center" valign="top" char="(" charoff="50">
+<italic>
+<bold>K</bold>
+</italic>
+<sub>
+<bold>d</bold>
+</sub>
+<bold>for dimerization (&#x003bc;M)</bold>
+<xref ref-type="fn" rid="t1-fn2">*</xref>
+</th></tr><tr><th align="left" valign="top" charoff="50">&#x000a0;</th><th align="center" valign="top" charoff="50">&#x000a0;</th><th align="center" valign="top" char="(" charoff="50">
+<bold>1st Peak</bold>
+</th><th align="center" valign="top" char="(" charoff="50">
+<bold>2nd Peak</bold>
+</th><th align="char" valign="top" char="." charoff="50">&#x000a0;</th><th align="char" valign="top" char="(" charoff="50">&#x000a0;</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Walker B</td><td align="center" valign="top" charoff="50">
+ATP
+</td><td align="char" valign="top" char="(" charoff="50">28.0 (1.14)<xref ref-type="fn" rid="t1-fn3">&#x02020;</xref></td><td align="char" valign="top" char="(" charoff="50">47.3 (2.97)<xref ref-type="fn" rid="t1-fn3">&#x02020;</xref></td><td align="char" valign="top" char="." charoff="50">2.61</td><td align="char" valign="top" char="(" charoff="50">22.4 (0.8)<xref ref-type="fn" rid="t1-fn4">&#x02021;</xref></td></tr><tr><td align="left" valign="top" charoff="50">Walker B/D-loop</td><td align="center" valign="top" charoff="50">
+ATP
+</td><td align="char" valign="top" char="(" charoff="50">28.6 (3.22)</td><td align="char" valign="top" char="(" charoff="50">50.7 (0.37)</td><td align="char" valign="top" char="." charoff="50">0.11</td><td align="char" valign="top" char="(" charoff="50">170 (0.9)</td></tr><tr><td align="left" valign="top" charoff="50">Walker B</td><td align="center" valign="top" charoff="50">
+ADP
+</td><td align="char" valign="top" char="(" charoff="50">25.1 (1.20)</td><td align="char" valign="top" char="(" charoff="50">47.3 (0.82)</td><td align="char" valign="top" char="." charoff="50">0.68</td><td align="char" valign="top" char="(" charoff="50">111 (0.9)</td></tr><tr><td align="left" valign="top" charoff="50">Walker B/D-loop</td><td align="center" valign="top" charoff="50">
+ADP
+</td><td align="char" valign="top" char="(" charoff="50">30.8 (1.97)</td><td align="char" valign="top" char="(" charoff="50">54.6 (0.52)</td><td align="char" valign="top" char="." charoff="50">0.26</td><td align="char" valign="top" char="(" charoff="50">164 (1.0)</td></tr></tbody></table><table-wrap-foot><fn id="t1-fn1"><p>For the sedimentation velocity experiments, we list the molecular
+weights from best fits of the distributions. The ratio of integration
+of the two peaks is a measure of the ratio of dimer to monomer
+populations. For the sedimentation equilibrium experiments, we list
+the TAP1-NBD
+dimerization constants obtained.</p></fn><fn id="t1-fn2"><p><sup>*</sup>Ninety-five percent confidence intervals are as
+follows: Walker B D645N+ATP or ADP, 22.1&#x02013;23.21 or 56&#x02013;187,
+respectively; and Walker B D645N/D-loop D651A+ATP or ADP, 103&#x02013;118 or
+156&#x02013;174, respectively.</p></fn><fn id="t1-fn3"><p><sup>&#x02020;</sup>Numbers in parentheses correspond to the
+integration of each peak shown in <xref ref-type="fig" rid="f5">Fig. 5</xref>.</p></fn><fn id="t1-fn4"><p><sup>&#x02021;</sup>Numbers in parentheses are the global
+<italic>&#x003c7;</italic><sup>2</sup> values.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t2"><label>Table 2</label><caption><title>Data collection and refinement statistics.</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="char" char=""/></colgroup><tbody valign="top"><tr><td colspan="2" align="left" valign="top" charoff="50">
+<italic>Data collection</italic>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Space group</td><td align="center" valign="top" charoff="50">C222<sub>1</sub></td></tr><tr><td align="left" valign="top" charoff="50">&#x000a0;</td><td align="char" valign="top" charoff="50">&#x000a0;</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">&#x02003;<italic>Cell dimensions</italic></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;<italic>a</italic>, <italic>b</italic>, <italic>c</italic> (&#x000c5;)</td><td align="center" valign="top" charoff="50">54.26, 123.98, 79.91</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;<italic>&#x003b1;</italic>, <italic>&#x003b2;</italic>, <italic>&#x003b3;</italic>
+(&#x000b0;)</td><td align="center" valign="top" charoff="50">90, 90, 90</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Resolution (&#x000c5;)</td><td align="center" valign="top" charoff="50">48.98&#x02013;2.65 (2.74&#x02013;2.65)<xref ref-type="fn" rid="t2-fn2">*</xref></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>R</italic><sub><italic>meas</italic></sub></td><td align="center" valign="top" charoff="50">0.139 (2.89)</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>I</italic>/&#x003c3;<italic>I</italic></td><td align="center" valign="top" charoff="50">7.23 (0.58)</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Completeness (%)</td><td align="center" valign="top" charoff="50">95.9 (97.5)</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Redundancy</td><td align="center" valign="top" charoff="50">3.0 (2.9)</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;CC(1/2) (%)</td><td align="center" valign="top" charoff="50">99.4 (20.5)</td></tr><tr><td align="left" valign="top" charoff="50">&#x000a0;</td><td align="char" valign="top" charoff="50">&#x000a0;</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">
+<italic>Refinement</italic>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Resolution (&#x000c5;)</td><td align="center" valign="top" charoff="50">48.98&#x02013;2.65</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;No. of reflections (test set)</td><td align="center" valign="top" charoff="50">7039 (782)</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>R</italic><sub>work</sub>/<italic>R</italic><sub>free</sub></td><td align="center" valign="top" charoff="50">24.71/27.02</td></tr><tr><td align="left" valign="top" charoff="50">&#x000a0;</td><td align="char" valign="top" charoff="50">&#x000a0;</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">&#x02003;<italic>No. of atoms</italic></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Protein</td><td align="center" valign="top" charoff="50">1,930</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Ligand/ion</td><td align="char" valign="top" char="." charoff="50">46</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Water</td><td align="char" valign="top" char="." charoff="50">20</td></tr><tr><td align="left" valign="top" charoff="50">&#x000a0;</td><td align="char" valign="top" charoff="50">&#x000a0;</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">&#x02003;<italic>B-factors</italic></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Protein</td><td align="char" valign="top" char="." charoff="50">67.7</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Ligand/ion</td><td align="char" valign="top" char="." charoff="50">56.2</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Water</td><td align="char" valign="top" char="." charoff="50">52.7</td></tr><tr><td align="left" valign="top" charoff="50">&#x000a0;</td><td align="char" valign="top" charoff="50">&#x000a0;</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">&#x02003;<italic>Root-mean-square deviations</italic></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Bond lengths (&#x000c5;)</td><td align="char" valign="top" char="." charoff="50">0.003</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;&#x02003;Bond angles (&#x000b0;)</td><td align="char" valign="top" char="." charoff="50">0.717</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;PDB code</td><td align="center" valign="top" charoff="50">4K8O</td></tr></tbody></table><table-wrap-foot><fn id="t2-fn1"><p>PDB, Protein Data Bank.</p></fn><fn id="t2-fn2"><p><sup>*</sup>Values in parentheses are for highest-resolution
+shell.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

@@ -1,0 +1,234 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-238</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1831</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The Effect of Muscle Facilitation Using Kinesio Taping on Walking and Balance
+of Stroke Patients</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Woo-Il</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Choi</surname><given-names>Yong-Kyu</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Jung-Ho</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Young-Han</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Korea National University
+of Transportation, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Kyungdong University:
+Bongpo-ri, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Jung-Ho Lee (E-mail: <email xlink:href="ljhcivapt@naver.com">ljhcivapt@naver.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1831</fpage><lpage>1834</lpage><history><date date-type="received"><day>21</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>21</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to evaluate the changes in function and balance after
+Kinesio Taping application in stroke patients. [Subjects and Methods] Thirty subjects were
+randomly divided into an experimental group and control group. The experimental group was
+applied taping before therapeutic exercise, and the control group received only
+therapeutic exercise. Functional gait was measured using the straight line walking test,
+and dynamic balance ability was measured using the Berg Balance Scale. Walking velocity
+was measured with the 10&#x02005;m walking test. [Results] There were statistically significant
+differences between the results of the straight line walking and 10&#x02005;m walking tests in the
+pre-post analysis for the experimental group. There were a statistically significant
+difference in the Berg Balance Scale and 10&#x02005;m walking test between the two groups.
+[Conclusion] Application of taping to the paralyzed parts of a stroke patient has a
+positive effect on improvement of typical asymmetric gait and walking speed.</p></abstract><kwd-group><title>Key words</title><kwd>Kinesio taping</kwd><kwd>Stroke</kwd><kwd>Gait</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Stroke is a central nervous system disease that causes partial loss and functional disorder
+of the brain due to a disability of blood supply in blood vessels of the brain<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Most stoke patients typically experience
+motor function disorder<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup> and show an
+abnormality in standing and walking because of asymmetric alignment and posture, abnormal
+balance ability, lack of weight movement ability to the paralyzed part, and difficulty in
+specific functional movements<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Recovery
+of motor disorders related to walking represents the most common objective for
+rehabilitation treatment<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>.</p><p>Proprioceptive information from mechanoreceptors in the skin, articular capsule, ligament,
+a semilunar valve, and muscles provides dynamic stability for each joint during dynamic
+motion of a joint through a muscular reflex from the spinal cord level and
+arthrokinetics<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. The proprioceptive
+sense offers information about muscle length, muscle tone, and joint position, which
+participates in motor control. In addition, a decrease in proprioceptive sense causes a
+decrease in balance ability related to handling of postural control, joint movement
+position, and external sway<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>.</p><p>Stroke patients also show abnormal walking patterns as compensation due to muscular
+weakness and loss of balance ability<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.
+They experience a decrease in balance and walking ability because of symmetrical weight
+shifting incapability and display an asymmetrical step length as a result of the relatively
+weakened acceleration force of paralyzed extremities<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Furthermore, paralyzed lower extremities result in an increase in
+asymmetrical walking and limitation in the movements of the upper extremities<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. Since the gait of hemiplegic patients shows
+decreases in partial muscle control and synkinetic patterns, efficient treatment plans and
+exercise methods are needed to achieve a normal walking pattern<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>.</p><p>The advantages of Kinesio Taping (KT) are that it has a relatively lower cost and patients
+can easily apply it by themselves. Moreover, it can be combined with other treatments and
+guarantees safety, since it is a noninvasive method without side effects<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Kinesio tape, which is placed on the
+skin, provides a greater cutaneous nociceptive signal and improves balance and gait ability
+by not only stimulating proprioceptive sense but also identifying the right position of the
+joint even in a comfortable posture with no weight loaded<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. Furthermore, KT is well-known to be effective for increasing
+functional movements by improving muscle strength and endurance<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Besides, taping helps to maintain the coordination of
+agonist, synergist, and antagonistic muscles by controlling muscle tones, inducing body
+balance and muscle control recovery<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>.
+Thus, balance and muscle control recovery through KT can increase gait speed<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>.</p><p>However, previous studies have investigated the effects of KT in specific parts of the
+upper or lower extremities and have only revealed enhanced gait speed and balance ability
+without observing increases in asymmetric gait when the center of gravity of the human body
+leans to the non-paralyzed side. Nam et al. reported that treatment for patients should be
+focused on improvement of not only gait speed but also symmetric walking for ideal walking
+patterns<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>.</p><p>Therefore, the present study tried to determine a clinical approach and new evaluation
+method that are more effective in stroke rehabilitation by analyzing symmetrical gait motion
+and walking and balance improvement through the straight line walking test (SWT) after
+applying Kt to the main parts of the upper and lower extremities of the affected side in
+stroke patients.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><sec><title>Subjects</title><p>Thirty post-stroke hemiparetic individuals hospitalized in C hospital were randomly
+recruited. Individuals who were diagnosed with stroke without orthosis and deficit in the
+visual field and vestibular organ participated in this study after they received a full
+explanation regarding the study. Subjects were randomly divided into an experimental group
+and a control group. The experimental group was applied KT before performing therapeutic
+exercise, and the control group performed therapeutic exercise but did not receive KT.
+Each intervention was conducted 3 times a week for 6 weeks, and measurements were
+performed before and after the intervention.</p><p>Patients who presented difficulty in walking associated with stroke and participating in
+this project due to cognitive deficit or had a total joint replacement, fracture, or non
+specific skin disease were excluded from the study. All subjects provided written informed
+consent prior to participation according to the ethical standards of the Declaration of
+Helsinki.</p></sec><sec><title>Methods</title><p>A physical therapist applied 5-cm wide elastic Kinesio Tape to subjects as described
+below. It was applied to the major parts of the affected side, quadriceps femoris, and
+tibialis anterior of the lower extremities, as well as to the biceps brachii and upward
+rotators of the scapulas of the upper extremities. The flexible tape was attached to the
+skin not elongated from the origin to the insertion of fully stretched muscles. The
+subjects were informed that they could shower but that they should dry off completely and
+that they should remove the tape immediately if they experienced any itchiness or skin
+allergy. After application of the taping to the main parts of the upper and lower
+extremities for 6 weeks, evaluation of the subjects&#x02019; gait and balance and comparison
+between before and after the intervention were performed.</p><p>Functional gait was measured using the SWT. After blocking the subjects&#x02019; vision with a
+blindfold, they were instructed to walk straight and stably to a target spot 10&#x02005;m away
+from the start point in a straight line, and the angle between the start and end spots was
+measured with a goniometer to analyze the gait difference as subjects veered in one
+direction or another. Any possible noise was removed to avoid compensatory movement by
+subjects depending on auditory information. Additionally, in the case of falling, an
+experienced therapist was on stand by in the back silently not to lead directions
+unconsciously for the patients who were walking with shut eyes.</p><p>Dynamic balance was measured using the Berg Balance Scale (BBS). The BBS is clinically
+used to evaluate balance ability in a standing position or movement of hemiplegia patients
+with stroke or geriatric illness. This scale consists of 14 items, and each item is scored
+from 0 to 4 points on a 56-point scale. It has been reported that patients with 46 points
+or less need assistive devices when walking and have a higher risk of falling.</p><p>The 10&#x02005;m walking test (10MWT) was also measured with a tapeline, and duct tape was
+attached to the start and end points of the 10&#x02005;m course to mark the path. An additional
+distance of 4&#x02005;m was also marked with tape, providing 2&#x02005;m at the back and in the 2&#x02005;m at the
+front of the lane to give the subjects sufficient room for acceleration and deceleration.
+The subjects were asked to walk at a normal speed as usual. The walking time was measured
+from the moment patient&#x02019;s foot passed the start line to the end line in 0.01-second
+increments with a stopwatch. Each patient performed the test 3 times after an initial
+practice run, and the average was calculated as the result. The 10MWT showed highly
+reliable results the test-retest reliability was 0.95 and the interobserver reliability
+was 0.90.</p><p>Regarding the statistical analysis for this study, the average values and standard
+deviations were calculated using SPSS for Windows (version 20.0). The paired t-test was
+performed to investigate the effects of the test before and after the intervention in each
+group, and the independent t-test was performed to evaluate the differences between the 2
+groups. The significance level was &#x003b1;=0.05.</p></sec></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>There were a statistically significant differences in the results of the SWT and 10MWT test
+in the experimental group (p&#x0003c;0.05) (<xref rid="tbl_001" ref-type="table">Table
+1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Comparison of pre- and post-intervention test results in the experimental group
+(mean&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Pre-test (n=15)</th><th align="center" rowspan="1" colspan="1">Post-test (n=15)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">SWT (&#x000b0;)*</td><td align="center" rowspan="1" colspan="1">12.67&#x000b1;7.28</td><td align="center" rowspan="1" colspan="1">11.60&#x000b1;7.08</td></tr><tr><td align="left" rowspan="1" colspan="1">BBS (score)</td><td align="center" rowspan="1" colspan="1">35.60&#x000b1;6.81</td><td align="center" rowspan="1" colspan="1">36.33&#x000b1;6.36</td></tr><tr><td align="left" rowspan="1" colspan="1">10MWT (seconds)*</td><td align="center" rowspan="1" colspan="1">35.33&#x000b1;15.85</td><td align="center" rowspan="1" colspan="1">33.93&#x000b1;15.14</td></tr></tbody></table><table-wrap-foot><p>*p&#x0003c;0.05; SWT = Straight line walking test; BBS = Berg balance scale; 10MWT =
+10-meter walking test</p></table-wrap-foot></table-wrap>). In the control group, there were no statistically significant differences in
+the results of the SWT, BBS, and 10MWT (p&#x0003e;0.05) (<xref rid="tbl_002" ref-type="table">Table 2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Comparison of pre- and post-intervention test results in the control group
+(mean&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Pre-test (n=15)</th><th align="center" rowspan="1" colspan="1">Post-test (n=15)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">SWT (&#x000b0;)</td><td align="center" rowspan="1" colspan="1">12.33&#x000b1;7.30</td><td align="center" rowspan="1" colspan="1">12.00&#x000b1;7.42</td></tr><tr><td align="left" rowspan="1" colspan="1">BBS (score)</td><td align="center" rowspan="1" colspan="1">34.93&#x000b1;7.88</td><td align="center" rowspan="1" colspan="1">35.20&#x000b1;7.93</td></tr><tr><td align="left" rowspan="1" colspan="1">10MWT (seconds)</td><td align="center" rowspan="1" colspan="1">32.40&#x000b1;18.32</td><td align="center" rowspan="1" colspan="1">32.20&#x000b1;18.19</td></tr></tbody></table><table-wrap-foot><p>*p&#x0003c;0.05; SWT = Straight line walking test; BBS = Berg balance scale; 10MWT = 10
+meter walking test</p></table-wrap-foot></table-wrap>). There were statistically significant differences in the results of the BBS
+and 10MWT between the two groups (p&#x0003c;0.05) (<xref rid="tbl_003" ref-type="table">Table
+3</xref><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Comparison of SWT, BBS, and 10MWT between groups (mean&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Experimental group (n=15)</th><th align="center" rowspan="1" colspan="1">Control group (n=15)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">SWT (&#x000b0;)*</td><td align="center" rowspan="1" colspan="1">1.07&#x000b1;0.88</td><td align="center" rowspan="1" colspan="1">0.33&#x000b1;0.62</td></tr><tr><td align="left" rowspan="1" colspan="1">BBS (score)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.73&#x000b1;1.49</td><td align="center" rowspan="1" colspan="1">&#x02212;0.27&#x000b1;0.70</td></tr><tr><td align="left" rowspan="1" colspan="1">10MWT (seconds)*</td><td align="center" rowspan="1" colspan="1">1.40&#x000b1;1.50</td><td align="center" rowspan="1" colspan="1">0.20&#x000b1;0.41</td></tr></tbody></table><table-wrap-foot><p>*p&#x0003c;0.05; SWT = Straight line walking test; BBS = Berg balance scale; 10MWT = 10
+meter walking test</p></table-wrap-foot></table-wrap>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>In this research, KT was applied to the upper and lower extremities of the paralyzed parts
+of the stroke patients to analyze the effects on gait and balance ability.</p><p>Brain damage causes hemiparalysis depending on the region in which the damage is located,
+and 70 to 75% of patients have difficulty in full recovery and have accompanying problems
+such as motor, gait, sense, and activities of daily living disturbances<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>. Such disorders reduce mobility and activities of daily
+living, and a lack of mobility in the lower extremities in particular has an adverse effect
+on gait and balance<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. Balance and gait
+disturbances especially result in an unstable standing posture and walking due to muscle
+tone disorder and weight bearing on the non-affected side rather than visible or vestibular
+abnormalities<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>.</p><p>The representative asymmetric walking pattern of stroke patients is believed to be the
+result of weakened strength due to deteriorated hip flexors in the paralyzed lower extremity
+increasing the swing time during the swing period, causing excessive motion of non-paralyzed
+parts of the body as a means of compensation to increase the gait speed, which may lead to a
+more asymmetric gait pattern. Such improvement is believed to be just speed increase without
+any effect on walking cycle and symmetry<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. The most ideal walking pattern for stroke patients is to increase
+the walking speed and improve the asymmetric walking pattern<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. Page et al. reported that functional independence of stroke
+patients can be improved through the treatment for symmetry<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>. From this, it can be inferred that improvement of balance and
+walking ability can be induced by direct stimulation of muscles of the paralyzed parts of
+extremities<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>.</p><p>The initial mechanism with regard to the enhancement of muscle strength and muscle control
+is that cutaneous fusimotor reflex increases fiber tension, resulting in excitation of
+primary and secondary nerve endings, thus, helping afferent sensory nerve activity<xref rid="r23" ref-type="bibr">23</xref>, <xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>. The mechanism of taping is improvement of muscle strength by
+excitation of gamma motor nerves in skeletal muscle, as the taped part raises the tension of
+the fiber<xref rid="r25" ref-type="bibr">25</xref>, <xref rid="r26" ref-type="bibr">26</xref><sup>)</sup>. In addition, spatial summation makes neurotransmitter isolated and
+postsynaptic potential is generated without action potential of pre-synaptic nerve. In other
+words, an additive effect occurs by stimulating many nerve fascicles that compose synapses
+simultaneously through taping. Finally, an irradiation phenomenon occurs in the area of
+increased reaction strength.</p><p>This study showed significant differences in the results of the SWT and 10MWT applying KT
+directly to paralyzed parts of the body (p&#x0003c;0.05). Based on these results, it can be
+inferred that applying KT facilitated muscle activation in non-paralyzed parts of the body,
+induced gait symmetry, and decreased weight bearing on the non-affected side. In addition,
+there was a significant decrease in the results of the 10MWT in which walking speed was
+measured after KT (p&#x0003c;0.05). This suggests that applying KT leads to improvement not only
+in gait symmetry but also in walking speed through muscle facilitation in the paralyzed
+parts of the body<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>. This is because KT
+effectively stimulated the proprioceptive sense, muscle spindles, Golgi tendons, etc., and
+strengthened muscles in the affected parts. Furthermore, the results for the BBS generally
+seemed to be improved, but there was no significant statistical difference in the
+experimental group. There were no significant differences in the results of the SWT, BBS,
+and 10MWT in the control group.</p><p>This study found a significant differences in comparison of the effects of treatment
+between the 2 groups on the results of the SWT and 10MWT (p&#x0003c;0.05). The experimental group
+showed significant improvement in the SWT and 10MWT compared with the control group.</p><p>This research was conducted to investigate the effects of KT applied to the upper and lower
+extremities on asymmetric gait, walking speed, and balance ability in stroke patients. The
+experimental group, which received KT, showed significant improvement in the SWT and 10MWT.
+Additionally, the experimental group showed significant improvement in comparison with the
+control group in the SWT and 10MWT. Thus, it can be interpreted that applying KT to the
+paralyzed parts of a stroke patient has a positive effect on improvement of typical
+asymmetric gait and walking speed.</p><p>However, this research had small number of subjects and needs more validity as an
+evaluation index of asymmetric gait in stroke patients, and it was not possible to control
+every effectible situation excepting treatment arbitration. Moreover, there was also a
+geographical limitation, as a limited number of patients were recruited from one local
+hospital, so it may be difficult to generalize the results to stroke patients in
+general.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Prange</surname><given-names>GB</given-names></name><name><surname>Jannink</surname><given-names>MJ</given-names></name><name><surname>Groothuis-Oudshoorn</surname><given-names>CG</given-names></name><etal>et al.</etal></person-group>: <article-title>Systematic review of the effect of robot-aided therapy on
+recovery of the hemiparetic arm after stroke</article-title>. <source>J Rehabil Res
+Dev</source>, <year>2006</year>, <volume>43</volume>:
+<fpage>171</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="pmid">16847784</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Kang</surname><given-names>HS</given-names></name><name><surname>Sok</surname><given-names>SR</given-names></name><name><surname>Kang</surname><given-names>JS</given-names></name></person-group>: <article-title>Comparison of the effects of meridian massage and hand
+massage on the affected upper extremity of stroke patients</article-title>. <source>J
+Korean Acad FuntionNurs</source>, <year>2007</year>, <volume>14</volume>:
+<fpage>270</fpage>&#x02013;<lpage>279</lpage>.</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JH</given-names></name><name><surname>Jeong</surname><given-names>HW</given-names></name><name><surname>Kim</surname><given-names>KY</given-names></name><etal>et al.</etal></person-group>: Effects of spiral balance taping on postural balance ability in stroke
+patient. Korean J Orien Physiol Pathol, <year>2009</year>, 23: 908&#x02013;913.</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Jung</surname><given-names>KH</given-names></name><name><surname>Ha</surname><given-names>HG</given-names></name><name><surname>Shin</surname><given-names>HJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of robot-assisted gait therapy on locomotor
+recovery in stroke patients</article-title>. <source>J Korean Acad Rehab
+Med</source>, <year>2008</year>, <volume>32</volume>:
+<fpage>258</fpage>&#x02013;<lpage>266</lpage>.</mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Lephart</surname><given-names>SM</given-names></name><name><surname>Pincivero</surname><given-names>DM</given-names></name><name><surname>Rozzi</surname><given-names>SL</given-names></name></person-group>: <article-title>Proprioception of the ankle and knee</article-title>.
+<source>Sports Med</source>, <year>1998</year>, <volume>25</volume>:
+<fpage>149</fpage>&#x02013;<lpage>155</lpage>. <pub-id pub-id-type="pmid">9554026</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Baudry</surname><given-names>S</given-names></name><name><surname>Duchateau</surname><given-names>J</given-names></name></person-group>: <article-title>Age-related influence of vision and proprioception on Ia
+presynaptic inhibition in soleus muscle during upright stance</article-title>. <source>J
+Physiol</source>, <year>2012</year>, <volume>590</volume>:
+<fpage>5541</fpage>&#x02013;<lpage>5554</lpage>. <pub-id pub-id-type="pmid">22946095</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Wall</surname><given-names>JC</given-names></name><name><surname>Ashburn</surname><given-names>A</given-names></name></person-group>: <article-title>Assessment of gait disability in hemiplegics. Hemiplegic
+gait</article-title>. <source>Scand J Rehabil Med</source>, <year>1979</year>,
+<volume>11</volume>: <fpage>95</fpage>&#x02013;<lpage>103</lpage>. <pub-id pub-id-type="pmid">493898</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Roerdink</surname><given-names>M</given-names></name><name><surname>Beek</surname><given-names>PJ</given-names></name></person-group>: <article-title>Understanding inconsistent step-length asymmetries across
+hemiplegic stroke patients: impairments and compensatory gait</article-title>.
+<source>Neurorehabil Neural Repair</source>, <year>2011</year>, <volume>25</volume>:
+<fpage>253</fpage>&#x02013;<lpage>258</lpage>. <pub-id pub-id-type="pmid">21041500</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Wagenaar</surname><given-names>RC</given-names></name><name><surname>van Emmerik</surname><given-names>RE</given-names></name></person-group>: <article-title>Resonant frequencies of arms and legs identify different
+walking patterns</article-title>. <source>J Biomech</source>, <year>2000</year>,
+<volume>33</volume>: <fpage>853</fpage>&#x02013;<lpage>861</lpage>. <pub-id pub-id-type="pmid">10831760</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>K</given-names></name><name><surname>Lee</surname><given-names>JD</given-names></name><name><surname>Seo</surname><given-names>KC</given-names></name></person-group>: <article-title>The effect of gait quality, accuracy in the stroke
+patients after stair gait exercise by proprioceptive neuromuscular facilitation
+techniques</article-title>. <source>J Spec Educ Rehab Sci,</source><year>2011</year>,
+<volume>50</volume>: <fpage>271</fpage>&#x02013;<lpage>287</lpage>.</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Ren&#x000e9;</surname><given-names>J</given-names></name><name><surname>Weinberger</surname><given-names>M</given-names></name><name><surname>Mazzuca</surname><given-names>SA</given-names></name><etal>et al.</etal></person-group>: <article-title>Reduction of joint pain in patients with knee
+osteoarthritis who have received monthly telephone calls from lay personnel and whose
+medical treatment regimens have remained stable</article-title>. <source>Arthritis
+Rheum</source>, <year>1992</year>, <volume>35</volume>:
+<fpage>511</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="pmid">1575787</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="book"><person-group><name><surname>Kwak</surname><given-names>WR</given-names></name></person-group>: The effects of taping methods applied on to ankle joint on the balance
+and gait of stroke patients. Graduate School of Rehabilitation Science, Daegu University,
+<year>2012</year>.</mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Gilleard</surname><given-names>W</given-names></name><name><surname>McConnell</surname><given-names>J</given-names></name><name><surname>Parsons</surname><given-names>D</given-names></name></person-group>: <article-title>The effect of patellar taping on the onset of vastus
+medialis obliquus and vastus lateralis muscle activity in persons with patellofemoral
+pain</article-title>. <source>Phys Ther</source>, <year>1998</year>,
+<volume>78</volume>: <fpage>25</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="pmid">9442193</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Ju</surname><given-names>SB</given-names></name><name><surname>Lee</surname><given-names>WJ</given-names></name></person-group>: <article-title>The effects of Kinesio taping and exercise program on
+lumbar extension muscle strength, visual analogue scale in operation patients of lumbar
+disk herniation</article-title>. <source>Korean J Phys Educ,</source><year>2006</year>,
+<volume>45</volume>: <fpage>537</fpage>&#x02013;<lpage>546</lpage>.</mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Nam</surname><given-names>HC</given-names></name><name><surname>Kim</surname><given-names>SY</given-names></name><name><surname>An</surname><given-names>SH</given-names></name></person-group>: <article-title>The relationships among gait asymmetry, the gait velocity
+and motor function of lower extremity in stroke patients</article-title>. <source>J
+Korean Soc Phys Med,</source><year>2010</year>, <volume>5</volume>:
+<fpage>385</fpage>&#x02013;<lpage>394</lpage>.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Zhang</surname><given-names>NX</given-names></name><name><surname>Liu</surname><given-names>GZ</given-names></name><name><surname>Yao</surname><given-names>QH</given-names></name><etal>et al.</etal></person-group>: <article-title>[Effects of warming-reinforcing acupuncture combined with
+rehabilitation training on the early motor function of hemiparalysis patients caused by
+ischemic brain stroke: a randomized and controlled study]</article-title>.
+<source>Zhongguo Zhenjiu</source>, <year>2010</year>, <volume>30</volume>:
+<fpage>441</fpage>&#x02013;<lpage>445</lpage>. </mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Feng</surname><given-names>J</given-names></name><name><surname>Pierce</surname><given-names>R</given-names></name><name><surname>Do</surname><given-names>KP</given-names></name><etal>et al.</etal></person-group>: <article-title>Motion of the center of mass in children with spastic
+hemiplegia: balance, energy transfer, and work performed by the affected leg vs. the
+unaffected leg</article-title>. <source>Gait Posture</source>, <year>2014</year>,
+<volume>39</volume>: <fpage>570</fpage>&#x02013;<lpage>576</lpage>. <pub-id pub-id-type="pmid">24119778</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Dickstein</surname><given-names>R</given-names></name><name><surname>Nissan</surname><given-names>M</given-names></name><name><surname>Pillar</surname><given-names>T</given-names></name><etal>et al.</etal></person-group>: <article-title>Foot-ground pressure pattern of standing hemiplegic
+patients. Major characteristics and patterns of improvement</article-title>.
+<source>Phys Ther</source>, <year>1984</year>, <volume>64</volume>:
+<fpage>19</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="pmid">6691049</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Patterson</surname><given-names>KK</given-names></name><name><surname>Parafianowicz</surname><given-names>I</given-names></name><name><surname>Danells</surname><given-names>CJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Gait asymmetry in community-ambulating stroke
+survivors</article-title>. <source>Arch Phys Med Rehabil</source>, <year>2008</year>,
+<volume>89</volume>: <fpage>304</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="pmid">18226655</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Brunnstrom</surname><given-names>S</given-names></name></person-group>: <article-title>Recording gait patterns of adult hemiplegic
+patients</article-title>. <source>Phys Ther</source>, <year>1964</year>,
+<volume>44</volume>: <fpage>11</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="pmid">14106285</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Page</surname><given-names>SJ</given-names></name><name><surname>Sisto</surname><given-names>S</given-names></name><name><surname>Johnston</surname><given-names>MV</given-names></name><etal>et al.</etal></person-group>: <article-title>Modified constraint-induced therapy after subacute stroke:
+a preliminary study</article-title>. <source>Neurorehabil Neural Repair</source>,
+<year>2002</year>, <volume>16</volume>: <fpage>290</fpage>&#x02013;<lpage>295</lpage>.
+<pub-id pub-id-type="pmid">12234091</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Song</surname><given-names>MH</given-names></name><name><surname>Jeon</surname><given-names>BS</given-names></name><name><surname>Cho</surname><given-names>CO</given-names></name></person-group>: <article-title>Effect of kinesiotaping application on balance and gait
+ability in hemiplegia disables after cerebral stroke</article-title>. <source>J AdapPhys
+Act,</source><year>2008</year>, <volume>16</volume>:
+<fpage>143</fpage>&#x02013;<lpage>159</lpage>.</mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Delahunt</surname><given-names>E</given-names></name><name><surname>McGrath</surname><given-names>A</given-names></name><name><surname>Doran</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of taping on actual and perceived dynamic postural
+stability in persons with chronic ankle instability</article-title>. <source>Arch Phys
+Med Rehabil</source>, <year>2010</year>, <volume>91</volume>:
+<fpage>1383</fpage>&#x02013;<lpage>1389</lpage>. <pub-id pub-id-type="pmid">20801256</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Lim</surname><given-names>C</given-names></name><name><surname>Park</surname><given-names>Y</given-names></name><name><surname>Bae</surname><given-names>Y</given-names></name></person-group>: <article-title>The effect of the kinesio taping and spiral taping on
+menstrual pain and premenstrual syndrome</article-title>. <source>J Phys Ther
+Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>761</fpage>&#x02013;<lpage>764</lpage>. <pub-id pub-id-type="pmid">24259847</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Murphy</surname><given-names>PR</given-names></name><name><surname>Hammond</surname><given-names>GR</given-names></name></person-group>: <article-title>Reversal of fusimotor reflex responses during locomotion
+in the decerebrate cat</article-title>. <source>Exp Physiol</source>, <year>1997</year>,
+<volume>82</volume>: <fpage>837</fpage>&#x02013;<lpage>858</lpage>. <pub-id pub-id-type="pmid">9331553</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>MH</given-names></name><name><surname>Lee</surname><given-names>CR</given-names></name><name><surname>Park</surname><given-names>JS</given-names></name><etal>et al.</etal></person-group>: <article-title>Influence of kinesio taping on the motor neuron conduction
+velocity</article-title>. <source>J Phys Ther Sci</source>, <year>2011</year>,
+<volume>23</volume>: <fpage>313</fpage>&#x02013;<lpage>315</lpage>. </mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Choi</surname><given-names>YK</given-names></name><name><surname>Nam</surname><given-names>CW</given-names></name><name><surname>Lee</surname><given-names>JH</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of taping prior to PNF treatment on lower
+extremity proprioception of hemiplegic patients</article-title>. <source>J Phys Ther
+Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>1119</fpage>&#x02013;<lpage>1122</lpage>. <pub-id pub-id-type="pmid">24259927</pub-id></mixed-citation></ref></ref-list></back></article>

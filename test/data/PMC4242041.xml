@@ -1,0 +1,686 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Org Chem</journal-id><journal-id journal-id-type="iso-abbrev">J. Org. Chem</journal-id><journal-id journal-id-type="publisher-id">jo</journal-id><journal-id journal-id-type="coden">joceah</journal-id><journal-title-group><journal-title>The Journal of Organic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">0022-3263</issn><issn pub-type="epub">1520-6904</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1021/jo502096t</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Four-Component Bicyclization
+Approaches to Skeletally
+Diverse Pyrazolo[3,4-<italic>b</italic>]pyridine Derivatives</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Tu</surname><given-names>Xing-Jun</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Hao</surname><given-names>Wen-Juan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Ye</surname><given-names>Qin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Wang</surname><given-names>Shuang-Shuang</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Jiang</surname><given-names>Bo</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Li</surname><given-names>Guigen</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Tu</surname><given-names>Shu-Jiang</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Chemistry and Chemical Engineering, Jiangsu Key Laboratory of Green
+Synthetic Chemistry for Functional Materials, <institution>Jiangsu Normal University</institution>, Xuzhou 221116, <country>P. R. China</country></aff><aff id="aff2"><label>&#x02021;</label>Institute
+of Chemistry &#x00026; Biomedical Sciences, <institution>Nanjing University</institution>, Nanjing 210093, <country>P. R. China</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Chemistry and Biochemistry, <institution>Texas Tech
+University</institution>, Lubbock, Texas 79409-1061, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Fax: <fax>86-516-83500065</fax>. E-mail: <email>jiangchem@jsnu.edu.cn</email>.</corresp><corresp id="cor2"><label>*</label>Fax: <fax>86-516-83500065</fax>. E-mail: <email>laotu@jsnu.edu.cn</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>22</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>22</day><month>10</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>21</day><month>11</month><year>2014</year></pub-date><volume>79</volume><issue>22</issue><fpage>11110</fpage><lpage>11118</lpage><history><date date-type="received"><day>10</day><month>09</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0011" id="ab-d31e213"/></p><p>A novel four-component bicyclization
+strategy has been established,
+allowing a flexible and practical approach to 37 examples of multicyclic
+pyrazolo[3,4-<italic>b</italic>]pyridines from low-cost and readily
+accessible arylglyoxals, pyrazol-5-amines, aromatic amines, 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one, and cyclohexane-1,3-diones. The polysubstituted
+cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines
+were stereoselectively synthesized through a microwave-assisted special
+[3+2+1]/[3+2] bicyclization with good control of the spatial configuration
+of exocyclic double bonds. The novel [3+2+1]/[2+2+1] bicyclization
+resulted in 17 examples of unreported pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones. Reasonable mechanisms
+for forming two new types of multicyclic pyrazolo[3,4-<italic>b</italic>]pyridines are also proposed.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jo502096t</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jo-2014-02096t</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>The development of
+highly efficient atom- and step-economic synthesis
+of multiheterocyclic scaffolds, particularly pyridine ring-containing
+ones, is of chemical and biomedical importance and has been actively
+pursued in organic and medicinal research for several decades.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The structurally diverse and intriguing cyclopenta[<italic>c</italic>]pyridine family has been found to exist in monoterpene alkaloids
+that are represented by oxerine,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> actinidine,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> and aucubinine A and B<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> (Figure <xref rid="fig1" ref-type="fig">1</xref>) that showed significant biological
+activities with respect to abortive and animal stimulating effects.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> In addition, a variety of synthetic functionalized pyrazolo[3,4-<italic>b</italic>]pyridine system represents a core skeleton of pharmaceutical
+heterocycles with many other biological activities.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> A
+survey of the literature shows that many approaches to cyclopenta[<italic>c</italic>]pyridines<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> and pyrazolo[3,4-<italic>b</italic>]pyridines<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> have been developed,
+and there are a few reports of the combination of both above bioactive
+motifs into one compound.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Hence, an exploration
+of a direct access to cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines would be highly valuable for the discovery of
+new bioactive compounds.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Some bioactive cyclopenta[<italic>c</italic>]pyridine alkaloids.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0002" id="gr8" position="float"/></fig><p>Multicomponent reactions (MCRs) have emerged as effective
+methods
+for the assembly of complex cyclic structures by the combination of
+two or more distinct reactions into a one-pot transformation.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Among them, a branching multicomponent bicyclization not only enhances
+annulation efficiency but also features bond forming efficiency and
+high levels of structural complexity and minimizes the generation
+of waste.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> In recent years, enormous efforts
+have been made by conducting multicomponent bicyclizations toward
+the formation of various heterocycles.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> Recently,
+we have also established a new multicomponent reaction of arylglyoxals
+with electron-rich pyrazol-5-amines and aromatic amines, providing
+highly substituted pyrazolo[3,4-<italic>b</italic>]pyridines (Scheme <xref rid="sch1" ref-type="scheme">1</xref>).<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> When 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one was trapped in this reaction system, tricyclic
+cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines
+were unexpectedly obtained through a four-component bicyclization
+(Scheme <xref rid="sch1" ref-type="scheme">1</xref>). Further investigations revealed
+that replacing 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one
+with cyclohexane-1,3-diones delivered the unprecedented pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones. In this
+paper, we report our interesting observations. This work represents
+special examples for the regioselective construction of tri- and tetracyclic
+heterocycles containing a pyrazolo[3,4-<italic>b</italic>]pyridine
+unit with the concomitant formation of two new rings and five &#x003c3;-bonds.
+In addition, the spatial configuration of exocyclic double bonds has
+been controlled well in the former reaction, because of the intramolecular
+hydrogen bond.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Synthesis of Skeletally Diverse Pyrazolo[3,4-<italic>b</italic>]pyridine
+Derivatives</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0003" id="gr1" position="float"/></fig></sec><sec id="sec2"><title>Results and Discussion</title><p>To develop a new four-component bicyclization, we began our investigation
+with condition optimization by reacting 2,2-dihydroxy-1-phenylethanone <bold>1a</bold> with 3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-amine <bold>2a</bold>, aniline <bold>3a</bold>, and 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one <bold>4</bold> in DMF solvent under microwave
+(MW) heating. In our previous report, the multicomponent reaction
+of arylglyoxals with pyrazol-5-amines and aromatic amines promoted
+by <italic>p</italic>-TsOH gave highly substituted pyrazolo[3,4-<italic>b</italic>]pyridines.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> To continue our
+efforts on this project, we assume that when 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one was placed into the system described above,
+the reaction would proceed in another direction to form cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines using appropriate
+promoters, based on the fact that ring opening of 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one with a proper nucleophile has been well established.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> With this notion in mind, four reactants with
+an equivalent molar ratio were treated with common promoters that
+have been widely used in heterocyclic synthesis [e.g., K<sub>2</sub>CO<sub>3</sub>, <italic>p</italic>-TsOH, and CF<sub>3</sub>COOH (entries
+1&#x02013;3, respectively, in Table <xref rid="tbl1" ref-type="other">1</xref>)]. Unfortunately,
+the desired product <bold>5a</bold> was not observed at all in the
+presence of the promoters mentioned above using DMF as a reaction
+solvent. Further screening of promoters revealed that the use of HOAc
+led to tricyclic product <bold>5a</bold>, albeit with a low yield
+of 15% (entry 4). A higher yield of 57% was achieved when the reaction
+was conducted in HOAc at an enhanced temperature of 80 &#x000b0;C. The
+reaction works more efficiently in HOAc at 110 &#x000b0;C, affording
+a 74% yield of <bold>5a</bold> (entry 7). Further increasing the temperature
+above 110 &#x000b0;C did not show improvement and even gave diminished
+chemical yields.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Optimization for the Synthesis of <bold>5a</bold> under MW Heating</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0010" id="fx1" position="float"/><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">entry</th><th style="border:none;" align="center">solvent</th><th style="border:none;" align="center">promoter (equiv)</th><th style="border:none;" align="center" char=".">temp (&#x000b0;C)</th><th style="border:none;" align="center" char=".">time (min)</th><th style="border:none;" align="center">yield<xref rid="t1fn1" ref-type="table-fn">a</xref> (%)</th></tr></thead><tbody><tr><td style="border:none;" align="left">1</td><td style="border:none;" align="left">DMF</td><td style="border:none;" align="left">K<sub>2</sub>CO<sub>3</sub> (1.0)</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">trace</td></tr><tr><td style="border:none;" align="left">2</td><td style="border:none;" align="left">DMF</td><td style="border:none;" align="left"><italic>p</italic>-TsOH (1.0)</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">trace</td></tr><tr><td style="border:none;" align="left">3</td><td style="border:none;" align="left">DMF</td><td style="border:none;" align="left">CF<sub>3</sub>CO<sub>2</sub>H (1.0)</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">trace</td></tr><tr><td style="border:none;" align="left">4</td><td style="border:none;" align="left">DMF</td><td style="border:none;" align="left">HOAc (1.0)</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">15</td></tr><tr><td style="border:none;" align="left">5</td><td style="border:none;" align="left">DMF</td><td style="border:none;" align="left">HOAc (4.0)</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">39</td></tr><tr><td style="border:none;" align="left">6</td><td style="border:none;" align="left">HOAc</td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">57</td></tr><tr><td style="border:none;" align="left">7</td><td style="border:none;" align="left">HOAc</td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="char" char=".">110</td><td style="border:none;" align="char" char=".">25</td><td style="border:none;" align="left">74</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Isolated yield.</p></fn></table-wrap-foot></table-wrap><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Four-Component Bicyclization for Cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines</title><p id="s2fn1">Reaction conditions: <bold>1</bold> (1.0 mmol), <bold>2</bold> (1.0
+mmol), <bold>3</bold> (1.0 mmol), <bold>4</bold> (1.0 mmol), acetic
+acid (1.5 mL), 110 &#x000b0;C, MW. Isolated
+yields based on substrate <bold>2</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0004" id="gr2" position="float"/></fig><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Domino
+Synthesis of Cyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridines</title><p id="s3fn1">Reaction conditions: <bold>1</bold> (1.0 mmol), <bold>2</bold> (2.0 mmol), <bold>4</bold> (1.0 mmol),
+acetic acid (1.5 mL), 110 &#x000b0;C, MW. Isolated yields based on substrate <bold>2</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0005" id="gr3" position="float"/></fig><p>Once the feasibility of the proposed
+pathway had been validated,
+we examined its scope generality by using various readily available
+arylglyoxals, pyrazol-5-amines, and aromatic amines through a new
+four-component bicyclization reaction. The experimental results are
+presented in Scheme <xref rid="sch2" ref-type="scheme">2</xref> and showed that a broad
+spectrum of substituted arylglyoxals bearing both electron-donating
+and electron-withdrawing groups were successfully transformed into
+the corresponding tricyclic products <bold>5a&#x02013;n</bold> in good
+to excellent yields. Notably, halogen-containing arylglyoxals could
+be utilized and tolerated well under the optimal reaction conditions,
+furnishing the desired products in good yields, which offer possibilities
+for further functionalizations by modern coupling. The variation of
+nitrogen-tethered substituents on the pyrazole ring, including methyl
+or phenyl groups, worked well. After successful utilization of different
+substituents of arylglyoxals and pyrazol-5-amines, we next extended
+our study to a variety of arylamines with different functional groups
+such as chloro, methyl, and nitro on the phenyl ring. These functional
+groups are compatible in the system presented here, providing the
+desired products in 55&#x02013;84% yields. Even for a challenging case
+in which a strong electron-withdrawing effect exists on the ortho
+position on the aromatic ring (<bold>5e</bold>), a good yield of 55%
+was obtained. Alternatively, instead of arylamines, this bicyclization
+reaction of <bold>1</bold> with <bold>2</bold> and <bold>4</bold> in
+a 1:2:1 molar ratio could also proceed, leading to the corresponding
+tricyclic cyclopenta-fused pyrazolo[3,4-<italic>b</italic>]pyridines <bold>5o&#x02013;t</bold> in 61&#x02013;82% yields. Interestingly, this protocol
+provides an unusual pathway for the construction of multifunctionalized
+tricyclic cyclopenta-fused pyrazolo[3,4-<italic>b</italic>]pyridines
+that are challenging to obtain through other methods (Schemes <xref rid="sch2" ref-type="scheme">2</xref> and <xref rid="sch3" ref-type="scheme">3</xref>).</p><p>After successfully
+synthesizing cyclopenta-fused pyrazolo[3,4-<italic>b</italic>]pyridines <bold>5</bold>, we attempted to further probe
+the reaction scope using dimedone (5,5-dimethylcyclohexane-1,3-dione)
+(<bold>6a</bold>) to replace 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one <bold>4</bold> (Scheme <xref rid="sch4" ref-type="scheme">4</xref>). The
+reaction of <bold>1&#x02013;3</bold> and <bold>6</bold> proceeded in
+another direction to form the unprecedented pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones. Encouraged by the
+interesting results, we screened different Br&#x000f8;nsted acid promoters
+to optimize the reaction conditions for this protocol. The reaction
+of 2,2-dihydroxy-1-(<italic>p</italic>-tolyl)ethanone (<bold>1e</bold>), <bold>2a</bold>, <bold>3a</bold>, and <bold>6a</bold> in HOAc
+at 110 &#x000b0;C gave product <bold>7a</bold> in 25% yield. After optimization,
+we were pleased to find the use of 1.0 equiv of <italic>p</italic>-TsOH in DMF at 120 &#x000b0;C pushed this reaction forward, affording
+a 56% chemical yield of product <bold>7a</bold>. An additional 1.0
+equiv of CF<sub>3</sub>SO<sub>3</sub>H and CF<sub>3</sub>CO<sub>2</sub>H in DMF showed poor catalytic activity and almost did not promote
+this reaction. Using 1.0 equiv of <italic>p</italic>-TsOH as a promoter
+and DMF as a solvent, a set of diverse substituted arylglyoxals, with
+groups such as methyl, methoxy, chloro, and bromo groups, were well
+incorporated into these current bicyclization reactions. Arylamines
+containing either electron-withdrawing or -donating substituents did
+not hamper the reaction process, allowing a bicyclization strategy
+to structurally complex pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones in moderate yields. Similarly, cyclohexane-1,3-dione
+can also take part in this domino bicyclization (<bold>7p</bold> and <bold>7q</bold>). Moreover, it allows one-pot access to important tetracyclic
+products and gives a new bicyclization tool in an atom-efficient fashion,
+providing a valuable strategy for drug discovery.</p><fig id="sch4" position="float"><label>Scheme 4</label><caption><title>Expanding the Scope
+of the Bicyclization Reaction</title><p id="s4fn1">Reaction conditions: <bold>1</bold> (1.0 mmol), <bold>2</bold> (1.0 mmol), <bold>3</bold> (1.0
+mmol), <bold>6</bold> (1.0 mmol), <italic>p</italic>-TsOH (1.0 mmol),
+DMF (1.5
+mL), 120 &#x000b0;C, MW. Isolated yields based on substrate <bold>2</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0006" id="gr4" position="float"/></fig><p>In all cases, the complexity of the products
+illustrates the remarkable
+chemo- and stereoselectivity of the reaction sequence starting from
+simple and common reactants. The structural elucidation and attribution
+of relative stereochemistry were unambiguously determined by X-ray
+diffraction analysis of single crystals of <bold>5a</bold>, <bold>5o</bold>, and <bold>7d</bold> (see the <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>) and other analysis. As shown in Schemes <xref rid="sch2" ref-type="scheme">2</xref>&#x02013;<xref rid="sch4" ref-type="scheme">4</xref>, the present four-component
+reaction can occur at fast speeds and can reach completion within
+40 min. Water is nearly a sole byproduct, which makes workup convenient.
+As mentioned previously, these heterocyclic motifs are widely prevalent
+in bioactive molecules and pharmaceutical targets.</p><fig id="sch5" position="float"><label>Scheme 5</label><caption><title>Control Experiments</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0007" id="gr5" position="float"/></fig><p>To understand the mechanistic
+hypothesis, a preformed 6-methyl-1-phenylpyridine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione <bold>8</bold>,<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> derived from 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one
+and aniline, was reacted with <bold>1c</bold> and <bold>2a</bold> under
+the standard conditions. The corresponding tricyclic
+product <bold>5f</bold> was obtained in 75% yield (Scheme <xref rid="sch5" ref-type="scheme">5</xref>, eq 1). Treatment with preformed pyrazolo[3,4-<italic>b</italic>]quinolones <bold>9</bold>(<xref ref-type="bibr" rid="ref19">19</xref>) and aniline <bold>3a</bold> generated a trace amount of pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones <bold>7d</bold> (Scheme <xref rid="sch5" ref-type="scheme">5</xref>, eq 2). When the reaction of 5,5-dimethyl-3-(phenylamino)cyclohex-2-enone <bold>10</bold> with <bold>1c</bold> and <bold>2a</bold> was conducted,
+a 53% yield of <bold>7d</bold> was isolated (Scheme <xref rid="sch5" ref-type="scheme">5</xref>, eq 3). These observations suggested that 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one and cyclohexane-1,3-diones may be, prior to
+reacting with arylamines, producing intermediates <bold>8</bold> and <bold>10</bold>, which were further converted into the corresponding products <bold>5</bold> and <bold>7</bold>, respectively.</p><p>On the basis of
+the experimental results, we proposed mechanisms
+to explain the structural formation of multifunctionalized pyrazolo[3,4-<italic>b</italic>]pyridines <bold>5</bold> and <bold>7</bold> (Schemes <xref rid="sch6" ref-type="scheme">6</xref> and <xref rid="sch7" ref-type="scheme">7</xref>). In the former, 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one <bold>4</bold> initially reacted with aryl
+amines <bold>3</bold> to give intermediate <bold>8</bold>, which undergoes
+Knoevengel condensation with arylglyoxals <bold>1</bold> to give adducts <bold>A</bold>, followed by Michael addition and tautomerization to form
+intermediate <bold>B</bold>. Next, intramolecular cyclization occurs
+to afford fused pyrazolo[3,4-<italic>b</italic>]pyridines <bold>C</bold>. Subsequent ring opening of the pyridine skeleton and cycloisomerization
+yield final tricyclic cyclopenta-fused pyrazolo[3,4-<italic>b</italic>]pyridines <bold>5</bold>. Similar to the former, the latter is subjected
+to a sequential enamine formation/Knoevengel condensation/Michael
+addition/double cyclization sequence, resulting in tetracyclic pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolones <bold>7</bold> (Scheme <xref rid="sch7" ref-type="scheme">7</xref>).</p><fig id="sch6" position="float"><label>Scheme 6</label><caption><title>Proposed Mechanism
+for the Synthesis of <bold>5</bold></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0008" id="gr6" position="float"/></fig><fig id="sch7" position="float"><label>Scheme 7</label><caption><title>Proposed Mechanism for the Synthesis of <bold>7</bold></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02096t_0009" id="gr7" position="float"/></fig><p>In conclusion, we have successfully
+established a new, flexible,
+and practical four-component bicyclization reaction for the construction
+of multicyclic pyrazolo[3,4-<italic>b</italic>]pyridines with good
+to excellent yields using low-cost and readily accessible arylglyoxals,
+pyrazol-5-amines, aromatic amines, and 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one (and cyclohexane-1,3-diones). Two straightforward
+and operationally simple methods involve complex cascades of sequences
+consisting of a Knoevengel condensation, Michael addition, and double
+cyclization and allow selective access to skeletally diverse multicyclic
+pyrazolo[3,4-<italic>b</italic>]pyridines by varying reaction substrates.
+The characteristics of reliable scalability, flexibility of structural
+modification, and wide substrate scope make this bicyclization strategy
+a powerful tool for the creation of multiheterocyclic scaffolds of
+general chemical and biomedical interest. We believe this methodology
+may be of value to others seeking original synthetic fragments with
+unique activities for medicinal and pharmaceutical studies.</p></sec><sec id="sec3"><title>Experimental Section</title><sec id="sec3.1"><title>General</title><p>Microwave
+irradiation was conducted with Initiator
+2.5 Microwave Synthesizers from Biotage (Uppsala, Sweden). The reaction
+temperatures were measured with an infrared detector during MW heating.</p></sec><sec id="sec3.2"><title>General Procedure for the Synthesis of <bold>5</bold></title><sec id="sec3.2.1"><title>Example of
+the Synthesis of <bold>5a</bold></title><p>3-Methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-amine (<bold>2a</bold>, 1.0 mmol, 173 mg) was
+introduced into a 10 mL Initiator reaction vial, and 2,2-dihydroxy-1-phenylethanone
+(<bold>1a</bold>, 1.0 mmol, 152 mg), aniline (<bold>3a</bold>, 93
+mg), and 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one (<bold>4</bold>, 1.0 mmol, 126 mg) as well as acetic acid (1.5 mL) were
+then successively added. Subsequently, the reaction vial was capped,
+and then the contents were prestirred for 20 s. The mixture was irradiated
+(time, 28 min; temperature, 110 &#x000b0;C; absorption level, high; fixed
+hold time) until TLC [4/1 (v/v) petroleum ether/acetone] revealed
+that conversion of the starting material <bold>2a</bold> was complete.
+The system was diluted with cold water (20 mL). The solid product
+was collected by B&#x000fc;chner filtration and purified by flash column
+chromatography (silica gel, petroleum ether/ethyl acetate mixtures)
+to afford the pure product <bold>5a</bold>.</p><sec id="sec3.2.1.1"><title>(<italic>Z</italic>)-5-Hydroxy-1-methyl-3,8-diphenyl-7-[1-(phenylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5a</bold>)</title><p>Yellow solid (349 mg, 74% yield):
+mp 264&#x02013;266 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.73 (s, 1H), 10.54 (s, 1H), 8.14 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.46 (d, <italic>J</italic> = 7.6 Hz, 2H), 7.37&#x02013;7.27
+(m, 6H), 7.26&#x02013;7.20 (m, 3H), 7.09 (d, <italic>J</italic> = 7.2
+Hz, 2H), 5.15 (s, 1H), 2.16 (s, 3H), 1.98 (s, 3H); <sup>13</sup>C
+NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.8, 161.3, 157.6, 156.9,
+151.6, 147.0, 143.5, 142.9, 140.0, 139.0, 137.8, 129.3, 129.1, 129.0,
+128.8, 127.5, 126.1, 126.0, 124.9, 121.6, 111.5, 49.9, 17.2, 15.4;
+IR (KBr, &#x003bd;) 3443, 1624, 1591, 1511, 1414, 1318, 1229, 1026,
+766 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>30</sub>H<sub>24</sub>N<sub>4</sub>O<sub>2</sub> 471.1829, found 471.1836.</p></sec><sec id="sec3.2.1.2"><title>(<italic>Z</italic>)-7-{1-[(3-Chlorophenyl)amino]ethylidene}-5-hydroxy-1-methyl-3,8-diphenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5b</bold>)</title><p>Yellow solid (385 mg, 76% yield):
+mp 276&#x02013;278 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.71 (s, 1H), 8.13 (d, <italic>J</italic> = 8.0 Hz, 2H),
+7.47 (t, <italic>J</italic> = 7.6 Hz, 2H), 7.34&#x02013;7.27 (m, 5H),
+7.19&#x02013;7.17 (m, 3H), 7.09 (s, 1H), 6.97 (d, <italic>J</italic> = 8.0 Hz, 1H), 5.13 (s, 1H), 2.15 (s, 3H), 1.99 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.3, 165.3, 161.2, 158.0,
+156.6, 151.5, 143.6, 139.7, 139.2, 138.9, 134.9, 130.3, 129.0, 128.9,
+127.6, 126.1, 125.9, 124.6, 122.7, 121.6, 115.9, 112.3, 109.4, 49.8,
+17.2, 15.4; IR (KBr, &#x003bd;) 3413, 1699, 1632, 1618, 1509, 1437,
+1388, 1306, 1251, 813, 735 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>30</sub>H<sub>22</sub>ClN<sub>4</sub>O<sub>2</sub> 505.1440,
+found 505.1453.</p></sec><sec id="sec3.2.1.3"><title>(<italic>Z</italic>)-5-Hydroxy-8-(4-methoxyphenyl)-1-methyl-3-phenyl-7-[1-(phenylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5c</bold>)</title><p>Yellow solid (366 mg, 73% yield):
+mp 276&#x02013;278 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.70 (s, 1H), 8.15 (d, <italic>J</italic> = 7.6 Hz, 2H),
+7.46 (t, <italic>J</italic> = 7.9 Hz, 2H), 7.35 (t, <italic>J</italic> = 7.6 Hz, 2H), 7.28&#x02013;7.20 (m, 2H), 7.15&#x02013;7.03 (m, 4H),
+6.82 (d, <italic>J</italic> = 8.8 Hz, 2H), 5.08 (s, 1H), 3.78 (s,
+3H), 2.18 (s, 3H), 1.96 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.7, 161.2, 158.8, 158.1, 157.6, 151.5, 143.6,
+139.1, 137.9, 131.8, 130.0, 129.3, 129.0, 126.0, 125.9, 124.8, 121.5,
+115.9, 114.1, 111.6, 109.4, 55.3, 49.1, 17.1, 15.4; IR (KBr, &#x003bd;)
+3420, 1617, 1595, 1574, 1511, 1304, 814, 756 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for
+[M &#x02013; H]<sup>&#x02212;</sup> C<sub>31</sub>H<sub>25</sub>N<sub>4</sub>O<sub>3</sub> 501.1935, found 501.1945.</p></sec><sec id="sec3.2.1.4"><title>(<italic>Z</italic>)-7-{1-[(3-Chlorophenyl)amino]ethylidene}-5-hydroxy-8-(4-methoxyphenyl)-1-methyl-3-phenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5d</bold>)</title><p>Yellow solid (354 mg, 66% yield):
+mp 275&#x02013;277 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.66 (s, 1H), 10.53 (s, 1H), 8.17&#x02013;8.10 (m, 2H),
+7.47 (t, <italic>J</italic> = 6.8 Hz, 2H), 7.32 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.27 (s, 1H), 7.10 (d, <italic>J</italic> = 8.0 Hz,
+2H), 7.02 (d, <italic>J</italic> = 8.4 Hz, 2H), 6.83 (d, <italic>J</italic> = 7.6 Hz, 2H), 5.11 (s, 1H), 3.79 (s, 3H), 2.19 (s, 3H), 1.96 (s,
+3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.2,
+163.1, 160.2, 157.8, 155.5, 142.6, 138.5, 137.9, 130.5, 129.5, 129.4,
+129.0, 128.0, 125.0, 120.5, 119.1, 119.0, 113.1, 111.6, 111.4, 111.3,
+110.7, 110.5, 54.3, 48.0, 16.2, 14.4; IR (KBr, &#x003bd;) 3413, 1599,
+1654, 1618, 1558, 1173, 926, 778, 642 cm<sup>&#x02013;1</sup>; HRMS
+(ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013;
+H]<sup>&#x02212;</sup> C<sub>31</sub>H<sub>24</sub>ClN<sub>4</sub>O<sub>3</sub> 535.1545, found 535.1566.</p></sec><sec id="sec3.2.1.5"><title>(<italic>Z</italic>)-5-Hydroxy-8-(4-methoxyphenyl)-1-methyl-7-{1-[(2-nitrophenyl)amino]ethylidene}-3-phenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5e</bold>)</title><p>Yellow solid (301 mg, 55% yield):
+mp 248&#x02013;249 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.47 (s, 1H), 8.10 (d, <italic>J</italic> = 8.0 Hz, 2H),
+7.48&#x02013;7.41 (m, 6H), 7.02 (d, <italic>J</italic> = 8.4 Hz, 2H),
+6.79 (d, <italic>J</italic> = 8.0 Hz, 2H), 5.96 (s, 1H), 5.05 (s,
+1H), 3.78 (s, 3H), 2.32 (s, 3H), 1.80 (s, 3H); <sup>13</sup>C NMR
+(100 MHz, CDCl<sub>3</sub>) &#x003b4; 191.0, 161.2, 158.9, 158.7, 155.8,
+149.2, 146.3, 143.6, 138.1, 136.8, 131.4, 129.9, 129.4, 129.0, 127.7,
+126.2, 123.9, 121.7, 114.2, 113.2, 102.3, 55.3, 48.7, 18.4, 16.7,
+15.4, 14.1; IR (KBr, &#x003bd;) 3416, 1621, 1589, 1567, 1510, 1498,
+1254, 1080, 813, 690 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>31</sub>H<sub>24</sub>N<sub>5</sub>O<sub>5</sub> 546.1786,
+found 546.1791.</p></sec><sec id="sec3.2.1.6"><title>(<italic>Z</italic>)-8-(4-Chlorophenyl)-5-hydroxy-1-methyl-3-phenyl-7-[1-(phenylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5f</bold>)</title><p>Yellow solid (359 mg, 71% yield):
+mp 256&#x02013;258 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.71 (s, 1H), 10.55 (s, 1H), 8.15 (d, <italic>J</italic> = 7.6 Hz, 2H), 7.47 (t, <italic>J</italic> = 7.6 Hz, 2H), 7.36 (t, <italic>J</italic> = 7.6 Hz, 2H), 7.28 (m, 3H), 7.22 (m, 1H), 7.14 (d, <italic>J</italic> = 7.6 Hz, 2H), 7.09 (d, <italic>J</italic> = 7.2 Hz, 2H),
+5.11 (s, 1H), 2.19 (s, 3H), 1.95 (s, 3H); <sup>13</sup>C NMR (100
+MHz, CDCl<sub>3</sub>) &#x003b4; 189.6, 161.2, 157.6, 143.2, 138.9,
+138.6, 137.7, 133.3, 130.3, 129.3, 129.1, 129.0, 127.2, 126.2, 126.1,
+124.9, 121.6, 117.4, 116.1, 113.2, 111.1, 49.1, 17.2, 15.5; IR (KBr,
+&#x003bd;) 3421, 1619, 1588, 1566, 1489, 1438, 1242, 1079, 759, 633
+cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>30</sub>H<sub>22</sub>ClN<sub>4</sub>O<sub>2</sub> 505.1440, found 505.1445.</p></sec><sec id="sec3.2.1.7"><title>(<italic>Z</italic>)-8-(4-Bromophenyl)-5-hydroxy-1-methyl-3-phenyl-7-[1-(<italic>p</italic>-tolylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one
+(<bold>5g</bold>)</title><p>Yellow solid (474 mg, 84% yield): mp 288&#x02013;290
+&#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.65
+(s, 1H), 10.62 (s, 1H), 8.15 (d, <italic>J</italic> = 7.6 Hz, 2H),
+7.49&#x02013;7.43 (m, <italic>J</italic> = 8.0 Hz, 4H), 7.29 (s, 1H),
+7.16 (d, <italic>J</italic> = 7.6 Hz, 2H), 7.08 (d, <italic>J</italic> = 8.0 Hz, 2H), 6.98 (d, <italic>J</italic> = 7.2 Hz, 2H), 5.11 (s,
+1H), 2.35 (s, 3H<sub>3</sub>), 2.20 (s, 3H), 1.93 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.4, 161.2, 158.1, 156.9,
+143.1, 139.3, 139.0, 136.3, 135.5, 135.0, 132.0, 130.6, 129.9, 129.0,
+126.1, 125.0, 121.6, 121.3, 110.7, 58.4, 49.2, 21.0, 18.4, 17.1, 15.5;
+IR (KBr, &#x003bd;) 3214, 1625, 1592, 1566, 1487, 1319, 1079, 809, 689
+cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>31</sub>H<sub>24</sub>BrN<sub>4</sub>O<sub>2</sub> 563.1091, found 563.1092.</p></sec><sec id="sec3.2.1.8"><title>(<italic>Z</italic>)-7-{1-[(4-Chlorophenyl)amino]ethylidene}-5-hydroxy-1,3-dimethyl-8-phenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5h</bold>)</title><p>Yellow solid (280 mg, 63% yield):
+mp 278&#x02013;280 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.63 (s, 1H), 7.34&#x02013;7.27 (m, 3H), 7.27&#x02013;7.21
+(m, 2H), 7.16 (d, <italic>J</italic> = 7.2 Hz, 2H), 7.00 (d, <italic>J</italic> = 7.6 Hz, 2H), 5.07 (s, 1H), 3.95 (s, 3H), 2.07 (s, 3H),
+1.94 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4;
+191.1, 161.2, 155.6, 147.6, 142.0, 138.4, 137.1, 133.4, 133.0, 130.1,
+129.2, 129.1, 112.5, 99.9, 48.6, 34.9, 34.2, 30.9, 16.7, 15.2, 13.9;
+IR (KBr, &#x003bd;) 3418, 1668, 1606, 1566, 1496, 1237, 800, 702, 601
+cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>25</sub>H<sub>20</sub>ClN<sub>4</sub>O<sub>2</sub> 443.1283, found 443.1315.</p></sec><sec id="sec3.2.1.9"><title>(<italic>Z</italic>)-5-Hydroxy-8-(4-methoxyphenyl)-1,3-dimethyl-7-[1-(<italic>p</italic>-tolylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one
+(<bold>5i</bold>)</title><p>Yellow solid (277 mg, 61% yield): mp 235&#x02013;237
+&#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.58
+(s, 1H), 7.14 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.07 (d, <italic>J</italic> = 8.4 Hz, 2H), 6.96 (d, <italic>J</italic> = 8.0 Hz, 2H),
+6.80 (d, <italic>J</italic> = 8.8 Hz, 2H), 5.04 (s, 1H), 3.95 (s,
+3H), 3.77 (s, 3H), 2.34 (s, 3H), 2.10 (s, 3H), 1.93 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.8, 161.3, 158.7,
+157.7, 157.5, 141.8, 135.9, 135.3, 132.0, 130.0, 129.8, 124.9, 124.8,
+116.7, 114.0, 111.2, 55.3, 49.0, 30.0, 21.0, 17.0, 15.3; IR (KBr,
+&#x003bd;) 3414, 1625, 1589, 1567, 1438, 1324, 1017, 827, 654 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>27</sub>H<sub>25</sub>N<sub>4</sub>O<sub>3</sub> 453.1935, found 453.1964.</p></sec><sec id="sec3.2.1.10"><title>(<italic>Z</italic>)-7-{1-[(4-Chlorophenyl)amino]ethylidene}-5-hydroxy-8-(4-methoxyphenyl)-1,3-dimethyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5j</bold>)</title><p>Yellow solid (313 mg, 66% yield):
+mp 250&#x02013;252 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.61 (s, 1H), 7.30 (d, <italic>J</italic> = 7.6 Hz, 2H),
+7.06 (d, <italic>J</italic> = 7.2 Hz, 2H), 7.01 (d, <italic>J</italic> = 7.2 Hz, 2H), 6.81 (d, <italic>J</italic> = 7.6 Hz, 2H), 5.03 (s,
+1H), 3.95 (s, 3H), 3.78 (s, 3H), 2.10 (s, 3H), 1.94 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 189.6, 161.2, 157.6,
+141.5, 138.8, 136.1, 135.1, 133.1, 130.2, 129.8, 128.9, 124.9, 110.7,
+107.3, 58.4, 49.0, 34.0, 31.0, 21.0, 18.4, 17.1, 15.3; IR (KBr, &#x003bd;)
+3419, 1616, 1593, 1562, 1432, 1302, 1089, 808, 689 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for
+[M &#x02013; H]<sup>&#x02212;</sup> C<sub>26</sub>H<sub>22</sub>ClN<sub>4</sub>O<sub>3</sub> 473.1389, found 473.1420.</p></sec><sec id="sec3.2.1.11"><title>(<italic>Z</italic>)-8-(4-Chlorophenyl)-7-{1-[(4-chlorophenyl)amino]ethylidene}-5-hydroxy-1,3-dimethyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5k</bold>)</title><p>Yellow solid (339 mg, 71% yield):
+mp 269&#x02013;270 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.65 (s, 1H), 7.33 (d, <italic>J</italic> = 8.4 Hz, 2H),
+7.28 (d, <italic>J</italic> = 8.4 Hz, 2H), 7.12 (d, <italic>J</italic> = 8.4 Hz, 2H), 7.02 (d, <italic>J</italic> = 8.4 Hz, 2H), 5.07 (s,
+1H), 3.98 (s, 3H), 2.13 (s, 3H), 1.95 (s, 3H); <sup>13</sup>C NMR
+(100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.2, 161.2, 156.4, 141.7, 138.6,
+136.5, 133.3, 131.6, 130.2, 129.4, 129.0, 126.0, 111.6, 48.9, 34.1,
+17.1, 15.3; IR (KBr, &#x003bd;) 3416, 1663, 1616, 1582, 1499, 1314,
+1011, 726 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>25</sub>H<sub>19</sub>Cl<sub>2</sub>N<sub>4</sub>O<sub>2</sub> 477.0893,
+found 477.0891.</p></sec><sec id="sec3.2.1.12"><title>(<italic>Z</italic>)-7-{1-[(4-Chlorophenyl)amino]ethylidene}-1-cyclopropyl-5-hydroxy-8-(4-methoxyphenyl)-3-methyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5l</bold>)</title><p>Yellow solid (320 mg, 64% yield):
+mp 276&#x02013;278 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.62 (s, 1H), 10.66 (s, 1H), 7.30 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.07 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.01 (d, <italic>J</italic> = 8.0 Hz, 2H), 6.79 (d, <italic>J</italic> = 8.0 Hz, 2H),
+5.13 (s, 1H), 3.92 (s, 3H), 3.77 (s, 3H), 1.96 (s, 3H), 1.79&#x02013;1.46
+(m, 1H), 0.90&#x02013;0.84 (m, 2H), 0.71 (s, 1H), 0.55 (s, 1H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.4, 161.2, 158.7,
+157.2, 156.2, 147.0, 141.9, 139.4, 136.7, 131.9, 131.2, 129.8, 129.4,
+125.9, 125.8, 114.1, 112.2, 55.3, 49.1, 34.1, 17.1, 9.7, 7.3, 7.2;
+IR (KBr, &#x003bd;) 3419, 1682, 1609, 1588, 1562, 1496, 1256, 1055,
+775 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>28</sub>H<sub>24</sub>ClN<sub>4</sub>O<sub>3</sub> 499.1545, found 499.1549.</p></sec><sec id="sec3.2.1.13"><title>(<italic>Z</italic>)-8-(4-Chlorophenyl)-1-cyclopropyl-5-hydroxy-3-methyl-7-[1-(<italic>p</italic>-tolylamino)ethylidene]-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one
+(<bold>5m</bold>)</title><p>Yellow solid (324 mg, 67% yield): mp 252&#x02013;253
+&#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.60
+(s, 1H), 10.67 (s, 1H), 7.24 (d, <italic>J</italic> = 6.8 Hz, 2H),
+7.13 (m, 4H), 6.97 (d, <italic>J</italic> = 7.3 Hz, 2H), 5.15 (s,
+1H), 3.92 (s, 3H), 2.34 (s, 3H), 1.93 (s, 3H), 1.64&#x02013;1.54 (m,
+1H), 0.89 (s, 2H), 0.68 (s, 1H), 0.54 (s, 1H); <sup>13</sup>C NMR
+(100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.8, 161.1, 155.6, 149.3, 149.2,
+147.7, 141.9, 140.2, 138.6, 136.9, 133.1, 131.8, 130.8, 130.4, 128.2,
+115.9, 112.0, 100.0, 48.2, 34.9, 34.2, 16.8, 15.3, 13.9; IR (KBr,
+&#x003bd;) 3293, 1613, 1598, 1564, 1516, 1488, 1264, 1015, 808, 716
+cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>28</sub>H<sub>24</sub>ClN<sub>4</sub>O<sub>2</sub> 483.1596, found 483.1596.</p></sec><sec id="sec3.2.1.14"><title>(<italic>Z</italic>)-8-(4-Chlorophenyl)-7-{1-[(4-chlorophenyl)amino]ethylidene}-1-cyclopropyl-5-hydroxy-3-methyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5n</bold>)</title><p>Yellow solid (307 mg, 61% yield):
+mp 234&#x02013;256 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.63 (s, 1H), 7.32 (d, <italic>J</italic> = 7.6 Hz, 2H),
+7.25 (d, <italic>J</italic> = 7.2 Hz, 2H), 7.11 (d, <italic>J</italic> = 7.2 Hz, 2H), 7.02 (d, <italic>J</italic> = 7.6 Hz, 2H), 5.17 (s,
+1H), 3.93 (s, 3H), 1.95 (s, 3H), 0.90 (s, 2H), 0.62 (m, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.3, 161.1, 156.3,
+146.8, 138.8, 138.0, 136.5, 133.1, 131.5, 130.1, 129.4, 128.9, 126.0,
+118.9, 113.2, 111.8, 49.1, 34.1, 30.9, 17.1, 9.7, 7.5, 7.0; IR (KBr,
+&#x003bd;) 3137, 1682, 1608, 1590, 1562, 1497, 1213, 1054, 758, 714
+cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>27</sub>H<sub>21</sub>Cl<sub>2</sub>N<sub>4</sub>O<sub>2</sub> 503.1050,
+found 503.1061.</p></sec></sec><sec id="sec3.2.2"><title>Example of the Synthesis of <bold>5o</bold></title><p>3-Methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-amine (<bold>2a</bold>, 2.0 mmol, 346 mg) was
+introduced into a 10 mL Initiator reaction vial, and 2,2-dihydroxy-1-phenylethanone
+(<bold>1a</bold>, 1.0 mmol, 152 mg) and 4-hydroxy-6-methyl-2<italic>H</italic>-pyran-2-one (<bold>4</bold>, 1.0 mmol, 126 mg) as well
+as acetic acid (1.5 mL) were then successively added. Subsequently,
+the reaction vial was capped, and then the contents were prestirred
+for 20 s. The mixture was irradiated (time, 25 min; temperature, 110
+&#x000b0;C; absorption level, high; fixed hold time) until TLC [4/1 (v/v)
+petroleum ether/acetone] revealed that conversion of starting material <bold>2a</bold> was complete. The system was diluted with cold water (20
+mL). The solid product was collected by B&#x000fc;chner filtration
+and purified by flash column chromatography (silica gel, petroleum
+ether/ethyl acetate mixtures) to afford pure product <bold>5o</bold>.</p><sec id="sec3.2.2.1"><title>(<italic>Z</italic>)-5-Hydroxy-1-methyl-7-{1-[3-methyl(1-phenyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-3,8-diphenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5o</bold>)</title><p>Yellow solid (420 mg, 76% yield):
+mp 268&#x02013;269 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.47 (s, 1H), 10.23 (s, 1H), 8.11 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.50&#x02013;7.39 (m, 6H), 7.34&#x02013;7.31 (m, 2H),
+7.26&#x02013;7.22 (m, 3H), 7.10 (d, <italic>J</italic> = 6.4 Hz, 2H),
+5.96 (s, 1H), 5.06 (s, 1H), 2.31 (s, 3H), 2.13 (s, 3H), 1.77 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 191.1, 161.1, 158.3,
+156.0, 149.2, 143.7, 139.6, 138.9, 138.0, 136.8, 129.4, 129.0, 128.9,
+128.8, 127.7, 127.6, 126.2, 123.9, 121.6, 115.7, 113.1, 109.4, 102.4,
+49.4, 16.8, 15.34, 14.1; IR (KBr, &#x003bd;) 3425, 1620, 1593, 1556,
+1510, 1377, 1318, 1130, 725, 669 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>34</sub>H<sub>27</sub>N<sub>6</sub>O<sub>2</sub> 551.2204,
+found 551.2232.</p></sec><sec id="sec3.2.2.2"><title>(<italic>Z</italic>)-8-(4-Bromophenyl)-5-hydroxy-1-methyl-7-{1-[(3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-3-phenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5p</bold>)</title><p>Yellow solid (517 mg, 82% yield):
+mp 258&#x02013;260 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.45 (s, 1H), 10.27 (s, 1H), 8.10 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.49&#x02013;7.38 (m, 8H), 7.34 (t, <italic>J</italic> = 6.8 Hz, 1H), 7.29 (d, <italic>J</italic> = 7.6 Hz, 1H), 6.97 (d, <italic>J</italic> = 8.3 Hz, 2H), 5.98 (s, 1H), 5.03 (s, 1H), 2.32 (s, 3H),
+2.17 (s, 3H), 1.74 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.9, 161.1, 155.8, 149.3, 143.6, 143.4(0), 143.3(8),
+138.7, 137.8, 136.7, 132.1, 132.0, 130.4, 129.5, 129.1, 127.9(4),
+127.9(2), 126.3(4), 126.3(3), 124.0, 121.7, 121.4, 112.8, 102.4, 48.7,
+17.0, 15.5, 14.0; IR (KBr, &#x003bd;) 3447, 1782, 1626, 1594, 1502,
+1409, 1412, 1236, 1129, 1101, 758 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>34</sub>H<sub>26</sub>BrN<sub>6</sub>O<sub>2</sub> 629.1309,
+found 629.1324.</p></sec><sec id="sec3.2.2.3"><title>(<italic>Z</italic>)-8-(4-Fluorophenyl)-5-hydroxy-1-methyl-7-{1-[(3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-3-phenyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5q</bold>)</title><p>Yellow solid (416 mg, 73% yield):
+mp 276&#x02013;279 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.48 (s, 1H), 10.31 (s, 1H), 8.09 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.50&#x02013;7.40 (m, 6H), 7.34 (t, <italic>J</italic> = 6.8 Hz, 1H), 7.31&#x02013;7.27 (m, 1H), 7.11&#x02013;7.03 (m, 2H),
+6.96 (t, <italic>J</italic> = 8.4 Hz, 2H), 5.98 (s, 1H), 5.05 (s,
+1H), 2.32 (s, 3H), 2.14 (s, 3H), 1.74 (s, 3H); <sup>13</sup>C NMR
+(100 MHz, CDCl<sub>3</sub>) &#x003b4; 190.9, 163.1, 159.3 (<sup>1</sup><italic>J</italic><sub>CF</sub> = 271.3), 157.9, 156.0, 149.3, 143.4,
+138.8, 138.1, 136.6, 135.4 (<sup>2</sup><italic>J</italic><sub>CF</sub> = 3.3), 130.4, 130.3 (<sup>3</sup><italic>J</italic><sub>CF</sub> = 8), 129.4, 129.0, 127.7, 126.2, 123.9, 121.5, 115.9, 115.8 (<sup>4</sup><italic>J</italic><sub>CF</sub> = 21.5), 112.8, 109.2, 102.5,
+48.6, 16.8, 15.4, 14.1; IR (KBr, &#x003bd;) 3464, 1621, 1591, 1576,
+1379, 1329, 1225, 1156, 815, 756 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>34</sub>H<sub>26</sub>FN<sub>6</sub>O<sub>2</sub> 569.2110,
+found 569.2136.</p></sec><sec id="sec3.2.2.4"><title>(<italic>Z</italic>)-8-(4-Chlorophenyl)-7-{1-[(1,3-dimethyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-5-hydroxy-1,3-dimethyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5r</bold>)</title><p>Yellow solid (282 mg, 61% yield):
+mp 158&#x02013;160 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.54 (s, 1H), 7.27 (d, <italic>J</italic> = 6.4 Hz, 2H),
+7.11 (d, <italic>J</italic> = 7.6 Hz, 2H), 5.74 (s, 1H), 5.09 (s,
+1H), 3.97 (s, 3H), 3.71 (s, 3H), 2.21 (s, 3H), 2.12 (s, 3H), 1.90
+(s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 191.1,
+161.1, 155.6, 149.3, 147.6, 142.0, 138.4, 137.1, 133.5, 130.0, 129.1,
+117.9, 112.5, 99.8, 48.6, 34.9, 34.2, 30.9, 16.7, 15.2, 13.9; IR (KBr,
+&#x003bd;) 3454, 1698, 1659, 1636, 1560, 1207, 1131, 643, 515 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M &#x02013; H]<sup>&#x02212;</sup> C<sub>24</sub>H<sub>22</sub>ClN<sub>6</sub>O<sub>2</sub> 461.1501, found 461.1532.</p></sec><sec id="sec3.2.2.5"><title>(<italic>Z</italic>)-8-(3,4-Dichlorophenyl)-7-{1-[(1,3-dimethyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-5-hydroxy-1,3-dimethyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5s</bold>)</title><p>Yellow solid (322 mg, 65% yield):
+mp 171&#x02013;173 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.53 (s, 1H), 10.63 (s, 1H),7.39 (d, <italic>J</italic> = 8.4 Hz, 1H), 7.22 (d, <italic>J</italic> = 2.0 Hz, 1H), 7.08&#x02013;7.05
+(m, 1H), 5.76 (s, 1H), 5.07 (s, 1H), 3.98 (s, 3H), 3.73 (s, 3H), 2.22
+(s, 3H), 2.17 (s, 3H), 1.92 (s, 3H); <sup>13</sup>C NMR (100 MHz,
+CDCl<sub>3</sub>) &#x003b4; 191.3, 161.2, 155.6, 147.5, 146.3, 146.1,
+145.8, 145.1, 142.2, 139.7, 137.3, 128.9, 128.9, 127.6, 112.9, 99.8,
+58.5, 49.4, 34.9, 34.1, 18.4, 16.6 15.1, 13.9; IR (KBr, &#x003bd;) 3444,
+1690, 1620, 1561, 1423, 1339, 1176, 1032, 814 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for
+[M &#x02013; H]<sup>&#x02212;</sup> C<sub>24</sub>H<sub>21</sub>Cl<sub>2</sub>N<sub>6</sub>O<sub>2</sub> 495.1111, found 495.1139.</p></sec><sec id="sec3.2.2.6"><title>(<italic>Z</italic>)-7-{1-[(1,3-Dimethyl-1<italic>H</italic>-pyrazol-5-yl)amino]ethylidene}-5-hydroxy-8-(4-methoxyphenyl)-1,3-dimethyl-7,8-dihydrocyclopenta[<italic>d</italic>]pyrazolo[3,4-<italic>b</italic>]pyridin-6(3<italic>H</italic>)-one (<bold>5t</bold>)</title><p>Yellow solid (307 mg, 67% yield):
+mp 150&#x02013;152 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 11.54 (s, 1H), 10.70 (s, 1H), 7.07 (d, <italic>J</italic> = 8.0 Hz, 2H), 6.81 (d, <italic>J</italic> = 8.0 Hz, 2H), 5.73 (s,
+1H), 5.06 (s, 1H), 3.97 (s, 3H), 3.78 (s, 3H), 3.72 (s, 3H), 2.21
+(s, 3H), 2.11 (s, 3H), 1.91 (s, 3H); <sup>13</sup>C NMR (100 MHz,
+CDCl<sub>3</sub>) &#x003b4; 191.4, 161.2, 158.9, 155.4, 147.5, 142.3,
+137.4, 131.5, 129.9, 127.7, 126.6, 114.2, 113.0, 100.0, 99.8, 55.3,
+48.6, 34.9, 34.1, 18.4, 16.6, 15.2, 13.9; IR (KBr, &#x003bd;) 3444,
+1696, 1620, 1561, 1310, 1254, 1032, 814, 649 cm<sup>&#x02013;1</sup>; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for
+[M &#x02013; H]<sup>&#x02212;</sup> C<sub>25</sub>H<sub>25</sub>N<sub>6</sub>O<sub>3</sub> 457.1996, found 457.2026.</p></sec></sec><sec id="sec3.2.3"><title>Example of
+the Synthesis of <bold>7a</bold></title><p>5,5-Dimethylcyclohexane-1,3-dione
+(<bold>6a</bold>, 1.0 mmol, 140 mg) and aniline (<bold>3a</bold>,
+1.0 mmol, 93 mg) were introduced into a 10 mL Initiator reaction vial,
+and 2,2-dihydroxy-1-(<italic>p</italic>-tolyl)ethanone (<bold>1e</bold>, 1.0 mmol, 166 mg), 3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5-amine
+(<bold>2a</bold>, 1.0 mmol, 173 mg), and <italic>p</italic>-TsOH (1.0
+mmol, 172 mg) as well as <italic>N</italic>,<italic>N</italic>-dimethylformamide
+(DMF, 1.5 mL) were then successively added. Subsequently, the reaction
+vial was capped, and then the contents were prestirred for 20 s. The
+mixture was irradiated (time, 28 min; temperature, 120 &#x000b0;C; absorption
+level, high; fixed hold time) until TLC [4/1 (v/v) petroleum ether/acetone]
+revealed that conversion of starting material <bold>2a</bold> was
+complete. The system was neutralized with diluted chlorhydric acid
+and then diluted with cold water (40 mL). The solid product was collected
+by B&#x000fc;chner filtration and purified by flash column chromatography
+(silica gel, petroleum ether/ethyl acetate mixtures) to afford pure
+product <bold>7a</bold>.</p><sec id="sec3.2.3.1"><title>4,4,9-Trimethyl-2,7-diphenyl-1-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7a</bold>)</title><p>Yellow solid (270
+mg, 56% yield): mp 269&#x02013;271 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, CDCl<sub>3</sub>) &#x003b4; 8.16&#x02013;8.14 (m, 2H), 7.50&#x02013;7.46
+(m, 2H), 7.34&#x02013;7.32 (m, 3H), 7.26&#x02013;7.24 (m, 1H), 7.19
+(d, <italic>J</italic> = 8.0 Hz, 2H), 7.13&#x02013;7.11 (m, 2H), 7.07
+(d, <italic>J</italic> = 7.6 Hz, 2H), 2.92 (s, 2H), 2.69 (s, 2H),
+2.33 (s, 3H), 2.02 (s, 3H), 1.15 (s, 6H); <sup>13</sup>C NMR (100
+MHz, CDCl<sub>3</sub>) &#x003b4; 159.3, 142.6, 140.0, 137.7, 137.6,
+132.3, 131.7, 129.9, 128.9(2), 128.8(7), 128.8, 128.4, 128.0, 127.7,
+125.8, 122.9, 122.7, 115.2, 114.2, 104.9, 45.3, 37.2, 35.5, 29.0,
+21.3, 15.6; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd
+for [M + H]<sup>+</sup> C<sub>33</sub>H<sub>31</sub>N<sub>4</sub> 483.2543,
+found 483.2578.</p></sec><sec id="sec3.2.3.2"><title>1-(4-Fluorophenyl)-4,4,9-trimethyl-7-phenyl-2-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7b</bold>)</title><p>White solid (295 mg, 59% yield): mp 296&#x02013;297 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 8.16 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.53&#x02013;7.49 (m, 2H), 7.33&#x02013;7.28
+(m, 3H), 7.17 (d, <italic>J</italic> = 8.0 Hz, 2H), 7.03&#x02013;7.00
+(m, 4H), 2.97 (s, 2H), 2.72 (s, 2H), 2.39 (s, 3H), 2.04 (s, 3H), 1.18
+(s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 162.4
+(<sup>1</sup><italic>J</italic><sub>CF</sub> = 246.2 Hz), 159.3, 142.4,
+139.9, 138.2, 134.7, 134.1 (<sup>2</sup><italic>J</italic><sub>CF</sub> = 8.1 Hz), 129.6, 129.4, 129.2 (<sup>4</sup><italic>J</italic><sub>CF</sub> = 3.5 Hz), 129.0, 128.9, 127.4, 125.9, 122.9, 121.4, 115.0,
+114.8 (<sup>4</sup><italic>J</italic><sub>CF</sub> = 21.3 Hz), 114.5,
+104.7, 45.3, 37.1, 35.6, 29.0, 21.1, 15.6; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>33</sub>H<sub>30</sub>FN<sub>4</sub> 501.2454, found 501.2483.</p></sec><sec id="sec3.2.3.3"><title>2-(4-Bromophenyl)-1-(4-chlorophenyl)-4,4,9-trimethyl-7-phenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7c</bold>)</title><p>White solid (249
+mg, 43% yield): mp 280&#x02013;281 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, CDCl<sub>3</sub>) &#x003b4; 8.12 (d, <italic>J</italic> = 7.6 Hz,
+2H), 7.51&#x02013;7.48 (m, 2H), 7.38&#x02013;7.37 (m, 2H), 7.26&#x02013;7.24
+(m, 5H), 7.13&#x02013;7.10 (m, 2H), 2.98 (s, 2H), 2.71 (s, 2H), 2.05
+(s, 3H), 1.17 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.2, 142.4, 139.8, 136.4, 134.1, 133.5, 132.4, 131.2,
+129.2, 129.1, 128.9, 128.3, 126.0, 122.9, 122.3, 121.1, 115.4, 114.9,
+104.4, 45.2, 37.1, 35.6, 29.0, 16.0; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>32</sub>H<sub>27</sub>BrClN<sub>4</sub> 581.1107, found 581.1120.</p></sec><sec id="sec3.2.3.4"><title>1-(4-Chlorophenyl)-4,4,9-trimethyl-2,7-diphenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7d</bold>)</title><p>Pale yellow solid
+(216 mg, 43% yield): mp 271&#x02013;272 &#x000b0;C; <sup>1</sup>H NMR
+(400 MHz, CDCl<sub>3</sub>) &#x003b4; 8.14 (d, <italic>J</italic> =
+7.6 Hz, 2H), 7.49 (t, <italic>J</italic> = 8.0 Hz, 2H), 7.38&#x02013;7.36
+(m, 3H), 7.30&#x02013;7.28 (m, 1H), 7.26&#x02013;7.22 (m, 4H), 7.12&#x02013;7.10
+(m, 2H), 2.95 (s, 2H), 2.70 (s, 2H), 2.05 (s, 3H), 1.16 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.2, 142.3, 139.9,
+137.4, 133.8, 133.6, 131.6, 129.1, 128.9, 128.30, 128.0, 127.7, 125.9,
+122.8, 121.3, 115.2, 114.7, 104.6, 45.4, 37.1, 35.6, 29.0, 16.0; HRMS
+(ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>32</sub>H<sub>28</sub>ClN<sub>4</sub> 503.1996, found
+503.2015.</p></sec><sec id="sec3.2.3.5"><title>1-(4-Chlorophenyl)-9-cyclopropyl-4,4-dimethyl-2,7-diphenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7e</bold>)</title><p>Yellow solid (238
+mg, 45% yield): mp 264&#x02013;265 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, CDCl<sub>3</sub>) &#x003b4; 8.13 (d, <italic>J</italic> = 8.0 Hz,
+2H), 7.49&#x02013;7.46 (m, 2H), 7.37&#x02013;7.36 (m, 3H), 7.29&#x02013;7.21
+(m, 5H), 7.12&#x02013;7.10 (m, 2H), 2.96 (s, 2H), 2.71 (s, 2H), 1.37&#x02013;1.36
+(m, 1H), 1.16 (s, 6H), 0.93&#x02013;0.92 (m, 2H), 0.51&#x02013;0.48
+(m, 2H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.0,
+147.2, 137.4, 133.5, 133.4, 133.1, 131.6, 129.1, 128.8, 128.3, 128.1,
+127.8, 127.7, 125.9, 123.0, 122.7, 122.6, 115.3, 114.4, 105.0, 45.1,
+37.2, 35.6, 28.9, 10.9, 7.9; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>34</sub>H<sub>30</sub>ClN<sub>4</sub> 529.2153, found 529.2159.</p></sec><sec id="sec3.2.3.6"><title>4,4,7,9-Tetramethyl-1,2-di-<italic>p</italic>-tolyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7f</bold>)</title><p>White solid (169
+mg, 39% yield): mp 255&#x02013;256 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.21&#x02013;7.18
+(m, 4H), 7.13&#x02013;7.10 (m, 4H), 3.91 (s, 3H), 2.79 (s, 2H), 2.64
+(s, 3H), 2.30 (s, 3H), 2.28 (s, 3H), 1.77 (s, 2H), 1.07 (s, 6H); <sup>13</sup>C NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4;
+158.7, 148.9, 138.9, 137.7, 137.3, 132.5, 131.4, 130.3, 129.5, 128.7,
+128.6, 128.2, 122.1, 114.5, 114.3, 102.7, 45.1, 36.8, 35.4, 34.3,
+29.0, 21.3, 15.6; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>29</sub>H<sub>31</sub>N<sub>4</sub> 435.2543, found 435.2541.</p></sec><sec id="sec3.2.3.7"><title>2-(4-Methoxyphenyl)-4,4,7,9-tetramethyl-1-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7g</bold>)</title><p>White solid (202 mg, 45% yield): mp 240&#x02013;241 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4;
+7.20 (s, 1H), 7.18 (d, <italic>J</italic> = 1.2 Hz, 2H), 7.15 (s,
+1H), 7.11 (d, <italic>J</italic> = 8.0 Hz, 2H), 6.93 (d, <italic>J</italic> = 8.8 Hz, 2H), 3.91 (s, 3H), 3.76 (s, 3H), 2.78 (s, 2H), 2.62 (s,
+2H), 2.28 (s, 3H), 1.77 (s, 3H), 1.07 (s, 6H); <sup>13</sup>C NMR
+(100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 159.1, 158.6,
+148.9, 138.9, 137.2, 132.6, 131.5, 130.4, 129.3, 128.7, 122.2, 114.6,
+114.3, 114.1, 102.7, 55.8, 45.1, 36.7, 35.4, 34.3, 29.00, 21.3, 15.6;
+HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M
++ H]<sup>+</sup> C<sub>29</sub>H<sub>31</sub>N<sub>4</sub>O 451.2492,
+found 451.2491.</p></sec><sec id="sec3.2.3.8"><title>4,4,7,9-Tetramethyl-2-phenyl-1-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7h</bold>)</title><p>White solid (218
+mg, 52% yield): mp 260&#x02013;261 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.40 (d, <italic>J</italic> = 7.6 Hz, 3H), 7.25&#x02013;7.18 (m, 4H), 7.10 (d, <italic>J</italic> = 7.6 Hz, 2H), 3.91 (s, 3H), 2.80 (s, 2H), 2.66 (s, 2H),
+2.28 (s, 3H), 1.78 (s, 3H), 1.08 (s, 6H); <sup>13</sup>C NMR (100
+MHz, CDCl<sub>3</sub>) &#x003b4; 158.8, 140.3, 137.7, 137.4, 132.1,
+129.9, 128.9, 128.4, 127.9, 127.7, 122.7, 114.9, 114.4, 103.1, 45.2,
+37.2, 35.5, 34.5, 29.0, 21.3, 15.5; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>28</sub>H<sub>29</sub>N<sub>4</sub> 421.2386, found 421.2396.</p></sec><sec id="sec3.2.3.9"><title>2-(4-Bromophenyl)-4,4,7,9-tetramethyl-1-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7i</bold>)</title><p>Yellow solid (189
+mg, 38% yield): mp 280&#x02013;281 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.61 (d, <italic>J</italic> = 2.0 Hz, 1H), 7.60 (d, <italic>J</italic> = 2.0 Hz, 1H),
+7.22&#x02013;7.19 (m, 4H), 7.14 (s, 2H), 3.91 (s, 3H), 2.79 (s, 2H),
+2.67 (s, 2H), 2.30 (s, 3H), 1.78 (s, 3H), 1.08 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 158.7, 140.3, 137.7, 136.8,
+132.1, 131.3, 129.6, 129.3, 129.2, 128.6, 127.7, 122.5, 121.9, 115.0,
+114.7, 102.9, 45.2, 37.2, 35.5, 34.5, 28.9, 21.3, 15.4; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>28</sub>H<sub>28</sub>BrN<sub>4</sub> 499.1491, found 499.1497.</p></sec><sec id="sec3.2.3.10"><title>1-(4-Bromophenyl)-4,4,7,9-tetramethyl-2-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7j</bold>)</title><p>White solid (209
+mg, 42% yield): mp 251&#x02013;252 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.51 (d, <italic>J</italic> = 2.0 Hz, 1H), 7.49 (d, <italic>J</italic> = 2.0 Hz, 1H),
+7.27&#x02013;7.21 (m, 4H), 7.13 (d, <italic>J</italic> = 8.4 Hz, 2H),
+3.92 (s, 3H), 2.80 (s, 2H), 2.65 (s, 2H), 2.32 (s, 3H), 1.83 (s, 3H),
+1.08 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4;
+158.7, 140.0, 138.3, 134.7, 133.7, 132.1, 130.9, 129.7, 129.3, 129.1,
+127.3, 121.8, 121.1, 114.8, 114.8, 102.8, 45.2, 37.1, 35.5, 34.5,
+28.9, 21.1, 15.9; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>28</sub>H<sub>28</sub>BrN<sub>4</sub> 499.1491, found 499.1496.</p></sec><sec id="sec3.2.3.11"><title>1-(4-Bromophenyl)-4,4,7,9-tetramethyl-2-phenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7k</bold>)</title><p>White solid (179
+mg, 37% yield): mp 281&#x02013;282 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.51 (s, 1H), 7.49
+(s, 1H), 7.43 (d, <italic>J</italic> = 7.6 Hz, 3H), 7.27&#x02013;7.25
+(m, 4H), 3.93 (s, 3H), 2.82 (s, 2H), 2.68 (s, 2H), 1.85 (s, 3H), 1.09
+(s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 158.8,
+140.0, 137.4, 133.7, 132.0, 130.9, 129.2, 129.1, 128.8, 128.3, 127.7,
+121.8, 121.1, 115.0, 114.9, 102.7, 45.2, 37.1, 35.5, 34.5, 28.9, 15.9;
+HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M
++ H]<sup>+</sup> C<sub>27</sub>H<sub>26</sub>BrN<sub>4</sub> 485.1335,
+found 485.1370.</p></sec><sec id="sec3.2.3.12"><title>4,4,7,9-Tetramethyl-1-phenyl-2-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7l</bold>)</title><p>White solid (227
+mg, 54% yield): mp 280&#x02013;281 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.30 (s, 5H), 7.19
+(d, <italic>J</italic> = 8.0 Hz, 2H), 7.12 (d, <italic>J</italic> =
+8.4 Hz, 2H), 3.91 (s, 3H), 2.80 (s, 2H), 2.66 (s, 2H), 2.30 (s, 3H),
+1.75 (s, 3H), 1.08 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 158.8, 140.2, 137.9, 135.1, 133.2, 132.3, 131.4,
+129.5, 129.0, 127.6, 127.6, 127.4, 122.5, 114.8, 114.5, 102.9, 45.4,
+37.2, 35.5, 34.5, 29.0, 21.1, 15.5; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>28</sub>H<sub>29</sub>N<sub>4</sub> 421.2386, found 421.2397.</p></sec><sec id="sec3.2.3.13"><title>2-(3-Bromo-4-methylphenyl)-4,4,7,9-tetramethyl-1-phenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7m</bold>)</title><p>White solid (204
+mg, 41% yield): mp 276&#x02013;278 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.51 (d, <italic>J</italic> = 2.0 Hz, 1H), 7.37 (d, <italic>J</italic> = 8.0 Hz, 1H),
+7.33 (s, 5H), 7.20 (dd, <italic>J</italic> = 8.0, 2.0 Hz, 1H), 3.91
+(s, 3H), 2.80 (s, 2H), 2.69 (s, 2H), 1.74 (s, 3H), 1.09 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 158.8, 140.3, 138.0,
+136.3, 132.7, 132.3, 131.1, 130.7, 128.5, 127.9, 127.8, 127.7, 126.4,
+124.5, 122.5, 115.0, 114.7, 102.9, 45.1, 37.1, 35.5, 34.6, 29.0, 22.6,
+15.3; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for
+[M + H]<sup>+</sup> C<sub>28</sub>H<sub>28</sub>BrN<sub>4</sub> 499.1491,
+found 499.1509.</p></sec><sec id="sec3.2.3.14"><title>2-(4-Bromophenyl)-4,4,7,9-tetramethyl-1-phenyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinoline (<bold>7n</bold>)</title><p>Yellow solid (208
+mg, 43% yield): mp 279&#x02013;281 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.60 (d, <italic>J</italic> = 8.4 Hz, 2H), 7.32 (s, 5H), 7.22 (d, <italic>J</italic> = 8.4 Hz, 2H), 3.92 (s, 3H), 2.81 (s, 2H), 2.69 (s, 2H), 1.76 (s,
+3H), 1.09 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>)
+&#x003b4; 158.8, 140.2, 136.7, 132.7, 132.3, 132.2, 131.4, 131.2, 129.2,
+128.0, 127.9, 122.4, 122.0, 115.1, 114.9, 102.8, 45.3, 37.2, 35.5,
+34.5, 29.0, 15.4; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>27</sub>H<sub>26</sub>BrN<sub>4</sub> 485.1335, found 485.1358.</p></sec><sec id="sec3.2.3.15"><title>1,2-Bis(4-methoxyphenyl)-4,4,7,9-tetramethyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7o</bold>)</title><p>Yellow solid (186
+mg, 40% yield): mp 254&#x02013;256 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x003b4; 7.24 (s, 1H), 7.22
+(s, 1H), 7.17 (d, <italic>J</italic> = 8.8 Hz, 2H), 6.93 (d, <italic>J</italic> = 8.8 Hz, 2H), 6.86 (d, <italic>J</italic> = 8.8 Hz, 2H),
+3.91 (s, 3H), 3.76 (s, 3H), 3.74 (s, 3H), 2.78 (s, 2H), 2.62 (s, 2H),
+1.78 (s, 3H), 1.07 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.1, 159.0, 158.8, 140.1, 133.6, 131.2, 130.5,
+128.7, 125.5, 122.3, 120.6, 114.6, 114.3, 114.0, 113.1, 103.0, 55.4,
+55.2, 45.3, 37.1, 35.4, 34.5, 29.0, 15.4; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>29</sub>H<sub>31</sub>N<sub>4</sub>O<sub>2</sub> 467.2441, found 467.2449.</p></sec><sec id="sec3.2.3.16"><title>9-Cyclopropyl-2-(4-methoxyphenyl)-7-methyl-1-(<italic>p</italic>-tolyl)-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7p</bold>)</title><p>Brown solid (206 mg, 46% yield): mp 272&#x02013;273 &#x000b0;C; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 7.20 (s, 1H), 7.18
+(s, 1H), 7.04 (t, <italic>J</italic> = 8.4 Hz, 4H), 6.83 (d, <italic>J</italic> = 8.8 Hz, 2H), 4.08 (s, 3H), 3.80 (s, 3H), 3.13 (d, <italic>J</italic> = 17.6 Hz, 2H), 2.85 (d, <italic>J</italic> = 6.0 Hz,
+2H), 2.30 (s, 5H), 1.36&#x02013;1.27 (m, 1H), 0.75&#x02013;0.73 (m,
+2H), 0.30.36 (m, 2H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.4, 158.9, 145.3, 137.0, 132.1, 130.6, 130.1, 130.0,
+128.7, 128.3, 128.2, 122.8, 115.8, 114.1, 114.0, 103.4, 55.4, 34.7,
+24.4, 23.0, 21.3, 10.6, 7.4; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>29</sub>H<sub>29</sub>N<sub>4</sub>O 449.2335, found 449.2340.</p></sec><sec id="sec3.2.3.17"><title>7,9-Dimethyl-1,2-di-<italic>p</italic>-tolyl-3,4,5,7-tetrahydro-2<italic>H</italic>-pyrazolo[3,4-<italic>b</italic>]pyrrolo[4,3,2-<italic>de</italic>]quinolone (<bold>7q</bold>)</title><p>Brown solid (142
+mg, 35% yield): mp 274&#x02013;275 &#x000b0;C; <sup>1</sup>H NMR (400
+MHz, CDCl<sub>3</sub>-<italic>d</italic>) &#x003b4; 7.16 (s, 1H), 7.14
+(s, 1H), 7.07&#x02013;7.04 (m, 4H), 6.83 (d, <italic>J</italic> = 8.8
+Hz, 2H), 4.10 (s, 3H), 3.80 (s, 3H), 3.12&#x02013;3.10 (m, 2H), 2.86
+(t, <italic>J</italic> = 6.0 Hz, 2H), 2.33 (s, 3H), 2.31&#x02013;2.28
+(m, 2H), 1.93 (s, 3H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x003b4; 159.5, 158.9, 140.2, 137.3, 132.2, 130.6, 130.0, 128.6,
+128.4, 122.4, 115.7, 114.4, 114.0, 102.8, 55.4, 34.4, 31.3, 24.5,
+23.0, 21.3, 15.5; HRMS (ESI-TOF) <italic>m</italic>/<italic>z</italic> calcd for [M + H]<sup>+</sup> C<sub>27</sub>H<sub>27</sub>N<sub>4</sub> 407.2230, found 407.2251.</p></sec></sec></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p><sup>1</sup>H and <sup>13</sup>C NMR spectra for all pure products and X-ray crystal data
+(CIF)
+for <bold>5a</bold>, <bold>5q</bold>, and <bold>7d</bold>. This material
+is available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo502096t_si_001.pdf"><caption><p>jo502096t_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo502096t_si_002.cif"><caption><p>jo502096t_si_002.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo502096t_si_003.cif"><caption><p>jo502096t_si_003.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile4"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo502096t_si_004.cif"><caption><p>jo502096t_si_004.cif</p></caption></media></supplementary-material></sec><notes id="notes-2" notes-type="conflict-of-interest"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We are
+grateful for financial support from the NSFC (21332005,
+21232004, 21272095, 21472071, and 21102124), the PAPD of Jiangsu Higher
+Education Institutions, the Jiangsu Science and Technology Support
+Program (BE2011045), the Qing Lan Project (12QLG006), the Robert A.
+Welch Foundation (D-1361), and the National Institutes of Health (R33DA031860).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1a"><label>a</label><name><surname>Melhado</surname><given-names>A. D.</given-names></name>; <name><surname>Brenzovitch</surname><given-names>W. E.</given-names></name>; <name><surname>Lackner</surname><given-names>A. D.</given-names></name>; <name><surname>Toste</surname><given-names>F. D.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>8885</fpage>.<pub-id pub-id-type="pmid">20557048</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit1b"><label> b</label><name><surname>Adams</surname><given-names>G. L.</given-names></name>; <name><surname>Carroll</surname><given-names>P. J.</given-names></name>; <name><surname>Smith</surname><given-names>A. B.</given-names><suffix>III.</suffix></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>519</fpage>.<pub-id pub-id-type="pmid">23268611</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit1c"><label> c</label><name><surname>Snyder</surname><given-names>S. A.</given-names></name>; <name><surname>Breazzano</surname><given-names>S. P.</given-names></name>; <name><surname>Ross</surname><given-names>A. G.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Zografos</surname><given-names>A. L.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>1753</fpage>.<pub-id pub-id-type="pmid">19143488</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2a"><label>a</label><name><surname>Ondachi</surname><given-names>P. W.</given-names></name>; <name><surname>Comins</surname><given-names>D. L.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2010</year>, <volume>75</volume>, <fpage>1706</fpage>.<pub-id pub-id-type="pmid">20141225</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit2b"><label> b</label><name><surname>Inaba</surname><given-names>Y.</given-names></name>; <name><surname>Hasuda</surname><given-names>T.</given-names></name>; <name><surname>Hitotsuyanagi</surname><given-names>Y.</given-names></name>; <name><surname>Aoyagi</surname><given-names>Y.</given-names></name>; <name><surname>Fujikawa</surname><given-names>N.</given-names></name>; <name><surname>Onozaki</surname><given-names>A.</given-names></name>; <name><surname>Watanabe</surname><given-names>A.</given-names></name>; <name><surname>Kinoshita</surname><given-names>T.</given-names></name>; <name><surname>Takeya</surname><given-names>K.</given-names></name>
+<source>J. Nat. Prod.</source>
+<year>2013</year>, <volume>76</volume>, <fpage>1085</fpage>.<pub-id pub-id-type="pmid">23755851</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit2c"><label> c</label><name><surname>Bull</surname><given-names>J. A.</given-names></name>; <name><surname>Mousseau</surname><given-names>J. J.</given-names></name>; <name><surname>Pelletier</surname><given-names>G.</given-names></name>; <name><surname>Charette</surname><given-names>A. B.</given-names></name>
+<source>Chem. Rev.</source>
+<year>2012</year>, <volume>112</volume>, <fpage>2642</fpage>.<pub-id pub-id-type="pmid">22352938</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit2d"><label> d</label><name><surname>Montenegro</surname><given-names>H. E.</given-names></name>; <name><surname>Ramirez-Lopez</surname><given-names>P.</given-names></name>; <name><surname>de la Torre</surname><given-names>M. C.</given-names></name>; <name><surname>Asenjo</surname><given-names>M.</given-names></name>; <name><surname>Sierra</surname><given-names>M. A.</given-names></name>
+<source>Chem.&#x02014;Eur. J.</source>
+<year>2010</year>, <volume>16</volume>, <fpage>3798</fpage>.<pub-id pub-id-type="pmid">20162657</pub-id></mixed-citation></ref><ref id="ref3"><note><p>For isolation of oxerine, see:</p></note><mixed-citation publication-type="journal" id="cit3a"><label>a</label><name><surname>Benkrief</surname><given-names>R.</given-names></name>; <name><surname>Skaltsounis</surname><given-names>A.-L.</given-names></name>; <name><surname>Tillequin</surname><given-names>F.</given-names></name>; <name><surname>Koch</surname><given-names>M.</given-names></name>; <name><surname>Pusset</surname><given-names>J.</given-names></name>
+<source>Planta Med.</source>
+<year>1991</year>, <volume>57</volume>, <fpage>79</fpage>.<pub-id pub-id-type="pmid">17226124</pub-id></mixed-citation><note><p>For syntheses of oxerine, see:</p></note><mixed-citation publication-type="journal" id="cit3b"><label> b</label><name><surname>Aoyagi</surname><given-names>Y.</given-names></name>; <name><surname>Inariyama</surname><given-names>T.</given-names></name>; <name><surname>Arai</surname><given-names>Y.</given-names></name>; <name><surname>Tsuchida</surname><given-names>S.</given-names></name>; <name><surname>Matuda</surname><given-names>Y.</given-names></name>; <name><surname>Kobayashi</surname><given-names>H.</given-names></name>; <name><surname>Ohta</surname><given-names>A.</given-names></name>; <name><surname>Kurihara</surname><given-names>T.</given-names></name>; <name><surname>Fujihira</surname><given-names>S.</given-names></name>
+<source>Tetrahedron</source>
+<year>1994</year>, <volume>50</volume>, <fpage>13575</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit3c"><label> c</label><name><surname>Jones</surname><given-names>K.</given-names></name>; <name><surname>Fiumana</surname><given-names>A.</given-names></name>
+<source>Tetrahedron Lett.</source>
+<year>1996</year>, <volume>37</volume>, <fpage>804</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit3d"><label> d</label><name><surname>Jones</surname><given-names>K.</given-names></name>; <name><surname>Fiumana</surname><given-names>A.</given-names></name>; <name><surname>Escudero-Hernandez</surname><given-names>M. L.</given-names></name>
+<source>Tetrahedron</source>
+<year>2000</year>, <volume>56</volume>, <fpage>3976</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit3e"><label> e</label><name><surname>Ohba</surname><given-names>M.</given-names></name>; <name><surname>Izuta</surname><given-names>R.</given-names></name>; <name><surname>Shimizu</surname><given-names>E.</given-names></name>
+<source>Tetrahedron Lett.</source>
+<year>2000</year>, <volume>41</volume>, <fpage>10251</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit3f"><label> f</label><name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Jia</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>S.</given-names></name>; <name><surname>Zhai</surname><given-names>H.</given-names></name>
+<source>Tetrahedron</source>
+<year>2003</year>, <volume>59</volume>, <fpage>9379</fpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Sakan</surname><given-names>T.</given-names></name>; <name><surname>Fujino</surname><given-names>A.</given-names></name>; <name><surname>Murai</surname><given-names>F.</given-names></name>; <name><surname>Butsugan</surname><given-names>Y.</given-names></name>; <name><surname>Suzui</surname><given-names>A.</given-names></name>
+<source>Bull.
+Chem. Soc.
+Jpn.</source>
+<year>1959</year>, <volume>32</volume>, <fpage>315</fpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5a"><label>a</label><name><surname>Hattori</surname><given-names>M.</given-names></name>; <name><surname>Kawata</surname><given-names>Y.</given-names></name>; <name><surname>Inoue</surname><given-names>K.</given-names></name>; <name><surname>Shu</surname><given-names>Y.-Z.</given-names></name>; <name><surname>Che</surname><given-names>Q.-M.</given-names></name>; <name><surname>Namba</surname><given-names>T.</given-names></name>; <name><surname>Kobashi</surname><given-names>K.</given-names></name>
+<source>Phytother. Res.</source>
+<year>1990</year>, <volume>4</volume>, <fpage>66</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit5b"><label> b</label><name><surname>Baghdikian</surname><given-names>B.</given-names></name>; <name><surname>Ollivier</surname><given-names>E.</given-names></name>; <name><surname>Faure</surname><given-names>R.</given-names></name>; <name><surname>Debrauwer</surname><given-names>L.</given-names></name>; <name><surname>Rathelot</surname><given-names>P.</given-names></name>; <name><surname>Balansard</surname><given-names>G.</given-names></name>
+<source>J. Nat. Prod.</source>
+<year>1999</year>, <volume>62</volume>, <fpage>211</fpage>.<pub-id pub-id-type="pmid">10075743</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit5c"><label> c</label><name><surname>Baghdikian</surname><given-names>B.</given-names></name>; <name><surname>Guiraud-Dauriac</surname><given-names>H.</given-names></name>; <name><surname>Ollivier</surname><given-names>E.</given-names></name>; <name><surname>N&#x02019;Guyen</surname><given-names>A.</given-names></name>; <name><surname>Dumenil</surname><given-names>G.</given-names></name>; <name><surname>Balansard</surname><given-names>G.</given-names></name>
+<source>Planta Med.</source>
+<year>1999</year>, <volume>65</volume>, <fpage>164</fpage>.<pub-id pub-id-type="pmid">10193209</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6a"><label>a</label><name><surname>Cappelli</surname><given-names>A.</given-names></name>; <name><surname>Nannicini</surname><given-names>C.</given-names></name>; <name><surname>Gallelli</surname><given-names>A.</given-names></name>; <name><surname>Giuliani</surname><given-names>G.</given-names></name>; <name><surname>Valenti</surname><given-names>S.</given-names></name>; <name><surname>Mohr</surname><given-names>G. P.</given-names></name>; <name><surname>Anzini</surname><given-names>M.</given-names></name>; <name><surname>Mennuni</surname><given-names>L.</given-names></name>; <name><surname>Ferrari</surname><given-names>F.</given-names></name>; <name><surname>Caselli</surname><given-names>G.</given-names></name>; <name><surname>Giordani</surname><given-names>A.</given-names></name>; <name><surname>Pereis</surname><given-names>W.</given-names></name>; <name><surname>Makovec</surname><given-names>F.</given-names></name>; <name><surname>Giorgi</surname><given-names>G.</given-names></name>; <name><surname>Vomero</surname><given-names>S.</given-names></name>
+<source>J. Med. Chem.</source>
+<year>2008</year>, <volume>51</volume>, <fpage>2137</fpage>.<pub-id pub-id-type="pmid">18318468</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit6b"><label> b</label><name><surname>de
+Mello</surname><given-names>H.</given-names></name>; <name><surname>Echevarria</surname><given-names>A.</given-names></name>; <name><surname>Bernardino</surname><given-names>A. M.</given-names></name>; <name><surname>Canto-Cavalheiro</surname><given-names>M.</given-names></name>; <name><surname>Leon</surname><given-names>L. L.</given-names></name>
+<source>J. Med. Chem.</source>
+<year>2004</year>, <volume>47</volume>, <fpage>5427</fpage>.<pub-id pub-id-type="pmid">15481980</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit6c"><label> c</label><name><surname>Tuccinardi</surname><given-names>T.</given-names></name>; <name><surname>Schenone</surname><given-names>S.</given-names></name>; <name><surname>Bondavalli</surname><given-names>F.</given-names></name>; <name><surname>Brullo</surname><given-names>C.</given-names></name>; <name><surname>Bruno</surname><given-names>O.</given-names></name>; <name><surname>Mosti</surname><given-names>L.</given-names></name>; <name><surname>Zizzari</surname><given-names>A. T.</given-names></name>; <name><surname>Tintori</surname><given-names>C.</given-names></name>; <name><surname>Manetti</surname><given-names>F.</given-names></name>; <name><surname>Ciampi</surname><given-names>O.</given-names></name>; <name><surname>Trincavelli</surname><given-names>M. L.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name>; <name><surname>Martinelli</surname><given-names>A.</given-names></name>; <name><surname>Botta</surname><given-names>M.</given-names></name>
+<source>ChemMedChem</source>
+<year>2008</year>, <volume>3</volume>, <fpage>898</fpage>.<pub-id pub-id-type="pmid">18338422</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit6d"><label> d</label><name><surname>Manetti</surname><given-names>F.</given-names></name>; <name><surname>Schenone</surname><given-names>S.</given-names></name>; <name><surname>Bondavalli</surname><given-names>F.</given-names></name>; <name><surname>Brullo</surname><given-names>C.</given-names></name>; <name><surname>Bruno</surname><given-names>O.</given-names></name>; <name><surname>Ranise</surname><given-names>A.</given-names></name>; <name><surname>Mosti</surname><given-names>L.</given-names></name>; <name><surname>Menozzi</surname><given-names>G.</given-names></name>; <name><surname>Fossa</surname><given-names>P.</given-names></name>; <name><surname>Trincavelli</surname><given-names>M. L.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name>; <name><surname>Martinelli</surname><given-names>A.</given-names></name>; <name><surname>Tintori</surname><given-names>C.</given-names></name>; <name><surname>Botta</surname><given-names>M.</given-names></name>
+<source>J. Med. Chem.</source>
+<year>2005</year>, <volume>48</volume>, <fpage>7172</fpage>.<pub-id pub-id-type="pmid">16279775</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7a"><label>a</label><name><surname>Lin</surname><given-names>R.</given-names></name>; <name><surname>Connolly</surname><given-names>P. J.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Chiu</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Emanuel</surname><given-names>S. L.</given-names></name>; <name><surname>Middleton</surname><given-names>S. A.</given-names></name>; <name><surname>Gruninger</surname><given-names>R. H.</given-names></name>; <name><surname>Adams</surname><given-names>M.</given-names></name>; <name><surname>Fuentes-Pesquera</surname><given-names>A. R.</given-names></name>; <name><surname>Greenberger</surname><given-names>L. M.</given-names></name>
+<source>Bioorg. Med. Chem. Lett.</source>
+<year>2007</year>, <volume>17</volume>, <fpage>4297</fpage>.<pub-id pub-id-type="pmid">17532631</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit7b"><label> b</label><name><surname>Witherington</surname><given-names>J.</given-names></name>; <name><surname>Bordas</surname><given-names>V.</given-names></name>; <name><surname>Garland</surname><given-names>S. L.</given-names></name>; <name><surname>Hickey</surname><given-names>D. M. B.</given-names></name>; <name><surname>Ife</surname><given-names>R. J.</given-names></name>; <name><surname>Liddle</surname><given-names>J.</given-names></name>; <name><surname>Saunders</surname><given-names>M.</given-names></name>; <name><surname>Smith</surname><given-names>D. G.</given-names></name>; <name><surname>Ward</surname><given-names>R. W.</given-names></name>
+<source>Bioorg. Med. Chem.
+Lett.</source>
+<year>2003</year>, <volume>13</volume>, <fpage>1577</fpage>.<pub-id pub-id-type="pmid">12699759</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit7c"><label> c</label><name><surname>Revesz</surname><given-names>L.</given-names></name>; <name><surname>Blum</surname><given-names>E.</given-names></name>; <name><surname>Di Padova</surname><given-names>F. E.</given-names></name>; <name><surname>Buhl</surname><given-names>T.</given-names></name>; <name><surname>Feifel</surname><given-names>R.</given-names></name>; <name><surname>Gram</surname><given-names>H.</given-names></name>; <name><surname>Hiestand</surname><given-names>P.</given-names></name>; <name><surname>Manning</surname><given-names>U.</given-names></name>; <name><surname>Neumann</surname><given-names>U.</given-names></name>; <name><surname>Rucklin</surname><given-names>G.</given-names></name>
+<source>Bioorg. Med. Chem. Lett.</source>
+<year>2006</year>, <volume>16</volume>, <fpage>262</fpage>.<pub-id pub-id-type="pmid">16249085</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8a"><label>a</label><name><surname>Sezer</surname><given-names>S.</given-names></name>; <name><surname>Gumrukcu</surname><given-names>Y.</given-names></name>; <name><surname>Bakirci</surname><given-names>I.</given-names></name>; <name><surname>Yagiz Unver</surname><given-names>M.</given-names></name>; <name><surname>Tanyeli</surname><given-names>C.</given-names></name>
+<source>Tetrahedron: Asymmetry</source>
+<year>2012</year>, <volume>23</volume>, <fpage>662</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8b"><label> b</label><name><surname>Bonaga</surname><given-names>L. V. R.</given-names></name>; <name><surname>Zhang</surname><given-names>H.-C.</given-names></name>; <name><surname>Maryanoff</surname><given-names>B. E.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2004</year>, <fpage>2394</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8c"><label> c</label><name><surname>Deprele</surname><given-names>S.</given-names></name>; <name><surname>Kashemirov</surname><given-names>B. A.</given-names></name>; <name><surname>Hogan</surname><given-names>J. M.</given-names></name>; <name><surname>Ebetino</surname><given-names>F. H.</given-names></name>; <name><surname>Barnett</surname><given-names>B. L.</given-names></name>; <name><surname>Evdokimov</surname><given-names>A.</given-names></name>; <name><surname>McKenna</surname><given-names>C. E.</given-names></name>
+<source>Bioorg. Med. Chem. Lett.</source>
+<year>2008</year>, <volume>18</volume>, <fpage>2878</fpage>.<pub-id pub-id-type="pmid">18434151</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit8d"><label> d</label><name><surname>Dotsenko</surname><given-names>V. V.</given-names></name>; <name><surname>Krivokolysko</surname><given-names>S. G.</given-names></name>; <name><surname>Litvinov</surname><given-names>V. P.</given-names></name>
+<source>Monatsh. Chem.</source>
+<year>2008</year>, <volume>139</volume>, <fpage>271</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8e"><label> e</label><name><surname>Robert</surname><given-names>N.</given-names></name>; <name><surname>Hoarau</surname><given-names>C.</given-names></name>; <name><surname>Marsais</surname><given-names>F.</given-names></name>
+<source>Tetrahedron</source>
+<year>2007</year>, <volume>63</volume>, <fpage>3702</fpage>&#x02013;<lpage>3706</lpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8f"><label> f</label><name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Jia</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>S.</given-names></name>; <name><surname>Zhai</surname><given-names>H.</given-names></name>
+<source>Tetrahedron</source>
+<year>2003</year>, <volume>59</volume>, <fpage>9379</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8g"><label> g</label><name><surname>Guenter</surname><given-names>M.</given-names></name>; <name><surname>Gais</surname><given-names>H.-J.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2003</year>, <volume>68</volume>, <fpage>8037</fpage>.<pub-id pub-id-type="pmid">14535780</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit8h"><label> h</label><name><surname>Ohba</surname><given-names>M.</given-names></name>; <name><surname>Izuta</surname><given-names>R.</given-names></name>
+<source>Heterocycles</source>
+<year>2001</year>, <volume>55</volume>, <fpage>823</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8i"><label> i</label><name><surname>Ohba</surname><given-names>M.</given-names></name>; <name><surname>Izuta</surname><given-names>R.</given-names></name>; <name><surname>Shimizu</surname><given-names>E.</given-names></name>
+<source>Tetrahedron Lett.</source>
+<year>2000</year>, <volume>41</volume>, <fpage>10251</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit8j"><label> j</label><name><surname>Jones</surname><given-names>K.</given-names></name>; <name><surname>Fiumana</surname><given-names>A.</given-names></name>
+<source>Tetrahedron Lett.</source>
+<year>1996</year>, <volume>37</volume>, <fpage>8049</fpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9a"><label>a</label><name><surname>Shekarrao</surname><given-names>K.</given-names></name>; <name><surname>Kaishap</surname><given-names>P. P.</given-names></name>; <name><surname>Saddanapu</surname><given-names>V.</given-names></name>; <name><surname>Addlagatta</surname><given-names>A.</given-names></name>; <name><surname>Gogoi</surname><given-names>S.</given-names></name>; <name><surname>Boruah</surname><given-names>R. C.</given-names></name>
+<source>RSC Adv.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>24001</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9b"><label> b</label><name><surname>Dodiya</surname><given-names>D. K.</given-names></name>; <name><surname>Trivedi</surname><given-names>A. R.</given-names></name>; <name><surname>Kataria</surname><given-names>V. B.</given-names></name>; <name><surname>Shah</surname><given-names>V. H.</given-names></name>
+<source>Curr. Org. Chem.</source>
+<year>2012</year>, <volume>16</volume>, <fpage>400</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9c"><label> c</label><name><surname>El-borai</surname><given-names>M. A.</given-names></name>; <name><surname>Rizk</surname><given-names>H. F.</given-names></name>; <name><surname>Abd-Aal</surname><given-names>M. F.</given-names></name>; <name><surname>El-Deeb</surname><given-names>I. Y.</given-names></name>
+<source>Eur. J. Med. Chem.</source>
+<year>2012</year>, <volume>48</volume>, <fpage>92</fpage>.<pub-id pub-id-type="pmid">22178093</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit9d"><label> d</label><name><surname>Kendre</surname><given-names>D. B.</given-names></name>; <name><surname>Toche</surname><given-names>R. B.</given-names></name>; <name><surname>Jachak</surname><given-names>M. N.</given-names></name>
+<source>J. Heterocycl. Chem.</source>
+<year>2008</year>, <volume>45</volume>, <fpage>1281</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9e"><label> e</label><name><surname>Diaz-Ortiz</surname><given-names>A.</given-names></name>; <name><surname>Carrillo</surname><given-names>J. R.</given-names></name>; <name><surname>Cossio</surname><given-names>F. P.</given-names></name>; <name><surname>Gomez-Escalonilla</surname><given-names>M. J.</given-names></name>; <name><surname>De la Hoz</surname><given-names>A.</given-names></name>; <name><surname>Moreno</surname><given-names>A.</given-names></name>; <name><surname>Prieto</surname><given-names>P.</given-names></name>
+<source>Tetrahedron</source>
+<year>2000</year>, <volume>56</volume>, <fpage>1569</fpage>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Winters</surname><given-names>G.</given-names></name>; <name><surname>Schiatti</surname><given-names>P.</given-names></name>; <name><surname>Selva</surname><given-names>D.</given-names></name>
+<source>Farmaco, Ed. Sci.</source>
+<year>1985</year>, <volume>40</volume>, <fpage>845</fpage>.</mixed-citation></ref><ref id="ref11"><note><p>For reviews, see:</p></note><mixed-citation publication-type="journal" id="cit11a"><label>a</label><name><surname>Groenendaal</surname><given-names>B.</given-names></name>; <name><surname>Ruijter</surname><given-names>E.</given-names></name>; <name><surname>Orru</surname><given-names>R. V. A.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2008</year>, <fpage>5474</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit11b"><label> b</label><name><surname>Padwa</surname><given-names>A.</given-names></name>
+<source>Chem.
+Soc. Rev.</source>
+<year>2009</year>, <volume>38</volume>, <fpage>3072</fpage>.<pub-id pub-id-type="pmid">19847342</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit11c"><label> c</label><name><surname>Tietze</surname><given-names>L. F.</given-names></name>; <name><surname>Kinzel</surname><given-names>T.</given-names></name>; <name><surname>Brazel</surname><given-names>C. C.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2009</year>, <volume>42</volume>, <fpage>367</fpage>.<pub-id pub-id-type="pmid">19154154</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit11d"><label> d</label><name><surname>Domling</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>
+<source>Chem. Rev.</source>
+<year>2012</year>, <volume>112</volume>, <fpage>3083</fpage>.<pub-id pub-id-type="pmid">22435608</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit11e"><label> e</label><name><surname>Ruijter</surname><given-names>E.</given-names></name>; <name><surname>Scheffelaar</surname><given-names>R.</given-names></name>; <name><surname>Orru</surname><given-names>R. V. A.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>6234</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit11f"><label> f</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Rajale</surname><given-names>T.</given-names></name>; <name><surname>Wever</surname><given-names>W.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Chem.&#x02014;Asian
+J.</source>
+<year>2010</year>, <volume>5</volume>, <fpage>2318</fpage>.<pub-id pub-id-type="pmid">20922748</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="book" id="cit12a"><label>a</label><person-group person-group-type="allauthors"><name><surname>Tietze</surname><given-names>L. F.</given-names></name>; <name><surname>Brasche</surname><given-names>G.</given-names></name>; <name><surname>Gerike</surname><given-names>K.</given-names></name></person-group><source>Domino Reactions in Organic Chemistry</source>; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim,
+Germany</publisher-loc>, <year>2006</year>.</mixed-citation><mixed-citation publication-type="book" id="cit12b"><label>b</label><person-group person-group-type="allauthors"><name><surname>Zhu</surname><given-names>J. P.</given-names></name>; <name><surname>Bienayme</surname><given-names>H.</given-names></name></person-group><source>Multicomponent
+Reactions</source>; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>2004</year>.</mixed-citation><mixed-citation publication-type="journal" id="cit12c"><label>c</label><name><surname>Toure</surname><given-names>B. B.</given-names></name>; <name><surname>Hall</surname><given-names>D. G.</given-names></name>
+<source>Chem. Rev.</source>
+<year>2009</year>, <volume>109</volume>, <fpage>4439</fpage>.<pub-id pub-id-type="pmid">19480390</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit12d"><label> d</label><name><surname>Ganem</surname><given-names>B.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2009</year>, <volume>42</volume>, <fpage>463</fpage>.<pub-id pub-id-type="pmid">19175315</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit12e"><label> e</label><name><surname>Ismabery</surname><given-names>N.</given-names></name>; <name><surname>Lavila</surname><given-names>R.</given-names></name>
+<source>Chem.&#x02014;Eur. J.</source>
+<year>2008</year>, <volume>14</volume>, <fpage>8444</fpage>.<pub-id pub-id-type="pmid">18576454</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit12f"><label> f</label><name><surname>Tietze</surname><given-names>L. F.</given-names></name>
+<source>Chem. Rev.</source>
+<year>1996</year>, <volume>96</volume>, <fpage>115</fpage>.<pub-id pub-id-type="pmid">11848746</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13a"><label>a</label><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Shao</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>S.-W.</given-names></name>; <name><surname>Kong</surname><given-names>W.</given-names></name>; <name><surname>Wen</surname><given-names>L.-R.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2012</year>, <volume>77</volume>, <fpage>8956</fpage>.<pub-id pub-id-type="pmid">22970749</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit13b"><label> b</label><name><surname>Terzidis</surname><given-names>M. A.</given-names></name>; <name><surname>Zarganes-Tzitzikas</surname><given-names>T.</given-names></name>; <name><surname>Tsimenidis</surname><given-names>C.</given-names></name>; <name><surname>Stephanidou-Stephanatou</surname><given-names>J.</given-names></name>; <name><surname>Tsoleridis</surname><given-names>C. A.</given-names></name>; <name><surname>Kostakis</surname><given-names>G. E.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2012</year>, <volume>77</volume>, <fpage>9018</fpage>.<pub-id pub-id-type="pmid">22978377</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit13c"><label> c</label><name><surname>Ausmees</surname><given-names>K.</given-names></name>; <name><surname>Kriis</surname><given-names>K.</given-names></name>; <name><surname>Pehk</surname><given-names>T.</given-names></name>; <name><surname>Werner</surname><given-names>F.</given-names></name>; <name><surname>J&#x000e4;rving</surname><given-names>I.</given-names></name>; <name><surname>Lopp</surname><given-names>M.</given-names></name>; <name><surname>Kanger</surname><given-names>T.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2012</year>, <volume>77</volume>, <fpage>10680</fpage>.<pub-id pub-id-type="pmid">23113764</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit13d"><label> d</label><name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Gong</surname><given-names>H.</given-names></name>; <name><surname>Xie</surname><given-names>Y.-J.</given-names></name>; <name><surname>Yan</surname><given-names>C.-G.</given-names></name>
+<source>Org. Lett.</source>
+<year>2012</year>, <volume>14</volume>, <fpage>5172</fpage>.<pub-id pub-id-type="pmid">23050691</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14a"><label>a</label><name><surname>Fan</surname><given-names>W.</given-names></name>; <name><surname>Ye</surname><given-names>Q.</given-names></name>; <name><surname>Xu</surname><given-names>H.-W.</given-names></name>; <name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Wang</surname><given-names>S.-L.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>
+<source>Org. Lett.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>2258</fpage>.<pub-id pub-id-type="pmid">23597067</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit14b"><label> b</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>H.-W.</given-names></name>; <name><surname>Tu</surname><given-names>M.-S.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Org. Lett.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>1540</fpage>.<pub-id pub-id-type="pmid">23506186</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit14c"><label> c</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Feng</surname><given-names>B.-M.</given-names></name>; <name><surname>Wang</surname><given-names>S.-L.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Chem.&#x02014;Eur. J.</source>
+<year>2012</year>, <volume>18</volume>, <fpage>9823</fpage>.<pub-id pub-id-type="pmid">22767331</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit14d"><label> d</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Kaur</surname><given-names>P.</given-names></name>; <name><surname>Wever</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>J. Am.
+Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>11660</fpage>.<pub-id pub-id-type="pmid">19722590</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit14e"><label> e</label><name><surname>Li</surname><given-names>T.-J.</given-names></name>; <name><surname>Yin</surname><given-names>H.-M.</given-names></name>; <name><surname>Yao</surname><given-names>C.-S.</given-names></name>; <name><surname>Wang</surname><given-names>X.-S.</given-names></name>; <name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2012</year>, <fpage>11966</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit14f"><label> f</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Shi</surname><given-names>F.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Kaur</surname><given-names>P.</given-names></name>; <name><surname>Wever</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2010</year>, <volume>75</volume>, <fpage>296</fpage>.<pub-id pub-id-type="pmid">20020697</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15a"><label>a</label><name><surname>Raikar</surname><given-names>S. N.</given-names></name>; <name><surname>Malinakova</surname><given-names>H. C.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2013</year>, <volume>78</volume>, <fpage>3832</fpage>.<pub-id pub-id-type="pmid">23521584</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit15b"><label> b</label><name><surname>Xia</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>R.-J.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Chen</surname><given-names>X.-C.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2013</year>, <volume>78</volume>, <fpage>3120</fpage>.<pub-id pub-id-type="pmid">23442048</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit15c"><label> c</label><name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.-Y.</given-names></name>; <name><surname>Ji</surname><given-names>S.-J.</given-names></name>
+<source>Org. Lett.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>1954</fpage>.<pub-id pub-id-type="pmid">23565712</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit15d"><label> d</label><name><surname>Qian</surname><given-names>W.-Y.</given-names></name>; <name><surname>Amegadzie</surname><given-names>A.</given-names></name>; <name><surname>Winternheimer</surname><given-names>D.</given-names></name>; <name><surname>Allen</surname><given-names>J.</given-names></name>
+<source>Org.
+Lett.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>2986</fpage>.<pub-id pub-id-type="pmid">23751086</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit15e"><label> e</label><name><surname>Xu</surname><given-names>Z.-G.</given-names></name>; <name><surname>Moline</surname><given-names>F. D.</given-names></name>; <name><surname>Cappelli</surname><given-names>A. P.</given-names></name>; <name><surname>Hulme</surname><given-names>C.</given-names></name>
+<source>Org. Lett.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>2738</fpage>.<pub-id pub-id-type="pmid">23718233</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Ye</surname><given-names>Q.</given-names></name>; <name><surname>Fan</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>S.-L.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2014</year>, <volume>50</volume>, <fpage>6108</fpage>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17a"><label>a</label><name><surname>De March</surname><given-names>P.</given-names></name>; <name><surname>Moreno-Manas</surname><given-names>M.</given-names></name>; <name><surname>Roca</surname><given-names>J. L.</given-names></name>
+<source>J. Heterocycl. Chem.</source>
+<year>1984</year>, <volume>21</volume>, <fpage>1371</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit17b"><label> b</label><name><surname>Svetlik</surname><given-names>J.</given-names></name>; <name><surname>Pronayova</surname><given-names>N.</given-names></name>; <name><surname>Hanus</surname><given-names>V.</given-names></name>
+<source>J.
+Heterocycl. Chem.</source>
+<year>2000</year>, <volume>37</volume>, <fpage>395</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit17c"><label> c</label><name><surname>Grigoryeva</surname><given-names>O. A.</given-names></name>; <name><surname>Fedotova</surname><given-names>O. V.</given-names></name>; <name><surname>Shkel</surname><given-names>A. A.</given-names></name>
+<source>Chem. Heterocycl.
+Compd.</source>
+<year>2011</year>, <volume>46</volume>, <fpage>1509</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit17d"><label> d</label><name><surname>Gelin</surname><given-names>S.</given-names></name>; <name><surname>Chantegrel</surname><given-names>B.</given-names></name>; <name><surname>Nadi</surname><given-names>A. I.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>1983</year>, <volume>48</volume>, <fpage>4078</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit17e"><label> e</label><name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>Feng</surname><given-names>B.-M.</given-names></name>; <name><surname>Wang</surname><given-names>S.-L.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>
+<source>Chem.&#x02014;Eur.
+J.</source>
+<year>2012</year>, <volume>18</volume>, <fpage>9823</fpage>.<pub-id pub-id-type="pmid">22767331</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><comment>For the preparation
+of 6-methyl-1-phenylpyridine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione <bold>8</bold>, see:</comment><name><surname>Selness</surname><given-names>S. R.</given-names></name>; <name><surname>Boehm</surname><given-names>T. L.</given-names></name>; <name><surname>Walker</surname><given-names>J. K.</given-names></name>; <name><surname>Devadas</surname><given-names>B.</given-names></name>; <name><surname>Durley</surname><given-names>R. C.</given-names></name>; <name><surname>Kurumbail</surname><given-names>R.</given-names></name>; <name><surname>Shieh</surname><given-names>H.</given-names></name>; <name><surname>Xing</surname><given-names>L.</given-names></name>; <name><surname>Hepperle</surname><given-names>M.</given-names></name>; <name><surname>Rucker</surname><given-names>P. V.</given-names></name>; <name><surname>Jerome</surname><given-names>K. D.</given-names></name>; <name><surname>Benson</surname><given-names>A. G.</given-names></name>; <name><surname>Marrufo</surname><given-names>L. D.</given-names></name>; <name><surname>Madsen</surname><given-names>H. M.</given-names></name>; <name><surname>Hitchcock</surname><given-names>J.</given-names></name>; <name><surname>Owen</surname><given-names>T. J.</given-names></name>; <name><surname>Christie</surname><given-names>L.</given-names></name>; <name><surname>Promo</surname><given-names>M. A.</given-names></name>; <name><surname>Hickory</surname><given-names>B. S.</given-names></name>; <name><surname>Alvira</surname><given-names>E.</given-names></name>; <name><surname>Naing</surname><given-names>W.</given-names></name>; <name><surname>Blevis-Bal</surname><given-names>R.</given-names></name>; <name><surname>Devraj</surname><given-names>R. V.</given-names></name>; <name><surname>Messing</surname><given-names>D.</given-names></name>; <name><surname>Schindler</surname><given-names>J. F.</given-names></name>; <name><surname>Hirsch</surname><given-names>J.</given-names></name>; <name><surname>Saabye</surname><given-names>M.</given-names></name>; <name><surname>Bonar</surname><given-names>S.</given-names></name>; <name><surname>Webb</surname><given-names>E.</given-names></name>; <name><surname>Anderson</surname><given-names>G.</given-names></name>; <name><surname>Monahan</surname><given-names>J. B.</given-names></name>
+<source>Bioorg. Med. Chem. Lett.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>4059</fpage>.<pub-id pub-id-type="pmid">21640588</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><comment>For the preparation
+of pyrazolo[3,4-<italic>b</italic>]quinolin-5(4<italic>H</italic>)-ones <bold>9</bold>, see:</comment><name><surname>Hua</surname><given-names>G.-P.</given-names></name>; <name><surname>Xu</surname><given-names>J.-N.</given-names></name>; <name><surname>Tu</surname><given-names>S.-J.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-P.</given-names></name>; <name><surname>Zhu</surname><given-names>X.-T.</given-names></name>; <name><surname>Li</surname><given-names>T.-J.</given-names></name>; <name><surname>Zhu</surname><given-names>S.-L.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-J.</given-names></name>
+<source>Youji Huaxue</source>
+<year>2005</year>, <volume>25</volume>, <fpage>1610</fpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,251 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Iran J Basic Med Sci</journal-id><journal-id journal-id-type="iso-abbrev">Iran J Basic Med Sci</journal-id><journal-id journal-id-type="publisher-id">IJBMS</journal-id><journal-title-group><journal-title>Iranian Journal of Basic Medical Sciences</journal-title></journal-title-group><issn pub-type="ppub">2008-3866</issn><issn pub-type="epub">2008-3874</issn><publisher><publisher-name>Mashhad University of Medical Sciences</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">IJBMS-17-502</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title><italic>N</italic>-Phenyl-2-<italic>p</italic>-tolylthiazole-4-carboxamide derivatives: Synthesis and cytotoxicity evaluation as anticancer agents</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mohammadi-Farani</surname><given-names>Ahmad</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Foroumadi</surname><given-names>Alireza</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Kashani</surname><given-names>Monireh Rezvani</given-names></name><xref ref-type="aff" rid="aff4">4</xref><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>Aliabadi</surname><given-names>Alireza</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff5">5</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib></contrib-group><aff id="aff1"><label>1</label> Novel Drug Delivery Research Center, Faculty of Pharmacy, Kermanshah University of Medical Sciences, Kermanshah, Iran
+</aff><aff id="aff2"><label>2</label> Department of Pharmacology, Toxicology and Medical Services, Faculty of Pharmacy, Kermanshah University of Medical Sciences,
+Kermanshah, Iran
+</aff><aff id="aff3"><label>3</label> Department of Medicinal Chemistry, Faculty of Pharmacy and Pharmaceutical Sciences Research Center, Tehran University of Medical
+Sciences, Tehran, Iran
+</aff><aff id="aff4"><label>4</label> Students Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran
+</aff><aff id="aff5"><label>5</label> Department of Medicinal Chemistry, Faculty of Pharmacy, Kermanshah University of Medical Sciences, Kermanshah, Iran
+</aff><author-notes><corresp id="cor1"><label>*</label><italic>Corresponding author:</italic> Alireza Aliabadi. Faculty of Pharmacy, Kermanshah University of Medical Sciences, Kermanshah, Iran. Tel: +98-831-4276481; Fax: +98-831-4276493; email: <email>aliabadi.alireza@gmail.com</email></corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2014</year></pub-date><volume>17</volume><issue>7</issue><fpage>502</fpage><lpage>508</lpage><history><date date-type="received"><day>16</day><month>9</month><year>2013</year></date><date date-type="accepted"><day>20</day><month>2</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; Iranian Journal of Basic Medical Sciences</copyright-statement><copyright-year>2014</copyright-year><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><sec><title>Objective(s):</title><p>According to the prevalence of neoplastic diseases, there is a deep necessity for
+discovery of novel anticancer drugs in the field of medicinal chemistry. In the current study, a new
+series of phenylthiazole derivatives (compounds <bold>4a-4f</bold>) was synthesized and their anticancer
+activity was assessed <italic>in vitro</italic>.</p></sec><sec><title>Materials and Methods:</title><p> All synthesized derivatives were evaluated towards three human
+cancerous cell lines of SKNMC (Neuroblastoma), Hep-G2 (Human hepatocarcinoma) and MCF-7
+cell (Breast cancer) using MTT assay and obtained values (IC<sub>50</sub> &#x000b1; SD) were compared with
+doxorubicin.</p></sec><sec><title>Results:</title><p>Unfortunately, none of the synthesized compounds showed superior activity than
+doxorubicin against cancerous cell lines. MCF-7 cell line was the most resistant cell line against
+tested compounds. Compounds <bold>4c</bold> with <italic>para</italic> nitro (IC<sub>50</sub> = 10.8 &#x000b1; 0.08 &#x000b5;M) and <bold>4d</bold> with <italic>meta</italic>
+chlorine (IC<sub>50</sub> = 11.6 &#x000b1; 0.12 &#x000b5;M) moieties exerted the highest cytotoxic effects towards SKNMC and
+Hep-G2 cell lines respectively.</p></sec><sec><title>Conclusion: </title><p>A new series of phenylthiazole derivatives were synthesized and their anticancer
+activity was assessed against cancerous cell lines. More structural modifications and derivatization
+is necessary to achieve to the more potent compounds.</p></sec></abstract><kwd-group><title>Keywords</title><kwd>Anticancer</kwd><kwd>Cytotoxicity</kwd><kwd>Synthesis</kwd><kwd>Thiazole</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Cancer is a disease in which the control of cell growth and proliferation is lost in one or more cells and finally leading either to a solid tumor such as breast, prostate cancer or to a liquid cancer like hematological cancers (Leukemia, Lymphoma). It is one of the leading causes of death throughout the world and currently the main therapeutic options involve surgery, chemotherapy and radiotherapy. Chemotherapy involves the use of low molecular weight drugs (small molecules such as methotrexate, cisplatin, doxorubicin, etc.) to selectively destroy tumor cells or at least prevent their proliferation (<xref rid="R1" ref-type="bibr">1</xref>, <xref rid="R2" ref-type="bibr">2</xref>). Cancer may affect people at all ages, even fetuses, but risk for the more common varieties tends to increase with age. Cancer causes about 13% of all deaths. According to the American Cancer Society, 7.6 million people died from cancer in the world during 2007. In fact, cancer is the second leading cause of death in the Western World (<xref rid="R3" ref-type="bibr">3</xref>-<xref rid="R5" ref-type="bibr">5</xref>).
+</p><p>The survey for identification and discovery of novel chemical structures that can act as more effective and reliable anticancer agents is still a major challenge to medicinal chemists. Despite of the important advances achieved over recent decades in the research and development of various anticancer drugs, current anticancer drugs still have major limitations such as drug resistance, lack of selectivity and unwanted side effects (bone marrow depression, nausea and vomiting, etc.). Hence, there is a strong demand for the discovery and development of effective new cancer therapies devoid of mentioned limitations (<xref rid="R7" ref-type="bibr">7</xref>-<xref rid="R11" ref-type="bibr">11</xref>).
+</p><p>Thiazoles have been exhibited a broad spectrum of pharmacological activities and found in some drugs currently in the market such as famotidine (Antacid, H<sub>2</sub> blocker), third generation cephalosporins
+(ceftriaxone, etc.), sulfathiazole (antibacterial agent). A
+thiazole ring is also found naturally in the essential
+vitamin B<sub>1</sub> (thiamine). Thiazole is an aromatic five
+membered heterocyclic ring containing nitrogen
+and sulfur atoms. The recent reports have been
+declared the applications of thiazoles in drug design
+and development of novel therapeutic agents. Thiazole
+ring as part of diverse chemical structures have
+been exerted various biological activities such as
+anticancer, anti-inflammatory, antimicrobial, antifungal,
+antitubercular, neuroprotective, antioxidant, diuretic,
+anticonvulsant and etc (Figure <xref ref-type="fig" rid="F1">1</xref>) (<xref rid="R12" ref-type="bibr">12</xref>-<xref rid="R14" ref-type="bibr">14</xref>).
+</p><p>Recently we reported a new series of thiazole and
+phenylthiazole derivatives with potential anticancer
+properties (Figure <xref ref-type="fig" rid="F2">2</xref>) (<xref rid="R15" ref-type="bibr">15</xref>-<xref rid="R19" ref-type="bibr">19</xref>). In addition, it was
+revealed that the activation of caspase-3 and induction
+of apoptosis maybe the probable mechanism for
+anticancer activity of these compounds. In the present
+study, design and synthesis of new analogs of previous
+phenylthiazole derivatives was done. In facts, according
+to the Figure <xref ref-type="fig" rid="F3">3</xref>, Compound 7 was demonstrated
+favorable cytotoxic activity against T47D (breast cancer
+cell line) in the previous study (<xref rid="R18" ref-type="bibr">18</xref>). This result
+encouraged us to explore the role of the amidic residue
+in this molecule. Hence, piperidine moiety of compound
+7 was replaced with aniline derived aromatic amides
+and their anticancer activity was assessed against three
+cancerous cell lines <italic>in vitro</italic>.
+</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Chemistry</title><p>All chemical reagents, solvents and starter materials
+were prepared from commercial companies like Merck,
+Acros and Sigma-Aldrich. <sup>1</sup>H NMR spectra acquisition
+was done using Bruker 400 MHz in deutrated solvents
+such as DMSO-d<sub>6</sub> and CDCl<sub>3</sub>. The spectra were recorded
+in &#x003b4; (ppm) with tetramethylsilane (TMS) as internal
+standard. Potassium bromide disk (KBr) was prepared
+for IR spectra acquisition. IR spectra were obtained by
+Shimadzu 470 spectrophotometer. MS spectra of
+synthesized compounds were run on a Finigan TSQ-70
+spectrometer (Finigan, USA) at 70 eV. Thin layer
+chromatography (TLC) as Merck silica gel 60 F<sub>254</sub> plates
+was applied for investigation of the reaction end and
+checking the completion of the reaction. Column
+chromatography was performed on Merck silica gel
+(70-230 mesh) for purification of intermediate and final
+compounds. Melting points of intermediate and final
+compounds were determined using electrothermal
+9001 melting point analyser apparatus on open
+capillary tubes.
+</p><sec><title>4-Methylbenzothioamide (<xref rid="R2" ref-type="bibr">2</xref>)</title><p>In a flat bottom flask, 3 g (25.6 mmol) of <italic>p</italic>-toluonitirile
+and 8.55 ml (25.6 mmol) of ammonium
+sulfide 20% were mixed in 50 ml of <italic>N,N</italic>-dimethylformamide
+as solvent and reaction mixture
+was stirred at room temperature for 5 hr. A yellow solid
+was precipitated after the addition of crushed ice to the
+reaction mixture. The precipitated solid was filtered
+and washed with cold water and <italic>n</italic>-hexane (<xref rid="R13" ref-type="bibr">13</xref>). mp:
+160&#x000b0;C, Yield: 96%. <sup>1</sup>H NMR (&#x003b4;, CDCl<sub>3</sub>): NMR (400 MHz,
+CDCl<sub>3</sub>): &#x003b4; 2.39 (s, 3H, --CH<sub>3</sub>), 7.21 (d, 2H, <italic>J</italic> = 8 Hz,
+phenyl), 7.79 (d, 2H, <italic>J</italic> = 8 Hz, phenyl), 7.6 (brs, NH<sub>2</sub>). IR
+(KBr, cm<sup>-1</sup>): 3375, 3278, 3159, 2920, 2854, 1624, 1415,
+1323, 879, 821. MS (<italic>m</italic>/<italic>z</italic>, %): 151 (M+, 55), 135 (35), 91
+(100).
+</p></sec><sec><title>2-p-Tolylthiazole-4-carboxylic acid (<xref rid="R3" ref-type="bibr">3</xref>)</title><p>The obtained thioamide derivative 2 (2 g, 13.2 mmol), was treated with bromopyruvic acid (3.32 g, 19.9 mmol) and calcium carbonate (CaCO<sub>3</sub> , 3.31 g, 33.1 mmol) in 50 ml dry ethanol. The reaction medium was stirred under argon atmosphere at room temperature for 30 hr. The end of the reaction was determined by thin layer chromatography (TLC). Then, the ethanol was evaporated under reduced pressure using rotary evaporator apparatus. The obtained product was recrytallized from EtOH (<xref rid="R18" ref-type="bibr">18</xref>). mp: 123&#x000b0;C, Yield: 82%. <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4;: 2.4 (s, 3H, -CH<sub>3</sub>), 7.25 (d, 2H, <italic>J</italic>= 8 Hz, C3-H, C5-H phenyl), 7.9 (d, 2H, <italic>J</italic>= 8 Hz, C2-H C6-H phenyl), 8.14 (s, 1H, C4-H thiazole). IR (KBr, cm<sup>-1</sup>): 3277 (OH, Stretch), 3078 (CH, Stretch, Aromatic), 2919 (CH, Stretch, Asymmetric, Aliphatic), 2858 (CH, Stretch, Symmetric, Aliphatic), 1721 (C=O, Stretch), 1603 (C=C, Stretch, Aromatic), 1521, 1454 (C=C, Stretch, Aromatic), 1403, 1342, 1244 (C-O, Stretch), 809. MS (<italic>m</italic>/<italic>z</italic>): 219 (100, M<sup>+</sup>), 175 (22), 134 (30), 119 (95), 115(75), 91 (40), 56 (32).</p></sec><sec><title>General procedure for the synthesis of compounds 4a-4f</title><p>In a flat bottom flask 200 mg (0.91 mmol) of 2-<italic>p</italic>-Tolylthiazole-4-carboxylic acid (<xref rid="R3" ref-type="bibr">3</xref>), 174 mg (0.91 mmol) <italic>N</italic>-ehtyl-<italic>N</italic>'-dimethylaminopropyl carbodiimide (EDC) and 123 mg (0.91 mmol) hydroxybenzotriazole (HOBt) were mixed in 25 ml acetonitrile solvent (CH<sub>3</sub>CN). The prepared mixture was stirred at room temperature for 30 min and then, equimolar quantity of appropriate aniline derivative was added. Stirring was continued for 24 hr. Thin layer chromatography (TLC) was applied to determine the reaction end. Then, acetonitrile was evaporated under reduced pressure and EtOAC/H<sub>2</sub>O was added to the residue. Aqueous phase was discarded and the organic phase was washed two times by sodium bicarbonate 5%, sulfuric acid 2% and brine. Anhydrous sodium sulfate was added for drying and then, its removal was carried out by filtration. Finally, ethyl acetate was evaporated using rotary evaporator apparatus. Diethyl ether (Et<sub>2</sub>O) and <italic>n</italic>-hexane was utilized for washing the obtained precipitate (<xref rid="R21" ref-type="bibr">21</xref>, <xref rid="R22" ref-type="bibr">22</xref>).</p></sec><sec><title>N-(3-Chlorophenyl)-2-p-tolylthiazole-4-carboxamide (4a)</title><p>mp: 88&#x000b0;C, Yield: 52%, IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3363 (N-H, Stretch), 3120 (C-H, Stretch, Aromatic), 2924 (C-H, Aliphatic, Stretch, Asymmetric), 2858 (C-H, Aliphatic, Stretch, Asymmetric), 1689 (C=O, Stretch), 1589 (C=C, Aromatic), 1535 (N-H, Bend), 1485 (C=C, Aromatic). MS (<italic>m</italic>/<italic>z</italic>, %): 330 (M<sup>+</sup>+2, 15), 328 (M<sup>+</sup>, 47), 245 (40), 202 (65), 174 (5), 135 (15), 119 (100), 91 (65), 65 (10).
+</p></sec><sec><title>N-(4-Chlorophenyl)-2-p-tolylthiazole-4-carboxa-mide (4b)</title><p>mp: 120&#x000b0;C, Yield: 53%, <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4;: 2.4 (s, 3H, -CH<sub>3</sub>), 7.38 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-Methylphenyl), 7.42 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-Methylphenyl), 7.87 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-Chlorophenyl), 7.92 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-Chlorophenyl), 8.47 (s, 1H, H5-thiazole), 10.38 (s, NH). IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3348 (N-H, Stretch), 3120 (C-H, Stretch, Aromatic), 2924 (C-H, Aliphatic, Stretch, Asymmetric), 2858 (C-H, Aliphatic, Stretch, Asymmetric), 1658 (C=O, Stretch), 1597 (C=C, Stretch, Aromatic), 1535 (N-H, Bend), 1496 (C=C, Stretch, Aromatic). MS (<italic>m</italic>/<italic>z</italic>, %): 330 (M<sup>+</sup>+2, 22), 328 (M<sup>+</sup>, 50), 245 (25), 202 (80), 174 (10), 135 (10), 119 (100), 91 (40), 65 (15).
+</p></sec><sec><title>N-(2-Nitrophenyl)-2-p-tolylthiazole-4-carboxa-mide (4c)</title><p>mp: 114&#x000b0;C, Yield: 40%, IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3425 (N-H, Stretch), 3105 (C-H, Stretch, Aromatic), 2924 (C-H, Aliphatic, Stretch, Asymmetric), 2858 (C-H, Aliphatic, Stretch, Symmetric), 1697 (C=O, Stretch), 1504 (NO<sub>2</sub>, Stretch, Asymmetric), 1342 (NO<sub>2</sub>, Stretch, Symmetric). MS (<italic>m</italic>/<italic>z</italic>, %): 339 (M<sup>+</sup>, 60), 322 (35), 202 (100), 174 (10), 135 (5), 119 (45), 91 (55).
+</p></sec><sec><title>N-(3-Nitrophenyl)-2-p-tolylthiazole-4-carboxa- mide (4d)</title><p>mp: 157&#x000b0;C, Yield: 33%, <sup>1</sup>HNMR (400 MHz, CDCl<sub>3</sub>) &#x003b4;: 2.46 (s, 3H, -CH<sub>3</sub>), 7.43 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-Methylphenyl), 7.77 (t, <italic>J</italic>= 8 Hz, 2H, H<sub>5</sub>-3-Nitrophenyl), 8.05 (d, 1H, <italic>J</italic>= 8 Hz, H4-3-Nitrophenyl), 8.12 (d, 2H, <italic>J</italic> = 8 Hz, H<sub>2,6</sub>-4-Methylphenyl), 8.31 (d, 1H, <italic>J</italic> = 8 Hz, H<sub>6</sub>-4-Nitrophenyl), 8.59 (s, 1H, H5-thiazole), 8.97 (s, 1H, H<sub>2</sub>-3-Nitrophenyl), 10.78 (s, NH). IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3375 (N-H, Stretch), 3109 (C-H, Aromatic), 2920 (C-H aliphatic, Stretch, Asymmetric), 2858 (C-H aliphatic, Stretch, Symmetric), 1693 (C=O, Stretch), 1593 (C=C, Stretch, Aromatic), 1527 (NO<sub>2</sub>, Stretch, Asymmetric), 1465 (C=C, Stretch, Aromatic), 1350 (NO<sub>2</sub>, Stretch, Asymmetric). MS (<italic>m</italic>/<italic>z</italic>, %): 339 (M<sup>+</sup>, 75), 322 (25), 202 (100), 174 (15), 135 (15), 119 (25), 91 (20).
+</p></sec><sec><title>N-(4-Nitrophenyl)-2-p-tolylthiazole-4-carboxamide (4e)</title><p>mp: 124&#x000b0;C, Yield: 33%, <sup>1</sup>HNMR (400 MHz, CDCl<sub>3</sub>) &#x003b4;: 2.46 (s, 3H, -CH<sub>3</sub>), 6.67 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-Methylphenyl), 7.45 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-Methylphenyl), 8.25 (t, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-Nitrophenyl), 8.36 (t, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-Nitrrophenyl), 8.62 (s, 1H, H<sub>5</sub>-thiazole), 10.84 (s, NH). IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3367 (NH, Stretch), 3113 (CH, Stretch, Aromatic), 2924 (CH, Stretch, Asymmetric, Aliphatic), 2854 (CH, Stretch, Symmetric, Aliphatic), 1685 (C=O, Stretch), 1600 (C=C, Aromatic), 1543 (NH, Bend), 1477 (C=C, Aromatic). MS (<italic>m</italic>/<italic>z</italic>, %): 339 (M<sup>+</sup>, 35), 322 (15), 202 (100), 174 (65), 135 (5), 119 (55), 91 (15).
+</p></sec><sec><title>N-(4-Fluorophenyl)-2-p-tolylthiazole-4-carboxamide (4f)</title><p>mp: 107&#x000b0;C, Yield: 31%, <sup>1</sup>HNMR (400 MHz, CDCl<sub>3</sub>)
+&#x003b4;: 2.36 (s, 3H, -CH<sub>3</sub>), 7.20 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-
+Methylphenyl), 7.35 (d, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-
+Methylphenyl), 7.90 (t, 2H, <italic>J</italic>= 8 Hz, H<sub>2,6</sub>-4-
+Fluorophenyl), 8.00 (t, 2H, <italic>J</italic>= 8 Hz, H<sub>3,5</sub>-4-
+Fluorophenyl), 8.45 (s, 1H, H5-thiazole), 10.32
+(s, NH). IR (KBr, cm<sup>-1</sup>) &#x01fe1;: 3356 (N-H, Stretch), 3120
+(C-H, Stretch, Aromatic), 2924 (C-H aliphatic, Stretch,
+Asymmetric), 2854 (C-H aliphatic, Stretch,
+Symmetric), 1662 (C=O, Stretch), 1612 (C=C, Stretch,
+Aromatic), 1512 (N-H, Bend), 1462 (C=C, Stretch,
+Aromatic). MS (<italic>m</italic>/<italic>z</italic>, %): 312 (M<sup>+</sup>, 5), 229 (30), 205
+(15), 176 (5), 119 (100), 91 (40), 65 (20).
+</p></sec></sec><sec><title>Cytotoxicity assay</title><p>Synthesized derivatives of 1,3,4-thiadiazole
+(compounds <bold>4a-4f</bold>) were tested for cytotoxic activity
+at 0.1-25 &#x000b5;M concentration in three human cancer
+cell lines of SKNMC (Neuroblastoma), Hep-G2
+(Human hepatocarcinoma) and MCF-7 cell (Breast
+cancer). Cells were purchased from the Pasteur
+Institute of Iran. Cells from different cell lines were
+seeded in 96-well plates at the density of 8000-
+10,000 viable cells per well and incubated for 24 hr
+to allow cell attachment. The cells were then
+incubated for another 24 hr (depends to cell cycle of
+each cell line) with various concentrations of
+compounds <bold>4a-4f</bold>. Cells were then washed in PBS,
+and 20 &#x000b5;l of MTT (3-(4, 5-dimethylthiazol-2-yl)-2,5-
+diphenyl tetrazolium bromide solution (5 mg/ml)
+were added to each well. An additional 4 hr of
+incubation at 37&#x000b0;C were done, and then the medium
+was discarded. Dimethyl sulfoxide (60 &#x000b5;l) was added
+to each well, and the solution was vigorously mixed
+to dissolve the purple tetrazolium crystals. The
+absorbance of each well was measured by plate
+reader (Anthous 2020; Austria) at a test wavelength
+of 550 nm against a standard reference solution at
+690 nm. The amount of produced purple formazan is
+proportional to the number of viable cells (<xref rid="R21" ref-type="bibr">21</xref>, <xref rid="R22" ref-type="bibr">22</xref>).
+</p></sec></sec><sec sec-type="results"><title>Results</title><p>A new series of phenylthiazole analogs were
+synthesized (<xref ref-type="fig" rid="SC1">Scheme 1</xref>) and their chemical
+structures were characterized by spectroscopic
+methods containing 1H NMR, MS and IR. <italic>p</italic>-
+Toluonitrile (compound <bold>1</bold>) was treated with
+ammoinium sulfide to form the corresponding
+thioamide derivative (compound <bold>2</bold>). The reaction
+was carried out in DMF solvent at room temperature.
+After completion, the crushed ice was added and
+yellow precipitate was filtered. The related product
+was afforded with high yield (96%). The obtained
+powder was treated with n-hexane and diethyl ether.
+Obtained thioamide derivative was refluxed with
+bromopyruvic acid in ethanol solvent to form the
+1,3-thiazole ring with an acidic residue (compound
+<bold>3</bold>). Compound <bold>3</bold> was utilized to prepare the intended
+derivatives <bold>4a-4f</bold>. Compound 3 was mixed with EDC
+and HOBt in acetonitrile solvent. The reaction
+mixture was stirred for 30 min at room temperature
+and appropriate aniline derivative was added to the
+mixture. Stirring was continued for 24 hr to complete
+the reaction. The melting points of all synthesized
+derivatives were measured using melting point
+analyzer by open capillary tube. Among the final
+compounds, compound <bold>4d</bold> with <italic>meta</italic> nitro substituent showed the highest melting point (157&#x000b0;C), whereas
+compound <bold>4a</bold> with <italic>meta</italic> chlorine moiety exerted the
+lowest melting point (88&#x000b0;C).
+</p><p>The MTT assay was utilized for evaluation of in
+vitro cytotoxic potency. Three human cancerous
+cell lines consisting SKNMC (Neuroblastoma), Hep-
+G2 (Human hepatocarcinoma) and MCF-7 (Breast
+cancer) cell line using MTT assay and obtained
+values (IC<sub>50</sub> &#x000b1; SD) were compared with doxorubicin
+(Table <xref ref-type="table" rid="T1">1</xref>). Unfortunately, none of the synthesized
+compounds showed superior activity than
+doxorubicin against cancerous cell lines. MCF-7 cell
+line was the most resistant cell line against tested
+compounds. Compounds <bold>4c</bold> with <italic>para</italic> nitro (IC<sub>50</sub> =
+10.8 &#x000b1; 0.08 &#x000b5;M) and <bold>4d</bold> with <italic>meta</italic> chlorine (IC<sub>50</sub> =
+11.6 &#x000b1; 0.12 &#x000b5;M) moieties exerted the highest
+cytotoxic effects towards SKNMC and Hep-G2 cell
+lines respectively.
+</p></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Structure activity relationship</title><p>According to the <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>, compound <bold>4c</bold> with para
+nitro moiety exerted the highest cytotoxic activity
+(<italic>P</italic>= 0.023) among nitro containing derivatives
+against SKNMC cell line (IC<sub>50</sub> = 10.8 &#x000b1; 0.08). Whereas,
+substitution of the nitro moiety at position <italic>meta</italic> of
+the phenyl ring caused a detrimental effect for <italic>in
+vitro</italic> anticancer potency towards this cell line. In fact,
+compound <bold>4b</bold> demonstrated the lowest cytotoxic
+activity (IC<sub>50</sub> = 15.3 &#x000b1; 1.12) in comparison with
+compounds <bold>4a</bold> and <bold>4c</bold>. It is also notable to state that
+compound <bold>4c</bold> was also the most potent compound
+against SKNMC cell line compared to other
+compounds (<italic>P</italic>&#x0003c; 0.05). Substitution of chlorine atom at positions <italic>meta</italic> and <italic>para</italic> of the phenyl ring
+exhibited a similar trend like nitro moiety. In the
+other words, chlorine moiety showed a better
+activity against SKNMC cell line while introduced at
+position <italic>para</italic> in compound <bold>4e</bold> (<italic>P</italic>=0.041). Compound <bold>4f</bold>
+with <italic>para</italic> positioning of fluorine moiety rendered an
+equal potency like compound <bold>4a</bold>. In Hep-G2 cell line
+compound <bold>4d</bold> showed a remarkable activity in
+comparison with other compounds (IC<sub>50</sub> = 11.6 &#x000b1; 0.12)
+(<italic>P</italic>&#x0003c;0.05). But, it provided an inferior potency than
+doxorubicin (IC<sub>50</sub> = 5.8 &#x000b1; 1.01). <italic>Ortho</italic> position of the
+phenyl ring was the best position for nitro substituent
+to exert its cytotoxic activity against Hep-G2 cell line as
+observed in compound <bold>4a</bold>. Whereas, <italic>para</italic> positioning
+of the chlorine atom on the phenyl ring led to a
+significant decreased the anticancer activity in this
+series (compound <bold>4d</bold>, IC<sub>50</sub> = 22.3 &#x000b1; 1.89). MCF-7 cell
+line was the most resistant cell line to all tested
+derivatives <bold>4a-4f</bold>. Unfortunately, none of the tested
+compounds rendered acceptable cytotoxic effect up to
+25 &#x000b5;M concentration towards this cell line.
+</p><p>Generally, comparison of the cytotoxicy results of
+synthesized compounds with compound 7 (Table <xref ref-type="table" rid="T1">1</xref>,
+Figure <xref ref-type="fig" rid="F3">3</xref>) demonstrated that replacement of the
+cyclohexyl moiety with aniline moiety caused an
+increase in activity. In the other words, in the
+previous study compound 7 exhibited inhibitory
+concentrations equal to 17.48 &#x000b5;M. But, the most of
+the tested compounds in the current study exerted
+superior potency compared to compound 7. This
+obtained results stated that an aromatic moiety such
+as phenyl ring could be a better choice for
+substitution than aliphatic substituent like
+cyclohexyl residue.
+</p></sec></sec><sec sec-type="conclusion"><title>Conclusion</title><p>Totally a new series of phenylthiazole derivatives were
+synthesized and their anticancer activity was assessed
+<italic>in vitro</italic>. MCF-7 cell line was the most resistant cell line
+to the tested compounds, whereas SKNMC and HEP-G2
+exhibited an averaged susceptibility to cytotoxic effect
+in MTT assay. Compound <bold>4c</bold> with <italic>para</italic> nitro moiety
+rendered the best anticancer activity against SKNMC
+cell line. Probably the electron withdrawing property of
+this moiety has a critical role in its cytotoxic
+potency towards SKNMC cell line. In the other words,
+electron withdrawing effect of the nitro residue is
+maximum at <italic>para</italic> position of the phenyl ring. In Hep-
+G2 cell line compound <bold>4d</bold> with <italic>meta</italic> chlorine moiety
+exerted a remarkable activity in comparison with
+other compounds. It is likely that electron
+withdrawing as well as lipophlilicity of the chlorine
+atom at position 3 of the phenyl ring enhance the
+cytotoxic effect against this cell line.
+</p></sec></body><back><ack><title>Acknowledgment</title><p>Authors appreciate from the Research Council of Kermanshah University of Medical Sciences for financial supports. This work was performed in partial fulfillment of the requirement for PharmD of Ms Monireh Rezvani Kashani.</p></ack><sec><title>Conflict of interest</title><p>The authors declared no conflict of interest.</p></sec><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Harford</surname><given-names>JB</given-names></name></person-group><article-title>Breast-cancer early detection in low-income and middle-income countries: do what you can versus one size fits all</article-title><source>Lancet Oncol</source><year>2011</year><volume>12</volume><fpage>306</fpage><lpage>312</lpage><pub-id pub-id-type="pmid">21376292</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Nussbaumer</surname><given-names>S</given-names></name><name><surname>Bonnabry</surname><given-names>P</given-names></name><name><surname>Veuthey</surname><given-names>J</given-names></name><name><surname>Fleury-Souverain</surname><given-names>S</given-names></name></person-group><article-title>Analysis of anticancer drugs: A review</article-title><source>Talanta</source><year>2011</year><volume>85</volume><fpage>2265</fpage><lpage>2289</lpage><pub-id pub-id-type="pmid">21962644</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Porter</surname><given-names>AC</given-names></name><name><surname>Vaillancourt</surname><given-names>RR</given-names></name></person-group><article-title>Tyrosine kinase receptor-activated signal transduction pathways which lead to oncogenesis</article-title><source>Oncogene</source><year>1998</year><volume>16</volume><fpage>1343</fpage><lpage>1352</lpage><pub-id pub-id-type="pmid">9779982</pub-id></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Mousavi</surname><given-names>SH</given-names></name><name><surname>Tayarani-Najaran</surname><given-names>Z</given-names></name><name><surname>Hersey</surname><given-names>P</given-names></name></person-group><article-title>Apoptosis: from signalling pathways to therapeutic tools</article-title><source>Iran J Basic Med Sci</source><year>2008</year><volume>11</volume><fpage>121</fpage><lpage>142</lpage></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Eghbalian</surname><given-names>E</given-names></name><name><surname>Kiani</surname><given-names>A</given-names></name></person-group><article-title>Synthesis and cytotoxicity evaluation of a series of 1,3,4-thiadiazole based compounds as anticancer agents</article-title><source>Iran J Basic Med Sci</source><year>2013</year><volume>16</volume><fpage>1133</fpage><lpage>1138</lpage><pub-id pub-id-type="pmid">24494064</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Madhusudan</surname><given-names>S</given-names></name><name><surname>Ganesan</surname><given-names>TS</given-names></name></person-group><article-title>Tyrosine kinase inhibitors in cancer therapy</article-title><source>Clin Biochem</source><year>2004</year><volume>37</volume><fpage>618</fpage><lpage>635</lpage><pub-id pub-id-type="pmid">15234243</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Kemnitzer</surname><given-names>W</given-names></name><name><surname>Kuemmerle</surname><given-names>J</given-names></name><name><surname>Jiang</surname><given-names>S</given-names></name><name><surname>Zhang</surname><given-names>H-Z</given-names></name><name><surname>Sirisoma</surname><given-names>N</given-names></name><name><surname>Kasibhatla</surname><given-names>S</given-names></name><etal/></person-group><article-title>Discovery of 1-benzoyl-3-cyanopyrrolo[1,2-a]quinolines as a new series of apoptosis inducers using a cell- and caspase-based high-throughput screening assay. Part 1: Structure-activity relationships of the 1- and 3-positions</article-title><source>Bioorg Med Chem Lett</source><year>2008</year><volume>18</volume><fpage>6259</fpage><lpage>6264</lpage><pub-id pub-id-type="pmid">18952423</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Albreht</surname><given-names>T</given-names></name><name><surname>Mckee</surname><given-names>M</given-names></name><name><surname>Alexe</surname><given-names>DM</given-names></name><name><surname>Coleman</surname><given-names>MP</given-names></name><name><surname>Martin-Moreno</surname><given-names>JM</given-names></name></person-group><article-title>Making progress against cancer in Europe in 2008</article-title><source>Eur J cancer</source><year>2008</year><volume>44</volume><fpage>1451</fpage><lpage>1456</lpage><pub-id pub-id-type="pmid">18353629</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Ferlay</surname><given-names>J</given-names></name><name><surname>Autier</surname><given-names>P</given-names></name><name><surname>Boniol</surname><given-names>M</given-names></name><name><surname>Heanue</surname><given-names>M</given-names></name><name><surname>Colombet</surname><given-names>M</given-names></name><name><surname>Boyle</surname><given-names>P</given-names></name></person-group><article-title>Estimates of the cancer incidence and mortality in Europe in 2006</article-title><source>Ann Oncol</source><year>2007</year><volume>18</volume><fpage>581</fpage><lpage>592</lpage><pub-id pub-id-type="pmid">17287242</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Jemal</surname><given-names>A</given-names></name><name><surname>Siegel</surname><given-names>R</given-names></name><name><surname>Ward</surname><given-names>E</given-names></name><name><surname>Murray</surname><given-names>T</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name><name><surname>Smigal</surname><given-names>C</given-names></name><etal/></person-group><article-title>Cancer Statistics, 2006</article-title><source>Cancer J Clin</source><year>2006</year><volume>56</volume><fpage>106</fpage><lpage>130</lpage></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Bhuran</surname><given-names>HA</given-names></name><name><surname>Kini</surname><given-names>SJ</given-names></name></person-group><article-title>Synthesis, anticancer activity and docking of some substituted benzothiazoles as tyrosine kinase inhibitors</article-title><source>J Mol Graph Model</source><year>2010</year><volume>29</volume><fpage>32</fpage><lpage>37</lpage><pub-id pub-id-type="pmid">20493747</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Siddiqui</surname><given-names>N</given-names></name><name><surname>Faiz Arshad</surname><given-names>M</given-names></name><name><surname>Ahsan</surname><given-names>W</given-names></name><name><surname>Shamsher Alam</surname><given-names>M</given-names></name></person-group><article-title>Thiazoles: a valuable insight into the recent advances and biological activities</article-title><source>Int J Pharm Sci Drug Res</source><year>2009</year><volume>1</volume><fpage>136</fpage><lpage>143</lpage></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>De</surname><given-names>S</given-names></name><name><surname>Adhikari</surname><given-names>S</given-names></name><name><surname>Tilak-Jain</surname><given-names>J</given-names></name><name><surname>Menon</surname><given-names>VP</given-names></name><name><surname>Devasagayam</surname><given-names>TPA</given-names></name></person-group><article-title>Antioxidant activity of an aminothiazole compound: possible mechanism</article-title><source>Chem-Biol Interact</source><year>2008</year><volume>173</volume><fpage>215</fpage><lpage>223</lpage><pub-id pub-id-type="pmid">18466888</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Zaharia</surname><given-names>V</given-names></name><name><surname>Ignat</surname><given-names>A</given-names></name><name><surname>Palibroda</surname><given-names>N</given-names></name><name><surname>Ngameni</surname><given-names>B</given-names></name><name><surname>Kuete</surname><given-names>V</given-names></name><name><surname>Fokunang</surname><given-names>CN</given-names></name><etal/></person-group><article-title>Synthesis of some <italic>p</italic>-toluenesulfonyl-hydrazinothiazoles and their anticancer activity</article-title><source>Eur J Med Chem</source><year>2010</year><volume>45</volume><fpage>5080</fpage><lpage>5085</lpage><pub-id pub-id-type="pmid">20810194</pub-id></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Shamsa</surname><given-names>F</given-names></name><name><surname>Ostad</surname><given-names>SN</given-names></name><name><surname>Emami</surname><given-names>S</given-names></name><name><surname>Shafiee</surname><given-names>A</given-names></name><name><surname>Davoodi</surname><given-names>J</given-names></name><etal/></person-group><article-title>Synthesis and biological evaluation of 2-Phenylthiazole-4-carboxamide derivatives as anticancer agents</article-title><source>Eur J Med Chem</source><year>2010</year><volume>11</volume><fpage>5384</fpage><lpage>5389</lpage><pub-id pub-id-type="pmid">20846760</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Nazari Tarhan</surname><given-names>H</given-names></name><name><surname>Hosseinzadeh</surname><given-names>L</given-names></name><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Babak</surname><given-names>Gholamine</given-names></name><name><surname>Foroumadi</surname><given-names>A</given-names></name></person-group><article-title>Cytotoxic and apoptogenic properties of 2-phenylthiazole-4-carboxamide derivatives in human carcinoma cell lines</article-title><source>J Rep Pharm Sci</source><year>2012</year><volume>1</volume><fpage>1</fpage><lpage>7</lpage></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Foroumadi</surname><given-names>A</given-names></name><name><surname>Safavi</surname><given-names>M</given-names></name><name><surname>Kaboudian</surname><given-names>Ardestani S</given-names></name></person-group><article-title>Synthesis, molecular docking and cytotoxicity evaluation of 2-(4-substituted-benzyl)isoindoline-1,3-dione derivatives as anticancer agents</article-title><source>J Rep Pharm Sci</source><year>2012</year><volume>1</volume><fpage>19</fpage><lpage>22</lpage></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Foroumadi</surname><given-names>A</given-names></name><name><surname>Safavi</surname><given-names>M</given-names></name><name><surname>Ardestani</surname><given-names>S</given-names></name></person-group><article-title>Synthesis, cytotoxicity assessment, and molecular docking of 4-Substituted-2-p-thiazole derivatives as probable c-Src and erb tyrosine kinase inhibitors</article-title><source>Croat Chem Acta</source><year>2013</year><volume>86</volume><comment>in press</comment></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Mahmoodi</surname><given-names>M</given-names></name><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Emami</surname><given-names>S</given-names></name><name><surname>Safavi</surname><given-names>M</given-names></name><name><surname>Rjabalian</surname><given-names>S</given-names></name><name><surname>Mohagheghi</surname><given-names>MA</given-names></name><etal/></person-group><article-title>Synthesis and <italic>in-vitro</italic> cytotoxicity of poly-functionalized 4-(2-arylthiazole-4-yl)-4<italic>H</italic>-chromenes</article-title><source>Arch Pharm Chem Life Sci</source><year>2010</year><volume>343</volume><fpage>411</fpage><lpage>416</lpage></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Stankova</surname><given-names>IG</given-names></name><name><surname>Videnov</surname><given-names>GI</given-names></name><name><surname>Golovinsky</surname><given-names>EV</given-names></name><name><surname>Jung</surname><given-names>G</given-names></name></person-group><article-title>Synthesis of thiazole, imidazole and oxazole containing amino acids for peptide backbone modification</article-title><source>J Peptide Sci</source><year>1999</year><volume>5</volume><fpage>392</fpage><lpage>398</lpage><pub-id pub-id-type="pmid">10526881</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Andisheh</surname><given-names>S</given-names></name><name><surname>Tayarani-Najaran</surname><given-names>Z</given-names></name><name><surname>Tayarani-Najaran</surname><given-names>M</given-names></name></person-group><article-title>2-(4-Fluorophenyl)-N-phenylacetamide derivatives as anticancer agents: synthesis and <italic>in vitro</italic> cytotoxicity evaluation</article-title><source>Iran J Pharm Res</source><year>2013</year><volume>3</volume><fpage>267</fpage><lpage>271</lpage><pub-id pub-id-type="pmid">24250632</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal" publisher-type="journal"><person-group person-group-type="author"><name><surname>Aliabadi</surname><given-names>A</given-names></name><name><surname>Hasanvand</surname><given-names>Z</given-names></name><name><surname>Kiani</surname><given-names>A</given-names></name><name><surname>Mirabdali</surname><given-names>SS</given-names></name></person-group><article-title>Synthesis and <italic>in vitro</italic> cytotoxicity assessment of <italic>N</italic>-(5-(Benzylthio)-1,3,4-thiadiazol-2-yl)-2-(4-(trifluoro- methyl)phenyl) aceta-mide with potential anticancer activity</article-title><source>Iran J Pharm Res</source><year>2013</year><volume>4</volume><fpage>687</fpage><lpage>693</lpage><pub-id pub-id-type="pmid">24523748</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="SC1" orientation="portrait" position="float"><label>Scheme 1.</label><caption><p> Synthetic pathway for preparation of compounds <bold>4a-
+4f</bold>. Reagents and conditions: <bold>a</bold>) Ammonium sulfide, DMF, rt. <bold>b</bold>)
+Bromopyrovic acid, CaCO<sub>3</sub>, EtOH, rt, <bold>c</bold>) EDC, HOBt, appropriate
+aniline derivative, CH<sub>3</sub>CN, rt, 24 hr </p></caption><graphic xlink:href="IJBMS-17-502_SC1"/></fig><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p> Structures of two thiazole containing compounds. Compound <bold>A</bold>: Antioxidant (free radical scavenger). Compound <bold>B</bold>: An
+anticancer agent </p></caption><graphic xlink:href="IJBMS-17-502_F1"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p> Structures of some phenylthiazole derivatives with potential anticancer activity reported in previous projects. Compound
+<bold>A</bold>: Cytotoxic agent via caspase-3 activation and inducer of apoptosis (<xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R14" ref-type="bibr">14</xref>). Compound <bold>B</bold>: Cytotoxic agent probably through tyrosine
+kinase inhibition (<xref rid="R15" ref-type="bibr">15</xref>) </p></caption><graphic xlink:href="IJBMS-17-502_F2"/></fig><fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Structures of compound <bold>7</bold> reported in the previous study (T47D, IC<sub>50</sub> = 5 &#x000b5;g/ml) and designed compounds <bold>4a-4f</bold></p></caption><graphic xlink:href="IJBMS-17-502_F3"/></fig><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Cytotoxicity results (IC<sub>50</sub> &#x000b1; SD, &#x000b5;M) of compounds 4a-4f against cancerous cell lines </p><p><graphic xlink:href="IJBMS-17-502_T1SC1"/></p></caption><table frame="hsides" rules="none" width="100%"><thead><tr><th rowspan="1" colspan="1">Compounds</th><th rowspan="1" colspan="1"> R</th><th rowspan="1" colspan="1"> SKNMC </th><th rowspan="1" colspan="1">HEP-G2</th><th rowspan="1" colspan="1"> MCF-7</th></tr><tr><th colspan="5" rowspan="1"><hr/></th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">4a</td><td align="center" rowspan="1" colspan="1"><italic>o-NO<sub>2</sub></italic>
+</td><td align="center" rowspan="1" colspan="1">16.2&#x000b1;1.001 </td><td align="center" rowspan="1" colspan="1">12.7&#x000b1;0.023 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">4b</td><td align="center" rowspan="1" colspan="1">
+<italic>m-NO<sub>2</sub></italic>
+</td><td align="center" rowspan="1" colspan="1">15.3&#x000b1;1.12 </td><td align="center" rowspan="1" colspan="1">18.5&#x000b1;1.04 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">4c</td><td align="center" rowspan="1" colspan="1">
+<italic>p-NO<sub>2</sub></italic></td><td align="center" rowspan="1" colspan="1"> 10.8&#x000b1;0.08 </td><td align="center" rowspan="1" colspan="1">14.1&#x000b1;1.52 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">4d</td><td align="center" rowspan="1" colspan="1">
+<italic>m-Cl </italic>
+</td><td align="center" rowspan="1" colspan="1">25.1&#x000b1;0.71 </td><td align="center" rowspan="1" colspan="1">11.6&#x000b1;0.12 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">4e</td><td align="center" rowspan="1" colspan="1">
+<italic>p-Cl</italic></td><td align="center" rowspan="1" colspan="1"> 17.8&#x000b1;1.42 </td><td align="center" rowspan="1" colspan="1">22.3&#x000b1;1.89 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">4f</td><td align="center" rowspan="1" colspan="1">
+<italic>p-F </italic>
+</td><td align="center" rowspan="1" colspan="1">16.2&#x000b1;0.005 </td><td align="center" rowspan="1" colspan="1">14.7&#x000b1;1.004 </td><td align="center" rowspan="1" colspan="1">&#x0003e;25</td></tr><tr><td align="center" rowspan="1" colspan="1">Doxorubicin</td><td align="center" rowspan="1" colspan="1"> - </td><td align="center" rowspan="1" colspan="1">5.7&#x000b1;0.02 </td><td align="center" rowspan="1" colspan="1">5.8&#x000b1;1.01 </td><td align="center" rowspan="1" colspan="1">8.7&#x000b1;0.15</td></tr></tbody></table></table-wrap></floats-group></article>

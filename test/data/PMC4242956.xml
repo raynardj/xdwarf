@@ -1,0 +1,144 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-240</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1787</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effects of Shoulder Flexion Loaded by an Elastic Tubing Band on EMG Activity
+of the Gluteal Muscles during Squat Exercises</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kang</surname><given-names>Min-Hyeok</given-names></name><degrees>PT, MS</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jang</surname><given-names>Jun-Hyeok</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Tae-Hoon</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Oh</surname><given-names>Jae-Seop</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Graduate School, Inje
+University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Haeundae Jaseng Hospital of
+Oriental Medicine, Republic of Korea</aff><aff id="aff3"><label>3)</label> Department of Occupational Therapy, Dongseo University,
+Republic of Korea</aff><aff id="aff4"><label>4)</label> Department of Physical Therapy, College of Biomedical
+Science and Engineering, Inje University: 607 Obang-dong, Gimhae-si, Gyeongsangnam-do
+621-749, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Jae-Seop Oh (E-mail: <email xlink:href="ysrehab@inje.ac.kr">ysrehab@inje.ac.kr</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1787</fpage><lpage>1789</lpage><history><date date-type="received"><day>18</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] We investigated the effects of shoulder flexion loaded by an elastic tubing
+band during squat exercises, by assessing electromyographic activities of the gluteus
+maximus and gluteus medius. [Subjects] In total, 17 healthy males were recruited.
+[Methods] Participants performed squat exercises with and without shoulder flexion loaded
+by a tubing band. Gluteal muscle activities during the downward and upward phases of the
+squat exercises were recorded using a surface electromyography (EMG) system. The mean
+electromyographic activities of the gluteal muscles during squat exercises with and
+without loaded shoulder flexion were compared using the paired t-test. [Results]
+Electromyographic activities of the gluteus maximus and gluteus medius were greater in
+both the upward and downward phases of the squat with loaded shoulder flexion.
+[Conclusions] The combination of squat and loaded shoulder flexion can be an effective
+exercise for increasing gluteal muscle activity.</p></abstract><kwd-group><title>Key words</title><kwd>Squat exercise</kwd><kwd>Gluteus maximus</kwd><kwd>Gluteus medius</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Gluteal muscle strengthening exercises are used frequently in prevention and rehabilitation
+training programs in clinical practice<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>,
+because the gluteus maximus and gluteus medius control hip motions in the frontal, sagittal
+and transverse planes<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Excessive hip
+adduction and internal rotation during walking or going up and down stairs, caused by
+gluteal muscle weakness, can change the alignment of the lower extremity<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>,
+leading to lower extremity injuries<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.</p><p>Among the exercises for strengthening gluteal muscles, squat exercises are commonly
+prescribed in clinical practice<xref rid="r8" ref-type="bibr">8</xref>, <xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. A previous study reported the gluteal
+muscles showed greater electromyographic activity during single-legged than in double-legged
+squat exercises<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. However, single-legged
+squatting can cause inadequate alignment of the lower extremity, such as knee valgus<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Thus, a modified method that facilitates
+gluteal muscle activity during a double-legged squat exercise is needed.</p><p>It has been reported that loaded shoulder movements increase trunk muscle activity<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Researchers have suggested that shoulder movements facilitate trunk
+muscle activity to counteract the postural demands or reactive force caused by shoulder
+movement<xref rid="r12" ref-type="bibr">12</xref>,<xref rid="r13" ref-type="bibr">13</xref>,<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>. From this point of view,
+squat exercises with loaded shoulder movements may lead to greater electromyographic
+activity in the gluteal muscles, as well as the trunk muscles, while maintaining appropriate
+alignment of the lower extremity. However, no previously reported study has examined whether
+loaded shoulder movement, in fact, facilitates gluteal muscle activity. Thus, the purpose of
+the present study was to determine the effects of loaded shoulder flexion, using an elastic
+tubing band, on gluteal muscle activity during a double-legged squat exercise.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>In total, 17 healthy males (mean age: 23.06&#x000b1;1.47&#x02005;years, mean height: 172.88&#x000b1;5.65&#x02005;cm, mean
+weight: 68.29&#x000b1;4.69&#x02005;kg) were recruited for this study. Potential participants were excluded
+if they had a history of neurological disease or surgery of the lower extremity. This study
+was approved by the Inje University Institutional Research Review Committee. All
+participants gave their written informed consent prior to participation in this study.</p><p>A Delsys surface EMG system (Delsys Inc., Boston, MA, USA) was used to measure the
+electromyographic activities of the gluteus maximus and gluteus medius of the dominant leg
+during squat exercises. The sampling rate was 2,000&#x02005;Hz and data were bandpass filtered
+between bandwidth 20&#x02013;450&#x02005;Hz. The EMG electrodes were attached on the landmarks of the
+gluteus maximus and gluteus medius, according to Criswell<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. To normalize muscle activity, maximum voluntary isometric
+contractions (MVICs) of the gluteal muscles were measured using the methods described by
+Kendall et al<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>.The MVICs of each muscle
+were collected for 5&#x02005;s, and two trials were performed for each muscle separated by a 1-min
+rest period. The mean value of the middle 3&#x02005;s of the two trials was used to calculate the
+%MVIC of each muscle.</p><p>All participants performed squat exercises with and without loaded shoulder flexion while
+maintaining a knee-over-foot position. The start position for all squat exercises was an
+upright standing position with the feet shoulder-width apart. Participants were asked to
+flex their knees until the tip of the patella reached a target bar (downward phase), and to
+return to an upright standing position (upward phase) to perform the squat exercises. A
+target bar was placed in front of the participants and adjusted so that the tip of the
+patella reached the target bar when performing 60&#x000b0; of knee flexion. The downward and upward
+phases of the squat exercises were performed for 3&#x02005;s, respectively, in time with the beat of
+a metronome. For squat exercises with loaded shoulder flexion, a blue elastic tubing band
+(Thera Band, Hygenic Corp., USA) was placed under the feet. Participants were instructed to
+grip the tubing band at the level of the iliac crest to minimize differences in resistance
+provided by the tubing band, and then performed 90&#x000b0; of shoulder flexion. The height of the
+hand was maintained for a constant length of the tubing band during squat exercises with
+loaded shoulder flexion. In the squat without loaded shoulder flexion, participants crossed
+their arms over their chests and performed the squat exercises. All participants repeated
+the squat exercise with and without loaded shoulder flexion three times.</p><p>The mean value of the gluteal muscle activity during the downward and upward phases of each
+trial was calculated, and the mean value of three test trials under each condition was
+expressed as %MVIC for data analysis. The EMG activities of the gluteus maximus and gluteus
+medius between the two conditions were compared using the paired t-test. The PASW Statistics
+software (ver. 18.0; SPSS, Inc., Chicago, IL, USA) was used for statistical analyses.
+Statistical significance was accepted for values of p &#x0003c;0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Gluteus maximus and gluteus medius muscle activities during the downward (p = 0.007 and p =
+0.008, respectively) and upward phases (p &#x0003c; 0.001 and p = 0.012, respectively)
+significantly increased during the squat exercises with loaded shoulder flexion compared
+with without loaded shoulder flexion (<xref rid="tbl_001" ref-type="table">Table
+1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>EMG activities of the gluteus maximus and gluteus medius during squat exercises
+with and without loaded shoulder flexion using an elastic tubing band</title></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" align="center" valign="middle" colspan="1">Phases</th><th rowspan="3" align="center" valign="middle" colspan="1">Muscles</th><th colspan="2" align="center" rowspan="1">Mean &#x000b1; SD (%MVIC)</th></tr><tr><th colspan="2" align="center" rowspan="1"><hr/></th></tr><tr><th align="center" rowspan="1" colspan="1">Without tubing band</th><th align="center" rowspan="1" colspan="1">With tubing band</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Downward</td><td align="left" rowspan="1" colspan="1">Gluteus maximus</td><td align="center" rowspan="1" colspan="1">6.67 &#x000b1; 4.25</td><td align="center" rowspan="1" colspan="1">8.56 &#x000b1; 5.61*</td></tr><tr><td align="left" rowspan="1" colspan="1">Gluteus medius</td><td align="center" rowspan="1" colspan="1">8.82 &#x000b1; 3.91</td><td align="center" rowspan="1" colspan="1">12.09 &#x000b1; 6.29*</td></tr><tr><td align="left" rowspan="2" colspan="1">Upward</td><td align="left" rowspan="1" colspan="1">Gluteus maximus</td><td align="center" rowspan="1" colspan="1">7.72 &#x000b1; 4.12</td><td align="center" rowspan="1" colspan="1">10.66 &#x000b1; 5.67*</td></tr><tr><td align="left" rowspan="1" colspan="1">Gluteus medius</td><td align="center" rowspan="1" colspan="1">8.44 &#x000b1; 3.59</td><td align="center" rowspan="1" colspan="1">11.58 &#x000b1; 5.96*</td></tr></tbody></table><table-wrap-foot><p>*p &#x0003c; 0.05</p></table-wrap-foot></table-wrap>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The present study showed that a combination of squat exercises and loaded shoulder flexion
+enhanced the electromyographic activity of the gluteus maximus and gluteus medius, compared
+with general squat exercises. It has been reported that shoulder movements facilitate
+contralateral muscle activity in response to postural demands<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>. Thus, in the present
+study, shoulder flexion may have induced an anterior displacement of the center of mass,
+requiring greater the posterior muscle activity. Moreover, the gluteal muscles have an
+important role in maintaining the neutral alignment of the lower extremity<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>; thus, loading shoulder flexion with the
+elastic tubing band resulted in greater electromyographic activity in the gluteus maximus
+and gluteus medius during the downward and upward phases of the squat in this study.</p><p>We used an elastic tubing band to provide resistance during the squat exercises. Such
+tubing bands are less costly than other strengthening devices and easy to use. Furthermore,
+the intensity of exercise can be adjusted, because the resistance provided changes with the
+length of the tubing band<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. Thus, a
+squat exercise using an elastic tubing band may be useful when the goal of the exercise is
+to strengthen the gluteal muscles. In addition, the shortest length of elastic tubing band
+that does not induce abnormal alignments of lower extremity may be the most appropriate for
+providing the best resistance force for strengthening gluteal muscles of individuals during
+squat exercises.</p><p>This study had several limitations. First, only male subjects participated, so generalizing
+the findings to other populations is problematic. Second, we did not collect kinematic data.
+In a future study, we will determine whether the increased electromyographic activity of the
+gluteal muscles due to the loaded shoulder flexion changed hip and/or knee kinematics during
+the squat exercise.</p></sec></body><back><ack><p>This work was supported by the 2014 Post-master Research Program of Inje University.</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Nakagawa</surname><given-names>TH</given-names></name><name><surname>Muniz</surname><given-names>TB</given-names></name><name><surname>Baldon</surname><given-names>RM</given-names></name><etal>et al.</etal></person-group>: <article-title>The effect of additional strengthening of hip abductor and
+lateral rotator muscles in patellofemoral pain syndrome: a randomized controlled pilot
+study</article-title>. <source>Clin Rehabil</source>, <year>2008</year>,
+<volume>22</volume>: <fpage>1051</fpage>&#x02013;<lpage>1060</lpage>. <pub-id pub-id-type="pmid">19052244</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Boling</surname><given-names>MC</given-names></name><name><surname>Padua</surname><given-names>DA</given-names></name><name><surname>Alexander Creighton</surname><given-names>R</given-names></name></person-group>: <article-title>Concentric and eccentric torque of the hip musculature in
+individuals with and without patellofemoral pain</article-title>. <source>J Athl
+Train</source>, <year>2009</year>, <volume>44</volume>:
+<fpage>7</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="pmid">19180213</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Willson</surname><given-names>JD</given-names></name><name><surname>Ireland</surname><given-names>ML</given-names></name><name><surname>Davis</surname><given-names>I</given-names></name></person-group>: <article-title>Core strength and lower extremity alignment during single
+leg squats</article-title>. <source>Med Sci Sports Exerc</source>, <year>2006</year>,
+<volume>38</volume>: <fpage>945</fpage>&#x02013;<lpage>952</lpage>. <pub-id pub-id-type="pmid">16672849</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Crossley</surname><given-names>KM</given-names></name><name><surname>Zhang</surname><given-names>WJ</given-names></name><name><surname>Schache</surname><given-names>AG</given-names></name><etal>et al.</etal></person-group>: <article-title>Performance on the single-leg squat task indicates hip
+abductor muscle function</article-title>. <source>Am J Sports Med</source>,
+<year>2011</year>, <volume>39</volume>: <fpage>866</fpage>&#x02013;<lpage>873</lpage>.
+<pub-id pub-id-type="pmid">21335344</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Cichanowski</surname><given-names>HR</given-names></name><name><surname>Schmitt</surname><given-names>JS</given-names></name><name><surname>Johnson</surname><given-names>RJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Hip strength in collegiate female athletes with
+patellofemoral pain</article-title>. <source>Med Sci Sports Exerc</source>,
+<year>2007</year>, <volume>39</volume>: <fpage>1227</fpage>&#x02013;<lpage>1232</lpage>.
+<pub-id pub-id-type="pmid">17762354</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Robinson</surname><given-names>RL</given-names></name><name><surname>Nee</surname><given-names>RJ</given-names></name></person-group>: <article-title>Analysis of hip strength in females seeking physical
+therapy treatment for unilateral patellofemoral pain syndrome</article-title>. <source>J
+Orthop Sports Phys Ther</source>, <year>2007</year>, <volume>37</volume>:
+<fpage>232</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="pmid">17549951</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Hewett</surname><given-names>TE</given-names></name><name><surname>Myer</surname><given-names>GD</given-names></name><name><surname>Ford</surname><given-names>KR</given-names></name></person-group>: <article-title>Anterior cruciate ligament injuries in female athletes:
+Part 1, mechanisms and risk factors</article-title>. <source>Am J Sports Med</source>,
+<year>2006</year>, <volume>34</volume>: <fpage>299</fpage>&#x02013;<lpage>311</lpage>.
+<pub-id pub-id-type="pmid">16423913</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Distefano</surname><given-names>LJ</given-names></name><name><surname>Blackburn</surname><given-names>JT</given-names></name><name><surname>Marshall</surname><given-names>SW</given-names></name><etal>et al.</etal></person-group>: <article-title>Gluteal muscle activation during common therapeutic
+exercises</article-title>. <source>J Orthop Sports Phys Ther</source>,
+<year>2009</year>, <volume>39</volume>: <fpage>532</fpage>&#x02013;<lpage>540</lpage>.
+<pub-id pub-id-type="pmid">19574661</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Krause</surname><given-names>DA</given-names></name><name><surname>Jacobs</surname><given-names>RS</given-names></name><name><surname>Pilger</surname><given-names>KE</given-names></name><etal>et al.</etal></person-group>: <article-title>Electromyographic analysis of the gluteus medius in five
+weight-bearing exercises</article-title>. <source>J Strength Cond Res</source>,
+<year>2009</year>, <volume>23</volume>: <fpage>2689</fpage>&#x02013;<lpage>2694</lpage>.
+<pub-id pub-id-type="pmid">19910807</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Barton</surname><given-names>CJ</given-names></name><name><surname>Kennedy</surname><given-names>A</given-names></name><name><surname>Twycross-Lewis</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Gluteal muscle activation during the isometric phase of
+squatting exercises with and without a Swiss ball</article-title>. <source>Phys Ther
+Sport</source>, <year>2014</year>, <volume>15</volume>:
+<fpage>39</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="pmid">23770356</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Claiborne</surname><given-names>TL</given-names></name><name><surname>Armstrong</surname><given-names>CW</given-names></name><name><surname>Gandhi</surname><given-names>V</given-names></name><etal>et al.</etal></person-group>: <article-title>Relationship between hip and knee strength and knee valgus
+during a single leg squat</article-title>. <source>J Appl Biomech</source>,
+<year>2006</year>, <volume>22</volume>: <fpage>41</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="pmid">16760566</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>DK</given-names></name><name><surname>Kang</surname><given-names>MH</given-names></name><name><surname>Jang</surname><given-names>JH</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of changing the resistance direction using an
+elastic tubing band on abdominal muscle activities during isometric upper limb
+Exercises</article-title>. <source>J Phys Ther Sci</source>, <year>2012</year>,
+<volume>24</volume>: <fpage>703</fpage>&#x02013;<lpage>706</lpage>. </mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>DK</given-names></name><name><surname>Kang</surname><given-names>MH</given-names></name><name><surname>Kim</surname><given-names>JW</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of non-paretic arm exercises using a tubing band
+on abdominal muscle activity in stroke patients</article-title>.
+<source>NeuroRehabilitation</source>, <year>2013</year>, <volume>33</volume>:
+<fpage>605</fpage>&#x02013;<lpage>610</lpage>. <pub-id pub-id-type="pmid">24029006</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Aruin</surname><given-names>AS</given-names></name><name><surname>Latash</surname><given-names>ML</given-names></name></person-group>: <article-title>Directional specificity of postural muscles in
+feed-forward postural reactions during fast voluntary arm movements</article-title>.
+<source>Exp Brain Res</source>, <year>1995</year>, <volume>103</volume>:
+<fpage>323</fpage>&#x02013;<lpage>332</lpage>. <pub-id pub-id-type="pmid">7789439</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="book"><person-group><name><surname>Criswell</surname><given-names>E</given-names></name></person-group>: Introduction to Surface Electromyography, 2nd ed. Sudbury: Jones and
+Bartlett Publishers, <year>2010</year>.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="book"><person-group><name><surname>Kendall</surname><given-names>FP</given-names></name><name><surname>McCreary</surname><given-names>EK</given-names></name><name><surname>Provance</surname><given-names>PG</given-names></name><etal>et al.</etal></person-group>: Muscles: Testing and function with posture and pain, 5th ed. Baltimore:
+Lippincott Williams &#x00026; Wilkins, <year>2005</year>.</mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Shoepe</surname><given-names>TC</given-names></name><name><surname>Ramirez</surname><given-names>DA</given-names></name><name><surname>Almstedt</surname><given-names>HC</given-names></name></person-group>: <article-title>Elastic band prediction equations for combined free-weight
+and elastic band bench presses and squats</article-title>. <source>J Strength Cond
+Res</source>, <year>2010</year>, <volume>24</volume>:
+<fpage>195</fpage>&#x02013;<lpage>200</lpage>. <pub-id pub-id-type="pmid">19816220</pub-id></mixed-citation></ref></ref-list></back></article>

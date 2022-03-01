@@ -1,0 +1,239 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-202</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1771</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effects of a Fall Prevention Exercise Program on Muscle Strength and Balance
+of the Old-old Elderly</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cho</surname><given-names>Seong-Il</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>An</surname><given-names>Duk-Hyun</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Rehabilitation Science, Graduate School,
+Institute for Safety Promotion, Inje University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, College of Biomedical
+Science and Engineering, Inje University: 607 Obang dong, Gimhae, Gyeongsangnam-do
+621-749, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Duk-Hyun An, Department of Physical Therapy, College of Biomedical
+Science and Engineering, Inje University: 607 Obang dong, Gimhae, Gyeongsangnam-do
+621-749, Republic of Korea. (E-mail: <email xlink:href="dhahn670208@gmail.com">dhahn670208@gmail.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1771</fpage><lpage>1774</lpage><history><date date-type="received"><day>10</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The purpose of this study was to investigate the effects of an 8-week balance
+exercise and elastic-resistance exercise program on muscle strength and balance of the
+old-old elderly (over the age of 75). [Subjects and Methods] Fifty-five elderly persons
+were recruited from the community and assigned to three groups for convenience: balance
+exercise (intervention group 1; INT 1), resistance exercise (intervention group 2; INT 2),
+and control (CON) groups. The intervention was performed twice a week at a senior center
+and three times a week at home for 8 weeks. Muscle strength and balance were evaluated
+before and at the end of the trial, using a PowertrackIIand Tetrax. [Results] There were
+significant improvements in the strength of all seven muscle groups and balance in the INT
+2 group. In the INT 1 group, there were significant improvements in the strength of all
+muscle groups except for the knee flexor and ankle plantar flexor muscle groups.
+[Conclusion] This study demonstrated that an intervention using balance exercises or
+elastic-resistance exercises is effective at improving the muscle strength and balance of
+the old-old elderly. These type of exercises should be appropriate for the physical
+characteristics of the subjects.</p></abstract><kwd-group><title>Key words</title><kwd>Falls</kwd><kwd>Muscle strength</kwd><kwd>Postural balance</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The elderly have at least a 10 times higher risk of falling than other age groups because
+of age-related physiological changes, especially those pertaining to the quality and
+quantity of skeletal muscles<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Thirty to
+fifty percent of the elderly over 65&#x02005;years of age experience falls every year<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. The physical damage from falls may include
+bruising, hematoma, fractures, and even brain damage or other secondary complications, and
+decreasing physiological functions and weakening muscles may lead to other falls<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Although falls may not necessarily lead to
+extreme physical damage, they may restrict daily activities because of long-term pain<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. For the elderly, the high-risk factors of
+falls are loss of muscle strength and balance instability<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Therefore, fall-prevention
+exercises for the elderly consist of lower extremity resistance exercises and balance
+training<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.</p><p>There is currently a need for a specialized fall-prevention program that considers the
+special characteristics of elderly persons in their 80s, because existing programs are not
+effective enough for this high-risk group<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Newman and Newman<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>
+argued that fall-prevention programs focusing on physical abilities are not highly effective
+because the elderly over the age of 75 show a rapid decrease in instrumental activities of
+daily living compared with elderly persons between aged 60 to 74&#x02005;years of age. After
+measuring and comparing the strength differences among different age groups, Lamoureux et
+al.<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup> reported that people&#x02019;s strength
+weakens as they age. This occurs rapidly after the age of 75, when serious muscle weakening
+in the lower extremities begins. Rogers et al.<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup> suggested that the frequency of falls actually increases over the
+age of 75. However, the old-old elderly (over the age of 75) have little opportunity to
+participate in regular physical activities, which makes it harder for them to increase their
+physical activity and strength<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. As
+people age, there is a higher chance of death because of complications and falls and less
+chance of recovery<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Thus, an
+intervention for fall prevention is needed to increase the balance and strength of the
+old-old elderly.</p><p>Purpose of this study was to investigate the effects of balance exercise and
+elastic-resistance exercise programs on the muscle strength and balance of the old-old
+elderly in order to suggest an effective intervention for fall prevention for this
+population, who are at the highest risk of falls.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><sec><title>Subjects</title><p>Sixty elderly persons over the age of 75 who lived in the community were chosen by
+convenience sampling as participants for this study. They gave their written informed
+consent to participation in the study after the experimental procedures had been
+explained. The study was approved by the Inje University Faculty of Health Science Human
+Ethics Committee. Subjects were excluded if they had neurological impairments, severe
+cardiovascular diseases, persistent joint pain, or musculoskeletal impairment; required
+assistance from another person or a device during ambulation; scored lower than 24 on the
+Mini-Mental State Examination (Korean version); or were on medication that affected
+balance. Subjects who were already involved in other exercise programs were also excluded
+from this study.</p><p>To prevent the diffusion of the experiment&#x02019;s intervention, three senior citizen centers
+that were far from one another were chosen, and 20 participants were chosen from each
+center. Four participants dropped out from the intervention group 1 (INT 1 group), one
+dropped out from the intervention group 2 (INT 2 group), and none dropped out from the
+control (CON) group. Therefore, the final number of the participants was 55. Their general
+characteristics are shown in <xref rid="tbl_001" ref-type="table">Table
+1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>General
+characteristics of the subjects (N=55)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">INT 1 (n=16)</th><th align="center" rowspan="1" colspan="1">INT 2 (n=19)</th><th align="center" rowspan="1" colspan="1">CON (n=20)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="center" rowspan="1" colspan="1">76.1 (4.2)*</td><td align="center" rowspan="1" colspan="1">78.1 (3.7)</td><td align="center" rowspan="1" colspan="1">75.9 (1.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">59.6 (3.6)</td><td align="center" rowspan="1" colspan="1">55.8 (8.4)</td><td align="center" rowspan="1" colspan="1">60.2 (7.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Height (cm)</td><td align="center" rowspan="1" colspan="1">156.5 (3.6)</td><td align="center" rowspan="1" colspan="1">159.5 (6.7)</td><td align="center" rowspan="1" colspan="1">154.5 (6.3)</td></tr></tbody></table><table-wrap-foot><p>* mean (SD). INT 1= intervention group 1, INT 2= intervention group 2, CON= control
+group</p></table-wrap-foot></table-wrap>.</p></sec><sec><title>Methods</title><p>Strength of the hip flexors, hip extensors, hip abductors, knee flexors, knee extensors,
+ankle dorsiflexors, and ankle plantar flexors was measured using a hand-held dynamometer
+(Powertrack II, JTECH Medical). Strength was measured directly by the experimenter to
+prevent intertester error. The participants were explained the procedure of each
+measurement and performed one trial for each. Then, three measurements were taken and the
+average value was calculated. To find the interrater reliability for each muscle, the
+intraclass correlation coefficient (ICC) of each muscle strength measurement was
+calculated, and the values ranged from 0.97 to 0.99. The fall index, which evaluates the
+risk of falls, was calculated using a Tetrax (Sunlight Medical Ltd., Israel) to measure
+balance. The balance index ranges from 0 to 100, with a higher score indicating a higher
+risk of falls.</p><p>The INT 1 group performed balance exercises and the INT 2 group performed
+elastic-resistance exercises in 1-hour sessions five times a week for 8 weeks, a total of
+40 sessions. The experimenters conducted the group exercises two times a week at the
+senior citizen centers, and the individuals performed the exercises at home, by
+themselves, three times a week. All 1-hour sessions consisted of 10 minutes of warm-up and
+stretching, 40 minutes of main exercise, and 10 minutes of cool down. The exercises were
+conducted in 3 sets, with 10 repetitions per set, and there was a 30-second rest period
+between each set and a 3- to 5-minute rest period between each exercise. A safety device
+was employed to prevent falls during the exercises. The CON group performed the exercises
+after the 8-week intervention period had ended.</p><p>The balance exercises consisted of six types of exercise: side stepping, tandem walking,
+retro walking, braiding, one-leg stance with cup tapping, and external perturbation while
+standing with the head up and back straight. The elastic-resistance exercises consisted of
+eight types of exercise: squats, heel raise, hip flexion/extension, knee
+flexion/extension, and ankle plantar/dorsiflexion. Resistance was provided by Thera-Bands
+(Hygenic Corporation, Akron, OH, USA) and the intensity and frequency of the exercises
+were chosen following to previous studies (e.g., Zion et al.<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>). Red and yellow elastic bands were chosen at the
+appropriate level for the seniors. The level of the bands was gradually raised, and it was
+also raised during the last set when a participant was able to perform the actions without
+much difficulty. The exercises were conducted slowly so that concentric and eccentric
+contraction would occur accurately.</p><p>The collected data were statistically processed using SPSS version 18.0 for Windows (SPSS
+Inc., Chicago, IL, USA). Analysis of variance (ANOVA) was used as a homogeneity test of
+the muscle strengths and balance abilities of the INT 1, INT 2, and CON groups. The paired
+t-test was used to examine the differences between the pretest and posttest values of
+balance and muscle strength to determine the program&#x02019;s effectiveness. Also, ANOVA was used
+to assess the significance of differences among the populations of the INT 1, INT 2, and
+CON groups. Bonferroni adjusted post hoc tests were conducted to identify the comparisons
+that were statistically significant. Significance was accepted for values of p &#x0003c; 0.01.
+The ICC was calculated to test the reliability of the equipment.</p></sec></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>The homogeneity test for the muscle strength and fall index values of the INT 1, INT 2, and
+CON groups before the intervention found no significant differences among the three groups.
+The INT 1 group showed statistically significant improvements in muscle strength in five
+muscle groups: hip flexor (t = &#x02212;5.21, p &#x0003c; 0.001), hip extensor (t = &#x02212;3.57, p = 0.003),
+hip abductor (t = &#x02212;6.52, p &#x0003c; 0.001), knee extensor (t = &#x02212;6.79, p &#x0003c; 0.001), and ankle
+dorsiflexor (t = &#x02212;4.28, p = 0.001). The strengths of the knee flexor (t = &#x02212;1.78, p = 0.096)
+and ankle plantar flexor (t = &#x02212;1.67, p = 0.115) improved after the intervention, but without
+significant difference. The INT 2 group showed statistically significant improvements in the
+strengths of all the muscle groups tested: hip flexor (t = &#x02212;5.12, p &#x0003c; 0.001), hip
+extensor (t = &#x02212;3.55, p = 0.002), hip abductor (t = &#x02212;5.11, p &#x0003c; 0.001), knee flexor (t =
+&#x02212;3.67, p = 0.002), knee extensor (t = &#x02212;12.27, p &#x0003c; 0.001), ankle dorsiflexor (t = &#x02212;7.93, p
+&#x0003c; 0.001), and ankle plantar flexor (t = &#x02212;6.05, p &#x0003c; 0.001). After the intervention, the
+fall index score of the INT 1 group decreased from 59.0 (22.0) to 44.5 (17.4), a
+statistically significant decrease (t = 5.77, p &#x0003c; 0.001). The INT 2 group also showed a
+statistically significant decrease in the fall index score from 62.5 (24.9) to 41.9 (23.7).
+However, the CON group showed no significant differences in the strengths of any muscle
+group or in the fall index after 8 weeks.</p><p>ANOVA of the differences between the pretest and posttest mean values of the INT 1, INT 2,
+and CON groups found significant differences for all seven muscle groups and balance ability
+among the three groups. The post hoc test, further revealed that the INT 1 group showed
+statistically significant improvements in the hip flexor, hip extensor, hip abductor, knee
+extensor, and ankle dorsiflexor muscles, and the fall index compared to the pre-post mean
+difference of the CON group. The INT 2 group showed statistically significant improvements
+in all seven types of muscles and the fall index compared to the CON group. The INT 2 group
+showed a significant mean difference in the ankle plantar flexor muscle compared to the INT
+1 group.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The purpose of this study was to investigate the effects of balance exercise and
+elastic-resistance exercise programs on the muscle strength and balance of the old-old
+elderly. The INT 1 group showed a statistically significant improvement in muscle strengths
+of five of seven muscle groups, but not those of the knee flexors and ankle plantar flexors.
+Compared to the mean muscle strengths of the CON group, after the balance exercises, the INT
+1 group showed statistically significant improvements in the strengths of the five muscle
+groups. After conducting balance exercises for seniors over the age of 65, Kim and
+Lockhart<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> reported an improvement in
+muscle strength and gait and concluded that balance exercises contributes to fall
+prevention.</p><p>The INT 2 group showed a statistically significant improvement in the strength of all seven
+muscle groups after the intervention. In the comparison of mean muscle strengths with those
+of the CON group, after the resistance exercises, the INT 2 group showed significant
+improvements in the strengths of all seven muscle groups. This result is in accordance with
+the results of Zion et al.<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>, who
+conducted elastic-resistance exercises over the course of 8 weeks for the elderly and found
+that muscle strength and balance showed statistically significant improvements. Kim and
+Lockhart<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> reported that the ankle
+plantar flexor and knee extensor strengths of 18 older adults improved after performance of
+elastic-resistance exercises for 8 weeks. As people age, the risk of fall increases because
+a decrease muscle mass leads to atrophy, which decreases muscle function<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. Strengthening exercises using elastic
+resistance are practical because they have only a small risk of injury, provide consistent
+tension, and are easily portable and inexpensive. Elastic-resistance exercises help not only
+in rehabilitation but also in other areas because they have been proven to improve muscle
+strength and stability<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>.</p><p>The INT 1 and INT 2 groups showed significant improvements in balance after the
+intervention, which proves that both balance exercises and resistance exercises are
+effective at improving balance. In the posttest comparison of the mean differences in
+balance among the three groups, no difference was found between the INT 1 and INT 2 groups,
+but both groups showed significant improvements in comparison with the CON group.
+Age-related balance deficits may occur because of increased postural sway caused by weakness
+of leg muscles and decreased proprioception<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. The balance exercises and elastic-resistance exercises conducted
+for 8 weeks improved leg muscle strength and proprioception of the neuromuscular system
+through muscle contraction and stimulation of proprioceptive sense. Lee and Park<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup> reported that improvement in the strength
+of the lower extremities enhances the balance of the elderly. We assume that the improvement
+in balance observed in the present study resulted from the improvement seen in the strength
+of the lower limbs.</p><p>Unlike previous studies that have reported fall-prevention exercises to be ineffective for
+the old-old elderly<xref rid="r8" ref-type="bibr">8</xref>, <xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>, our results show that balance exercises and elastic-resistance
+exercises were effective at improving the muscle strength and balance of this population.
+Skelton and Beyer<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> indicated that there
+are limits to the effectiveness of fall-prevention exercises for the old-old elderly, and
+noted that one-on-one approaches for the elderly are more effective than group exercises. In
+our study, the intervention was conducted for the old-old elderly, who have a rapid aging
+process, and thus are the most vulnerable to falls. Our results show there were improvements
+in both the balance exercise and resistance exercise groups after 8 weeks. Although the
+elastic-resistance exercises proved to be more effective than the balance exercises at
+strengthening the ankle plantar flexors, there was not a big difference in the effectiveness
+of the two exercise types; thus, we conclude that both types of exercise are acceptable as
+fall-prevention exercises for the old-old elderly. We also suggest that these exercises be
+used appropriately according to personal physical characteristics and needs. Because of the
+physical characteristics of the elderly, fall-prevention exercises should not pose injury
+risks, and should be easy to practice, even at home. The balance exercises and
+elastic-resistance exercises used in the present study are accessible to the elderly,
+because they do not need specialized equipment and can be adjusted to personal physical
+strength.</p><p>A limitation of this study was that the group exercises with the researcher were conducted
+for only 2 of the 5 intervention days per week, leaving 3 days per week for the elderly to
+perform the exercises by themselves. This made it difficult to control the intervention
+perfectly. The significance of this study is that it revealed that balance exercises and
+elastic-resistance exercises are effective at fall prevention for the old-old elderly, who
+are at high risk of falls because of rapid aging. Therefore, such exercises are suggested
+for fall prevention programs for this particular population.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Miller</surname><given-names>CA</given-names></name></person-group>: <article-title>The connection between drugs and falls in
+elders</article-title>. <source>Geriatr Nurs</source>, <year>2002</year>,
+<volume>23</volume>: <fpage>109</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="pmid">11956524</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Menz</surname><given-names>HB</given-names></name><name><surname>Lord</surname><given-names>SR</given-names></name><name><surname>Fitzpatrick</surname><given-names>RC</given-names></name></person-group>: <article-title>A structural equation model relating impaired sensorimotor
+function, fear of falling and gait patterns in older people</article-title>.
+<source>Gait Posture</source>, <year>2007</year>, <volume>25</volume>:
+<fpage>243</fpage>&#x02013;<lpage>249</lpage>. <pub-id pub-id-type="pmid">16697643</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Jung</surname><given-names>Y</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><name><surname>Chung</surname><given-names>K</given-names></name></person-group>: <article-title>Prevalence and associated factors of falls according to
+health status in elderly living in the community</article-title>. <source>J Korean
+Gerontol</source>, <year>2006</year>, <volume>26</volume>:
+<fpage>291</fpage>&#x02013;<lpage>303</lpage>.</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Hartholt</surname><given-names>KA</given-names></name><name><surname>van Beeck</surname><given-names>EF</given-names></name><name><surname>Polinder</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Societal consequences of falls in the older population:
+injuries, healthcare costs, and long-term reduced quality of life</article-title>.
+<source>J Trauma</source>, <year>2011</year>, <volume>71</volume>:
+<fpage>748</fpage>&#x02013;<lpage>753</lpage>. <pub-id pub-id-type="pmid">21045738</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Rubenstein</surname><given-names>LZ</given-names></name></person-group>: <article-title>Falls in older people: epidemiology, risk factors and
+strategies for prevention</article-title>. <source>Age Ageing</source>,
+<year>2006</year>, <volume>35</volume>: <fpage>ii37</fpage>&#x02013;<lpage>ii41</lpage>.
+<pub-id pub-id-type="pmid">16926202</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Rubenstein</surname><given-names>LZ</given-names></name><name><surname>Josephson</surname><given-names>KR</given-names></name></person-group>: <article-title>The epidemiology of falls and syncope</article-title>.
+<source>Clin Geriatr Med</source>, <year>2002</year>, <volume>18</volume>:
+<fpage>141</fpage>&#x02013;<lpage>158</lpage>. <pub-id pub-id-type="pmid">12180240</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Granacher</surname><given-names>U</given-names></name><name><surname>Muehlbauer</surname><given-names>T</given-names></name><name><surname>Zahner</surname><given-names>L</given-names></name><etal>et al.</etal></person-group>: <article-title>Comparison of traditional and recent approaches in the
+promotion of balance and strength in older adults</article-title>. <source>Sports
+Med</source>, <year>2011</year>, <volume>41</volume>:
+<fpage>377</fpage>&#x02013;<lpage>400</lpage>. <pub-id pub-id-type="pmid">21510715</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Park</surname><given-names>S</given-names></name></person-group>: <article-title>Meta-analysis of the interventions for preventing falls by
+the elderly in the eight countries: comparison between aged 70&#x02019;s and
+80&#x02019;s</article-title>. <source>J Korean Gerontol</source>, <year>2010</year>,
+<volume>30</volume>: <fpage>49</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="book"><person-group><name><surname>Newman</surname><given-names>BM</given-names></name><name><surname>Newman</surname><given-names>PR</given-names></name></person-group>: Development Through Life: A Psychosocial Approach, 10th ed. Belmont:
+Wadsworth, <year>2009</year>, pp 533&#x02013;565.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Lamoureux</surname><given-names>EL</given-names></name><name><surname>Sparrow</surname><given-names>WA</given-names></name><name><surname>Murphy</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Differences in the neuromuscular capacity and lean muscle
+tissue in old and older community-dwelling adults</article-title>. <source>J Gerontol A
+Biol Sci Med Sci</source>, <year>2001</year>, <volume>56</volume>:
+<fpage>M381</fpage>&#x02013;<lpage>M385</lpage>. <pub-id pub-id-type="pmid">11382799</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Rogers</surname><given-names>ME</given-names></name><name><surname>Rogers</surname><given-names>NL</given-names></name><name><surname>Takeshima</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Methods to assess and improve the physical parameters
+associated with fall risk in older adults</article-title>. <source>Prev Med</source>,
+<year>2003</year>, <volume>36</volume>: <fpage>255</fpage>&#x02013;<lpage>264</lpage>.
+<pub-id pub-id-type="pmid">12634016</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Zion</surname><given-names>AS</given-names></name><name><surname>De Meersman</surname><given-names>R</given-names></name><name><surname>Diamond</surname><given-names>BE</given-names></name><etal>et al.</etal></person-group>: <article-title>A home-based resistance-training program using elastic
+bands for elderly patients with orthostatic hypotension</article-title>. <source>Clin
+Auton Res</source>, <year>2003</year>, <volume>13</volume>:
+<fpage>286</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="pmid">12955554</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><article-title>Guideline for
+the prevention of falls in older persons. American Geriatrics Society, British
+Geriatrics Society, and American Academy of Orthopaedic Surgeons Panel on Falls
+Prevention</article-title>. <source>J Am Geriatr Soc</source>, <year>2001</year>,
+<volume>49</volume>: <fpage>664</fpage>&#x02013;<lpage>672</lpage>. <pub-id pub-id-type="pmid">11380764</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Lockhart</surname><given-names>T</given-names></name></person-group>: <article-title>Effects of 8 weeks of balance or weight training for the
+independently living elderly on the outcomes of induced slips</article-title>.
+<source>Int J Rehabil Res</source>, <year>2010</year>, <volume>33</volume>:
+<fpage>49</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="pmid">19773670</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Barry</surname><given-names>BK</given-names></name><name><surname>Carson</surname><given-names>RG</given-names></name></person-group>: <article-title>The consequences of resistance training for movement
+control in older adults</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>,
+<year>2004</year>, <volume>59</volume>: <fpage>730</fpage>&#x02013;<lpage>754</lpage>.
+<pub-id pub-id-type="pmid">15304540</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Patterson</surname><given-names>RM</given-names></name><name><surname>Stegink Jansen</surname><given-names>CW</given-names></name><name><surname>Hogan</surname><given-names>HA</given-names></name><etal>et al.</etal></person-group>: <article-title>Material properties of Thera-band tubing</article-title>.
+<source>Phys Ther</source>, <year>2001</year>, <volume>81</volume>:
+<fpage>1437</fpage>&#x02013;<lpage>1445</lpage>. <pub-id pub-id-type="pmid">11509073</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Edelberg</surname><given-names>HK</given-names></name></person-group>: <article-title>Falls and function. How to prevent falls and injuries in
+patients with impaired mobility</article-title>. <source>Geriatrics</source>,
+<year>2001</year>, <volume>56</volume>: <fpage>41</fpage>&#x02013;<lpage>45, quiz 49</lpage>.
+<pub-id pub-id-type="pmid">11252760</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>IH</given-names></name><name><surname>Park</surname><given-names>SY</given-names></name></person-group>: <article-title>Balance improvement by strength training for the
+elderly</article-title>. <source>J Phys Ther Sci</source>, <year>2013</year>,
+<volume>25</volume>: <fpage>1591</fpage>&#x02013;<lpage>1593</lpage>. <pub-id pub-id-type="pmid">24409027</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Skelton</surname><given-names>DA</given-names></name><name><surname>Beyer</surname><given-names>N</given-names></name></person-group>: <article-title>Exercise and injury prevention in older
+people</article-title>. <source>Scand J Med Sci Sports</source>, <year>2003</year>,
+<volume>13</volume>: <fpage>77</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="pmid">12535321</pub-id></mixed-citation></ref></ref-list></back></article>

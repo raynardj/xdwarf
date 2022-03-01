@@ -1,0 +1,269 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-100</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1685</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A Study on the Differences of Quadriceps Femoris Activities by Knee Alignment
+during Isometric Contraction</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Park</surname><given-names>Seol</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Ko</surname><given-names>Yu-Min</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jang</surname><given-names>Gwon-Uk</given-names></name><degrees>PT, MS</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Hwang</surname><given-names>Yoon-Tae</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Ji-Won</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, General Graduate School,
+Catholic University of Daegu, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Gangneung Yeongdong
+College, Republic of Korea</aff><aff id="aff3"><label>3)</label> Department of Physical Therapy, College of Medical Science,
+Catholic University of Daegu, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Ji-Won Park, Department of Physical Therapy, College of Medical Science,
+Catholic University of Daegu: 330 Geumrak 1-ri, Hayang-eup, Gyeongsan-si, Gyeongbuk
+712-702, Republic of Korea. (E-mail: <email xlink:href="mylovept@hanmail.net">mylovept@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1685</fpage><lpage>1688</lpage><history><date date-type="received"><day>27</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>06</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] This study attempted to identify how genu varum or valgum affects the
+electromyographic activities of the vastus medialis, vastus lateralis, and rectus femoris
+during knee isometric contraction. [Subjects] Fifty-two healthy young adults were enrolled
+in this study. They were enrolled and classified into three groups by knee alignment
+conditions: the genu varum, genu valgum, and control groups. [Methods] The
+electromyographic activity ratio of the vastus medialis to the vastus lateralis and rectus
+femoris were calculated using the percentage of maximum voluntary contraction. The
+participants contracted their quadriceps during isometric contraction at 30 and 60&#x000b0; of
+knee flexion. [Results] The genu varum group had more activity in the vastus medialis than
+in the vastus lateralis and rectus femoris, whereas the genu valgum group had more
+activity in the vastus lateralis and rectus femoris than in the vastus medialis. There was
+a significant difference in the muscle activity ratio between the vastus medialis and
+vastus lateralis by angle of knee flexion degree only in the genu valgum. There were no
+significant differences in any of the three groups in terms of the muscle activity ratio
+of the vastus medialis to the rectus femoris by angle of knee flexion. [Conclusion] The
+quadriceps femoris was used for different strategies according to knee alignment during
+isometric contraction at 30 and 60&#x000b0;. This study suggests that rehabilitation training
+programs used to strengthen the quadriceps should consider the knee alignment conditions
+of the target subjects.</p></abstract><kwd-group><title>Key words</title><kwd>Electromyography</kwd><kwd>Quadriceps muscle</kwd><kwd>Isometric contraction</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The quadriceps femoris affects the bones it attaches to and the joints it passes; it also
+affects the alignment of the lower extremities. For instance, genu recurvatum is caused by
+quadriceps weakness or stiffness<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>; it is
+evidence of the imbalances between the vastus medialis and lateralis by femoral torsion<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Genu varum and valgum are poor alignments
+in the frontal plane. The quadriceps is concerned with movements in the sagittal plane, such
+as knee flexion and extension<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>; moreover,
+the vastus medialis and lateralis, which cause medial and lateral pulling force,
+respectively<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>, may affect genu varum and
+valgum.</p><p>Genu varum and valgum have a large affect on the alignment of the lower extremities. Genu
+varum induces femoral retroversion, tibial medial torsion, decreased Q-angle, patellar
+medial dislocation, toe-in, and subtalar supination, and so on. In contrast, genu valgum
+induces femoral anteversion, tibial lateral torsion, increased Q-angle, patellar lateral
+dislocation, toe-out, subtalar pronation, and so on<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. Many previous studies<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r8" ref-type="bibr">8</xref><sup>)</sup> have examined the quadriceps in relation to
+femoral torsion, Q-angle, and patellar movement. However, there have been few studies
+demonstrating the direct relation between the quadriceps and genu varum or valgum.
+Therefore, an EMG analysis of the quadriceps by knee alignment is needed.</p><p>Sogabe et al.<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> measured quadriceps cross
+sections using MRI by knee alignment. The results showed that the genu varum group had a
+larger vastus medialis than vastus lateralis, whereas the genu valgum group had a larger
+vastus lateralis than vastus medialis. Tsakoniti and Stoupis<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup> studied quadriceps cross sections by Q-angle and reported that
+people with a smaller Q-angle had a larger vastus lateralis than people with a larger
+Q-angle. These studies demonstrated significant correlation between knee alignment and
+quadriceps cross sections. The size of the cross section is related to the muscle length;
+moreover, it can be easily inferred that both genu varum and genu valgum are related to an
+imbalance in muscle power between the vastus medialis and lateralis. These muscles pull on
+the patella, and an imbalance between these muscles causes the patella to move in an
+abnormal direction; this could cause secondary musculoskeletal problems.</p><p>Patellofemoral pain syndrome is a disease in which the patellar medial pulling force is
+weakened due to a weak vastus medialis and the patella is dislocated laterally, so it causes
+knee pain<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. Patients with this syndrome are treated with selective strength
+training programs for the vastus medialis in order to decrease pain and treat the
+disease<xref rid="r11" ref-type="bibr">11</xref>,<xref rid="r12" ref-type="bibr">12</xref>,<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>, and a lot of research
+has been performed to identify ways to improve the vastus medialis selectively<xref rid="r14" ref-type="bibr">14</xref>,<xref rid="r15" ref-type="bibr">15</xref>,<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>. Thus, the muscle imbalance between the
+vastus medialis and lateralis could cause pain, and training programs to relieve the muscle
+imbalance are needed if there are imbalances between these two muscles according to knee
+alignment. There are some studies that have reported an imbalance between the vastus
+medialis and lateralis; however, there have been no studies demonstrating quadriceps
+activities using EMG by knee alignment. Therefore, analysis of quadriceps activities by knee
+alignment is needed.</p><p>This study classified subjects by knee alignment into genu varum, genu valgum, and control
+groups, and determined how genu varum or valgum affects the quadriceps during isometric
+contraction of the knee. Moreover, it demonstrated whether knee alignment conditions
+influence muscle imbalance. It also tried to suggest theoretical evidence for treatment and
+prevention of secondary musculoskeletal problems, which could occur as a result of muscle
+imbalance.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>This study enrolled 52 healthy young adults with no history of orthopedic or neurologic
+symptoms and no knee pain. They were classified into three groups by knee alignment; the
+genu varum, genu valgum, and control groups. The genu varum group was composed of people
+whose intercondylar distances of the knee joint were over 4&#x02005;cm in the standing position,
+whereas the genu valgum group was composed of people whose intermalleolar distances of the
+ankle joint were over 4&#x02005;cm in the standing position. Other individuals not fitting into the
+either of these groups were classified as the control group<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. There were significant differences in Q-angle among the three
+groups (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Anthropometric data (M&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Control</th><th align="center" rowspan="1" colspan="1">Genu varum</th><th align="center" rowspan="1" colspan="1">Genu valgum</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">N</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">12</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (y)</td><td align="center" rowspan="1" colspan="1">21.4 &#x000b1; 1.7</td><td align="center" rowspan="1" colspan="1">21.3 &#x000b1; 1.5</td><td align="center" rowspan="1" colspan="1">23.7 &#x000b1; 3.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Height (cm)</td><td align="center" rowspan="1" colspan="1">165.4 &#x000b1; 9.0</td><td align="center" rowspan="1" colspan="1">165.0 &#x000b1; 7.5</td><td align="center" rowspan="1" colspan="1">171.7 &#x000b1; 8.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">58.0 &#x000b1; 13.1</td><td align="center" rowspan="1" colspan="1">55.4 &#x000b1; 8.1</td><td align="center" rowspan="1" colspan="1">67.3 &#x000b1; 14.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Q-angle (&#x002da;)**</td><td align="center" rowspan="1" colspan="1">13.2 &#x000b1; 1.7</td><td align="center" rowspan="1" colspan="1">7.3 &#x000b1; 1.5</td><td align="center" rowspan="1" colspan="1">18.6 &#x000b1; 1.3</td></tr><tr><td align="left" valign="bottom" rowspan="1" colspan="1">Distance<sup>&#x02020;</sup></td><td align="left" valign="bottom" rowspan="1" colspan="1"/><td align="left" valign="bottom" rowspan="1" colspan="1"/><td align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:15pt" rowspan="1" colspan="1">IC (cm)**</td><td align="center" rowspan="1" colspan="1">0.42 &#x000b1; 1.54</td><td align="center" rowspan="1" colspan="1">5.06 &#x000b1; 0.75</td><td align="center" rowspan="1" colspan="1">-</td></tr><tr><td align="left" style="padding-left:15pt" rowspan="1" colspan="1">IM (cm)**</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">6.13 &#x000b1; 1.03</td></tr></tbody></table><table-wrap-foot><p>M&#x000b1;SD: Mean&#x000b1;standard deviation. **p&#x0003c;0.01. <sup>&#x02020;</sup>Distance: intercondylar
+distance (IC) of the knee in the genu varum group; intermalleolar distance (IM) of the
+ankle in the genu valgum group</p></table-wrap-foot></table-wrap>). The subjects understood the experimental purpose and methods and agreed
+voluntarily to participate. Prior to participation, all participants were required to read
+and sign an informed consent form in accordance with the ethical standards of the
+Declaration of Helsinki. The protocol for this study was approved by the local ethics
+committee of the Catholic University of Daegu.</p><p>An 8-channel wireless surface EMG system (WEMG-8, LAXTHA, Daejeon, South Korea) was used to
+measure the electromyographic activities of the vastus medialis, vastus lateralis, and
+rectus femoris during isometric contraction. Surface EMG electrodes (Ag/AgCl 2223, 3M,
+Seoul, South Korea) were attached to points at 50&#x000b0; relative to the femoral longitudinal axis
+and over 5&#x02005;cm from the superomedial patella for the vastus medialis, which is the diagonal
+direction of the lateral 15&#x000b0; of midline at 3 to 5&#x02005;cm above the patella for the vastus
+lateralis. The ground electrode was attached to a point on the skin above the tibial
+tuberosity at 6 to 12&#x02005;cm from the inferior patella<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>.</p><p>The sample rate for the EMG signal was set at 1,024&#x02005;Hz, and it was filtered using a 13 to
+430&#x02005;Hz band-pass filter and a 60&#x02005;Hz notch filter. The collected EMG signals were calculated
+as the root-mean-square and then quantified.</p><p>Muscle activities were determined using the ratio of muscle activity at each motion by
+maximum voluntary isometric contraction during isometric contraction. Then, each muscle
+activity was measured during isometric contraction at 30 and 60&#x000b0; of knee flexion. Data were
+collected for 5 seconds, and data for 3 seconds, except for the first and last 1 second,
+were analyzed<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. Muscle activities were
+measured three times at each angle of knee flexion during isometric contraction; then, the
+mean value was used and analyzed.</p><p>The electrographic activity ratio of the vastus medialis to the vastus lateralis was
+calculated as the standardized amplitude of the vastus medialis divided by the standardized
+amplitude of the vastus lateralis. Likewise, the electrographic activity ratio of the vastus
+medialis to the rectus femoris was calculated as the standardized amplitude of the vastus
+medialis divided by the standardized amplitude of the rectus femoris<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>.</p><p>The Kruskal-Wallis test was used to analyze quadriceps activities according to the knee
+alignment conditions. Tukey and Duncan post hoc tests were converted as rank cases; hence, a
+one-way ANOVA was used. Statistical analyses were performed using PASW version 18.0 for
+Windows, and p-values less than 0.05 were considered to indicate significant
+differences.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>There were significant differences in the activity ratio of the vastus medialis to the
+vastus lateralis both at 30 and 60&#x000b0; of knee flexion among the three groups during isometric
+contraction. If the electromyographic activity ratio of the vastus medialis to the vastus
+lateralis is 1, the muscle activities of the two muscles are the same. If the ratio is over
+1, the muscle activity of the vastus medialis is larger than that of the vastus lateralis;
+if the ratio is less than 1, the muscle activity of the vastus lateralis is larger than that
+of the vastus medialis. According to the results of this study, the ratio was over 1 in the
+genu varum group, and moreover, the activity of the vastus medialis was larger than that of
+the vastus lateralis. In the genu valgum group, the ratio was less than 1, and the activity
+of the vastus lateralis was larger than that of the vastus medialis (<xref rid="tbl_002" ref-type="table">Table 2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Electromyographic activity ratio of the vastus medialis to the vastus lateralis
+by knee joint angle during isometric contraction (M&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="center" rowspan="1" colspan="1">VM/VL</th><th align="center" rowspan="1" colspan="1">Control</th><th align="center" rowspan="1" colspan="1">Genu varum</th><th align="center" rowspan="1" colspan="1">Genu valgum*</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">30&#x000b0;**</td><td align="center" rowspan="1" colspan="1">0.95 &#x000b1; 0.08</td><td align="center" rowspan="1" colspan="1">1.31 &#x000b1; 0.25</td><td align="center" rowspan="1" colspan="1">0.66 &#x000b1; 0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">60&#x000b0;**</td><td align="center" rowspan="1" colspan="1">0.89 &#x000b1; 0.11</td><td align="center" rowspan="1" colspan="1">1.15 &#x000b1; 0.12</td><td align="center" rowspan="1" colspan="1">0.54 &#x000b1; 0.12</td></tr></tbody></table><table-wrap-foot><p>M&#x000b1;SD: Mean&#x000b1;standard deviation. VM/VL: activity of vastus medialis/activity of vastus
+lateralis. *p&#x0003c;0.05; **p&#x0003c;0.01</p></table-wrap-foot></table-wrap>).</p><p>There was a significant difference in the muscle activity ratio between the two muscles by
+angle of knee flexion only in the genu valgum group (<xref rid="tbl_002" ref-type="table">Table 2</xref>).</p><p>There were significant differences in the activity ratio of the vastus medialis to the
+rectus femoris both at 30 and 60&#x000b0; of knee flexion among the three groups during isometric
+contraction. The ratio was over 1 in the genu varum group, and the vastus medialis showed
+higher activity than the rectus femoris. The ratio was less than 1 in the genu valgum group,
+and the rectus femoris showed higher activity than the vastus medialis (<xref rid="tbl_003" ref-type="table">Table 3</xref><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Electromyographic activity ratio of the vastus medialis to the rectus femoris by
+knee joint angle during isometric contraction (M&#x000b1;SD)</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="center" rowspan="1" colspan="1">VM/RF</th><th align="center" rowspan="1" colspan="1">Control</th><th align="center" rowspan="1" colspan="1">Genu varum</th><th align="center" rowspan="1" colspan="1">Genu valgum</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">30&#x000b0;**</td><td align="center" rowspan="1" colspan="1">0.92 &#x000b1; 0.08</td><td align="center" rowspan="1" colspan="1">1.17 &#x000b1; 0.13</td><td align="center" rowspan="1" colspan="1">0.58 &#x000b1; 0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">60&#x000b0;**</td><td align="center" rowspan="1" colspan="1">0.84 &#x000b1; 0.09</td><td align="center" rowspan="1" colspan="1">1.08 &#x000b1; 0.06</td><td align="center" rowspan="1" colspan="1">0.53 &#x000b1; 0.05</td></tr></tbody></table><table-wrap-foot><p>M&#x000b1;SD: Mean&#x000b1;standard deviation. VM/RF: activity of vastus medialis/activity of rectus
+femoris. **p&#x0003c;0.01</p></table-wrap-foot></table-wrap>).</p><p>There were no significant differences in any of the three groups in terms of the muscle
+activity ratio between the two muscles according to the angle of knee flexion (<xref rid="tbl_003" ref-type="table">Table 3</xref>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The results of the present study showed that the electromyographic activity ratio of the
+vastus medialis to the vastus lateralis during isometric contraction at 30&#x000b0; of knee flexion
+were 1 in the control group, 1.3 in the genu varum group, and 0.7 in the genu valgum group.
+At 60&#x000b0; knee flexion, the ratio were 0.9 in the control group, 1.2 in the genu varum group,
+and 0.5 in the genu valgum group. These values were calculated as the electomyographic
+activity of the vastus medialis divided by that of the vastus lateralis. Thus, if the value
+was over 1, the muscle activity of the vastus medialis was larger than that of the vastus
+lateralis. If the value was less 1, the muscle activity of the vastus lateralis was larger
+than that of the vastus medialis. Therefore, the vastus medialis activity was larger than
+that of the vastus lateralis in the genu varum group, while the vastus lateralis activity
+was larger than that of the vastus medialis in the genu valgum group. Sogabe et al.<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> reported that the cross-sectional ratio of
+the vastus medialis to the vastus lateralis was approximately 1.2 in their genu varum group
+and 0.9 in their genu valgum group. There are higher correlations between muscle strength
+and muscle thickness<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>; thus, the results
+in this study were similar to the results in the study of Sogabe et al<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. In addition, Souza and Gross<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup> studied the muscle activity ratio of the vastus medialis oblique to
+the vastus lateralis in people with patellofemoral pain syndrome. According to their
+results, the muscle activity ratio of the vastus medialis oblique to the vastus lateralis in
+people with patellofemoral pain syndrome was lower than that in the normal group.
+Patellofemoral pain syndrome could cause genu valgum<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>, and therefore, this agrees with the results in this study, which
+showed that the activity of the vastus lateralis was higher than that of the vastus medialis
+in the genu valgum group. Therefore, this study suggested that the genu varum group had a
+stronger vastus medialis, whereas the genu valgum group had a stronger vastus lateralis.
+Genu valgum cannot be considered the same symptom with patellofemoral pain syndrome.
+However, studies about the genu varum or the genu valgum related quadriceps were rare.
+Because genu valgum increases the risk factors related to patellofemoral pain syndrome<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>,
+studies concerning patellofemoral pain syndrome need to be considered.</p><p>The electromyographic activity ratios of the vastus medialis to the vastus lateralis during
+isometric contraction were smaller at 60&#x000b0; of knee flexion than at 30&#x000b0; in all three groups.
+This suggests that a larger knee flexion angle would result in higher vastus lateralis
+activity; however, there was a significant difference only in the genu valgum group. As a
+result, it was found that the genu valgum group had higher activity in the vastus lateralis
+than the vastus medialis as well as a larger knee flexion angle. This study suggests that it
+is more efficient for people with genu valgum to be trained through isometric contraction at
+30&#x000b0; of knee flexion and for people with genu varum to be trained through isometric
+contraction at 60&#x000b0; of knee flexion. Ninos et al.<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup> reported that the muscle activity of the vastus medialis increases
+in accordance with increases in the knee flexion angle. Mariani and Caruso<xref rid="r23" ref-type="bibr">23</xref><sup>)</sup> reported that people with patellar
+subluxation showed higher activity of the vastus lateralis than the vastus medialis at the
+end range on knee extension compared with their normal group. In the present experiment,
+healthy adults without patellar subluxation or knee pain were enrolled; thus, investigation
+of muscle imbalance by knee flexion angle is needed in people with orthopedic problems, such
+as patellar subluxation caused by knee malalignment. Smillie<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup> reported that the vastus medialis selectively fires in the last 10&#x000b0;
+of knee extension and that it produces the last 10&#x000b0; of knee extension. Duffell et al.<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup> reported that the ratio of the muscle
+activity of the vastus medialis to that of the vastus lateralis increased at the end of knee
+extension at a speed of 30&#x000b0;/sec for knee extension. Although there were differences in the
+types of muscle contraction or knee joint angles among these studies, they indicate that the
+muscle activity of the vastus medialis increased as the knee flexion angle decreased; thus,
+the results were similar to those of the present study.</p><p>There were significant differences in the electromyographic activity ratio of the vastus
+medialis to the rectus femoris during isometric contraction both at 30 and 60&#x000b0;. Further, the
+activity of the vastus medialis was higher in the genu varum group, whereas the activity of
+the vastus lateralis was higher in the genu valgum group. These were similar to that of the
+vastus lateralis.</p><p>There were no significant differences in the activity ratio of the vastus medialis to the
+rectus femoris by knee flexion angle in the three groups. These results agree with those of
+the studies of Signorile et al.<xref rid="r26" ref-type="bibr">26</xref><sup>)</sup> and
+Han<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>, who found that there were no
+significant differences in quadriceps activity and knee flexion angle during isometric
+contraction.</p><p>The limitations of this study included the number of subjects in the genu valgum group
+compared with the genu varum and control groups, and the difference in general
+characteristics, such as the mean height and weight, between the genu valgum group and the
+other two groups, as the ratio of male was larger than that of females in the other two
+groups. However, the electromyographic activity ratio in this study was compared between the
+vastus medialis and vastus lateralis individually, not between individuals, so there might
+be no difference depending on gender. Well-controlled subjects should be used in future
+studies.</p><p>The results showed that the genu varum group had higher activity of the vastus medialis,
+whereas the genu valgum group had higher activity of the vastus lateralis. More
+specifically, the genu varum group had a weak vastus lateralis, whereas the genu valgum
+group had a weak vastus medialis. Also, the vastus medialis in the genu valgum group showed
+higher activity at 60&#x000b0; of knee flexion. Therefore, rehabilitation training programs
+conducted to strengthen the quadriceps should consider the knee alignment conditions of the
+target subjects.</p><p>In the future, studies will be needed to verify whether selective quadriceps strength
+training programs that consider the knee alignment conditions of the target subjects can
+prevent or treat pain or deformities caused by knee malalignment.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="book"><person-group><name><surname>Neumann</surname><given-names>DA</given-names></name></person-group>: Kinesiology of the Musculoskeletal System: Foundations for
+rehabilitation. Elsevier Science Health Science Division,
+<year>2011</year>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="ths"><person-group><name><surname>Park</surname><given-names>YS</given-names></name></person-group>: The effects of the difference of angle of the femoral anteversion on the
+electrical activity of the quadriceps femoris in isometric exercise. Dankook University,
+Dissertation of Master&#x02019;s Degree, <year>2006</year>.</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Heegaard</surname><given-names>J</given-names></name><name><surname>Leyvraz</surname><given-names>PF</given-names></name><name><surname>Van Kampen</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Influence of soft structures on patellar three-dimensional
+tracking</article-title>. <source>Clin Orthop Relat Res</source>, <year>1994</year>,
+(<issue>299</issue>): <fpage>235</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="pmid">8119024</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>TQ</given-names></name><name><surname>Morris</surname><given-names>G</given-names></name><name><surname>Csintalan</surname><given-names>RP</given-names></name></person-group>: <article-title>The influence of tibial and femoral rotation on
+patellofemoral contact area and pressure</article-title>. <source>J Orthop Sports Phys
+Ther</source>, <year>2003</year>, <volume>33</volume>:
+<fpage>686</fpage>&#x02013;<lpage>693</lpage>. <pub-id pub-id-type="pmid">14669964</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Salsich</surname><given-names>GB</given-names></name><name><surname>Perman</surname><given-names>WH</given-names></name></person-group>: <article-title>Patellofemoral joint contact area is influenced by
+tibiofemoral rotation alignment in individuals who have patellofemoral
+pain</article-title>. <source>J Orthop Sports Phys Ther</source>, <year>2007</year>,
+<volume>37</volume>: <fpage>521</fpage>&#x02013;<lpage>528</lpage>. <pub-id pub-id-type="pmid">17939611</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Mizuno</surname><given-names>Y</given-names></name><name><surname>Kumagai</surname><given-names>M</given-names></name><name><surname>Mattessich</surname><given-names>SM</given-names></name><etal>et al.</etal></person-group>: <article-title>Q-angle influences tibiofemoral and patellofemoral
+kinematics</article-title>. <source>J Orthop Res</source>, <year>2001</year>,
+<volume>19</volume>: <fpage>834</fpage>&#x02013;<lpage>840</lpage>. <pub-id pub-id-type="pmid">11562129</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Powers</surname><given-names>CM</given-names></name></person-group>: <article-title>The influence of altered lower-extremity kinematics on
+patellofemoral joint dysfunction: a theoretical perspective</article-title>. <source>J
+Orthop Sports Phys Ther</source>, <year>2003</year>, <volume>33</volume>:
+<fpage>639</fpage>&#x02013;<lpage>646</lpage>. <pub-id pub-id-type="pmid">14669959</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Tsakoniti</surname><given-names>AE</given-names></name><name><surname>Stoupis</surname><given-names>CA</given-names></name><name><surname>Athanasopoulos</surname><given-names>SI</given-names></name></person-group>: <article-title>Quadriceps cross-sectional area changes in young healthy
+men with different magnitude of Q angle</article-title>. <source>J Appl Physiol
+1985</source>, <year>2008</year>, <volume>105</volume>:
+<fpage>800</fpage>&#x02013;<lpage>804</lpage>. <pub-id pub-id-type="pmid">18556437</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Sogabe</surname><given-names>A</given-names></name><name><surname>Mukai</surname><given-names>N</given-names></name><name><surname>Miyakawa</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Influence of knee alignment on quadriceps cross-sectional
+area</article-title>. <source>J Biomech</source>, <year>2009</year>,
+<volume>42</volume>: <fpage>2313</fpage>&#x02013;<lpage>2317</lpage>. <pub-id pub-id-type="pmid">19698946</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Reilly</surname><given-names>DT</given-names></name><name><surname>Martens</surname><given-names>M</given-names></name></person-group>: <article-title>Experimental analysis of the quadriceps muscle force and
+patello-femoral joint reaction force for various activities</article-title>.
+<source>Acta Orthop Scand</source>, <year>1972</year>, <volume>43</volume>:
+<fpage>126</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="pmid">5079747</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Park</surname><given-names>SK</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name></person-group>: <article-title>Effects of EMG-biofeedback training on total knee
+replacement patients&#x02019; lower extremity muscle activity and balance</article-title>.
+<source>J Korean Soc Phys Ther</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>81</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>DY</given-names></name><name><surname>Kim</surname><given-names>SH</given-names></name><name><surname>Lim</surname><given-names>YE</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of EMG biofeedback training and taping on vastus
+medialis oblique for function improvement of patient with patella
+malalignment</article-title>. <source>J Korean Soc Phys Ther</source>,
+<year>2008</year>, <volume>20</volume>:
+<fpage>35</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Jang</surname><given-names>JH</given-names></name><name><surname>Kim</surname><given-names>KH</given-names></name><name><surname>Kim</surname><given-names>TH</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of foot and knee position on electromyographic
+activity of the vastus medialis and vastus lateralis for hemiplegic
+patients</article-title>. <source>J Korean Soc Phys Ther</source>, <year>2010</year>,
+<volume>22</volume>: <fpage>21</fpage>&#x02013;<lpage>28</lpage>.</mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Hyong</surname><given-names>IH</given-names></name><name><surname>Kang</surname><given-names>JH</given-names></name></person-group>: <article-title>Activities of the vastus lateralis and vastus medialis
+oblique muscles during squats on different surfaces</article-title>. <source>J Phys Ther
+Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>915</fpage>&#x02013;<lpage>917</lpage>. <pub-id pub-id-type="pmid">24259884</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Jang</surname><given-names>EM</given-names></name><name><surname>Heo</surname><given-names>HJ</given-names></name><name><surname>Kim</surname><given-names>MH</given-names></name><etal>et al.</etal></person-group>: <article-title>Activation of VMO and VL in squat exercises for women with
+different hip adduction loads</article-title>. <source>J Phys Ther Sci</source>,
+<year>2013</year>, <volume>25</volume>: <fpage>257</fpage>&#x02013;<lpage>258</lpage>.
+</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>MH</given-names></name><name><surname>Yoo</surname><given-names>WG</given-names></name></person-group>: <article-title>Effects of various foot wedge boards on vastus medialis
+oblique and vastus lateralis muscles during lunge exercise</article-title>. <source>J
+Phys Ther Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>233</fpage>&#x02013;<lpage>234</lpage>. </mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Cowan</surname><given-names>SM</given-names></name><name><surname>Bennell</surname><given-names>KL</given-names></name><name><surname>Hodges</surname><given-names>PW</given-names></name><etal>et al.</etal></person-group>: <article-title>Delayed onset of electromyographic activity of vastus
+medialis obliquus relative to vastus lateralis in subjects with patellofemoral pain
+syndrome</article-title>. <source>Arch Phys Med Rehabil</source>, <year>2001</year>,
+<volume>82</volume>: <fpage>183</fpage>&#x02013;<lpage>189</lpage>. <pub-id pub-id-type="pmid">11239308</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>HH</given-names></name></person-group>: <article-title>The effect of patellar taping on the EMG activity of the
+vastus medialis oblique and vastus lateralis during stair stepping</article-title>.
+<source>J Muscle Jt Health</source>, <year>2011</year>, <volume>18</volume>:
+<fpage>249</fpage>&#x02013;<lpage>256</lpage>. </mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Gollnick</surname><given-names>PD</given-names></name><name><surname>Parsons</surname><given-names>D</given-names></name><name><surname>Riedy</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Fiber number and size in overloaded chicken anterior
+latissimus dorsi muscle</article-title>. <source>J Appl Physiol</source>,
+<year>1983</year>, <volume>54</volume>: <fpage>1292</fpage>&#x02013;<lpage>1297</lpage>.
+<pub-id pub-id-type="pmid">6345492</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Souza</surname><given-names>DR</given-names></name><name><surname>Gross</surname><given-names>MT</given-names></name></person-group>: <article-title>Comparison of vastus medialis obliquus: vastus lateralis
+muscle integrated electromyographic ratios between healthy subjects and patients with
+patellofemoral pain</article-title>. <source>Phys Ther</source>, <year>1991</year>,
+<volume>71</volume>: <fpage>310</fpage>&#x02013;<lpage>316, discussion 317&#x02013;320</lpage>.
+<pub-id pub-id-type="pmid">2008454</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Yip</surname><given-names>SL</given-names></name><name><surname>Ng</surname><given-names>GY</given-names></name></person-group>: <article-title>Biofeedback supplementation to physiotherapy exercise
+programme for rehabilitation of patellofemoral pain syndrome: a randomized controlled
+pilot study</article-title>. <source>Clin Rehabil</source>, <year>2006</year>,
+<volume>20</volume>: <fpage>1050</fpage>&#x02013;<lpage>1057</lpage>. <pub-id pub-id-type="pmid">17148516</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Ninos</surname><given-names>JC</given-names></name><name><surname>Irrgang</surname><given-names>JJ</given-names></name><name><surname>Burdett</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Electromyographic analysis of the squat performed in
+self-selected lower extremity neutral rotation and 30 degrees of lower extremity
+turn-out from the self-selected neutral position</article-title>. <source>J Orthop
+Sports Phys Ther</source>, <year>1997</year>, <volume>25</volume>:
+<fpage>307</fpage>&#x02013;<lpage>315</lpage>. <pub-id pub-id-type="pmid">9130147</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Mariani</surname><given-names>PP</given-names></name><name><surname>Caruso</surname><given-names>I</given-names></name></person-group>: <article-title>An electromyographic investigation of subluxation of the
+patella</article-title>. <source>J Bone Joint Surg Br</source>, <year>1979</year>,
+<volume>61-B</volume>: <fpage>169</fpage>&#x02013;<lpage>171</lpage>. <pub-id pub-id-type="pmid">438268</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="book"><person-group><name><surname>Smillie</surname><given-names>IS</given-names></name></person-group>: Injuries of the Knee Joint. Baltimore: Williams and Wilkins,
+<year>1962</year>.</mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Duffell</surname><given-names>LD</given-names></name><name><surname>Dharni</surname><given-names>H</given-names></name><name><surname>Strutton</surname><given-names>PH</given-names></name><etal>et al.</etal></person-group>: <article-title>Electromyographic activity of the quadriceps components
+during the final degrees of knee extension</article-title>. <source>J Back
+Musculoskeletal Rehabil</source>, <year>2011</year>, <volume>24</volume>:
+<fpage>215</fpage>&#x02013;<lpage>223</lpage>. </mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Signorile</surname><given-names>JF</given-names></name><name><surname>Kacsik</surname><given-names>D</given-names></name><name><surname>Perry</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>The effect of knee and foot position on the
+electromyographical activity of the superficial quadriceps</article-title>. <source>J
+Orthop Sports Phys Ther</source>, <year>1995</year>, <volume>22</volume>:
+<fpage>2</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="pmid">7550299</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Han</surname><given-names>SW</given-names></name></person-group>: <article-title>A SEMG analysis of knee joint angle during close kinetic
+chain exercise and open kinetic chain exercises in quadriceps muscle</article-title>.
+<source>J Korean Soc Phys Ther</source>, <year>2004</year>, <volume>16</volume>:
+<fpage>401</fpage>&#x02013;<lpage>411</lpage>.</mixed-citation></ref></ref-list></back></article>

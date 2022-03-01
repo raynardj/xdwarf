@@ -1,0 +1,290 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-234</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1825</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effect of Aerobic Exercise on Risk Factors of Cardiovascular Disease and the
+Apolipoprotein B / Apolipoprotein A-1 Ratio in Obese Woman</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Dae-Young</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Jung</surname><given-names>Sun-Young</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Research Institute of Sports Medicine, Department of
+Protection Science, Kyungwoon University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physiology, College of Medicine, Kyung Hee
+University: 1 Hoigi-dong, Dongdaemoon-gu, Seoul 130-701, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Sun-Young Jung (E-mail: <email xlink:href="strongsun@hanmail.net">strongsun@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1825</fpage><lpage>1829</lpage><history><date date-type="received"><day>16</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>21</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The objective of this study was to confirm whether consistent aerobic exercise
+has an effect on the apolipoprotein B/apolipoprotein A-1 ratio or reduces the risk of
+cardiovascular disease in obese women. [Subjects and Methods] The participants included 32
+obese women between the ages of 40 and 49. Subjects were randomly divided into two groups
+(n = 16 in each group): the control group and the exercise group. The exercise program in
+this study corresponded to an intensity of 50 to 60% of the maximum volume of minute
+oxygen consumption and was performed three times per week over 12 weeks. Physical
+measurements, measurement of cardiorespiratory fitness and blood pressure, and blood
+collection were done before and after the 12 weeks of exercise at the same time and under
+the same conditions. [Results] Based on the results of this study, there were significant
+interaction effects in both time and group weight, for body mass index, percent body fat,
+maximum volume of minute oxygen consumption, high-density lipoprotein cholesterol, and the
+apolipoprotein B/apolipoprotein A-1 ratio. Moreover, waist circumference, total
+cholesterol, and the atherogenic index decreased significantly after 12 weeks of aerobic
+exercise. [Conclusion] Regular aerobic exercise effectively improved cardiovascular risk
+factors and decreased the obesity index in obese women.</p></abstract><kwd-group><title>Key words</title><kwd>Aerobic exercise</kwd><kwd>Apolipoprotein</kwd><kwd>Cardiovascular disease</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Obesity is increasing rapidly throughout the world and is a threatening public health
+problem in many countries. The World Health Organization (WHO)<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup> defines obesity as a disease that exerts a negative influence on
+health and well-being through the accumulation of excess fat. Representative pathologies
+accompanying obesity include cardiovascular disease (CVD), hypertension, hyperlipidemia,
+diabetes, stroke, cancer, degenerative arthritis, and lung diseases including sleep apnea.
+One of the first problems encountered in chronic disease of obese individuals is
+hyperlipidemia, consisting of elevated blood cholesterol and triglyceride (TG) levels, the
+most important independent risk factor of atherosclerosis and an important cause of coronary
+artery disease (CAD)<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Research to date
+points to high TG, total cholesterol (TC), low-density lipoprotein cholesterol (LDLC), and
+high-density lipoprotein cholesterol (HDLC) as key risk factors for CAD<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. However, after obtaining an enhanced understanding of
+lipoprotein function and metabolism, rather than measuring traditional risk factors such as
+TC, TG, HDLC, and LDLC, measuring apolipoprotein, apo- forming blood lipids, and lipoprotein
+was recently deemed to be more predictive<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Apo is a key protein that forms many types of lipids and acts as a
+coenzyme, either accelerating or suppressing functions related to transport and
+re-distribution and metabolism of lipoproteins through the actions of tissue receptor
+ligands<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. Apo A is divided into the A I,
+AII, and AIV types, which are important components of HDLC formation. Among these, apoA1 has
+a static correlation with HDLC, and the expression level of apoA1 is determined by the HDLC
+concentration. Moreover, it eliminates excess cholesterol in the body, converts cholesterol
+to HDL, and activates lecithin cholesterol acyl transferase (LCAT), which is responsible for
+reverse cholesterol transport (RCT) to the liver<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. It is known that blood HDLC levels are inversely correlated with
+CVD risk factors. According to related epidemiological studies, for every 1&#x02005;mg/dL increase
+in HDLC, the risk for CAD is lowered by 2&#x02013;3%, and the risk of death is lowered by 6%<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. HDLC undergoes a complex biosynthesis and
+performs many widely known functions within the body, including diverse protective
+mechanisms against atherosclerosis<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Blood
+HDLC is composed of diverse types of lipoprotein based on the surface polarity, and apoA1 is
+known to play the most pivotal role in the production and functioning of HDLC<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. On the other hand, apoB particles
+constituting LDL, intermediate-density lipoprotein (IDL), and very-low-density lipoprotein
+(VLDL), combine the LDL particle with the LDL receptor, contributing to the absorption of
+cellular cholesterol. Apolipoprotein B (apoB) anchors particles responsible for creating
+atheroma in the arterial walls and pulls in complete lipoproteins, forming foam cells from
+macrophages and the subendothelium<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.
+Therefore, high blood levels of ApoB are known as causal factors that increase the risk of
+CAD<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Such a ratio between
+apolipoprotein B and apolipoprotein A-1 (apoB/apoA1 ratio) forms a strong correlation with
+metabolic syndrome and CVD<xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Recently, blood apoB levels and apoA1 concentrations have
+been suggested to have a strong impact on traditionally used LDLC and HDLC<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. Moreover, the apoB/apoA1 ratio has an
+independent correlation with atherosclerosis, and it has been reported that individuals with
+high apoB/apoA1 ratios have greater metabolic risk factors<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>.</p><p>Methods of prevention and treatment of obesity and cardiovascular disease currently include
+exercise, diet control, and pharmacotherapy. Among these, pharmacotherapy is less effective
+and has multiple side effects, so it is not widely implemented, whereas diet control is
+effective for weight loss but lowers the resting metabolic rate, which has the disadvantage
+of decreasing both body fat and lean body weight.</p><p>Especially for women, who have relatively less muscle mass and more body fat, a specific
+method to improve CVD risk factors and decrease weight is needed. One of the most effective
+methods is regular exercise, which decreases body fat, lowers blood pressure, improves
+hyperlipidemia, and lowers HDLC levels. Increases in metabolic equivalents and
+cardiorespiratory fitness (CRF) decrease metabolic risk factors and effectively prevent
+CVD<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. Therefore, this research sought to solidify the exercise-related
+physiologic evidence for regular aerobic exercise and the subsequent improvement in
+cardiovascular risk factors in obese women and the apolipoprotein B/A-1ratio in obese
+women.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>The study subjects included a total of 32 obese women between the ages of 40 and 49 without
+medical problems. Subjects were randomly divided into two groups (n = 16 in each group): the
+control group and the exercise group. They were selected after basic testing, which included
+collection of information for age, exercise capacity, weight changes over the previous year,
+smoking status, and currently used medications, and requirements included waist
+circumference (WC) &#x02265;80&#x02005;cm and body mass index (BMI) &#x02265;25&#x02005;kg/m<sup>2</sup> along with
+exercising less than twice per week. Before testing, the contents and objective of the
+research were explained, and consent was obtained prior to subject participation. Kyungwoon
+University approved this study, which complies with the ethical standards of the Declaration
+of Helsinki. Physical characteristics of the subjects in each group are outlined in <xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Physical characteristics of the participants in this experiment</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">Age (years)</th><th align="center" rowspan="1" colspan="1">Height (cm)</th><th align="center" rowspan="1" colspan="1">Weight (kg)</th><th align="center" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</th><th align="center" rowspan="1" colspan="1">Body fat (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CON (N=16)</td><td align="center" rowspan="1" colspan="1">45.8&#x000b1;3.4</td><td align="center" rowspan="1" colspan="1">156.1&#x000b1;3.2</td><td align="center" rowspan="1" colspan="1">64.3&#x000b1;3.1</td><td align="center" rowspan="1" colspan="1">26.3&#x000b1;1.3</td><td align="center" rowspan="1" colspan="1">34.3&#x000b1;2.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Exercise (N=16)</td><td align="center" rowspan="1" colspan="1">47.0&#x000b1;2.9</td><td align="center" rowspan="1" colspan="1">158.1&#x000b1;4.2</td><td align="center" rowspan="1" colspan="1">65.1&#x000b1;3.1</td><td align="center" rowspan="1" colspan="1">26.0&#x000b1;1.2</td><td align="center" rowspan="1" colspan="1">32.8&#x000b1;3.2</td></tr></tbody></table><table-wrap-foot><p>Data are means &#x000b1; SD.</p></table-wrap-foot></table-wrap>.</p><p>The exercise program in this study consisted of walking at 50&#x02013;60% of the maximum volume of
+minute oxygen consumption (VO<sub>2max</sub>) three times per week for 12 weeks. After a
+VO<sub>2max</sub> treadmill test, oxygen consumption and heart beats per minute were
+calculated, as were individual pulse rates/minute corresponding to 50&#x02013;60% of the
+VO<sub>2max</sub> and individual logistic regression analysis were performed. To confirm
+the target calorie expenditure obtained with a Polar Heart Monitor (Polar S610i, Polar
+Electro, Kempele, Finland), the energy expenditure was calculated using the reached targeted
+pulse designated during the walking exercise program. To standardize the expended energy per
+session as 400&#x02005;kcal and 1,200&#x02005;kcal/week (3 times per week), the amount of time spent
+performing exercise was adjusted to between 60 and 120 minutes depending on the individual&#x02019;s
+ability. Physical measurements taken included height (cm), weight (kg), and the calculated
+body mass index (BMI), which was calculated as BMI = weight (kg)/height (m<sup>2</sup>).
+Percent body fat was assessed using the InBody 720 bioelectrical body composition analyzer
+(Biospace, Seoul, Republic of Korea) following the procedures recommended by the American
+College of Sports Medicine (ACSM)<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>.
+Waist circumference was measured with a tape, while blood pressure was measured with an
+automatic machine (Tensoval Comfort, Paul Hartmann AG, Heidenheim, Germany) and included
+systolic (SBP) and diastolic (DBP) blood pressure measurements. Mean arterial pressure (MAP)
+was calculated by using the following equation: MAP = DBP+((SBP&#x02212;DBP)/3). The
+VO<sub>2max</sub> as an index of cardiorespiratory fitness (CRF), was measured on a motor
+driven treadmill using the Bruce protocol, as described in the ACSM guidelines (2010)<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Oxygen consumption (VO<sub>2</sub>) was
+measured using standard breath-by-breath techniques of pulmonary gas exchange variables
+(Metabolic Gas Analyzer System; Quark b<sup>2</sup>, Cosmed, Italy), and exercise heart rate
+was measured using 12-lead electrocardiography (Q-4500, Quinton Cardiology Systems, Bothell,
+WA, USA). VO<sub>2max</sub> was considered the highest oxygen consumption attained at the
+exhaustion moment.</p><p>Blood sample analyses were performed simultaneously under the same conditions before and
+after the exercise program. The obtained blood samples were separated by centrifugation at
+4&#x02005;&#x000b0;C, and TG (triglyceride; Vitros TRIG DTD, Johnson &#x00026; Johnson, NY, USA), and TC (total
+cholesterol; Vitros CHOL DTD, Johnson &#x00026; Johnson, NY, USA) were analyzed on an slide
+using a Vitros DT60II chemistry system (Johnson &#x00026; Johnson, NY, USA). With HDLC using
+magnesium chloride and dextran sulfate, the cholesterol-containing apoB was precipitated,
+and using the HDLC (HDL cholesterol; Vitros HDLC DTD, Johnson &#x00026; Johnson, NY, USA) slide,
+analysis was performed with a Vitros DT60II chemistry system (Johnson &#x00026; Johnson, NY,
+USA). The atherogenic index was calculated by using the following equation: AI = (TC &#x02212; HDLC)
+/ HDLC<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. ApoB and ApoA1 were analyzed by
+using immunoturbidimetry (Hitachi Auto-Analyzer, Model 705, Hitachi, Tokyo, Japan).</p><p>All data are expressed as averages and standard deviations, and to observe the transitional
+changes in the groups before and after exercise, two-way repeated measures ANOVA was
+conducted. For comparison of changes in the average values of measured variables before and
+after the 12 weeks of exercise training, the paired samples t-test was used. Moreover, the
+change in values between before and after 12 weeks of exercise was extracted (&#x02206;score =
+changed score between before and after 12 weeks of exercise). All statistical analyses were
+performed by using SPSS for Window (version 18.0), and values of p=0.05 were considered
+statistically significant.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>A comparison of the changes in blood pressure and obesity index after 12 weeks of aerobic
+exercise is shown in <xref rid="tbl_002" ref-type="table">Table 2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Changes in obesity indices and blood pressure with 12 weeks aerobic
+exercise</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Measured variable</th><th align="center" rowspan="1" colspan="1">Group</th><th align="center" rowspan="1" colspan="1">Pre</th><th align="center" rowspan="1" colspan="1">Post</th><th align="center" rowspan="1" colspan="1">&#x02206;score</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Weight (kg)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="left" rowspan="1" colspan="1">64.3&#x000b1;3.1</td><td align="center" rowspan="1" colspan="1">63.5&#x000b1;3.5</td><td align="center" rowspan="1" colspan="1">&#x02212;0.82&#x000b1;1.93</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="left" rowspan="1" colspan="1">65.1&#x000b1;3.1</td><td align="center" rowspan="1" colspan="1">62.0&#x000b1;3.0<sup>&#x02020;&#x02020;&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">&#x02212;3.11&#x000b1;1.24***</td></tr><tr><td align="left" rowspan="2" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">26.3&#x000b1;1.3</td><td align="center" rowspan="1" colspan="1">26.0&#x000b1;1.5</td><td align="center" rowspan="1" colspan="1">&#x02212;0.33&#x000b1;0.80</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">26.0&#x000b1;1.2</td><td align="center" rowspan="1" colspan="1">24.8&#x000b1;1.3<sup>&#x02020;&#x02020;&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">&#x02212;1.24&#x000b1;0.47***</td></tr><tr><td align="left" rowspan="2" colspan="1">WC (cm)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="left" rowspan="1" colspan="1">89.5&#x000b1;5.2</td><td align="center" rowspan="1" colspan="1">89.2&#x000b1;4.9</td><td align="center" rowspan="1" colspan="1">&#x02212;0.36&#x000b1;0.83</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">88.3&#x000b1;4.6</td><td align="center" rowspan="1" colspan="1">86.7&#x000b1;4.5</td><td align="center" rowspan="1" colspan="1">&#x02212;1.58&#x000b1;2.47*</td></tr><tr><td align="left" rowspan="2" colspan="1">Body fat (%)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">34.3&#x000b1;2.7</td><td align="center" rowspan="1" colspan="1">33.4&#x000b1;3.1</td><td align="center" rowspan="1" colspan="1">&#x02212;0.87&#x000b1;1.54</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">32.8&#x000b1;3.2</td><td align="center" rowspan="1" colspan="1">30.6&#x000b1;3.5<sup>&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">&#x02212;2.18&#x000b1;1.96***</td></tr><tr><td align="left" rowspan="2" colspan="1">SBP (mmHg)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">124.5&#x000b1;12.3</td><td align="center" rowspan="1" colspan="1">123.9&#x000b1;8.6</td><td align="center" rowspan="1" colspan="1">&#x02212;0.56&#x000b1;7.99</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">121.9&#x000b1;13.6</td><td align="center" rowspan="1" colspan="1">117.0&#x000b1;9.7</td><td align="center" rowspan="1" colspan="1">&#x02212;4.84&#x000b1;10.23</td></tr><tr><td align="left" rowspan="2" colspan="1">DBP (mmHg)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">80.8&#x000b1;10.3</td><td align="center" rowspan="1" colspan="1">79.2&#x000b1;10.7</td><td align="center" rowspan="1" colspan="1">&#x02212;1.56&#x000b1;9.42</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="left" rowspan="1" colspan="1">77.2&#x000b1;9.7</td><td align="center" rowspan="1" colspan="1">80.4&#x000b1;7.8</td><td align="center" rowspan="1" colspan="1">3.18&#x000b1;6.45</td></tr><tr><td align="left" rowspan="2" colspan="1">MAP (mmHg)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">95.3&#x000b1;10.3</td><td align="center" rowspan="1" colspan="1">94.1&#x000b1;9.1</td><td align="center" rowspan="1" colspan="1">&#x02212;1.22&#x000b1;7.11</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">92.1&#x000b1;10.5</td><td align="center" rowspan="1" colspan="1">92.6&#x000b1;7.8</td><td align="center" rowspan="1" colspan="1">0.51&#x000b1;7.37</td></tr></tbody></table><table-wrap-foot><p>Data are means. &#x02206;score = change in the score from before the exercise program to 12
+weeks * p value of paired t-test (*p&#x0003c;0.05; **p&#x0003c;0.01; ***p&#x0003c;0.001).
+<sup>&#x02020;</sup> p value of two-way ANOVA test (group&#x000d7;time; <sup>&#x02020;</sup>p&#x0003c;0.05;
+<sup>&#x02020;&#x02020;</sup>p&#x0003c;0.01; <sup>&#x02020;&#x02020;&#x02020;</sup>p&#x0003c;0.001). BMI, body mass index; WC, waist
+circumference; SBP, systolic blood pressure; DBP, diastolic blood pressure; MAP, mean
+arterial pressure</p></table-wrap-foot></table-wrap>. Weight (p&#x0003c;0.001), BMI (p&#x0003c;0.001), and percent body fat (p&#x0003c;0.05)
+demonstrated statistically significant interactions (p&#x0003c;0.05). WC decreased statistically
+significantly after 12 weeks of aerobic exercise (p&#x0003c;0.05). However, blood pressure (SBP,
+DBP, MAP) did not demonstrate significant effects.</p><p>The cardiovascular fitness and cardiovascular risk factor comparison results are shown in
+<xref rid="tbl_003" ref-type="table">Table 3</xref><table-wrap id="tbl_003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Changes in the cardiorespiratory fitness and apoB/apoA1 ratio with 12 weeks
+aerobic exercise</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Measured variable</th><th align="center" rowspan="1" colspan="1">Group</th><th align="center" rowspan="1" colspan="1">Pre</th><th align="center" rowspan="1" colspan="1">Post</th><th align="center" rowspan="1" colspan="1">&#x02206;score</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">VO<sub>2max</sub>(mL/kg/min)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">28.7&#x000b1;2.8</td><td align="center" rowspan="1" colspan="1">29.9&#x000b1;3.8</td><td align="center" rowspan="1" colspan="1">1.20&#x000b1;2.48</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">30.9&#x000b1;3.4</td><td align="center" rowspan="1" colspan="1">34.3&#x000b1;3.2<sup>&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">3.32&#x000b1;2.72***</td></tr><tr><td align="left" rowspan="2" colspan="1">TG (mg/dL)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">116.0&#x000b1;49.6</td><td align="center" rowspan="1" colspan="1">121.5&#x000b1;60.3</td><td align="center" rowspan="1" colspan="1">5.50&#x000b1;52.19</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">120.4&#x000b1;94.1</td><td align="center" rowspan="1" colspan="1">93.0&#x000b1;41.8</td><td align="center" rowspan="1" colspan="1">&#x02212;27.37&#x000b1;71.53</td></tr><tr><td align="left" rowspan="2" colspan="1">TC (mg/dL)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">210.0&#x000b1;38.2</td><td align="center" rowspan="1" colspan="1">202.9&#x000b1;35.0</td><td align="center" rowspan="1" colspan="1">&#x02212;7.12&#x000b1;26.30</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">201.6&#x000b1;44.1</td><td align="center" rowspan="1" colspan="1">185.1&#x000b1;41.4</td><td align="center" rowspan="1" colspan="1">&#x02212;16.43&#x000b1;23.46*</td></tr><tr><td align="left" rowspan="2" colspan="1">HDLC (mg/dL)</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">46.6&#x000b1;15.4</td><td align="center" rowspan="1" colspan="1">44.3&#x000b1;10.2</td><td align="center" rowspan="1" colspan="1">&#x02212;2.31&#x000b1;11.09</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="left" rowspan="1" colspan="1">45.0&#x000b1;13.1</td><td align="center" rowspan="1" colspan="1">51.1&#x000b1;15.0<sup>&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">6.15&#x000b1;8.53*</td></tr><tr><td align="left" rowspan="2" colspan="1">Atherogenic index</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">4.01&#x000b1;2.13</td><td align="center" rowspan="1" colspan="1">3.80&#x000b1;1.41</td><td align="center" rowspan="1" colspan="1">&#x02212;0.20&#x000b1;1.54</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">3.87&#x000b1;1.94</td><td align="center" rowspan="1" colspan="1">2.98&#x000b1;1.58</td><td align="center" rowspan="1" colspan="1">&#x02212;0.89&#x000b1;1.17*</td></tr><tr><td align="left" rowspan="2" colspan="1">Apolipoprotein B</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">79.2&#x000b1;17.8</td><td align="center" rowspan="1" colspan="1">81.1&#x000b1;18.9</td><td align="center" rowspan="1" colspan="1">1.86&#x000b1;10.59</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">84.5&#x000b1;17.1</td><td align="center" rowspan="1" colspan="1">73.2&#x000b1;15.9<sup>&#x02020;&#x02020;&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">&#x02212;11.35&#x000b1;8.44***</td></tr><tr><td align="left" rowspan="2" colspan="1">Apolipoprotein A-1</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">152.3&#x000b1;26.5</td><td align="center" rowspan="1" colspan="1">153.3&#x000b1;28.8</td><td align="center" rowspan="1" colspan="1">0.96&#x000b1;23.73</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">151.0&#x000b1;28.9</td><td align="center" rowspan="1" colspan="1">156.2&#x000b1;32.6</td><td align="center" rowspan="1" colspan="1">5.18&#x000b1;14.60</td></tr><tr><td align="left" rowspan="2" colspan="1">ApoB/ApoA-1 ratio</td><td align="center" rowspan="1" colspan="1">CON</td><td align="center" rowspan="1" colspan="1">0.53&#x000b1;0.16</td><td align="center" rowspan="1" colspan="1">0.54&#x000b1;0.16</td><td align="center" rowspan="1" colspan="1">0.01&#x000b1;0.12</td></tr><tr><td align="center" rowspan="1" colspan="1">Exercise</td><td align="center" rowspan="1" colspan="1">0.58&#x000b1;0.17</td><td align="center" rowspan="1" colspan="1">0.49&#x000b1;0.19<sup>&#x02020;</sup></td><td align="center" rowspan="1" colspan="1">&#x02212;0.08&#x000b1;0.09**</td></tr></tbody></table><table-wrap-foot><p>Data are means. &#x02206;score = change in the score from before the exercise program to 12
+weeks, * p value of paired t-test (*p&#x0003c;0.05; **p&#x0003c;0.01; ***p&#x0003c;0.001).
+<sup>&#x02020;</sup> p value of two-way ANOVA test (group&#x000d7;time; <sup>&#x02020;</sup>p&#x0003c;0.05;
+<sup>&#x02020;&#x02020;</sup>p&#x0003c;0.01; <sup>&#x02020;&#x02020;&#x02020;</sup>p&#x0003c;0.001). TG, triglycerides; TC, total
+cholesterol; HDLC, high density lipoprotein cholesterol</p></table-wrap-foot></table-wrap>. A marker of cardiovascular fitness, VO<sub>2max</sub> (p&#x0003c;0.05),
+demonstrated statistically significant interactions. HDLC (p&#x0003c;0.05), apoB (p&#x0003c;0.001),
+and the apoB/apoA1 ratio (p&#x0003c;0.05) demonstrated statistically significant interactions. TC
+(p&#x0003c;0.05) and AI (p&#x0003c;0.05) demonstrated statistically significant decreases after 12
+weeks of exercise. However, TG and apoA1 did not demonstrate statistically significant
+differences.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The ACSM<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup> recommends 45 to 60 minutes
+of exercise daily, which consumes 300 to 400&#x02005;kcal, to improve obesity and reduce weight.
+Fogelholm<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> also reported that to
+effectively decrease weight, a minimum of 35 to 45 minutes of exercise per day for a total
+of 250 to 300 minutes per week are required. In this study&#x02019;s results, 12 weeks of aerobic
+exercise in obese women significantly decreased obesity indices such as weight, BMI, and
+percent body fat. It is thought that it was appropriate to set the exercise volume at a
+level that does not cause fatigue in the weight control program for obese women. However,
+there were no changes in blood pressure (SBP, DBP, MAP). This is thought to be due to the
+fact that the subjects had normal blood pressures.</p><p>Generally speaking, indices evaluating cardiorespiratory fitness (CRF) include
+VO<sub>2max</sub>, which represents the oxygen-carrying capacity of the active muscles
+during exercise. VO<sub>2max</sub> decreases by 1% per year (setting 25&#x02005;years as the
+standard), and the decrease in VO<sub>2max</sub> displays an intimate relationship with
+chronic diseases and CVD<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. Regular
+aerobic exercise is a good method for enhancing VO<sub>2max</sub>, enhancing cardiovascular
+function, and effectively preventing and delaying CVD<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. This study&#x02019;s results show a significant increase in
+VO<sub>2max</sub> after 12 weeks of aerobic exercise. In reality, Katzmarzyk et al.<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup> reported that aerobic exercise resulted in
+an increase in CRF in 19,173 obese subjects. Moreover, LaMonte et al.<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup> reported that VO<sub>2max</sub> is an independent and
+strong predictor of CVD and a metabolic risk factor in both women and men.</p><p>HDLC plays a critical role in maintaining homeostasis of the TC quantity. This role of HDLC
+is due to RCT, through which HDLC may block the formation of atherosclerosis<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. RCT eliminates surplus cholesterol
+residing in the macrophages of the arterial walls, transports it to the liver, and exports
+it in vitro, basically eliminating the production of atherosclerotic plaque<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. RCT is the only mechanism that can
+eliminate surplus cholesterol within the body, and is therefore a critical factor in
+maintaining appropriate concentrations and functions of HDLC in prevention of CVD.
+Specifically, low HDLC concentrations are known to independently raise the frequency of CVD
+along with other risk factors<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. Based on
+these results, HDLC demonstrated significant interactions. Jenkins et al.<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup> reported that aerobic exercise effectively
+increased HDLC concentrations, while Katzmarzyk et al.<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup> reported that HDLC concentrations increased in obese patients with
+metabolic syndrome, which was in line with our research. TC and AI decreased significantly
+after exercise training in the present study. Because the equation AI = (TC&#x02212;HDLC/HDLC) was
+used, increases in HDLC due to exercise and decreases in TC yielded a decrease in AI.
+Normally, an AI value &#x0003c; 3 is noted as normal<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>; after exercise in the present study, the values normalized, which
+indicates that the exercise training was effective.</p><p>ApoA1 is one of the most basic units in the formation of HDLC and is a critical component
+of HDLC. ApoA1 is synthesized in the liver and gastrointestinal tract and secreted into the
+plasma, and through the action of the cell membrane protein of the peripheral tissues, known
+as ATP-binding cassette transporter A1 (ABCA1), cholesterol within cells is transported to
+apoA1 and forms HDLC<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>. It is known that
+as the synthesis of apoA1 is increased by long-term exercise, catabolism decreases<xref rid="r23" ref-type="bibr">23</xref><sup>)</sup>. However, in this research, there were no
+significant increases in apoA1. Such results are thought to be due to the exercise volume or
+length not being sufficient to change the blood concentration of apoA1. Additionally, those
+kinetics of apoA1 may be attributable to the fact that the subjects were obese. In obese
+individuals, as compared with normal individuals, hypercatabolism occurs relative to apoA1
+synthesis speed<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>. In fact, the changes
+in apoA1 in this study are thought to be related to the apoA1 synthesis speed. However, it
+is difficult to arrive at conclusions based on insufficient data.</p><p>ApoB is a critical protein component of LDLC that increases the absorption of cellular
+cholesterol by combining LDL particles with the LDL receptor. Such apoB is intimately
+associated with blood concentrations of LDLC and CVD, and apoB plays an important role in
+improving blood lipid concentrations<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>.
+ApoB and the apoB/apoA1 ratio are clinical indices for metabolic risk factors, specifically
+predicting CVD risk and lowering cholesterol, which are useful markers for treatment
+progress. Recently, regular exercise has been shown to decrease the apoB level and
+apoB/apoA1 ratio, directly influencing CVD prevention<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>. Based on this study&#x02019;s results, apoB and the apoB/apoA1 ratio
+demonstrated significant interactions. Holme et al.<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup> reported that in a study with overweight males, regular aerobic
+exercise decreased apoB levels and the apoB/apoA1 ratio, and Ben Ounis et al.<xref rid="r26" ref-type="bibr">26</xref><sup>)</sup> reported the same findings. Also, Crouse
+et al.<xref rid="r27" ref-type="bibr">27</xref><sup>)</sup>, in a study involving adults
+with hypercholesterolemia, reported that aerobic exercise decreased apoB, and Janssen et
+al.<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup> showed that aerobic exercise and
+diet control in obese women decreased the apoB/apoA1 ratio. However, Henderson et al.<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup> reported that solitary exercise did not
+impact lipoproteins such as apoB and apoA1, so long-term aerobic exercise is thought to be
+relatively effective. Based on this study&#x02019;s results, regular aerobic exercise significantly
+improved the obesity index, CRF, blood HDLC, and apoB/apoA1 ratio in obese women. Such
+results suggest that regular exercise can effectively improve the obesity index along with
+cardiovascular risk factors. However, TG and apoA1 levels did not change significantly, so
+exercise intensity, frequency, and duration may need to be considered and increased.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="other">World Health Organization:
+Obesity and overweight. Global strategy on diet, physical activity and health,
+<year>2011</year>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Wooten</surname><given-names>JS</given-names></name><name><surname>Biggerstaff</surname><given-names>KD</given-names></name><name><surname>Anderson</surname><given-names>C</given-names></name></person-group>: <article-title>Response of lipid, lipoprotein-cholesterol, and
+electrophoretic characteristics of lipoproteins following a single bout of aerobic
+exercise in women</article-title>. <source>Eur J Appl Physiol</source>,
+<year>2008</year>, <volume>104</volume>: <fpage>19</fpage>&#x02013;<lpage>27</lpage>.
+<pub-id pub-id-type="pmid">18509669</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Walldius</surname><given-names>G</given-names></name><name><surname>Jungner</surname><given-names>I</given-names></name></person-group>: <article-title>Apolipoprotein B and apolipoprotein A-I: risk indicators
+of coronary heart disease and targets for lipid-modifying therapy</article-title>.
+<source>J Intern Med</source>, <year>2004</year>, <volume>255</volume>:
+<fpage>188</fpage>&#x02013;<lpage>205</lpage>. <pub-id pub-id-type="pmid">14746556</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Durstine</surname><given-names>JL</given-names></name><name><surname>Grandjean</surname><given-names>PW</given-names></name><name><surname>Cox</surname><given-names>CA</given-names></name><etal>et al.</etal></person-group>: <article-title>Lipids, lipoproteins, and exercise</article-title>.
+<source>J Cardiopulm Rehabil</source>, <year>2002</year>, <volume>22</volume>:
+<fpage>385</fpage>&#x02013;<lpage>398</lpage>. <pub-id pub-id-type="pmid">12464825</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Chapman</surname><given-names>MJ</given-names></name><name><surname>Assmann</surname><given-names>G</given-names></name><name><surname>Fruchart</surname><given-names>JC</given-names></name><etal>et al.</etal></person-group>European Consensus Panel on HDL-C: <article-title>raising high-density
+lipoprotein cholesterol with reduction of cardiovascular risk: the role of nicotinic
+acid&#x02014;a position paper developed by the European Consensus Panel on
+HDL-C</article-title>. <source>Curr Med Res Opin</source>, <year>2004</year>,
+<volume>20</volume>: <fpage>1253</fpage>&#x02013;<lpage>1268</lpage>. <pub-id pub-id-type="pmid">15324528</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Tsompanidi</surname><given-names>EM</given-names></name><name><surname>Brinkmeier</surname><given-names>MS</given-names></name><name><surname>Fotiadou</surname><given-names>EH</given-names></name><etal>et al.</etal></person-group>: <article-title>HDL biogenesis and functions: role of HDL quality and
+quantity in atherosclerosis</article-title>. <source>Atherosclerosis</source>,
+<year>2010</year>, <volume>208</volume>: <fpage>3</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">19595353</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Sniderman</surname><given-names>AD</given-names></name><name><surname>Faraj</surname><given-names>M</given-names></name></person-group>: <article-title>Apolipoprotein B, apolipoprotein A-I, insulin resistance
+and the metabolic syndrome</article-title>. <source>Curr Opin Lipidol</source>,
+<year>2007</year>, <volume>18</volume>: <fpage>633</fpage>&#x02013;<lpage>637</lpage>.
+<pub-id pub-id-type="pmid">17993808</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Wallenfeldt</surname><given-names>K</given-names></name><name><surname>Bokemark</surname><given-names>L</given-names></name><name><surname>Wikstrand</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Apolipoprotein B/apolipoprotein A-I in relation to the
+metabolic syndrome and change in carotid artery intima-media thickness during 3 years in
+middle-aged men</article-title>. <source>Stroke</source>, <year>2004</year>,
+<volume>35</volume>: <fpage>2248</fpage>&#x02013;<lpage>2252</lpage>. <pub-id pub-id-type="pmid">15345795</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Vaverkova</surname><given-names>H</given-names></name><name><surname>Karasek</surname><given-names>D</given-names></name><name><surname>Novotny</surname><given-names>D</given-names></name><etal>et al.</etal></person-group>: <article-title>Apolipoprotein B versus LDL-cholesterol: association with
+other risk factors for atherosclerosis</article-title>. <source>Clin Biochem</source>,
+<year>2009</year>, <volume>42</volume>: <fpage>1246</fpage>&#x02013;<lpage>1251</lpage>.
+<pub-id pub-id-type="pmid">19450572</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Sierra-Johnson</surname><given-names>J</given-names></name><name><surname>Somers</surname><given-names>VK</given-names></name><name><surname>Kuniyoshi</surname><given-names>FH</given-names></name><etal>et al.</etal></person-group>: <article-title>Comparison of apolipoprotein-B/apolipoprotein-AI in
+subjects with versus without the metabolic syndrome</article-title>. <source>Am J
+Cardiol</source>, <year>2006</year>, <volume>98</volume>:
+<fpage>1369</fpage>&#x02013;<lpage>1373</lpage>. <pub-id pub-id-type="pmid">17134631</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="book">American College of Sports
+Medicine: ACSM&#x02019;s Guidelines for exercise testing and prescription, 8th ed. Philadelpia:
+Lippincott Williams and Wilkins, <year>2010</year>.</mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>DY</given-names></name><name><surname>Jung</surname><given-names>SY</given-names></name><name><surname>Seo</surname><given-names>BD</given-names></name></person-group>: <article-title>Effect of exercise intervention on changes in free Fatty
+Acid levels and metabolic risk factors in stroke patients</article-title>. <source>J
+Phys Ther Sci</source>, <year>2014</year>, <volume>26</volume>:
+<fpage>275</fpage>&#x02013;<lpage>279</lpage>. <pub-id pub-id-type="pmid">24648648</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Haglund</surname><given-names>O</given-names></name><name><surname>Luostarinen</surname><given-names>R</given-names></name><name><surname>Wallin</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of fish oil on triglycerides, cholesterol,
+fibrinogen and malondialdehyde in humans supplemented with vitamin E</article-title>.
+<source>J Nutr</source>, <year>1991</year>, <volume>121</volume>:
+<fpage>165</fpage>&#x02013;<lpage>169</lpage>. <pub-id pub-id-type="pmid">1995786</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Fogelholm</surname><given-names>M</given-names></name></person-group>: <article-title>Walking for the management of obesity</article-title>.
+<source>Dis Manag Health Outcomes</source>, <year>2005</year>, <volume>13</volume>:
+<fpage>9</fpage>&#x02013;<lpage>18</lpage>. </mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Buskirk</surname><given-names>ER</given-names></name><name><surname>Hodgson</surname><given-names>JL</given-names></name></person-group>: <article-title>Age and aerobic power: the rate of change in men and
+women</article-title>. <source>Fed Proc</source>, <year>1987</year>,
+<volume>46</volume>: <fpage>1824</fpage>&#x02013;<lpage>1829</lpage>. <pub-id pub-id-type="pmid">3493922</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Katzmarzyk</surname><given-names>PT</given-names></name><name><surname>Church</surname><given-names>TS</given-names></name><name><surname>Janssen</surname><given-names>I</given-names></name><etal>et al.</etal></person-group>: <article-title>Metabolic syndrome, obesity, and mortality: impact of
+cardiorespiratory fitness</article-title>. <source>Diabetes Care</source>,
+<year>2005</year>, <volume>28</volume>: <fpage>391</fpage>&#x02013;<lpage>397</lpage>.
+<pub-id pub-id-type="pmid">15677798</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>LaMonte</surname><given-names>MJ</given-names></name><name><surname>Barlow</surname><given-names>CE</given-names></name><name><surname>Jurca</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Cardiorespiratory fitness is inversely associated with the
+incidence of metabolic syndrome: a prospective study of men and women</article-title>.
+<source>Circulation</source>, <year>2005</year>, <volume>112</volume>:
+<fpage>505</fpage>&#x02013;<lpage>512</lpage>. <pub-id pub-id-type="pmid">16009797</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Shah</surname><given-names>PK</given-names></name><name><surname>Kaul</surname><given-names>S</given-names></name><name><surname>Nilsson</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Exploiting the vascular protective effects of high-density
+lipoprotein and its apolipoproteins: an idea whose time for testing is coming, part
+I</article-title>. <source>Circulation</source>, <year>2001</year>,
+<volume>104</volume>: <fpage>2376</fpage>&#x02013;<lpage>2383</lpage>. <pub-id pub-id-type="pmid">11696481</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Fielding</surname><given-names>CJ</given-names></name><name><surname>Fielding</surname><given-names>PE</given-names></name></person-group>: <article-title>Molecular physiology of reverse cholesterol
+transport</article-title>. <source>J Lipid Res</source>, <year>1995</year>,
+<volume>36</volume>: <fpage>211</fpage>&#x02013;<lpage>228</lpage>. <pub-id pub-id-type="pmid">7751809</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Singh</surname><given-names>IM</given-names></name><name><surname>Shishehbor</surname><given-names>MH</given-names></name><name><surname>Ansell</surname><given-names>BJ</given-names></name></person-group>: <article-title>High-density lipoprotein as a therapeutic target: a
+systematic review</article-title>. <source>JAMA</source>, <year>2007</year>,
+<volume>298</volume>: <fpage>786</fpage>&#x02013;<lpage>798</lpage>. <pub-id pub-id-type="pmid">17699012</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Jenkins</surname><given-names>NT</given-names></name><name><surname>McKenzie</surname><given-names>JA</given-names></name><name><surname>Damcott</surname><given-names>CM</given-names></name><etal>et al.</etal></person-group>: <article-title>Endurance exercise training effects on body fatness,
+VO<sub>2max</sub>, HDL-C subfractions, and glucose tolerance are influenced by a PLIN
+haplotype in older Caucasians</article-title>. <source>J Appl Physiol 1985</source>,
+<year>2010</year>, <volume>108</volume>: <fpage>498</fpage>&#x02013;<lpage>506</lpage>.
+<pub-id pub-id-type="pmid">19850727</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Attie</surname><given-names>AD</given-names></name><name><surname>Kastelein</surname><given-names>JP</given-names></name><name><surname>Hayden</surname><given-names>MR</given-names></name></person-group>: <article-title>Pivotal role of ABCA1 in reverse cholesterol transport
+influencing HDL levels and susceptibility to atherosclerosis</article-title>. <source>J
+Lipid Res</source>, <year>2001</year>, <volume>42</volume>:
+<fpage>1717</fpage>&#x02013;<lpage>1726</lpage>. <pub-id pub-id-type="pmid">11714841</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Olchawa</surname><given-names>B</given-names></name><name><surname>Kingwell</surname><given-names>BA</given-names></name><name><surname>Hoang</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Physical fitness and reverse cholesterol
+transport</article-title>. <source>Arterioscler Thromb Vasc Biol</source>,
+<year>2004</year>, <volume>24</volume>: <fpage>1087</fpage>&#x02013;<lpage>1091</lpage>.
+<pub-id pub-id-type="pmid">15072992</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Ooi</surname><given-names>EM</given-names></name><name><surname>Watts</surname><given-names>GF</given-names></name><name><surname>Farvid</surname><given-names>MS</given-names></name><etal>et al.</etal></person-group>: <article-title>High-density lipoprotein apolipoprotein A-I kinetics in
+obesity</article-title>. <source>Obes Res</source>, <year>2005</year>,
+<volume>13</volume>: <fpage>1008</fpage>&#x02013;<lpage>1016</lpage>. <pub-id pub-id-type="pmid">15976143</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Holme</surname><given-names>I</given-names></name><name><surname>H&#x000f8;stmark</surname><given-names>AT</given-names></name><name><surname>Anderssen</surname><given-names>SA</given-names></name></person-group>: <article-title>ApoB but not LDL-cholesterol is reduced by exercise
+training in overweight healthy men. Results from the 1-year randomized Oslo Diet and
+Exercise Study</article-title>. <source>J Intern Med</source>, <year>2007</year>,
+<volume>262</volume>: <fpage>235</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="pmid">17645591</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Ben Ounis</surname><given-names>O</given-names></name><name><surname>Elloumi</surname><given-names>M</given-names></name><name><surname>Makni</surname><given-names>E</given-names></name><etal>et al.</etal></person-group>: <article-title>Exercise improves the ApoB/ApoA-I ratio, a marker of the
+metabolic syndrome in obese children</article-title>. <source>Acta Paediatr</source>,
+<year>2010</year>, <volume>99</volume>: <fpage>1679</fpage>&#x02013;<lpage>1685</lpage>.
+<pub-id pub-id-type="pmid">20594189</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Crouse</surname><given-names>SF</given-names></name><name><surname>O&#x02019;Brien</surname><given-names>BC</given-names></name><name><surname>Grandjean</surname><given-names>PW</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of training and a single session of exercise on
+lipids and apolipoproteins in hypercholesterolemic men</article-title>. <source>J Appl
+Physiol 1985</source>, <year>1997</year>, <volume>83</volume>:
+<fpage>2019</fpage>&#x02013;<lpage>2028</lpage>. <pub-id pub-id-type="pmid">9390976</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Janssen</surname><given-names>I</given-names></name><name><surname>Fortier</surname><given-names>A</given-names></name><name><surname>Hudson</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of an energy-restrictive diet with or without
+exercise on abdominal fat, intermuscular fat, and metabolic risk factors in obese
+women</article-title>. <source>Diabetes Care</source>, <year>2002</year>,
+<volume>25</volume>: <fpage>431</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="pmid">11874926</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Henderson</surname><given-names>GC</given-names></name><name><surname>Krauss</surname><given-names>RM</given-names></name><name><surname>Fattor</surname><given-names>JA</given-names></name><etal>et al.</etal></person-group>: <article-title>Plasma triglyceride concentrations are rapidly reduced
+following individual bouts of endurance exercise in women</article-title>. <source>Eur J
+Appl Physiol</source>, <year>2010</year>, <volume>109</volume>:
+<fpage>721</fpage>&#x02013;<lpage>730</lpage>. <pub-id pub-id-type="pmid">20217117</pub-id></mixed-citation></ref></ref-list></back></article>

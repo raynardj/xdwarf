@@ -1,0 +1,766 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nucl Recept Signal</journal-id><journal-id journal-id-type="iso-abbrev">Nucl Recept Signal</journal-id><journal-id journal-id-type="publisher-id">NRS</journal-id><journal-title-group><journal-title>Nuclear Receptor Signaling</journal-title></journal-title-group><issn pub-type="epub">1550-7629</issn><publisher><publisher-name>Nuclear Receptor Signaling Atlas</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25422593</article-id><article-id pub-id-type="publisher-id">nrs12003</article-id><article-id pub-id-type="doi">10.1621/nrs.12003</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>A screening cascade to identify ER&#x003b2; ligands</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Filgueira</surname><given-names>Carly S.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Benod</surname><given-names>Cindy</given-names></name></contrib><contrib contrib-type="author"><name><surname>Lou</surname><given-names>Xiaohua</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gunamalai</surname><given-names>Prem S.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Villagomez</surname><given-names>Rosa A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Strom</surname><given-names>Anders</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gustafsson</surname><given-names>Jan-&#x000c5;ke</given-names></name></contrib><contrib contrib-type="author"><name><surname>Berkenstam</surname><given-names>Anders L.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Webb</surname><given-names>Paul</given-names></name></contrib><aff id="aff1">Genomic Medicine, Houston Methodist Research Institute (CSF, CB, XL,
+PSG, RAV, ALB, PW) and Center for Nuclear Receptors and Cell Signaling,
+University of Houston (AS, JAG, ALB, PW), Houston, Texas,
+<country>USA</country>.</aff></contrib-group><author-notes><corresp id="cor1">PW: <email xlink:href="pwebb@HoustonMethodist.org">pwebb@HoustonMethodist.org</email></corresp><fn id="afn1"><p>Author contributions: CSF, CCB, PSG, RV, and XL contributed to the protein
+expression and purification. CSF and PSG performed all of the assays. CSF,
+ALB, J&#x000c5;G, and PW conceived the study and participated in the
+experimental design. AS contributed to the use of the prostate cancer cell
+model. CSF, ALB, J&#x000c5;G and PW drafted the manuscript. All authors read
+and approved the final manuscript.</p></fn></author-notes><pub-date pub-type="collection"><year>2014</year></pub-date><pub-date pub-type="epub"><day>04</day><month>11</month><year>2014</year></pub-date><volume>12</volume><elocation-id>e003</elocation-id><history><date date-type="received"><day>30</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>18</day><month>9</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 Filgueira et al.</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Filgueira et al.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/2.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Non-Commercial
+Attribution License, which permits unrestricted non-commercial use distribution and reproduction in any medium, provided the
+original work is properly cited.</license-p></license></permissions><abstract><p>The establishment of effective high throughput screening cascades to identify
+nuclear receptor (NR) ligands that will trigger defined, therapeutically useful
+sets of NR activities is of considerable importance. Repositioning of existing
+approved drugs with known side effect profiles can provide advantages because de
+novo drug design suffers from high developmental failure rates and undesirable
+side effects which have dramatically increased costs. Ligands that target
+estrogen receptor &#x003b2; (ER&#x003b2;) could be useful in a variety of diseases
+ranging from cancer to neurological to cardiovascular disorders. In this
+context, it is important to minimize cross-reactivity with ER&#x003b1;, which has
+been shown to trigger increased rates of several types of cancer. Because of
+high sequence similarities between the ligand binding domains of ER&#x003b1; and
+ER&#x003b2;, preferentially targeting one subtype can prove challenging. Here, we
+describe a sequential ligand screening approach comprised of complementary
+in-house assays to identify small molecules that are selective for ER&#x003b2;.
+Methods include differential scanning fluorimetry, fluorescence polarization and
+a GAL4 transactivation assay. We used this strategy to screen several
+commercially-available chemical libraries, identifying thirty ER&#x003b2; binders
+that were examined for their selectivity for ER&#x003b2; versus ER&#x003b1;, and
+tested the effects of selected ligands in a prostate cancer cell proliferation
+assay. We suggest that this approach could be used to rapidly identify
+candidates for drug repurposing.</p></abstract><kwd-group kwd-group-type="author"><title>Keywords: </title><kwd>Screening</kwd><kwd>gene expression</kwd><kwd>drugs</kwd><kwd>nuclear receptors</kwd><kwd>chemical libraries</kwd><kwd>gene regulation</kwd></kwd-group></article-meta><notes><def-list list-type="simple" list-content="abbreviations"><def-item><term>ER</term><def><p>estrogen receptor</p></def></def-item><def-item><term>&#x000a0;DSF</term><def><p>differential scanning fluorimetry</p></def></def-item><def-item><term>&#x000a0;DHEA</term><def><p>dehydroepiandrosterone</p></def></def-item><def-item><term>E2</term><def><p>estradiol</p></def></def-item><def-item><term>&#x000a0;FP</term><def><p>fluorescence polarization</p></def></def-item><def-item><term>Gen</term><def><p>genistein</p></def></def-item><def-item><term>LBD</term><def><p>ligand binding domain</p></def></def-item><def-item><term>&#x000a0;NR</term><def><p>nuclear receptor</p></def></def-item></def-list></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>Nuclear receptors (NRs) regulate a variety of biological processes and are critically
+important in the emergence, prevention, and treatment of an array of diseases. NRs
+are regulated by small, exchangeable, lipophilic molecules, which make them optimal
+targets for drug discovery [<xref rid="r1" ref-type="bibr">1</xref>&#x02013;<xref rid="r3" ref-type="bibr">3</xref>]. While NRs are considered useful therapeutic
+targets for prevention and/or treatment of diseases such as cancer [<xref rid="r4" ref-type="bibr">4</xref>], metabolic [<xref rid="r5" ref-type="bibr">5</xref>], and neurodegenerative diseases [<xref rid="r6" ref-type="bibr">6</xref>], efforts to develop new NR-based therapeutics have often been stalled
+or curtailed due to unexpected side effects that can arise from undesired
+cross-reactivity with other NRs and off-target effects. It is important to develop
+approaches to selectively target therapeutically useful subsets of NR activities in
+order to obtain effective NR drugs with improved side effect profiles.</p><p>One rapid route towards development of new safe treatments to target NRs could
+involve repurposing of existing drugs. Drug repurposing includes several advantages
+such as safety, financial, market potential, return on investment, out-licensing
+potential, and time to market [<xref rid="r7" ref-type="bibr">7</xref>]. During
+clinical trials, safety accounts for approximately 30% of drug failure rates [<xref rid="r8" ref-type="bibr">8</xref>]. Since repurposed drugs already meet
+established regulatory safety requirements, they possess a significant advantage
+over competing drugs in development, leaving drug effectiveness for the particular
+indication as the primary concern. While it may cost more than USD 800 million to
+develop a drug de novo, repurposing averages approximately USD 8.4 million [<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r10" ref-type="bibr">10</xref>].
+The financial savings therefore create a significant economic incentive for this
+avenue of drug development. What may be most significant to the end user, however,
+is time to market. It is estimated to take 10 to 17 years to develop a drug de novo,
+whereas a repositioned drug could be moved directly to phase II clinical trials
+[<xref rid="r9" ref-type="bibr">9</xref>]. For these purposes, it is essential
+to develop reliable methods to identify useful candidates among large numbers of
+approved candidate drugs.</p><p>Estrogen receptor &#x003b2; (ER&#x003b2;) is an attractive target for drug development.
+While original models of estrogen action suggested that only a single ER gene (which
+encodes a protein that is now termed ER&#x003b1;) was responsible for transducing
+signals of estradiol and other ligands [<xref rid="r11" ref-type="bibr">11</xref>],
+the discovery in 1996 of a second ER gene, encoding ER&#x003b2;, prompted a
+reevaluation of the estrogen signaling system. It is now known that ER&#x003b1; and
+ER&#x003b2; play different roles in gene regulation [<xref rid="r12" ref-type="bibr">12</xref>] and that ER&#x003b1; and ER&#x003b2; have overlapping but distinctive
+tissue distributions and non-redundant roles [<xref rid="r13" ref-type="bibr">13</xref>]. These considerations have led to the suggestion that ER&#x003b2;
+could be an attractive therapeutic target for the development of selective agonists
+to treat and prevent neurodegenerative diseases [<xref rid="r14" ref-type="bibr">14</xref>] and other diseases, including autoimmune diseases, endometriosis,
+depression, hypertension, and colon, breast, prostate, lung, and skin cancer [<xref rid="r15" ref-type="bibr">15</xref>]. It is important that such ligands should
+not cross-react with ER&#x003b1;, which triggers classical estrogenic side effects,
+such as breast or uterine stimulation, thereby increasing a woman&#x02019;s chance of
+developing breast or uterine cancer, and gynecomastia and decreased libido in men
+[<xref rid="r16" ref-type="bibr">16</xref>]. Presently, natural and synthetic
+estrogens for ER&#x003b2; are being studied in colon cancer, breast cancer, lung
+cancer, schizophrenia, and metabolic syndrome [<xref rid="r17" ref-type="bibr">17</xref>]. While the agonist ERB-041 failed to demonstrate efficacy in a Phase
+II double-blind clincial trial for rheumatoid arthritis, further studies are
+warranted to examine ER&#x003b2;-selective efficacy in other inflammatory disorders
+[<xref rid="r18" ref-type="bibr">18</xref>]. With many other clinical trials
+still in progress awaiting completion of the study followed by publication of the
+findings, it is still too early to make any definitive conclusions about these drugs
+and their effects. The discovery of potentially beneficial effects of selective
+ER&#x003b2; ligands on prostate cancer proliferation and apoptosis in the absence of
+full ER&#x003b1; or ER&#x003b2; agonism has raised hopes that applications for new
+safe selective ER&#x003b2; modulator ligands could emerge in the context of this
+disease [<xref rid="r19" ref-type="bibr">19</xref>&#x02013;<xref rid="r22" ref-type="bibr">22</xref>].</p><p>Although ER&#x003b1; and ER&#x003b2; are highly homologous in their ligand-binding
+domains (LBDs), differences exist in ligand binding affinity and/or specificity
+between the ER subtypes. Further, the structural diversity of estrogenic chemicals
+is very broad [<xref rid="r23" ref-type="bibr">23</xref>]. Environmental chemicals
+(such as polychlorinated hydroxybiphenyls, dichlorodiphenyltrichloroethane (DDT) and
+derivatives, alkylphenols, bisphenol A, methoxychlor and chlordecone) and
+phytoestrogens (such as genistein, coumestrol and zearalenone) show estrogenic
+activity and bind both ER subtypes, with some ligands showing stronger binding to
+ER&#x003b2; [<xref rid="r24" ref-type="bibr">24</xref>]. Additionally, synthetic
+estrogen agonists and antagonists have been developed with diverse chemical
+structures, such as diethylstilbestrol, moxestrol, and tamoxifen. Fink <italic>et
+al.</italic> [<xref rid="r25" ref-type="bibr">25</xref>] used a combinatorial
+synthetic approach to modify an azole core structure to generate binding, while
+others, such as Manas <italic>et al.</italic> [<xref rid="r26" ref-type="bibr">26</xref>], employed molecular modeling for selectivity enhancement. To date,
+however, highly selective antagonists have not been designed [<xref rid="r27" ref-type="bibr">27</xref>].</p><p>We hypothesize that it may be possible to identify novel and potentially useful ER
+ligands among libraries of existing approved drugs. As mentioned, the ERs recognize
+a broad range of non-steroidal ligand structures, exemplified by their recognition
+of the hydroxystilbene backbone of diethylstilbestrol and 4-hydroxytamoxifen [<xref rid="r28" ref-type="bibr">28</xref>] and by the fact that many compounds act as
+estrogenic endocrine disruptors. Non-steroidal ligands have gained attention as
+potential ER therapeutics since they are thought to have diminished cross-reactivity
+with other NRs, which can eliminate side effects, as well as altered physicochemical
+properties, which can result in unique and potentially useful tissue
+distributions.</p><p>To identify novel ER modulators, it is important to devise rapid and reliable methods
+to detect ER ligands and to define subtype selectivity. Here, we report a screening
+strategy for ER&#x003b2; ligands that relies on application of sequential orthogonal
+assays. We present evidence that our overall screening strategy is effective at
+identifying selective ER&#x003b2; modulators from a large collection of compound
+libraries and test effects of representative ligands in an ER&#x003b2;-dependent
+prostate cancer model system.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Reagents</title><p>Reagents were obtained from the following manufacturers: LB Broth, Ampicillin
+Sodium Salt, HisPur Cobalt Resin (Fisher Scientific, Waltham, MA); IPTG (RPI
+Corp., Mt. Prospect, IL); Complete EDTA-Free Protease Inhibitor Cocktail
+Tablets, Lightcycler 480 II RT-PCR (Roche Applied Science, Indianapolis, IN);
+SYPRO&#x000ae; Orange Protein Gel Stain 5000x Concentrate in DMSO (Life
+Technologies, Grand Island, NY); 2-Mercaptoethanol, Electrophoresis &#x02265;98%,
+(Fisher BioReagents, Waltham, MA); DMSO (Sigma Aldrich, St. Louis, MO); Amicon
+Ultra-15 Centrifugal Filter Units (EMD Millipore, Billerica, MA); MultiTron
+Incubated Shaker (INFORS HT, Bottmingen, Switzerland); Ultrasonic Liquid
+Processor (Misonix, Inc., Farmingdale, NY); &#x000c4;KTA purifier FPLC, Nanodrop
+Spectrophotometer ND-1000 (GE Healthcare Life Sciences, Piscataway, NJ);
+Envision 2104 multilabel reader (Perkin Elmer, Waltham, MA); Prestwick Chemical
+Library<sup>&#x000ae;</sup> (Prestwick Chemical, Illkirch, France); NIH
+Clinical Collection 1 and 2 (Evotec, San Francisco, CA); Custom Clinical
+Collection (provided by Cliff Stephan at the GCC); National Cancer Institute
+Diversity, Natural Products, Mechanistic, and Challenge Sets (NCI/NIH
+Developmental Therapeutics Program, Bethesda, MD); BL21 Star&#x02122; (DE3),
+Competent <italic>E. coli</italic>, PolarScreen&#x02122; ER-&#x003b2; Competitor
+Assay, Green and PolarScreen&#x02122; ER-&#x003b1; Competitor Assay, Green (Life
+Technologies, Carlsbad, CA).</p></sec><sec><title>Production and purification of ER&#x003b2;</title><p>BL21 <italic>E. Coli</italic> cells were transformed with an expression vector
+containing a sequence encoding His<sub>6</sub>-hER&#x003b2; LBD (261-530).
+Freshly transformed cells were grown at 22&#x000b0;C at 160 rpm in 1 L LB Broth
+Miller supplemented with 1 mL of 100 mg/mL ampicillin per flask with a MultiTron
+Incubated Shaker for approximately 24 hours until reaching mid-log phase of
+growth. The culture was cooled to 16&#x000b0;C, induced with 1 mL of 100 mM IPTG
+per 1 L culture, and allowed to continue to grow while shaking at 160 rpm for
+another 24 hours. Cells were pelleted at 4000 x g at 4&#x000b0;C for 20 minutes
+and resuspended in 40 mL of lysis buffer supplemented with 0.1% BME (300 mM
+NaCl, 20 mM Tris, 20 mM Imidazole, 10% glycerol @ pH 8.0) per 1 L culture. Cells
+and/or protein were kept on ice or at 4&#x000b0;C throughout the purification.
+Cells were pelleted again for 10 minutes at 3400 x g, the supernatant was
+removed, and stored at -80&#x000b0;C until use. One tablet of EDTA-free protease
+inhibitor cocktail was added per 1 L culture, and the cells were resuspended in
+lysis buffer and lysed by sonication using an Ultrasonic Liquid Processor. The
+lysate was clarified by centrifugation at 34500 x g for 40 minutes. The
+supernatant was added to HisPur Cobalt Resin (4 mL beads per culture) and placed
+on a shaker in the cold room for between 1 and 1.5 hours and pelleted at 215 x g
+for 5 minutes. The supernatant was discarded and the beads were resuspended in
+lysis buffer supplemented with 0.1% BME. The beads and buffer were poured
+through a gravity-flow column in the cold room. After allowing the lysate to
+flow-through, the column was washed with 20 mL of elution buffer supplemented
+with 0.1% BME (300 mM NaCl, 20 mM Tris, 300 mM Imidazole, 10% glycerol @ pH
+8.0). The eluted protein was then concentrated by centrifuging with 10 kDa
+centrifugal filter units at 2600 x g until the volume was less than 5 mL and
+injected into an &#x000c4;KTApurifier FPLC and purified by gel filtration using a
+HiLoad 16/600 Superdex 75 in gel filtration buffer (150 mM NaCl, 20 mM Tris, 10
+mM DTT, 10% glycerol, @ pH 8.0). Fractions under the peak spanning at a
+retention volume of around 60 mL were pooled and concentrated by centrifuging
+with 10 kDa centrifugal filter units at 2600 x <italic>g</italic>.</p></sec><sec><title>Protein melting curves</title><p>The Roche Lightcycler 480 II RT-PCR machine was programmed to equilibrate samples
+at 25&#x000b0;C for 10 seconds and then increase temperature to 95&#x000b0;C at a
+rate of 0.05&#x000b0;C/second, taking 11 acquisitions per &#x000b0;C. The melting
+point of the protein was obtained as the lowest point of first derivative plot,
+as calculated by the software included with the RT-PCR machine.</p><p>Optimal concentrations of ER&#x003b2; LBD and SYPRO orange dye were determined by
+performing differential scanning fluorimetry (DSF) on varying concentrations of
+protein and SYPRO orange in screening buffer (0.15 M NaCl, 0.01 M Tris, 0.001 M
+DTT @ pH 7.4). For ER&#x003b2;, the optimal conditions were 0.02 mg/mL protein
+(as determined by the absorbance at 280nm from a Nanodrop Spectrophotometer),
+screening buffer and 2X SYPRO orange (diluted from 5000X concentrate) within the
+reaction well.</p><p>20 &#x003bc;L reactions were conducted in a single well of a 384-well white PCR
+plate by combining 19 &#x003bc;L of protein solution (0.02 mg/mL in screening
+buffer) with 2X Sypro orange (diluted from a 500X substock in DMSO) and
+1&#x003bc;L of solution containing either 10 mM ligand in DMSO or DMSO (as
+vehicle control). Approximately 3,000 compounds evaluated from several compound
+library sources, including The Prestwick Chemical Library<sup>&#x000ae;</sup>
+(100% FDA approved drugs), the NIH Clinical Collection (small molecules that
+have a history of use in human clinical trials), the Custom Clinical Collection
+(of which 57% of the compounds are currently used in the clinic for the
+treatment of various forms of cancer and 37% of the compounds are in clinical
+trials), and the NCI Diversity (compounds identified using the program Chem-X),
+Natural Products (compounds selected from an open repository of 140,000
+compounds), Mechanistic (compounds that have been tested in the NCI human tumor
+60 cell line screen), and Challenge (compounds of novel structural types) Sets
+were screened. All library test compounds were performed in duplicate wells in
+384-well white Roche qPCR microplates. The plates were sealed and centrifuged
+and then loaded on a Roche Light Cycler 480II.</p></sec><sec><title>Fluorescence polarization</title><p>A secondary fluorescence polarization (FP) assay was used to quantitatively
+determine receptor subtype preference and affinity (&#x003b2; versus &#x003b1;).
+The FP assay was performed using a Polarscreen&#x02122; ER&#x003b2; Competitor
+Assay, Green from Life Technologies. Compounds were serially diluted in DMSO,
+and transferred into ER&#x003b2; Green Screening Buffer. Black, multiwell plates
+were used and the assay was incubated for two hours in the dark before reading
+on a Perkin Elmer EnVision<bold>&#x000ae;</bold> 2104 Multilabel Reader capable
+of reading fluorescence polarization.</p></sec><sec><title>Transactivation assays</title><p>A tertiary cell-based GAL4 transactivation assay was used to qualitatively
+determine ligand-dependent transactivation of ER&#x003b2; to distinguish agonism
+from partial agonism or antagonism. Human embryonic kidney (HEK) 293T cells were
+transiently transfected with GAL4 DBD-ER&#x003b2; LBD and a GAL4 response element
+linked to a luciferase reporter gene (luc2P/9XGAL4UAS/Hygro) reporter. Cells
+were plated and transfected at a density of 1.2x10<sup>5</sup> cells per well of
+a 24-well plate using FuGENE&#x000ae; HD Transfection Reagent (Promega) and were
+maintained in DMEM without phenol-red supplemented with charcoal stripped serum
+and 1x Pen/Strep antibiotics (500 &#x003bc;L/well). Either vehicle (DMSO) or
+increasing doses of the test compounds were added to the cells 24 hours after
+transfection, and cells were assayed for luciferase activity after overnight
+treatment. Luciferase values were normalized to a <italic>Renilla</italic>
+control. Luminescence and <italic>Renilla</italic> luciferase activity were
+measured on a Tecan Safire2&#x02122; Microplate Reader. The data was fit using
+Prism software. Similar assays that employed expression vectors for full length
+ER&#x003b1; or ER&#x003b2; were used to define effects of selected ligands on both
+receptor subtypes. HeLa cells were transiently transfected with full length
+ER&#x003b1; or ER&#x003b2; cloned into the pSG5 expression vector (Promega) and a
+ERE response element linked to a luciferase reporter gene in pGL4 vector as
+previously described [<xref rid="r29" ref-type="bibr">29</xref>]. Cells were
+plated at a density of 1.0x10<sup>5</sup> cells per well of a 12-well plate and
+maintained in DMEM without phenol-red supplemented with charcoal stripped serum
+and 1x Pen/Strep antibiotics (1000 &#x003bc;L/well). The co-transfections were
+performed using the TransFectin Lipid reagent (Bio-Rad) with approximately 10
+ng/well of full length ER&#x003b1; or ER&#x003b2;, 10 ng/well of renilla
+luciferase gene (Promega) for internal control and 200 ng/well of ERE-Luc.
+Approximately, 5 h after transfections, cells were treated with compounds of
+interest (1 &#x003bc;M final concentration), or solvent (DMSO). After overnight
+incubation, luciferase activities were assessed using Dual Luciferase assay
+reagent (Promega). Luciferase activities were calculated by normalizing firefly
+luciferase to renilla luciferase signal. Normalized luciferase activities were
+then represented relative to control (DMSO-treated cells).</p></sec><sec><title>Cell proliferation</title><p>Cell proliferation of LNCaP cells (ATCC<sup>&#x000ae;</sup> CRL-1740&#x02122;) was
+assessed using the CellTiter-Glo&#x000ae; Luminescent Cell Viability Assay
+(Promega). 50,000 cells per well were plated using TrypLE&#x02122; Select Enzyme
+(1X), no phenol red (Gibco&#x000ae;) and phenol-free RPMI (Mediatech)
+supplemented with charcoal stripped serum and 1x Pen/Strep antibiotics. Cells
+were centrifuged, redispersed in complete media, and seeded in Corning black
+96-well flat clear bottom microplates. Wells were filled with either 100
+&#x003bc;L of complete media without cells (to obtain a value for background
+luminescence) or media with cells. After 24 h, cells were treated with either 1
+&#x003bc;L of DMSO or test compound (1 &#x003bc;M final concentration). After an
+additional 24 h, the plate and its contents were equilibrated to room
+temperature for approximately 30 minutes and an equal volume (100 &#x003bc;L) of
+CellTiter-Glo&#x000ae; Reagent was added. Plates were shaken for 2 minutes on an
+orbital shaker to induce cell lysis and allowed to incubate at room temperature
+for 10 minutes to stabilize luminescent signal. Luminescence was recorded using
+an integration time of 1 second per well.</p></sec></sec><sec sec-type="results"><title>Results</title><p>We expressed his-tagged ER&#x003b2; LBD in <italic>E. coli</italic> as described in
+methods and purified the material using a standard affinity column. Upon further
+purification over a gel filtration column, we noted that the chromatogram yielded
+two distinct 280 nm absorbance peaks at retention volumes of ~45 mL and ~61 mL,
+respectively (<xref ref-type="fig" rid="f1">Figure 1a</xref>). Once pooled and
+concentrated, SDS-PAGE (<xref ref-type="fig" rid="f1">Figure 1b</xref>) indicated
+that the second protein eluted from the column has a mass estimate of 30 kDa and
+should correspond to our protein of interest, His<sub>6</sub>-hER&#x003b2; LBD (30864
+Da). Mass spectrometry analysis indicated that the first peak contained mostly
+transcription termination factor Rho OS from <italic>E. coli</italic> (strain K12)
+and confirmed that the second peak is His<sub>6</sub>-hER&#x003b2; LBD. The
+ER&#x003b2; peptides identified are shown in Supplementary File 1.</p><fig id="f1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><title>&#x000c4;KTA chromatogram and SDS-PAGE for the purification of ER&#x003b2;
+LBD.</title><p>Representative size-exclusion chromatogram from the &#x000c4;KTA purifier FPLC
+for the purification of ER&#x003b2; LBD (A) and Coomassie stained SDS-PAGE
+gel after SEC of the pooled and concentrated eluted fractions at ~61 mL
+corresponding to ER&#x003b2; LBD (B).</p></caption><graphic xlink:href="nrs-12-003-g1"/></fig><p>We chose to apply DSF, also known as the thermofluor-binding assay, as our first
+approach towards ER&#x003b2; ligand identification. This technique relies upon the
+fact that protein stability is commonly enhanced upon ligand binding. Fundamentally,
+as the increasing temperature forces protein unfold, normally buried residues of a
+protein's hydrophobic core are exposed increasing the fluorescence of a dye
+with an affinity for hydrophobic surface. The assay has been adapted for a
+conventional real-time PCR instrument in our laboratory and can be performed with 96
+or 384-well plate formats [<xref rid="r30" ref-type="bibr">30</xref>&#x02013;<xref rid="r32" ref-type="bibr">32</xref>]. We used doubly purified ER&#x003b2; LBD as
+we reasoned that use of partially pure material that retained the RhoOS contaminant
+in DSF could result in detection of multiple melting point (Tm) transitions and
+potentially confusing results. Purified unliganded His<sub>6</sub>-hER&#x003b2; LBD
+produced a denaturation curve with a Tm of ~51 &#x000ba;C when tested in DSF (<xref ref-type="fig" rid="f2">Figure 2a</xref>). While slightly depressed in
+intensity, no significant shift in the melting temperature of ER&#x003b2; LBD was
+recorded following treatment of the purified protein with DMSO (<xref ref-type="fig" rid="f2">Figure 2a</xref>).</p><fig id="f2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><title>DSF assay to determine the binding of ligands from compound libraries to
+ER&#x003b2; LBD.</title><p>Representative DSF output from the RT-PCR machine as graphs displaying the
+first derivative of fluorescence versus temperature for (A) unliganded
+ER&#x003b2; LBD and unliganded ER&#x003b2; LBD with DMSO and (B-D) ER&#x003b2;
+LBD with the addition of ligand (final concentration 500 &#x003bc;M). Ethinyl
+estradiol (EE) is represented by the purple trace in B.</p></caption><graphic xlink:href="nrs-12-003-g2"/></fig><p>We used DSF to evaluate binding of approximately 3,000 test compounds derived from
+several sources: The Prestwick Chemical Library<sup>&#x000ae;</sup> (100% FDA
+approved drugs), the NIH Clinical Collection (small molecules with a history of use
+in human clinical trials), the Custom Clinical Collection (57% of compounds are
+currently used in the clinic for the treatment of various forms of cancer and 37% of
+compounds are in clinical trials), NCI Diversity (compounds identified using the
+program Chem-X, which uses defined centers and defined distance intervals to create
+a particular finite set of pharmacophores) [<xref rid="r33" ref-type="bibr">33</xref>], Natural Products (selected from an open repository of 140,000
+compounds), Mechanistic (compounds tested in the NCI human tumor 60 cell line
+screen), and Challenge Sets (compounds of novel structural types). We were able to
+eliminate a large number of false positives by manual curation. Several compounds
+which scored as hits were eliminated because of large volume and complex chemical
+structure which suggested that they should not bind inside the ER&#x003b2; pocket
+(which is approximately 450 cubic angstroms and twice the molecular volume occupied
+by the estradiol molecule itself) [<xref rid="r24" ref-type="bibr">24</xref>, <xref rid="r34" ref-type="bibr">34</xref>, <xref rid="r35" ref-type="bibr">35</xref>]
+in a conventional manner. After this step, we were left with 60 potential hit
+compounds that elicited a noticeable and significant change in the melting
+temperature of the purified ER&#x003b2; LBD protein.</p><p>Detection of 60 putative binders from the initial screen corresponded to a 2% primary
+hit rate, which appeared slightly high. It is not unusual for promiscuous compounds
+to invade compound screening and appear active in many assays; therefore,
+substructure filters have been developed to help reduce pan assay interference
+[<xref rid="r36" ref-type="bibr">36</xref>]. We systematically and manually
+filtered and removed interference compounds and reduced the list to 40 potential
+putative ER&#x003b2; binding compounds (yielding a 1.3% hit rate, which appeared
+genuine). Our remaining ligand set produced denaturation curves with discernable
+transitions when compared to unliganded ER&#x003b2; LBD. <xref ref-type="fig" rid="f2">Figure 2</xref> shows the negative derivative of the melting traces
+(derivative curves) obtained with several small molecules screened that were
+identified as potential ER&#x003b2; ligands. These compounds yielded ideal traces
+with a symmetric, sharp, and upward-shifted peak. For all these ER&#x003b2; putative
+binders, the derivative curves invert in intensity and shifted upward representing
+conditions in which the protein is the most stable (<xref ref-type="fig" rid="f2">Figure 2b-d</xref>). The compounds fall in various chemical and structural
+classes such as nonsteroidal (ex: pterostilbene) and steroidal (ex: ethylestrenol),
+triphenylethylene antiestrogens (ex: clomiphene citrate, tamoxifen), diphenyl
+derivatives (ex: hexestrol), natural estrogens (ex: estrone, equilin,
+dehydroepiandrosterone (DHEA)), phytoestrogens (ex: zeranol, coumestrol,
+naringenin), as well as synthetic (ex: stanozolol) and semisynthetic (ex: ethinyl
+estradiol). It is not surprising that such structurally distinct ligands with full
+agonistic, SERMs, or antagonistic properties all show affinity for this receptor and
+are identified in the screening cascade.</p><p>We also determined whether DSF could verify whether a ligand introduced during
+protein expression and purification was incorporated into the LBD. This is important
+because purification of a protein does not guarantee that it remains folded in its
+native state and addition of ligand during bacterial expression can increase yields
+of soluble correctly folded protein. When the small molecule DHEA was added to the
+bacterial culture at 1 &#x003bc;M in DMSO prior to induction with IPTG and maintained
+at 1 &#x003bc;M in the gel filtration buffer throughout purification, the
+His<sub>6</sub>-hER&#x003b2; LBD purification product produced an inverted
+derivative curve with a Tm of ~55 &#x000ba;C, increased over Tm values obtained with
+purified unliganded ER&#x003b2; LBD (see Supplementary File 2). These data provide
+independent verification that DHEA scored as an ER&#x003b2; binder in DSF assays and
+confirmed that the addition of ligand during purification steps allows for the
+ligand to be incorporated into the LBD and maintain proper tertiary structure.</p><p>While DSF offers a simple platform for rapid identification of interacting ligands,
+the assay is essentially qualitative and does not assess binding affinity. To
+confirm initial hits and more accurately rank the ligands based on affinity, we
+applied a secondary screening assay based on a commercially available fluorescence
+polarization (FP) assay to define ligand displacement (<xref ref-type="fig" rid="f3">Figure 3</xref>). Here, test compounds were analyzed for their ability to
+displace a fluorescently labeled ligand (in this case fluorescein labeled E2) from
+ERs. The reduced size of the free molecule can be discerned by increased mobility in
+solution, which is detected by FP. The observed FP value depends on free and bound
+fractions of labeled molecules. We utilized paired kits to measure the ability of
+test compounds to displace ligands from both ER&#x003b2; and ER&#x003b1; to obtain
+initial estimates of selectivity.</p><fig id="f3" fig-type="figure" orientation="portrait" position="float"><label>Figure 3</label><caption><title>FP assay to verify ligand hits from compound libraries and determine
+selectivity for ER&#x003b2; and ER&#x003b1;.</title><p>Fluorescence Polarization versus concentration with (A-C) ER&#x003b2; and
+(D-F) ER&#x003b1; for ligands identified as ER&#x003b2; binders from the
+primary DSF assay. Curves shifted the furthest to the left represent those
+compounds with the greatest affinity for the protein. Error bars represent
+one standard deviation from the mean of triplicate reaction wells.</p></caption><graphic xlink:href="nrs-12-003-g3"/></fig><p>The initial 40 hit compounds identified from the primary assay were reduced to 30 hit
+compounds (see Supplementary File 3) after the secondary FP assay, indicating that
+these 30 compounds can effectively compete with E2 for binding to either ER&#x003b2;
+or ER&#x003b1; at physiological concentrations. The data are fit with a non linear
+regression curve fit using SigmaPlot&#x000ae; software. The relative affinities of
+the 30 test compounds for ER&#x003b2; and ER&#x003b1; are indicated by the
+IC<sub>50</sub> values listed in Supplementary File 3, in which compounds are
+listed by their affinity for ER&#x003b2;. Selectivity was determined by dividing the
+IC<sub>50</sub> values obtained with ER&#x003b2; by ER&#x003b1;. It should be
+noted that the ranking of the ligands based on change in ER&#x003b2; melting
+temperature correlated very well with the affinity determined from the FP assay.
+These data also fit with previous analyses in which coumestrol, zeranol, narigenin,
+and kaempferol were all found to compete more effectively with E2 for binding to
+ER&#x003b2; than to ER&#x003b1;, and in which coumestrol and zeranol had higher
+ranking in affinity than narigenin and kaempferol for both ER subtypes [<xref rid="r24" ref-type="bibr">24</xref>]. It was surprising that an unambiguous fit
+for kaempferol with ER&#x003b1; could not be obtained since it displays ER&#x003b1;
+binding affinity in a radioligand-competition assay, however the authors of that
+study did note that complete displacement of the radioligand from the ER&#x003b1;
+protein could not be obtained for this ligand [<xref rid="r24" ref-type="bibr">24</xref>]. Another surprising finding was the order of competition for estriol
+and estrone, such that estriol displayed greater relative affinity than estrone for
+both ER&#x003b2; and ER&#x003b1;. These two physiological estrogens were ranked in the
+reverse order by Kuiper <italic>et al.</italic> [<xref rid="r37" ref-type="bibr">37</xref>]. Otherwise, the Kuiper <italic>et al.</italic> [<xref rid="r37" ref-type="bibr">37</xref>] radioligand binding competition assay
+results show high similarities to our data confirming that estradiol, hexestrol,
+diethylstilbestrol, coumestrol, zeranol, estrone, estriol, clomiphene, tamoxifen and
+DHEA were binders for both ER&#x003b1; and ER&#x003b2;.</p><p>In order to designate ligands as agonists, partial agonists or antagonists, we next
+evaluated the ability of these compounds to modulate the transcriptional activity of
+ER&#x003b2;. The transcriptional response of the ligands was measured using a
+well-defined system comprised of transfected receptor LBD linked to a GAL4 DNA
+binding function and a GAL4 responsive reporter in an ER-negative mammalian cell
+line. Results are expressed as normalized luciferase activity (normalized to Renilla
+for transfection efficiency). As observed in <xref ref-type="fig" rid="f4">Figure
+4</xref>, many compounds induced transactivation of ER&#x003b2; in a
+dose-dependent manner. Compared with E2, the other dose-response curves are shifted
+to the right, reflecting the differences in affinity of these compounds for
+ER&#x003b2;. The system also demonstrated different ligand classifications, namely,
+agonists, partial agonists, and/or antagonists. For example, when examined in a dose
+response manner in antagonist mode with 5 nM E2, clomiphene citrate (<xref ref-type="fig" rid="f4">Figure 4b</xref>, yellow x) displays an IC<sub>50</sub>
+of 221 nM. With increasing concentration of clomiphene citrate, a dose-dependent
+decrease in luciferase activity is found in the presence of E2, demonstrating the
+compound&#x02019;s ability to block the estrogen response. Calculated EC50/IC50
+values are listed in Supplementary File 3.</p><fig id="f4" fig-type="figure" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Cell-based transactivation assay to evaluate the ability of ligands to
+modulate the transcriptional activity of ER&#x003b2;.</title><p>Relative transactivation activity for the ligands identified as ER&#x003b2;
+binders from the primary and secondary assays using HEK293T cells
+transiently transfected with GALDBD-ER&#x003b2;LBD. Data are means &#x000b1;
+SE of triplicate wells and normalized to Dimethyl Sulfoxide (DMSO). Charcoal
+stripped serum was used.</p></caption><graphic xlink:href="nrs-12-003-g4"/></fig><p>Those ligands which appeared to be coming through the cascade as ER&#x003b2; selective
+are listed in Supplementary File 4, where &#x003b2;-selectivity (fold) was greater
+than 2 and calculated by dividing the compound&#x02019;s half maximal inhibitory
+concentration (IC<sub>50</sub>) for ER&#x003b1; by that for ER&#x003b2; as determined
+from FP. In this screening cascade we had set out to look for &#x003b2;-selectivity
+and discovered nine leads compounds based solely on the data from fluorescence
+polarization assays with the DSF assay lending additional confirmation of ligand
+binding. These nine lead ligands (Supplementary File 4) include hexestrol,
+coumestrol, methylandrostenediol, luteolin, naringenin, mifepristone, DHEA,
+medicarpin, and kaempferol.</p><p>We next examined effects of selected ligands that were identified in the cascade and
+displayed different activities and ER subtype selectivity in transfections with full
+length ERs versus cells treated with E2 control (<xref ref-type="fig" rid="f5">Figure 5A</xref>). E2 (full agonist) activated both receptors, with ER&#x003b1;
+activity higher than that of ER&#x003b2;. By contrast, one of the ligands described
+in Supplementary File 4, DHEA, displayed strong ER&#x003b2; selectivity, with greater
+capacity for ER&#x003b2; activation than the selective partial agonist
+27-hydroxycholesterol [<xref rid="r38" ref-type="bibr">38</xref>&#x02013;<xref rid="r40" ref-type="bibr">40</xref>]. Finally, clomifene failed to activate
+either ER subtype, consistent with antagonist activity.</p><fig id="f5" fig-type="figure" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Cell-based transactivation assay to evaluate the ability of ligands to
+modulate the transcriptional activity of ER&#x003b2;.</title><p>(A) Relative transactivation activity for selected ligands (final
+concentration 1 &#x003bc;M) using HeLa cells transiently transfected with
+full length ER&#x003b1; and full length ER&#x003b2;. (B) Cell viability assay
+measured in LNCaP cells after 24 h treatment with selected ligands at a
+final concentration 1 &#x003bc;M. Average of three wells each for three
+independent experiments.</p></caption><graphic xlink:href="nrs-12-003-g5"/></fig><p>We determined effects of the same ligands on ER&#x003b2;-dependent suppression of
+prostate cancer cell proliferation. In accordance with previous results [<xref rid="r20" ref-type="bibr">20</xref>, <xref rid="r21" ref-type="bibr">21</xref>],
+the full agonist E2 did not affect LNCaP cell proliferation (<xref ref-type="fig" rid="f5">Figure 5B</xref>). Suppression of proliferation was obtained with DHEA,
+27-hydroxycholesterol, and clomifene. Accordingly, our findings support the concept
+that certain ER&#x003b2; ligands induce anti-proliferative activities in prostate
+cancer cells that are not shared with the full agonist E2. We propose that our
+screening cascade has the capacity to identify compounds with these potentially
+desirable activities.</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Although DSF is a commonly used technique for primary screens, it is also known to
+generate false positives, and we observed this problem in the current study. For
+example, dactinomycin (NIH Clinical Collection), goserelin acetate (NIH Clinical
+Collection), antimycin A (Prestwick Library), lithocholic acid (Prestwick Library)
+and nystatin (Prestwick Library) were omitted but also elicited changes in the
+protein melting temperature. These antibiotics, antifungals, and amphiphiles act as
+nonspecific effectors by either adsorbing to plastics, creating micelles and
+interacting with the dye to form aggregates that may destabilize the protein; or by
+weakly electrostatically interacting with the protein, as opposed to binding inside
+the ligand-binding pocket. Nystatin, for example, has been shown to perturb ligand
+binding to receptors [<xref rid="r41" ref-type="bibr">41</xref>] and dactinomycin,
+also known as actinomycin D, has been reported to inhibit the nuclear processing of
+estrogen receptors in MCF-7 cells [<xref rid="r42" ref-type="bibr">42</xref>].
+Additionally, some compounds, such as felodipine (Prestwick Library) and
+dactinomycin (NIH Clinical Collection) were colored, another common cause of
+interference with the optical detection of fluorescence in DSF. While these
+compounds also showed up as hits in the primary assay, they were omitted from
+Supplementary File 3 based on their complicated chemical structures. For ER&#x003b1;
+LBD when the data was fit using Graphpad Prism with a nonlinear regression curve fit
+for the compounds mifepristone and kaempferol (<xref ref-type="fig" rid="f3">Figure
+3</xref>) the IC50 values yielded were ambiguous and therefore excluded. The
+remaining compounds, however, displayed good correlation between the different
+assays, where the melting temperature of the protein with the addition of test
+compound from DSF can be compared with the IC50 determined from the fluorescence
+polarization assay. Generally, as the melting temperature identified using DSF
+decreased, the IC50 of the corresponding ligand, identified using FP, increased
+(Supplementary File 3).</p><p>The use of highly purified material in initial screens is critical. Our initial
+trials with partially purifed protein identified more than one melting transition,
+and we speculate that one of the two melting transitions observed by DeSantis
+<italic>et al.</italic> [<xref rid="r43" ref-type="bibr">43</xref>] for their
+human ER&#x003b1; LBD (likely the ligand independent transition at 41 &#x000ba;C) is
+due to the presence of a contaminant such as a chaperone or ribosomal protein that
+yielded its own melting transition. The use of additional purification steps such as
+a gel filtration column, can help yield a more pure product and eliminate additional
+unrelated melting transitions that might otherwise confound the experimental system
+and results.</p><p>The trial screen used here identified nine ER&#x003b2; selective ligands from around
+3000 compounds. In agreement with previous radioligand binding assay findings from
+Kuiper <italic>et al.</italic> [<xref rid="r37" ref-type="bibr">37</xref>], the
+K<sub>i</sub> for the competitior compounds DHEA and coumestrol were both lower
+for ER&#x003b2; than ER&#x003b1;, indicating ER&#x003b2; selectivity, while the
+K<sub>i</sub> for hexestrol was the same for both isoforms. In fact, coumestrol
+is widely considered an ER&#x003b2;-selective agonist ligand [<xref rid="r44" ref-type="bibr">44</xref>, <xref rid="r45" ref-type="bibr">45</xref>]. The literature
+is not as definitive for the other phytoestrogens identified here, likely because
+the ability of a compound to selectively bind to a particular ER subtype can be
+species dependent [<xref rid="r46" ref-type="bibr">46</xref>]. In a radioligand
+binding assay-based investigation of the ligand binding profiles of both ER subtypes
+from human, rat, and mouse, Harris <italic>et al.</italic> reported a lower
+IC<sub>50</sub> for the interaction of kaempferol with human ER&#x003b2; than
+with ER&#x003b1;, while for narigenin, an IC<sub>50</sub> value was obtained for
+human ER&#x003b2; only [<xref rid="r46" ref-type="bibr">46</xref>]. Additionally,
+both narigenin and kaempferol were found to act as weaker agonists (as compared to
+coumestrol and others) in a study evaluating transcriptional activation of MCF-7
+cells transiently transfected with either ER&#x003b1; or ER&#x003b2; and an
+ERE-reporter plasmid. Moreover, a sigmoidal dose-response curve model was fit and an
+EC<sub>50</sub> determined for ER&#x003b2; transfected cells, the EC<sub>50</sub>
+for both narigenin and kaempferol for ER&#x003b1; was not determined due to a lack of
+full dose response to these ligands [<xref rid="r45" ref-type="bibr">45</xref>].
+Luteolin has also been studied for its ability to activate ER&#x003b1; or ER&#x003b2;
+in transiently transfected MCF-7 cells, and was found to have a very slight effect
+on ER&#x003b2; but no effect on ER&#x003b1; [<xref rid="r47" ref-type="bibr">47</xref>]. While direct binding measurements of medicarpin to ERs have not been
+reported, selective knockdown of both ER&#x003b1; and ER&#x003b2; in osteoblasts
+demonstrated that the osteogenic action of medicarpin is ER&#x003b2;-dependent [<xref rid="r48" ref-type="bibr">48</xref>]. Although the selectivity of
+methyandrostenediol (methandriol) for ER&#x003b1; or ER&#x003b2; has also not been
+reported, its parent compound 5-androstenediol activates ERs [<xref rid="r49" ref-type="bibr">49</xref>] and is ER&#x003b2; selective [<xref rid="r50" ref-type="bibr">50</xref>], suggesting that similar properties for methyandrostenediol
+would not be unexpected. Moreover, Mifepristone (RU-486) has been found to be
+ER&#x003b2; selective in a screen of the ToxCast library, although no affinity values
+were reported [<xref rid="r51" ref-type="bibr">51</xref>]. Our screen has identified
+a mix of known ER&#x003b2; selective ligands, as well as novel ligands with possible
+ER&#x003b2; selective activities.</p><p>It should be mentioned that some compounds and plant extracts, such as MF101, have
+been shown to have equal binding to both ER&#x003b1; and ER&#x003b2; subtypes, but
+display ER&#x003b2; specific proliferative gene activation [<xref rid="r52" ref-type="bibr">52</xref>, <xref rid="r53" ref-type="bibr">53</xref>]. Additionally
+the compound 3,3&#x02019;-diindolylmethane did not bind selectively to ER&#x003b2; but
+selectively activated multiple endogenous genes by recruiting ER&#x003b2; and
+coactivators to target genes [<xref rid="r54" ref-type="bibr">54</xref>]. Therefore,
+it is clear that binding preference, activation, and gene targeting create a complex
+issue in determining ligand effectiveness.</p><p>Our screen relies primarily upon detection of ER&#x003b2; selective binding and
+examining large numbers of compounds in gene activation and cell proliferation
+assays requires further studies. We did, however, assess capacity of our screen to
+identify ligands with selective ER&#x003b2; modulator activities during prostate
+cancer proliferation (<xref ref-type="fig" rid="f5">Figure 5</xref>). Previous
+studies showed that certain ER&#x003b2; ligands inhibit prostate cancer cell
+proliferation and increase apoptosis and that this capacity is distinct from full
+agonist activity [<xref rid="r20" ref-type="bibr">20</xref>, <xref rid="r21" ref-type="bibr">21</xref>]. Accordingly, whereas the full agonist estradiol does not
+alter LNCaP proliferation, DHEA (identified from our screening cascade),
+27-hydroxycholesterol (a known SERM with ER&#x003b2; activity [<xref rid="r38" ref-type="bibr">38</xref>]), and the antagonist clomifene do. Of these, DHEA displays
+striking selectivity for ER&#x003b2; versus ER&#x003b1;. Accordingly, we were able to
+identify ligands with potentially useful effects on prostate cancer proliferation,
+and further screening of this ligand subset could identify other compounds with
+useful selective modulator activities.</p><p>While the LBD specificity of some ligands for ER&#x003b1; and ER&#x003b2; has been
+assessed, and selective estrogen receptor modulators (SERMs) for ER&#x003b1; have
+been ranked in different species, such as human, dog, and cat [<xref rid="r55" ref-type="bibr">55</xref>], the identification of differential binding of compounds
+substantiates the prospect of developing ER-selective drugs. Our approach also helps
+make evident the structural features that are important for ER binding and
+contributes to the accumulated knowledge of ligand structure activity relationship
+(SAR) for this molecule.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>Herein we have demonstrated the use of a screening cascade consisting of a primary
+thermofluor assay to qualitatively monitor changes in protein melting upon ligand
+binding and allow for the rapid elimination of non-binders from our small molecule
+collection. We included a secondary FP assay to quantitatively determine receptor
+subtype preference and affinity (&#x003b2; versus &#x003b1;<bold>)</bold>. This assay
+was performed to eliminate any potential false positives initially obtained and
+determine relative binding affinity. The tertiary cell-based GAL4 transactivation
+assay offers the ability to qualitatively determine ligand dependent transactivation
+of ER&#x003b2;. Transactivation activity information is highly valuable to generate
+SAR and further identifies which compounds elicit an ER&#x003b2; mediated response.
+The overall screening strategy provides a method to rank affinity for
+lead-optimization and reduces the uncertainty of the potential of a compound to bind
+to the protein of interest. Compounds with overlapping activity in binding,
+functional, and cell-based assays provide the best screening hits and lead compounds
+to be further explored for drug repurposing as they indicate activity regardless of
+the assay employed. We showed that several selected ligands, including a known SERM
+(27-hydroxycholesterol), a ER&#x003b2; selective ligand identified from the cascade
+(DHEA), and an antagonist identified from the cascade (clomiphene), demonstrated
+effects on cell proliferation using a prostate cancer cell line as our disease
+model. As we have shown, several ER&#x003b2;-selective SERMs were identified from a
+large collection of compound libraries, including known endogenous ligands as well
+as synthetic compounds that are now off patent. By beginning with libraries
+containing a pool of safe, off patent compounds, chemicals that are selective for
+ER&#x003b2; can be further evaluated for drug repurposing.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing interests:</bold>&#x000a0;The authors declare no competing
+financial interests.</p></fn></fn-group><ack><title>Acknowledgements</title><p>PW, J&#x000c5;G, CSF, PSG, AS, and ALB were supported by the Texas Emerging Technology
+Fund (TETF) State of Texas Superiority grant 300-9-1958 for the Texas International
+Center for Cell Signaling and Nuclear Receptors. The authors would like to thank and
+acknowledge The NCI/DTP Open Chemical Repository (<ext-link ext-link-type="uri" xlink:href="http://dtp.cancer.gov">http://dtp.cancer.gov</ext-link>) for
+providing the source of several materials, including agents: NSC 22842, NSC 180973,
+and NSC 350085. We also thank Dr. David Engler and Dr. Rise Matsunami for the Mass
+Spectrometry experiments and analyses and Dr. Margaret Warner, Dr. Kevin Phillips,
+Dr. Douglas Sieglaff, and Dr. Sena Rajagopalan for helpful discussions.</p></ack><app-group><app><title>Supplementary Material</title><supplementary-material content-type="local-data"><p>Supplementary Material (.zip)</p></supplementary-material></app></app-group><ref-list><title>References</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sladek</surname><given-names>FM</given-names></name></person-group>: <article-title>Nuclear Receptors as Drug Targets:
+New Developments in Coregulators, Orphan Receptors and Major Therapeutic
+Areas.</article-title>
+<source>Expert Opin Ther Targets</source>
+<year>2003</year>,
+<volume>7</volume>:<fpage>679</fpage>&#x02013;<lpage>684</lpage>. <pub-id pub-id-type="doi">10.1517/14728222.7.5.679</pub-id><?supplied-pmid 14498828?><pub-id pub-id-type="pmid">14498828</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mangelsdorf</surname><given-names>DJ</given-names></name><name><surname>Thummel</surname><given-names>C</given-names></name><name><surname>Beato</surname><given-names>M</given-names></name><name><surname>Herrlich</surname><given-names>P</given-names></name><name><surname>Sch&#x000fc;tz</surname><given-names>G</given-names></name><name><surname>Umesono</surname><given-names>K</given-names></name><name><surname>Blumberg</surname><given-names>B</given-names></name><name><surname>Kastner</surname><given-names>P</given-names></name><name><surname>Mark</surname><given-names>M</given-names></name><name><surname>Chambon</surname><given-names>P</given-names></name><name><surname>Evans</surname><given-names>RM</given-names></name></person-group>: <article-title>The nuclear receptor superfamily: the
+second decade.</article-title>
+<source>Cell</source>
+<year>1995</year>,
+<volume>83</volume>:<fpage>835</fpage>&#x02013;<lpage>839</lpage>. <pub-id pub-id-type="doi">10.1016/0092-8674(95)90199-X</pub-id><?supplied-pmid 8521507?><pub-id pub-id-type="pmid">8521507</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Overington</surname><given-names>JP</given-names></name><name><surname>Al-Lazikani</surname><given-names>B</given-names></name><name><surname>Hopkins</surname><given-names>AL</given-names></name></person-group>: <article-title>How many drug targets are
+there?</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2006</year>,
+<volume>5</volume>:<fpage>993</fpage>&#x02013;<lpage>996</lpage>. <pub-id pub-id-type="doi">10.1038/nrd2199</pub-id><?supplied-pmid 17139284?><pub-id pub-id-type="pmid">17139284</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ariazi</surname><given-names>EA</given-names></name><name><surname>Ariazi</surname><given-names>JL</given-names></name><name><surname>Cordera</surname><given-names>F</given-names></name><name><surname>Jordan</surname><given-names>VC</given-names></name></person-group>: <article-title>Estrogen receptors as therapeutic
+targets in breast cancer.</article-title>
+<source>Curr Top Med Chem</source>
+<year>2006</year>,
+<volume>6</volume>:<fpage>181</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.2174/156802606776173483</pub-id><?supplied-pmid 16515478?><pub-id pub-id-type="pmid">16515478</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schulman</surname><given-names>IG</given-names></name></person-group>: <article-title>Nuclear receptors as drug targets for
+metabolic disease.</article-title>
+<source>Adv Drug Deliv Rev</source>
+<year>2010</year>,
+<volume>62</volume>:<fpage>1307</fpage>&#x02013;<lpage>1315</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2010.07.002</pub-id><?supplied-pmid 20655343?><pub-id pub-id-type="pmid">20655343</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>P</given-names></name><name><surname>Chandra</surname><given-names>V</given-names></name><name><surname>Rastinejad</surname><given-names>F</given-names></name></person-group>: <article-title>Structural Overview of the Nuclear
+Receptor Superfamily: Insights into Physiology and
+Therapeutics.</article-title>
+<source>Annu Rev Physiol</source>
+<year>2010</year>,
+<volume>72</volume>:<fpage>247</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-physiol-021909-135917</pub-id><?supplied-pmid 20148675?><pub-id pub-id-type="pmid">20148675</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="book">Persidis A: The benefits of drug
+repositioning. <italic>Drug Discov World</italic> 2011.</mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kola</surname><given-names>I</given-names></name><name><surname>Landis</surname><given-names>J</given-names></name></person-group>: <article-title>Can the pharmaceutical industry
+reduce attrition rates?</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2004</year>,
+<volume>3</volume>:<fpage>711</fpage>&#x02013;<lpage>715</lpage>. <pub-id pub-id-type="doi">10.1038/nrd1470</pub-id><?supplied-pmid 15286737?><pub-id pub-id-type="pmid">15286737</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tobinick</surname><given-names>EL</given-names></name></person-group>: <article-title>The value of drug repositioning in
+the current pharmaceutical market.</article-title>
+<source>Drug News Perspect</source>
+<year>2009</year>,
+<volume>22</volume>:<fpage>119</fpage>&#x02013;<lpage>125</lpage>. <pub-id pub-id-type="doi">10.1358/dnp.2009.22.2.1343228</pub-id><?supplied-pmid 19330170?><pub-id pub-id-type="pmid">19330170</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="book">Slade O: Drug Repurposing the Most
+Affordable Relaunch Option for Pharma Companies. <italic>PR Newswire</italic>
+2013.</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Couse</surname><given-names>JF</given-names></name><name><surname>Lindzey</surname><given-names>J</given-names></name><name><surname>Grandien</surname><given-names>K</given-names></name><name><surname>Gustafsson</surname><given-names>JA</given-names></name><name><surname>Korach</surname><given-names>KS</given-names></name></person-group>: <article-title>Tissue distribution and quantitative
+analysis of estrogen receptor-alpha (ERalpha) and estrogen receptor-beta
+(ERbeta) messenger ribonucleic acid in the wild-type and ERalpha-knockout
+mouse.</article-title>
+<source>Endocrinology</source>
+<year>1997</year>,
+<volume>138</volume>:<fpage>4613</fpage>&#x02013;<lpage>4621</lpage>.<?supplied-pmid 9348186?><pub-id pub-id-type="pmid">9348186</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paech</surname><given-names>K</given-names></name><name><surname>Webb</surname><given-names>P</given-names></name><name><surname>Kuiper</surname><given-names>GG</given-names></name><name><surname>Nilsson</surname><given-names>S</given-names></name><name><surname>Gustafsson</surname><given-names>J</given-names></name><name><surname>Kushner</surname><given-names>PJ</given-names></name><name><surname>Scanlan</surname><given-names>TS</given-names></name></person-group>: <article-title>Differential ligand activation of
+estrogen receptors ERalpha and ERbeta at AP1 sites.</article-title>
+<source>Science</source>
+<year>1997</year>,
+<volume>277</volume>:<fpage>1508</fpage>&#x02013;<lpage>1510</lpage>. <pub-id pub-id-type="doi">10.1126/science.277.5331.1508</pub-id><?supplied-pmid 9278514?><pub-id pub-id-type="pmid">9278514</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heldring</surname><given-names>N</given-names></name><name><surname>Pike</surname><given-names>A</given-names></name><name><surname>Andersson</surname><given-names>S</given-names></name><name><surname>Matthews</surname><given-names>J</given-names></name><name><surname>Cheng</surname><given-names>G</given-names></name><name><surname>Hartman</surname><given-names>J</given-names></name><name><surname>Tujague</surname><given-names>M</given-names></name><name><surname>Str&#x000f6;m</surname><given-names>A</given-names></name><name><surname>Treuter</surname><given-names>E</given-names></name><name><surname>Warner</surname><given-names>M</given-names></name><name><surname>Gustafsson</surname><given-names>J-A</given-names></name></person-group>: <article-title>Estrogen receptors: how do they
+signal and what are their targets.</article-title>
+<source>Physiol Rev</source>
+<year>2007</year>,
+<volume>87</volume>:<fpage>905</fpage>&#x02013;<lpage>931</lpage>. <pub-id pub-id-type="doi">10.1152/physrev.00026.2006</pub-id><?supplied-pmid 17615392?><pub-id pub-id-type="pmid">17615392</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enmark</surname><given-names>E</given-names></name><name><surname>Gustafsson</surname><given-names>J-A</given-names></name></person-group>: <article-title>Estrogen receptor beta - a novel
+receptor opens up new possibilities for cancer diagnosis and
+treatment.</article-title>
+<source>Endocr Relat Cancer</source>
+<year>1998</year>,
+<volume>5</volume>:<fpage>213</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1677/erc.0.0050213</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Warner</surname><given-names>M</given-names></name><name><surname>Gustafsson</surname><given-names>J-A</given-names></name></person-group>: <article-title>The role of estrogen receptor beta
+(ERbeta) in malignant diseases--a new potential target for antiproliferative
+drugs in prevention and treatment of cancer.</article-title>
+<source>Biochem Biophys Res Commun</source>
+<year>2010</year>,
+<volume>396</volume>:<fpage>63</fpage>&#x02013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2010.02.144</pub-id><?supplied-pmid 20494112?><pub-id pub-id-type="pmid">20494112</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deroo</surname><given-names>BJ</given-names></name></person-group>: <article-title>Estrogen receptors and human
+disease.</article-title>
+<source>J Clin Invest</source>
+<year>2006</year>,
+<volume>116</volume>:<fpage>561</fpage>&#x02013;<lpage>570</lpage>. <pub-id pub-id-type="doi">10.1172/JCI27987</pub-id><?supplied-pmid 16511588?><pub-id pub-id-type="pmid">16511588</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><element-citation publication-type="web"><ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</ext-link></element-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roman-Blas</surname><given-names>JA</given-names></name><name><surname>Casta&#x000f1;eda</surname><given-names>S</given-names></name><name><surname>Cutolo</surname><given-names>M</given-names></name><name><surname>Herrero-Beaumont</surname><given-names>G</given-names></name></person-group>: <article-title>Efficacy and safety of a selective
+estrogen receptor &#x003b2; agonist, ERB-041, in patients with rheumatoid
+arthritis: A 12-week, randomized, placebo-controlled, phase II
+study.</article-title>
+<source>Arthritis Care Res</source>
+<year>2010</year>,
+<volume>62</volume>:<fpage>1588</fpage>&#x02013;<lpage>1593</lpage>. <pub-id pub-id-type="doi">10.1002/acr.20275</pub-id><?supplied-pmid 20556817?><pub-id pub-id-type="pmid">20556817</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bardin</surname><given-names>A</given-names></name><name><surname>Boulle</surname><given-names>N</given-names></name><name><surname>Lazennec</surname><given-names>G</given-names></name><name><surname>Vignon</surname><given-names>F</given-names></name><name><surname>Pujol</surname><given-names>P</given-names></name></person-group>: <article-title>Loss of ER expression as a common
+step in estrogen-dependent tumor progression.</article-title>
+<source>Endocr Relat Cancer</source>
+<year>2004</year>,
+<volume>11</volume>:<fpage>537</fpage>&#x02013;<lpage>551</lpage>. <pub-id pub-id-type="doi">10.1677/erc.1.00800</pub-id><?supplied-pmid 15369453?><pub-id pub-id-type="pmid">15369453</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dey</surname><given-names>P</given-names></name><name><surname>Str&#x000f6;m</surname><given-names>A</given-names></name><name><surname>Gustafsson</surname><given-names>J-&#x000c5;</given-names></name></person-group>: <article-title>Estrogen receptor &#x003b2;
+upregulates FOXO3a and causes induction of apoptosis through PUMA in
+prostate cancer.</article-title>
+<source>Oncogene</source>
+<year>2014,</year>
+<volume>33</volume>:<fpage>4213</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2013.384</pub-id><?supplied-pmid 24077289?><pub-id pub-id-type="pmid">24077289</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dey</surname><given-names>P</given-names></name><name><surname>Jonsson</surname><given-names>P</given-names></name><name><surname>Hartman</surname><given-names>J</given-names></name><name><surname>Williams</surname><given-names>C</given-names></name><name><surname>Str&#x000f6;m</surname><given-names>A</given-names></name><name><surname>Gustafsson</surname><given-names>J-&#x000c5;</given-names></name></person-group>: <article-title>Estrogen receptors &#x003b2;1 and
+&#x003b2;2 have opposing roles in regulating proliferation and bone
+metastasis genes in the prostate cancer cell line PC3.</article-title>
+<source>Mol Endocrinol</source>
+<year>2012</year>,
+<volume>26</volume>:<fpage>1991</fpage>&#x02013;<lpage>2003</lpage>. <pub-id pub-id-type="doi">10.1210/me.2012.1227</pub-id><?supplied-pmid 23028063?><pub-id pub-id-type="pmid">23028063</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>EJ</given-names></name><name><surname>Madison</surname><given-names>LD</given-names></name><name><surname>Lazennec</surname><given-names>G</given-names></name></person-group>: <article-title>Expression of estrogen receptor
+&#x003b2; in prostate carcinoma cells inhibits invasion and proliferation and
+triggers apoptosis.</article-title>
+<source>FEBS Lett</source>
+<year>2004</year>,
+<volume>566</volume>:<fpage>169</fpage>&#x02013;<lpage>172</lpage>. <pub-id pub-id-type="doi">10.1016/j.febslet.2004.04.025</pub-id><?supplied-pmid 15147889?><pub-id pub-id-type="pmid">15147889</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blair</surname><given-names>RM</given-names></name></person-group>: <article-title>The Estrogen Receptor Relative
+Binding Affinities of 188 Natural and Xenochemicals: Structural Diversity of
+Ligands.</article-title>
+<source>Toxicol Sci</source>
+<year>2000</year>,
+<volume>54</volume>:<fpage>138</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1093/toxsci/54.1.138</pub-id><?supplied-pmid 10746941?><pub-id pub-id-type="pmid">10746941</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kuiper</surname><given-names>GG</given-names></name><name><surname>Lemmen</surname><given-names>JG</given-names></name><name><surname>Carlsson</surname><given-names>B</given-names></name><name><surname>Corton</surname><given-names>JC</given-names></name><name><surname>Safe</surname><given-names>SH</given-names></name><name><surname>van der Saag</surname><given-names>PT</given-names></name><name><surname>van der Burg</surname><given-names>B</given-names></name><name><surname>Gustafsson</surname><given-names>JA</given-names></name></person-group>: <article-title>Interaction of estrogenic chemicals
+and phytoestrogens with estrogen receptor beta.</article-title>
+<source>Endocrinology</source>
+<year>1998</year>,
+<volume>139</volume>:<fpage>4252</fpage>&#x02013;<lpage>4263</lpage>.<?supplied-pmid 9751507?><pub-id pub-id-type="pmid">9751507</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fink</surname><given-names>BE</given-names></name><name><surname>Mortensen</surname><given-names>DS</given-names></name><name><surname>Stauffer</surname><given-names>SR</given-names></name><name><surname>Aron</surname><given-names>ZD</given-names></name><name><surname>Katzenellenbogen</surname><given-names>JA</given-names></name></person-group>: <article-title>Novel structural templates for
+estrogen-receptor ligands and prospects for combinatorial synthesis of
+estrogens.</article-title>
+<source>Chem Biol</source>
+<year>1999</year>,
+<volume>6</volume>:<fpage>205</fpage>&#x02013;<lpage>219</lpage>. <pub-id pub-id-type="doi">10.1016/S1074-5521(99)80037-4</pub-id><?supplied-pmid 10099132?><pub-id pub-id-type="pmid">10099132</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Manas</surname><given-names>ES</given-names></name><name><surname>Unwalla</surname><given-names>RJ</given-names></name><name><surname>Xu</surname><given-names>ZB</given-names></name><name><surname>Malamas</surname><given-names>MS</given-names></name><name><surname>Miller</surname><given-names>CP</given-names></name><name><surname>Harris</surname><given-names>HA</given-names></name><name><surname>Hsiao</surname><given-names>C</given-names></name><name><surname>Akopian</surname><given-names>T</given-names></name><name><surname>Hum</surname><given-names>W-T</given-names></name><name><surname>Malakian</surname><given-names>K</given-names></name><name><surname>Wolfrom</surname><given-names>S</given-names></name><name><surname>Bapat</surname><given-names>A</given-names></name><name><surname>Bhat</surname><given-names>RA</given-names></name><name><surname>Stahl</surname><given-names>ML</given-names></name><name><surname>Somers</surname><given-names>WS</given-names></name><name><surname>Alvarez</surname><given-names>JC</given-names></name></person-group>: <article-title>Structure-based design of estrogen
+receptor-beta selective ligands.</article-title>
+<source>J Am Chem Soc</source>
+<year>2004</year>,
+<volume>126</volume>:<fpage>15106</fpage>&#x02013;<lpage>15119</lpage>.
+<pub-id pub-id-type="doi">10.1021/ja047633o</pub-id><?supplied-pmid 15548008?><pub-id pub-id-type="pmid">15548008</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="book">Harris HA: Preclinical Characterization of
+Selective Estrogen Receptor &#x003b2; Agonists: New Insights into Their
+Therapeutic Potential. In <italic>Tissue-Specif Estrogen Action. Volume
+2006/1</italic>. Edited by Korach KS, Wintermantel T. Berlin, Heidelberg:
+Springer Berlin Heidelberg; 2007:149&#x02013;162.</mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weatherman</surname><given-names>RV</given-names></name><name><surname>Fletterick</surname><given-names>RJ</given-names></name><name><surname>Scanlan</surname><given-names>TS</given-names></name></person-group>: <article-title>Nuclear-receptor ligands and
+ligand-binding domains.</article-title>
+<source>Annu Rev Biochem</source>
+<year>1999</year>,
+<volume>68</volume>:<fpage>559</fpage>&#x02013;<lpage>581</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.biochem.68.1.559</pub-id><?supplied-pmid 10872460?><pub-id pub-id-type="pmid">10872460</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Webb</surname><given-names>P</given-names></name><name><surname>Lopez</surname><given-names>GN</given-names></name><name><surname>Uht</surname><given-names>RM</given-names></name><name><surname>Kushner</surname><given-names>PJ</given-names></name></person-group>: <article-title>Tamoxifen activation of the estrogen
+receptor/AP-1 pathway: potential origin for the cell-specific estrogen-like
+effects of antiestrogens.</article-title>
+<source>Mol Endocrinol</source>
+<year>1995</year>,
+<volume>9</volume>:<fpage>443</fpage>&#x02013;<lpage>456</lpage>.<?supplied-pmid 7659088?><pub-id pub-id-type="pmid">7659088</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lo</surname><given-names>M-C</given-names></name><name><surname>Aulabaugh</surname><given-names>A</given-names></name><name><surname>Jin</surname><given-names>G</given-names></name><name><surname>Cowling</surname><given-names>R</given-names></name><name><surname>Bard</surname><given-names>J</given-names></name><name><surname>Malamas</surname><given-names>M</given-names></name><name><surname>Ellestad</surname><given-names>G</given-names></name></person-group>: <article-title>Evaluation of fluorescence-based
+thermal shift assays for hit identification in drug
+discovery.</article-title>
+<source>Anal Biochem</source>
+<year>2004</year>,
+<volume>332</volume>:<fpage>153</fpage>&#x02013;<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1016/j.ab.2004.04.031</pub-id><?supplied-pmid 15301960?><pub-id pub-id-type="pmid">15301960</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="book">Phillips K, de la Pe&#x000f1;a AH: The
+combined use of the Thermofluor assay and ThermoQ analytical software for the
+determination of protein stability and buffer optimization as an aid in protein
+crystallization. <italic>Curr Protoc Mol Biol Ed Frederick M Ausubel Al</italic>
+2011, Chapter 10:Unit10.28.</mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Niesen</surname><given-names>FH</given-names></name><name><surname>Berglund</surname><given-names>H</given-names></name><name><surname>Vedadi</surname><given-names>M</given-names></name></person-group>: <article-title>The use of differential scanning
+fluorimetry to detect ligand interactions that promote protein
+stability.</article-title>
+<source>Nat Protoc</source>
+<year>2007</year>,
+<volume>2</volume>:<fpage>2212</fpage>&#x02013;<lpage>2221</lpage>. <pub-id pub-id-type="doi">10.1038/nprot.2007.321</pub-id><?supplied-pmid 17853878?><pub-id pub-id-type="pmid">17853878</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="other"><person-group person-group-type="author"><collab>First Diversity Set Information</collab></person-group>
+[<ext-link ext-link-type="uri" xlink:href="http://dtp.nci.nih.gov/branches/dscb/diversity_explanation.html">http://dtp.nci.nih.gov/branches/dscb/diversity_explanation.html</ext-link>]</mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bogan</surname><given-names>AA</given-names></name><name><surname>Cohen</surname><given-names>FE</given-names></name><name><surname>Scanlan</surname><given-names>TS</given-names></name></person-group>: <article-title>Natural ligands of nuclear receptors
+have conserved volumes.</article-title>
+<source>Nat Struct Biol</source>
+<year>1998</year>,
+<volume>5</volume>:<fpage>679</fpage>&#x02013;<lpage>681</lpage>. <pub-id pub-id-type="doi">10.1038/1372</pub-id><?supplied-pmid 9699629?><pub-id pub-id-type="pmid">9699629</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="book">Mason JI: <italic>Genetics of Steroid
+Biosynthesis and Function</italic>. London; New York: Taylor &#x00026; Francis;
+2002.</mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baell</surname><given-names>JB</given-names></name><name><surname>Holloway</surname><given-names>GA</given-names></name></person-group>: <article-title>New substructure filters for removal
+of pan assay interference compounds (PAINS) from screening libraries and for
+their exclusion in bioassays.</article-title>
+<source>J Med Chem</source>
+<year>2010</year>,
+<volume>53</volume>:<fpage>2719</fpage>&#x02013;<lpage>2740</lpage>. <pub-id pub-id-type="doi">10.1021/jm901137j</pub-id><?supplied-pmid 20131845?><pub-id pub-id-type="pmid">20131845</pub-id></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kuiper</surname><given-names>GG</given-names></name><name><surname>Carlsson</surname><given-names>B</given-names></name><name><surname>Grandien</surname><given-names>K</given-names></name><name><surname>Enmark</surname><given-names>E</given-names></name><name><surname>H&#x000e4;ggblad</surname><given-names>J</given-names></name><name><surname>Nilsson</surname><given-names>S</given-names></name><name><surname>Gustafsson</surname><given-names>JA</given-names></name></person-group>: <article-title>Comparison of the ligand binding
+specificity and transcript tissue distribution of estrogen receptors alpha
+and beta.</article-title>
+<source>Endocrinology</source>
+<year>1997</year>,
+<volume>138</volume>:<fpage>863</fpage>&#x02013;<lpage>870</lpage>.<?supplied-pmid 9048584?><pub-id pub-id-type="pmid">9048584</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DuSell</surname><given-names>CD</given-names></name><name><surname>Umetani</surname><given-names>M</given-names></name><name><surname>Shaul</surname><given-names>PW</given-names></name><name><surname>Mangelsdorf</surname><given-names>DJ</given-names></name><name><surname>McDonnell</surname><given-names>DP</given-names></name></person-group>: <article-title>27-Hydroxycholesterol Is an
+Endogenous Selective Estrogen Receptor Modulator.</article-title>
+<source>Mol Endocrinol</source>
+<year>2008</year>,
+<volume>22</volume>:<fpage>65</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1210/me.2007-0383</pub-id><?supplied-pmid 17872378?><pub-id pub-id-type="pmid">17872378</pub-id></mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DuSell</surname><given-names>CD</given-names></name><name><surname>Nelson</surname><given-names>ER</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Abdo</surname><given-names>J</given-names></name><name><surname>M&#x000f6;dder</surname><given-names>UI</given-names></name><name><surname>Umetani</surname><given-names>M</given-names></name><name><surname>Gesty-Palmer</surname><given-names>D</given-names></name><name><surname>Javitt</surname><given-names>NB</given-names></name><name><surname>Khosla</surname><given-names>S</given-names></name><name><surname>McDonnell</surname><given-names>DP</given-names></name></person-group>: <article-title>The Endogenous Selective Estrogen
+Receptor Modulator 27-Hydroxycholesterol Is a Negative Regulator of Bone
+Homeostasis.</article-title>
+<source>Endocrinology</source>
+<year>2010</year>,
+<volume>151</volume>:<fpage>3675</fpage>&#x02013;<lpage>3685</lpage>. <pub-id pub-id-type="doi">10.1210/en.2010-0080</pub-id><?supplied-pmid 20501668?><pub-id pub-id-type="pmid">20501668</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Umetani</surname><given-names>M</given-names></name><name><surname>Domoto</surname><given-names>H</given-names></name><name><surname>Gormley</surname><given-names>AK</given-names></name><name><surname>Yuhanna</surname><given-names>IS</given-names></name><name><surname>Cummins</surname><given-names>CL</given-names></name><name><surname>Javitt</surname><given-names>NB</given-names></name><name><surname>Korach</surname><given-names>KS</given-names></name><name><surname>Shaul</surname><given-names>PW</given-names></name><name><surname>Mangelsdorf</surname><given-names>DJ</given-names></name></person-group>: <article-title>27-Hydroxycholesterol is an
+endogenous SERM that inhibits the cardiovascular effects of
+estrogen.</article-title>
+<source>Nat Med</source>
+<year>2007</year>,
+<volume>13</volume>:<fpage>1185</fpage>&#x02013;<lpage>1192</lpage>. <pub-id pub-id-type="doi">10.1038/nm1641</pub-id><?supplied-pmid 17873880?><pub-id pub-id-type="pmid">17873880</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pucadyil</surname><given-names>TJ</given-names></name><name><surname>Shrivastava</surname><given-names>S</given-names></name><name><surname>Chattopadhyay</surname><given-names>A</given-names></name></person-group>: <article-title>The sterol-binding antibiotic
+nystatin differentially modulates ligand binding of the bovine hippocampal
+serotonin1A receptor.</article-title>
+<source>Biochem Biophys Res Commun</source>
+<year>2004</year>,
+<volume>320</volume>:<fpage>557</fpage>&#x02013;<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2004.06.004</pub-id><?supplied-pmid 15219865?><pub-id pub-id-type="pmid">15219865</pub-id></mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Horwitz</surname><given-names>KB</given-names></name><name><surname>McGuire</surname><given-names>WL</given-names></name></person-group>: <article-title>Actinomycin D prevents nuclear
+processing of estrogen receptor.</article-title>
+<source>J Biol Chem</source>
+<year>1978</year>,
+<volume>253</volume>:<fpage>6319</fpage>&#x02013;<lpage>6322</lpage>.<?supplied-pmid 681355?><pub-id pub-id-type="pmid">681355</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DeSantis</surname><given-names>K</given-names></name><name><surname>Reed</surname><given-names>A</given-names></name><name><surname>Rahhal</surname><given-names>R</given-names></name><name><surname>Reinking</surname><given-names>J</given-names></name></person-group>: <article-title>Use of differential scanning
+fluorimetry as a high-throughput assay to identify nuclear receptor
+ligands.</article-title>
+<source>Nucl Recept Signal</source>
+<year>2012</year>, <volume>10</volume>:<fpage>e002</fpage>.<?supplied-pmid 22438792?><pub-id pub-id-type="pmid">22438792</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Katzenellenbogen</surname><given-names>JA</given-names></name><name><surname>Muthyala</surname><given-names>R</given-names></name><name><surname>Katzenellenbogen</surname><given-names>BS</given-names></name></person-group>: <article-title>Nature of the ligand-binding pocket
+of estrogen receptor &#x003b1; and &#x003b2;: The search for subtypeselective
+ligands and implications for the prediction of estrogenic
+activity.</article-title>
+<source>Pure Appl Chem</source>
+<year>2009</year>,
+<volume>75</volume>:<fpage>2397</fpage>&#x02013;<lpage>2403</lpage>.</mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>DM</given-names></name><name><surname>Besselink</surname><given-names>E</given-names></name><name><surname>Henning</surname><given-names>SM</given-names></name><name><surname>Go</surname><given-names>VLW</given-names></name><name><surname>Heber</surname><given-names>D</given-names></name></person-group>: <article-title>Phytoestrogens induce differential
+estrogen receptor alpha- or Beta-mediated responses in transfected breast
+cancer cells.</article-title>
+<source>Exp Biol Med</source>
+<year>2005</year>,
+<volume>230</volume>:<fpage>558</fpage>&#x02013;<lpage>568</lpage>.<?supplied-pmid 16118406?><pub-id pub-id-type="pmid">16118406</pub-id></mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>HA</given-names></name><name><surname>Bapat</surname><given-names>AR</given-names></name><name><surname>Gonder</surname><given-names>DS</given-names></name><name><surname>Frail</surname><given-names>DE</given-names></name></person-group>: <article-title>The ligand binding profiles of
+estrogen receptors alpha and beta are species dependent.</article-title>
+<source>Steroids</source>
+<year>2002</year>,
+<volume>67</volume>:<fpage>379</fpage>&#x02013;<lpage>384</lpage>. <pub-id pub-id-type="doi">10.1016/S0039-128X(01)00194-5</pub-id><?supplied-pmid 11958794?><pub-id pub-id-type="pmid">11958794</pub-id></mixed-citation></ref><ref id="r47"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Innocenti</surname><given-names>G</given-names></name><name><surname>Vegeto</surname><given-names>E</given-names></name><name><surname>Dall&#x02019;Acqua</surname><given-names>S</given-names></name><name><surname>Ciana</surname><given-names>P</given-names></name><name><surname>Giorgetti</surname><given-names>M</given-names></name><name><surname>Agradi</surname><given-names>E</given-names></name><name><surname>Sozzi</surname><given-names>A</given-names></name><name><surname>Fico</surname><given-names>G</given-names></name><name><surname>Tom&#x000e8;</surname><given-names>F</given-names></name></person-group>: <article-title>In vitro estrogenic activity of
+Achillea millefolium L.</article-title>
+<source>Phytomedicine</source>
+<year>2007</year>,
+<volume>14</volume>:<fpage>147</fpage>&#x02013;<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1016/j.phymed.2006.05.005</pub-id><?supplied-pmid 16860978?><pub-id pub-id-type="pmid">16860978</pub-id></mixed-citation></ref><ref id="r48"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bhargavan</surname><given-names>B</given-names></name><name><surname>Singh</surname><given-names>D</given-names></name><name><surname>Gautam</surname><given-names>AK</given-names></name><name><surname>Mishra</surname><given-names>JS</given-names></name><name><surname>Kumar</surname><given-names>A</given-names></name><name><surname>Goel</surname><given-names>A</given-names></name><name><surname>Dixit</surname><given-names>M</given-names></name><name><surname>Pandey</surname><given-names>R</given-names></name><name><surname>Manickavasagam</surname><given-names>L</given-names></name><name><surname>Dwivedi</surname><given-names>SD</given-names></name><name><surname>Chakravarti</surname><given-names>B</given-names></name><name><surname>Jain</surname><given-names>GK</given-names></name><name><surname>Ramachandran</surname><given-names>R</given-names></name><name><surname>Maurya</surname><given-names>R</given-names></name><name><surname>Trivedi</surname><given-names>A</given-names></name><name><surname>Chattopadhyay</surname><given-names>N</given-names></name><name><surname>Sanyal</surname><given-names>S</given-names></name></person-group>: <article-title>Medicarpin, a legume phytoalexin,
+stimulates osteoblast differentiation and promotes peak bone mass
+achievement in rats: evidence for estrogen receptor &#x003b2;-mediated
+osteogenic action of medicarpin.</article-title>
+<source>J Nutr Biochem</source>
+<year>2012</year>,
+<volume>23</volume>:<fpage>27</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/j.jnutbio.2010.11.002</pub-id><?supplied-pmid 21333515?><pub-id pub-id-type="pmid">21333515</pub-id></mixed-citation></ref><ref id="r49"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Purohit</surname><given-names>A</given-names></name><name><surname>Woo</surname><given-names>LW.</given-names></name><name><surname>Chander</surname><given-names>S.</given-names></name><name><surname>Newman</surname><given-names>S.</given-names></name><name><surname>Ireson</surname><given-names>C</given-names></name><name><surname>Ho</surname><given-names>Y</given-names></name><name><surname>Grasso</surname><given-names>A</given-names></name><name><surname>Leese</surname><given-names>M.</given-names></name><name><surname>Potter</surname><given-names>BV.</given-names></name><name><surname>Reed</surname><given-names>M.</given-names></name></person-group>: <article-title>Steroid sulphatase inhibitors for
+breast cancer therapy.</article-title>
+<source>J Steroid Biochem Mol Biol</source>
+<year>2003</year>,
+<volume>86</volume>:<fpage>423</fpage>&#x02013;<lpage>432</lpage>. <pub-id pub-id-type="doi">10.1016/S0960-0760(03)00353-4</pub-id><?supplied-pmid 14623540?><pub-id pub-id-type="pmid">14623540</pub-id></mixed-citation></ref><ref id="r50"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blizzard</surname><given-names>TA</given-names></name><name><surname>Gude</surname><given-names>C</given-names></name><name><surname>Morgan</surname><given-names>JD</given-names></name><name><surname>Chan</surname><given-names>W</given-names></name><name><surname>Birzin</surname><given-names>ET</given-names></name><name><surname>Mojena</surname><given-names>M</given-names></name><name><surname>Tudela</surname><given-names>C</given-names></name><name><surname>Chen</surname><given-names>F</given-names></name><name><surname>Knecht</surname><given-names>K</given-names></name><name><surname>Su</surname><given-names>Q</given-names></name><name><surname>Kraker</surname><given-names>B</given-names></name><name><surname>Mosley</surname><given-names>RT</given-names></name><name><surname>Holmes</surname><given-names>MA</given-names></name><name><surname>Sharma</surname><given-names>N</given-names></name><name><surname>Fitzgerald</surname><given-names>PMD</given-names></name><name><surname>Rohrer</surname><given-names>SP</given-names></name><name><surname>Hammond</surname><given-names>ML</given-names></name></person-group>: <article-title>Androstenediol analogs as
+ER-&#x003b2;-selective SERMs.</article-title>
+<source>Bioorg Med Chem Lett</source>
+<year>2006</year>,
+<volume>16</volume>:<fpage>834</fpage>&#x02013;<lpage>838</lpage>. <pub-id pub-id-type="doi">10.1016/j.bmcl.2005.11.014</pub-id><?supplied-pmid 16309907?><pub-id pub-id-type="pmid">16309907</pub-id></mixed-citation></ref><ref id="r51"><label>51</label><mixed-citation publication-type="web">Filer D, Judson R, Rotroff D, Reif D, Richard
+A, Houck K, Martin M: Protein-fragment complementation assays detect and
+describe nuclear receptor activity across the ToxCast chemical library. 2014.
+<ext-link ext-link-type="uri" xlink:href="http://epa.gov/research/sot/2014/posters/protein-fragment-complementation.pdf">http://epa.gov/research/sot/2014/posters/protein-fragment-complementation.pdf</ext-link></mixed-citation></ref><ref id="r52"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cvoro</surname><given-names>A</given-names></name><name><surname>Paruthiyil</surname><given-names>S</given-names></name><name><surname>Jones</surname><given-names>JO</given-names></name><name><surname>Tzagarakis-Foster</surname><given-names>C</given-names></name><name><surname>Clegg</surname><given-names>NJ</given-names></name><name><surname>Tatomer</surname><given-names>D</given-names></name><name><surname>Medina</surname><given-names>RT</given-names></name><name><surname>Tagliaferri</surname><given-names>M</given-names></name><name><surname>Schaufele</surname><given-names>F</given-names></name><name><surname>Scanlan</surname><given-names>TS</given-names></name><name><surname>Diamond</surname><given-names>MI</given-names></name><name><surname>Cohen</surname><given-names>I</given-names></name><name><surname>Leitman</surname><given-names>DC</given-names></name></person-group>: <article-title>Selective activation of estrogen
+receptor-beta transcriptional pathways by an herbal extract.</article-title>
+<source>Endocrinology</source>
+<year>2007</year>,
+<volume>148</volume>:<fpage>538</fpage>&#x02013;<lpage>547</lpage>. <pub-id pub-id-type="doi">10.1210/en.2006-0803</pub-id><?supplied-pmid 17095596?><pub-id pub-id-type="pmid">17095596</pub-id></mixed-citation></ref><ref id="r53"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mersereau</surname><given-names>JE</given-names></name><name><surname>Levy</surname><given-names>N</given-names></name><name><surname>Staub</surname><given-names>RE</given-names></name><name><surname>Baggett</surname><given-names>S</given-names></name><name><surname>Zogovic</surname><given-names>T</given-names></name><name><surname>Zogric</surname><given-names>T</given-names></name><name><surname>Chow</surname><given-names>S</given-names></name><name><surname>Ricke</surname><given-names>WA</given-names></name><name><surname>Tagliaferri</surname><given-names>M</given-names></name><name><surname>Cohen</surname><given-names>I</given-names></name><name><surname>Bjeldanes</surname><given-names>LF</given-names></name><name><surname>Leitman</surname><given-names>DC</given-names></name></person-group>: <article-title>Liquiritigenin is a plant-derived
+highly selective estrogen receptor beta agonist.</article-title>
+<source>Mol Cell Endocrinol</source>
+<year>2008</year>,
+<volume>283</volume>:<fpage>49</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.mce.2007.11.020</pub-id><?supplied-pmid 18177995?><pub-id pub-id-type="pmid">18177995</pub-id></mixed-citation></ref><ref id="r54"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vivar</surname><given-names>OI</given-names></name><name><surname>Saunier</surname><given-names>EF</given-names></name><name><surname>Leitman</surname><given-names>DC</given-names></name><name><surname>Firestone</surname><given-names>GL</given-names></name><name><surname>Bjeldanes</surname><given-names>LF</given-names></name></person-group>: <article-title>Selective activation of estrogen
+receptor-beta target genes by 3,3&#x02019;-diindolylmethane.</article-title>
+<source>Endocrinology</source>
+<year>2010</year>,
+<volume>151</volume>:<fpage>1662</fpage>&#x02013;<lpage>1667</lpage>. <pub-id pub-id-type="doi">10.1210/en.2009-1028</pub-id><?supplied-pmid 20160136?><pub-id pub-id-type="pmid">20160136</pub-id></mixed-citation></ref><ref id="r55"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toniti</surname><given-names>W</given-names></name><name><surname>Suthiyotha</surname><given-names>N</given-names></name><name><surname>Puchadapirom</surname><given-names>P</given-names></name><name><surname>Jenwitheesuk</surname><given-names>E</given-names></name></person-group>: <article-title>Binding capacity of ER-&#x003b1;
+ligands and SERMs: comparison of the human, dog and cat.</article-title>
+<source>Asian Pac J Cancer Prev</source>
+<year>2011</year>,
+<volume>12</volume>:<fpage>2875</fpage>&#x02013;<lpage>2879</lpage>.<?supplied-pmid 22393957?><pub-id pub-id-type="pmid">22393957</pub-id></mixed-citation></ref></ref-list></back></article>

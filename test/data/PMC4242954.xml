@@ -1,0 +1,151 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-157</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1779</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effect of Self-myofascial Release on Reduction of Physical Stress: A Pilot
+Study</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Kanghoon</given-names></name><degrees>MS, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Sunghyun</given-names></name><degrees>BSc, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Goo</surname><given-names>Bong-Oh</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Choi</surname><given-names>Seok-Cheol</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, College of Health Sciences,
+Catholic University of Pusan: 9 Bugok 3-dong, Geumjung-gu, Busan 609-757 Republic of
+Korea</aff><aff id="aff2"><label>2)</label> Department of Clinical Laboratory Science, College of
+Health Sciences, Catholic University of Pusan, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Sunghyun Park, Department of Physical Therapy, College of Health Sciences,
+Catholic University of Pusan: 9 Bugok 3-dong, Geumjung-gu, Busan 609-757 Republic of
+Korea. (E-mail: <email xlink:href="nongkuman@hanmail.net">nongkuman@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1779</fpage><lpage>1781</lpage><history><date date-type="received"><day>18</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] This study aims to examined the effect of the self-myofascial release induced
+with a foam roller on the reduction of stress by measuring the serum concentration of
+cortisol. [Subjects and Methods] The subjects of this study were healthy females in their
+20s. They were divided into the experimental and control groups. Both groups, each
+consisting of 12 subjects, were directed to walk for 30 minutes on a treadmill. The
+control group rested for 30 minutes of rest by lying down, whereas the experimental group
+was performed a 30 minutes of self-myofascial release program. [Results] Statistically
+significant levels of cortisol concentration reduction were observed in both the
+experimental group, which used the foam roller, and the control group. There was no
+statistically significant difference between the two groups. [Conclusion] The
+Self-myofascial release induced with a foam roller did not affect the reduction of
+stress.</p></abstract><kwd-group><title>Key words</title><kwd>Myofascial release</kwd><kwd>Cortisol</kwd><kwd>Foam roller</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The human body has a mechanism of maintaining internal homeostasis against external
+changes. However, stress threatens the mechanism for the maintenance of homeostasis<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>.
+Stress is a non-specific biological reaction, which occurs in response to physical injuries
+and stimulations imparted to the body, and it modifies the immune system.</p><p>Stress is determined by mental and physical factors. In particular, physical stress excites
+exacerbation of the sympathetic nervous system and increase heartbeat, and imparts
+negatively influences on the immune system to a greater extent than mental stress<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. In addition, physical stress induces
+muscular modification or repetitive strain injuries, causing muscular imbalance and
+inflammation<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. Inflammation in turn
+becomes a cause of increased muscular tension and spasms<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Muscular tension can promote formation of taut bands or trigger
+points in the myofascia, which can develop into myofascial pain syndrome<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Myofascial pain syndrome creates a vicious
+cycle of &#x0201c;pain &#x02212; spasm &#x02212; pain.&#x0201d; If this vicious cycle is not interrupted at an early stage,
+it will inevitably become a chronic problem. This vicious cycle of pain leads to
+psychological stress, which becomes the cause of continuous pain<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>.</p><p>There are a wide range of physiotherapy interventions for physical stress, and, in
+particular, myofascial release is an excellent method that can mitigate the damage caused by
+physical stress with low-load mechanical stimulation<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. Myofascial release is a method of stretching the myofascial system
+with low load over a prolonged period of time in order to enhance the functions of the human
+body, reduce pain and secure appropriate muscle length<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Myofascial release performed by a therapist induces recovery in the
+damaged area of the muscle and reduces inflammation and edema<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. However, it is difficult
+to perform this therapy alone.</p><p>Recently, a method using a foam roller to induce self-myofascial release has been
+introduced<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Preceding studies
+conducted on self-myofascial release using a foam roller have mainly focused on the range of
+joint movement and changes in posture with the findings evaluated from a biomechanical
+perspective<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. However, it has been
+asserted that the reliability of the biomechanical measurement is low and the biological
+results of mechanical stimulation must be considered<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. Accordingly, this study measured the serum concentration of
+cortisol, a biological factor, to determine whether the mechanical stimulation provided by a
+foam roller is effective at reducing stress.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>Twenty-four healthy females in their 20s were selected as the subjects of this study. The
+subjects were randomly and evenly assigned to an experimental group and a control group. All
+the subjects were directed to walk on a treadmill for 30 minutes at the normal walking speed
+of 1.2 m/s, while wearing high-heeled shoes in order to induce physical stress.<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> Sufficient explanation of the experimental
+procedure and the purpose of the study was provided to the subjects who signed consent forms
+prior to their participation. Then, approval form the Ethics Committee of the Catholic
+University of Pusan was acquired (CUPIRB-2013-019).</p><p>After the subjects had walked on the treadmill for 30 minutes, 12 subjects of the
+experimental group performed the 30-min myofascial release technique using a foam roller,
+while the 12 control group subjects were instructed to rest comfortably on their backs for
+30 minutes. During the 30-minute self-myofascial release program, pressure was applied on a
+single spot for 30 seconds using the subject&#x02019;s body weight in order to stimulate the
+corresponding muscle over a period of 3 to 6 minutes as a means of alleviating muscle
+tension in the spine and areas around the 4 limbs. The program was performed as follows:</p><p>Myofascial release of the entire spine, 6 minutes; of the cervix, 6 minutes; of the thorax,
+6 minutes; of the quadriceps femoris muscle, 3 minutes; of the hamstring, 3 minutes; of the
+tensor fascia latae, 3 minutes; and of the calf muscle, 3 minutes.</p><p>Blood (10&#x02005;ml) was collected from the vein in the forearm of the subjects after they had
+completed the walking exercise on the treadmill, and after 30 minutes of myofascial release
+with the foam roller (the experimental group) or after 30 minutes of rest (the control
+group). All the subjects were instructed to arrive at the laboratory with empty stomach on
+the day of the experiment, by fasting from 9 p.m. on the previous day, and they rested for
+30 minutes upon arrival at the laboratory. The blood samples were immediately placed in
+heparinized tubes and centrifuged for over 15 minutes at the speed of 300&#x02005;rpm. The serum was
+separated and stored at a temperature below &#x02212;70&#x02005;&#x000b0;C. Analysis was performed by the Clinical
+Pathology Department of the Catholic University of Busan.</p><p>Data were processed using the statistical program SPSS 19.0. For all the measured data, the
+mean and standard deviation values were computed for each of the variables. In order to
+investigate the effect of the self-myofascial release method using a foam roller on physical
+stress, the paired t-test was performed. The independent t-test was performed to verify the
+differences between the groups. The statistical significance level was chosen as &#x003b1;=0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>The general characteristics of the subjects of this study are summarized in <xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>General characteristics of the participants</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Experimental group(n=12)</th><th valign="top" align="center" rowspan="1" colspan="1">Control group(n=12)</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (y)</td><td align="center" valign="top" rowspan="1" colspan="1">22.8&#x000b1;1.7</td><td align="center" valign="top" rowspan="1" colspan="1">22.5&#x000b1;1.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg)</td><td align="center" valign="top" rowspan="1" colspan="1">51.5&#x000b1;1.5</td><td align="center" valign="top" rowspan="1" colspan="1">50.7&#x000b1;1.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">157.3&#x000b1;3.6</td><td align="center" valign="top" rowspan="1" colspan="1">158.5&#x000b1;2.7</td></tr></tbody></table></table-wrap>. The concentrations of cortisol of the experimental group and the control
+group are summarized in <xref rid="tbl_002" ref-type="table">Table 2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>The comparison of Cortisol levels (ng/ml)</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Experimental group</th><th valign="top" align="center" rowspan="1" colspan="1">Control group</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Pre</td><td align="center" valign="top" rowspan="1" colspan="1">28.6&#x000b1;1.3</td><td align="center" valign="top" rowspan="1" colspan="1">28.0&#x000b1;1.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Post</td><td align="center" valign="top" rowspan="1" colspan="1">24.5 &#x000b1; 3.2*</td><td align="center" valign="top" rowspan="1" colspan="1">25.1&#x000b1;2.4*</td></tr></tbody></table><table-wrap-foot><p>*Statistically significant difference between pre-test and post-test (p&#x0003c;0.05).</p></table-wrap-foot></table-wrap>. The concentration of cortisol of the experimental group following the use of
+the foam roller showed a statistically significant decrease (p&#x0003c;0.05). The concentration
+of cortisol of the control group following rest also showed a statistically significant
+decrease (p&#x0003c;0.05). There was no significant difference between the two groups
+(p&#x0003e;0.05).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>This study was conducted to examine the effect of a self myofascial release technique using
+a foam roller on physical stress.</p><p>Several studies have evaluated stress by analyzing catecholamine and cortisol<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. Catecholamines, which include norepinephrine and epinephrine, excite
+the sympathetic nervous system. However, they have a very short half-life of 1 to 2 minutes,
+making their evaluation very difficult<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>.
+In contrast, cortisol, which is necessary for the excitation of the sympathetic nervous
+system by catecholamines, has a half-life of approximately 20 to 40 minutes; thus, it can be
+a reliable index of stress<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. In
+addition, it can be used to indirectly predict the activities of the sympathetic nerves.
+Therefore, the concentration of cortisol hormone was measured as the index of stress in this
+study.</p><p>In this study, the blood cortisol levels of both the experimental and control groups showed
+significant reductions 30&#x02005;min after the completion of treadmill walking. However, there was
+no statistically significant difference between the two groups. This can be explained as
+follows. First, cortisol, which is a key adrenocortical hormone, has a daily rhythm. Thus,
+the cortisol level normally changes throughout the day, with the highest levels being in the
+morning and the lowest levels in the evening<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. For more accurate measurement of the cortisol level, it should be
+measured twice, at about 8:30 a.m and 4 p.m., the approximate times of maximum and minimum
+cortisol secretion. However, in this study, blood was collected only at about 8:30 a.m. when
+the cortisol secretion is highest, and this may have masked differences between the 2
+groups. Second, the subjects of the control group were instructed to lie down during rest,
+and this posture increases cerebral blood flow<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. An increase in blood flow is known to play a role in reducing
+stress<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. Therefore, it is possible
+that this resulted in levels of cortisol in the control group being similar to those of the
+experimental group.</p><p>The blood cortisol level of the experimental group after the application of the foam roller
+was lower than that of the control group, but the difference was not significant. We think
+that the self-myofascial release technique affected the autonomic nervous system of the
+subjects in the experimental group. Schleip asserted that there are &#x0201c;smooth muscle cells&#x0201d; in
+the myofascia that contract in addition to becoming tensed<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. These cells are capable of controlling the autonomic nervous
+system independent of muscular tension. The self-myofascial release technique used in this
+study applies very slow, gradual and deep pressure which we think lowers the activities of
+the sympathetic nerves. This effect is achieved by promoting the interstitial receptor
+effects that control the autonomic nerves through the stimulation of Ruffini endings<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. In other words, we consider the
+self-myofascial release technique increased the activation of the parasympathetic nerves,
+thereby reducing stress.</p><p>In this study, application of the self-myofascial release technique using a foam roller
+after exposure to physical stress resulted in better effects on stress reduction, on
+average, than taking a rest, even though there was no significant difference. We consider it
+necessary to repeat the experiment with a larger number of subjects in the future.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="other"><person-group><name><surname>Cannon</surname><given-names>WB</given-names></name></person-group>: Bodily changes in pain, hunger, fear and rage.
+<year>1929</year>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="other"><person-group><name><surname>Selye</surname><given-names>H</given-names></name></person-group>: The stress of life. <year>1956</year>.</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Landmann</surname><given-names>RM</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>FB</given-names></name><name><surname>Perini</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>Changes of immunoregulatory cells induced by psychological
+and physical stress: relationship to plasma catecholamines</article-title>. <source>Clin
+Exp Immunol</source>, <year>1984</year>, <volume>58</volume>:
+<fpage>127</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="pmid">6478647</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Gray</surname><given-names>JM</given-names></name><name><surname>Alpar</surname><given-names>EK</given-names></name></person-group>: <article-title>Peroneal tenosynovitis following ankle
+sprains</article-title>. <source>Injury</source>, <year>2001</year>,
+<volume>32</volume>: <fpage>487</fpage>&#x02013;<lpage>489</lpage>. <pub-id pub-id-type="pmid">11476815</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="book"><person-group><name><surname>Chaitow</surname><given-names>L</given-names></name></person-group>: Palpation Skills. Churchill Livingstone,
+<year>1997</year>.</mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="book"><person-group><name><surname>Simons</surname><given-names>DG</given-names></name><name><surname>Travell</surname><given-names>JG</given-names></name><name><surname>Simons</surname><given-names>LS</given-names></name></person-group>: Travell &#x00026; Simons&#x02019; Myofascial Pain and Dysfunction: Upper Half of
+Body. Lippincott Williams &#x00026; Wilkins, <year>1999</year>.</mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Tozzi</surname><given-names>P</given-names></name><name><surname>Bongiorno</surname><given-names>D</given-names></name><name><surname>Vitturini</surname><given-names>C</given-names></name></person-group>: <article-title>Fascial release effects on patients with non-specific
+cervical or lumbar pain</article-title>. <source>J Bodyw Mov Ther</source>,
+<year>2011</year>, <volume>15</volume>: <fpage>405</fpage>&#x02013;<lpage>416</lpage>.
+<pub-id pub-id-type="pmid">21943614</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="other"><person-group><name><surname>Barnes</surname><given-names>JF</given-names></name></person-group>: Myofascial Release: The Search for Excellence: A Comprehensive Evaluatory
+and Treatment Approach: JF Barnes, <year>1990</year>.</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Kuruma</surname><given-names>H</given-names></name><name><surname>Takei</surname><given-names>H</given-names></name><name><surname>Nitta</surname><given-names>O</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of myofascial release and stretching technique on
+range of motion and reaction time</article-title>. <source>J Phys Ther Sci</source>,
+<year>2013</year>, <volume>25</volume>: <fpage>169</fpage>&#x02013;<lpage>171</lpage>.
+</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Grod</surname><given-names>JP</given-names></name></person-group>: <article-title>Myofascial manipulation: theory and clinical
+application</article-title>. <source>J Can Chiropr Assoc</source>, <year>1994</year>,
+<volume>38</volume>: <fpage>181</fpage>.</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>MacDonald</surname><given-names>GZ</given-names></name><name><surname>Penney</surname><given-names>MD</given-names></name><name><surname>Mullaley</surname><given-names>ME</given-names></name><etal>et al.</etal></person-group>: <article-title>An acute bout of self-myofascial release increases range
+of motion without a subsequent decrease in muscle activation or force</article-title>.
+<source>J Strength Cond Res</source>, <year>2013</year>, <volume>27</volume>:
+<fpage>812</fpage>&#x02013;<lpage>821</lpage>. <pub-id pub-id-type="pmid">22580977</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Bialosky</surname><given-names>JE</given-names></name><name><surname>Bishop</surname><given-names>MD</given-names></name><name><surname>Price</surname><given-names>DD</given-names></name><etal>et al.</etal></person-group>: <article-title>The mechanisms of manual therapy in the treatment of
+musculoskeletal pain: a comprehensive model</article-title>. <source>Man Ther</source>,
+<year>2009</year>, <volume>14</volume>: <fpage>531</fpage>&#x02013;<lpage>538</lpage>.
+<pub-id pub-id-type="pmid">19027342</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Lafortune</surname><given-names>MA</given-names></name><name><surname>Cavanagh</surname><given-names>PR</given-names></name><name><surname>Sommer</surname><given-names>HJ</given-names><suffix>3rd</suffix></name><etal>et al.</etal></person-group>: <article-title>Three-dimensional kinematics of the human knee during
+walking</article-title>. <source>J Biomech</source>, <year>1992</year>,
+<volume>25</volume>: <fpage>347</fpage>&#x02013;<lpage>357</lpage>. <pub-id pub-id-type="pmid">1583014</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Acolet</surname><given-names>D</given-names></name><name><surname>Modi</surname><given-names>N</given-names></name><name><surname>Giannakoulopoulos</surname><given-names>X</given-names></name><etal>et al.</etal></person-group>: <article-title>Changes in plasma cortisol and catecholamine
+concentrations in response to massage in preterm infants</article-title>. <source>Arch
+Dis Child</source>, <year>1993</year>, <volume>68</volume>:
+<fpage>29</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="pmid">8439193</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Field</surname><given-names>T</given-names></name><name><surname>Grizzle</surname><given-names>N</given-names></name><name><surname>Scafidi</surname><given-names>F</given-names></name><etal>et al.</etal></person-group>: <article-title>Massage theraphy for infants of depressed
+mothers</article-title>. <source>Infant Behav Dev</source>, <year>1996</year>,
+<volume>19</volume>: <fpage>107</fpage>&#x02013;<lpage>112</lpage>. </mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Peaston</surname><given-names>RT</given-names></name><name><surname>Weinkove</surname><given-names>C</given-names></name></person-group>: <article-title>Measurement of catecholamines and their
+metabolites</article-title>. <source>Ann Clin Biochem</source>, <year>2004</year>,
+<volume>41</volume>: <fpage>17</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="pmid">14713382</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="book"><person-group><name><surname>Nicolson</surname><given-names>NA</given-names></name></person-group>: Measurement of Cortisol. Handbook of Physiological Research Methods in
+Health Psychology, <year>2008,</year> pp 37&#x02013;74.</mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Ouchi</surname><given-names>Y</given-names></name><name><surname>Kanno</surname><given-names>T</given-names></name><name><surname>Okada</surname><given-names>H</given-names></name><etal>et al.</etal></person-group>: <article-title>Changes in cerebral blood flow under the prone condition
+with and without massage</article-title>. <source>Neurosci Lett</source>,
+<year>2006</year>, <volume>407</volume>: <fpage>131</fpage>&#x02013;<lpage>135</lpage>.
+<pub-id pub-id-type="pmid">16973270</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Schleip</surname><given-names>R</given-names></name></person-group>: <article-title>Fascial plasticity&#x02014;a new neurobiological explanation: Part
+1</article-title>. <source>J Bodyw Mov Ther</source>, <year>2003</year>,
+<volume>7</volume>: <fpage>11</fpage>&#x02013;<lpage>19</lpage>. </mixed-citation></ref></ref-list></back></article>

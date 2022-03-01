@@ -1,0 +1,186 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-226</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1839</article-id><article-categories><subj-group subj-group-type="heading"><subject>Case Study</subject></subj-group></article-categories><title-group><article-title>Physical Therapy Combined with Corticosteroid Intervention for Systemic Lupus
+Erythematosus with Central Nervous System Involvement: A Case Report</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>In-Hee</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Ryu</surname><given-names>Young Uk</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Medicine and Rehabilitation,
+Keimyung University, Dongsan Hospital, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Collage of Medical Science,
+Catholic University of Daegu, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Young Uk Ryu, Department of Physical Therapy, Collage of Medical Science,
+Catholic University of Daegu: John Sye Hall 511, Geumrak-ro 5, Hayang-eup, Gyeongsan-si,
+Gyeongbuk, Republic of Korea. (E-mail: <email xlink:href="ryuyounguk@gmail.com">ryuyounguk@gmail.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1839</fpage><lpage>1841</lpage><history><date date-type="received"><day>17</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>21</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] Systemic lupus erythematosus (SLE) is a chronic, immune-mediated disease,
+affecting 0.1% of the general population. To date, few studies have investigated the
+efficacy of physical therapy for SLE patients with CNS involvement. The aim of this study
+was to report whether the combined use of corticosteroids and physical therapy, consisting
+of reflex inhibition and functional training, was beneficial to functional recovery.
+[Subjects and Methods] A 22-year-old male SLE patient with CNS involvement requested
+physical therapy due to strong spasticity of the trunk and limbs in a bedridden state.
+Corticosteroid intervention and physical therapy were undertaken for 16 days. [Result]
+After 16 days of the interventions, the patient demonstrated stabilized and alleviated
+neurological symptoms and an improved functional level. [Conclusion] The present case
+indicates that physical therapy combined with corticosteroids might be a possible
+treatment and rehabilitation method to effectively recover motor function for SLE patients
+who have strong spasticity due to CNS involvement.</p></abstract><kwd-group><title>Key words</title><kwd>Corticosteroids</kwd><kwd>Physical therapy</kwd><kwd>Systemic lupus erythematosus</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Systemic lupus erythematosus (SLE) is associated with significant cerebrovascular and
+neuropsychiatric diseases for which multiple pathogeneses have been proposed<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Involvement of the central nervous system
+(CNS) is one of the major causes of mortality and morbidity in SLE patients<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Although the underlying mechanisms of the
+CNS involvement are a less understood aspect of the disease, the common etiology is the
+involvement of the cerebral microvasculature that causes deficits in motor functions shown
+in the other diseases involving the CNS<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>.
+Cerebrovascular diseases in SLE have been estimated to occur in 5 to 19.6% of SLE
+patients<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. SLE patients with CNS
+involvement can demonstrate stroke-like symptoms such as severe hemiparesis, spasticity,
+loss of soft tissue elasticity, etc<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>.</p><p>Corticosteroid intervention has been considered the first-line treatment for
+neuropsychiatric SLE<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Previous studies reported
+that a corticosteroid treatment improved neurological symptoms by normalization of regional
+cerebral blood flows for SLE patients with neuropsychiatric manifestations<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. However, no studies have been reported that
+corticosteroid intervention led to reduced spasticity, improved balance and ADL for SLE
+patients with CNS involvement. These facts indicate that although corticosteroid
+intervention could be a major approach to promote relief of symptoms in SLE patients,
+intervention has been limited to active and directive intervention to improve the motor
+function of patients. Motor functions, such as reduced spasticity, balance, gait, and ADL,
+in SLE are important because improvement of motor functions in patients leads to a better
+quality of life.</p><p>Physical therapies have been a major treatment used to improve motor functions for patients
+with CNS problems<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. A main concept for
+such physical therapy methods is developing inhibition of abnormal motor synergies to
+decrease spasticity and improve motor control abilities in such patients<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. These signify that physical therapy treatments might play an
+important role in improving decreased motor functions for SLE patients with CNS involvement.
+However, based on our literature searches of PubMed<sup>&#x000ae;</sup> and Google
+Scholar<sup>&#x000ae;</sup>, surprisingly, no studies have been reported about physical therapy
+applied to SLE patients with CNS involvements.</p><p>In our study, we present a patient who was diagnosed as having SLE with CNS involvement. We
+applied physical therapy as well as corticosteroid therapy to the patient and investigated
+the clinical pathway. We conclude that these interventions can be effective treatments for
+functional improvement of the patient.</p></sec><sec id="s2"><title>CASE REPORT</title><sec><title>Patient</title><p>A 22-year-old man with SLE was admitted to our physical therapy department, and he signed
+an informed consent statement for this study. The patient presented with utterance of
+meaningless words, jaundice, and lower limb weakness. He had been diagnosed with discoid
+lupus erythematosus, febrile neutrophilic dermatosis, schizophrenia, and bipolar affective
+disorder five months prior to presentation. He reported a four-day history of epigastric
+pain; four days before, there had been no other systemic features of infection.</p><p>He was diagnosed with SLE with CNS involvement and pericardial effusion. A radionuclide
+regional cerebral blood flow (rCBF) study with 900 MBq technetium-99&#x02005;m ethyl cysteinate
+dimer (TECD) by single-positron emission computed tomography (SPECT) revealed multifocal
+decreased perfusion to the anterior cingulate, left parietal, left occipital, right
+lateral temporal, and anterior pole of the left temporal cortices. Ultrasound revealed
+that the liver, spleen, pancreas, and gall bladder were normal in size, contour,
+echogenicity, wall thickness, and calcification. A hematological examination indicated
+that his hemoglobin, hematocrit, red blood cells, white blood cells, and platelets were
+normal. However, in a liver function test, his AST, ALT, ALP, and bilirubin levels were
+markedly elevated. He was also positive for anti-dsDN, anti-histone, and anti-Sm
+antibodies. Laboratory tests for venereal diseases and lupus anticoagulant tests were
+negative. Electromyography showed no abnormal spontaneous activity, and his motor unit
+potential was of normal amplitude and duration. He was treated with high-dose intravenous
+steroids (methylprednisolone; 1&#x02005;g/day), which resulted in complete resolution of the SLE.
+His neuropsychiatric symptoms were stationary.</p></sec><sec><title>Physical therapy</title><p>After admission for three days, he requested physical therapy due to marked spasticity
+that was uncontrollable by corticosteroid intervention. His spasticity was similar to a
+&#x0201c;bilateral stroke-like&#x0201d; symptom presented in his trunk and all four limbs. When admitted
+to physical therapy on the day of the request, his spasticity level was modified Ashworth
+scale (MAS) grade 3 in both lower limbs and grade 2 in both upper limbs. He had no active
+range of motion activities in any limb. We could not evaluate his balance ability and ADL
+level at the time of referral. His outcome measurements were evaluated at the time of
+referral and at 5 days, 7 days, 12 days, and 16 days later (<xref ref-type="fig" rid="fig_001">Fig. 1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig.1.</label><caption><p>Schedule of treatment and assessment</p></caption><graphic xlink:href="jpts-26-1839-g001"/></fig>).</p><p>Our first goal of the therapeutic treatment for the patient was spasticity relief, since
+he had increased muscle tone that deteriorated motor function (<xref ref-type="fig" rid="fig_001">Fig. 1</xref>). We used the reflex inhibition pattern (based on the Bobath
+concept) to reduce the spasticity level<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. The reflex inhibition pattern could be described as particular
+movement patterns of proximal joints that affect the tone of the trunk and limbs. The
+applied reflex inhibition techniques to the patient consisted of passive and active ROM
+exercises in all four limbs and the trunk in a normal sitting posture while the hip and
+shoulder joints were flexed at 90 degrees. These techniques were applied for 1 hour a day
+(5 days/week). After five days of treatment, his spasticity decreased to an MAS grade of 2
+in the lower limbs and 1+ in the upper limbs. Of note, his ankle spasticity also
+decreased. These outcomes suggest that spastic muscle groups were successfully inhibited
+by the applied physical therapy techniques.</p><p>After seven days of reflex inhibition pattern treatment, his spasticity was no longer
+apparent. We evaluated his balance ability with the Berg balance score (BBS), and his BBS
+at this time was 15, indicating that the level of walking with assistance was not
+achieved<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> (<xref ref-type="fig" rid="fig_001">Fig. 1</xref>). He could maintain a sitting and standing posture with
+minimal assistance from a physical therapist. For these reasons, we decided to focus the
+physical therapy intervention on improvement of balance beginning with the intervention on
+the 8th day of the physical therapy session (<xref ref-type="fig" rid="fig_001">Fig.
+1</xref>). He was instructed to reach as far as possible in all cardinal directions in a
+sitting posture in an unsupported chair and carry out active range of motion activities.
+He was also asked to maintain a normal standing position on his own base of support. These
+techniques were applied for 1 hour a day (5 days/week). After a week, he could perform the
+sitting unsupported and partially perform the sitting to standing, standing to sitting,
+and transfers items of the BBS. Twelve days after the request for physical therapy, his
+BBS score reached 33 points, indicating the level of walking with assistance<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> (<xref ref-type="fig" rid="fig_001">Fig.
+1</xref>). We then set independent walking as his new goal and started gait training on
+the 13th day of the physical therapy intervention (<xref ref-type="fig" rid="fig_001">Fig.
+1</xref>).</p><p>After sixteen days, that is, on the last day of his physical therapy sessions, he could
+walk without a cane. His BBS score also reached 47 points, indicating the level of
+independent walking<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> (<xref ref-type="fig" rid="fig_001">Fig. 1</xref>). The patient was discharged from physical
+therapy and the hospital.</p></sec></sec><sec sec-type="discussion" id="s3"><title>DISCUSSION</title><p>In this study, corticosteroid and physical therapy interventions were applied to an SLE
+patient with CNS involvement. At the time of referral, he showed no active motion and a high
+level of spasticity in all four limbs. After 16 days of treatment, the patient demonstrated
+stabilized and alleviated neurological symptoms and an improved functional level. Thus, the
+current results indicate that the corticosteroid and physical therapy interventions applied
+to the present patient effectively recovered his neurological symptoms and motor
+functions.</p><p>Our first clinical goal was to reduce the patient&#x02019;s spasticity level because his high level
+of spasticity inhibited normal movement patterns. Although the mechanisms underlying
+spasticity have not been fully elucidated, prior works suggest that reflex inhibition and
+decreased reciprocal inhibition of motor neurons may make an important contribution<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. The reflex and reciprocal inhibition techniques used in this study
+might allow breakdown of the abnormal spinal stretch reflex mechanism and return of
+appropriate muscle activity.</p><p>Another important reason to reduce the spasticity was that it is a starting point to
+facilitate functional activities<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>. This
+was the reason why balance and gait training were provided to the patient at the time when
+spasticity was no longer apparent<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. The
+results from the present case show that functional training seems to be successful in
+recovering balance and gait abilities in a fast and effective manner, consistent with other
+studies<xref rid="r18" ref-type="bibr">18</xref>, <xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. Ultimately, he was discharged from the hospital with the ability
+to walk independently after sixteen days of physical therapy sessions.</p><p>One of the limitations of the present case study is that it is unclear whether the
+patient&#x02019;s spasticity and motor function recovery were primarily due to the corticosteroid
+intervention or the physical therapy intervention. Based on previous studies, however, the
+corticosteroid intervention was primarily administered to stabilize and alleviate the
+patient&#x02019;s neurological symptoms<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>, and there was no
+evidence of functional recovery. Although it is hard to differentiate the effects of the
+corticosteroid and physical therapy interventions, we conclude that the two interventions
+interplayed with each other to improve the patient&#x02019;s clinical status. Specifically, the
+present impressive recovery in the patient&#x02019;s functional abilities resulted largely from the
+physical therapy intervention, while the corticosteroid treatment had an effect on
+stabilization and alleviation of the neurological symptoms. Further studies may be needed to
+evaluate the possible differences between corticosteroid interventions and physical therapy
+interventions in the treatment of SLE patients with CNS involvement.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Greene</surname><given-names>ER</given-names></name><name><surname>Yonan</surname><given-names>KA</given-names></name><name><surname>Sharrar</surname><given-names>JM</given-names></name><etal>et al.</etal></person-group>: <article-title>Middle cerebral artery resistivity and pulsatility indices
+in systemic lupus erythematosus: evidence for hyperperfusion</article-title>.
+<source>Lupus</source>, <year>2012</year>, <volume>21</volume>:
+<fpage>380</fpage>&#x02013;<lpage>385</lpage>. <pub-id pub-id-type="pmid">22127458</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Unterman</surname><given-names>A</given-names></name><name><surname>Nolte</surname><given-names>JE</given-names></name><name><surname>Boaz</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Neuropsychiatric syndromes in systemic lupus
+erythematosus: a meta-analysis</article-title>. <source>Semin Arthritis Rheum</source>,
+<year>2011</year>, <volume>41</volume>: <fpage>1</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="pmid">20965549</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Postal</surname><given-names>M</given-names></name><name><surname>Costallat</surname><given-names>LT</given-names></name><name><surname>Appenzeller</surname><given-names>S</given-names></name></person-group>: <article-title>Neuropsychiatric manifestations in systemic lupus
+erythematosus: epidemiology, pathophysiology and management</article-title>. <source>CNS
+Drugs</source>, <year>2011</year>, <volume>25</volume>:
+<fpage>721</fpage>&#x02013;<lpage>736</lpage>. <pub-id pub-id-type="pmid">21870886</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Chiewthanakul</surname><given-names>P</given-names></name><name><surname>Sawanyawisuth</surname><given-names>K</given-names></name><name><surname>Foocharoen</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>Clinical features and predictive factors in
+neuropsychiatric lupus</article-title>. <source>Asian Pac J Allergy Immunol</source>,
+<year>2012</year>, <volume>30</volume>: <fpage>55</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="pmid">22523908</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Ishitsuka</surname><given-names>K</given-names></name><name><surname>Ago</surname><given-names>T</given-names></name><name><surname>Fukuda</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>A case of SLE presenting stroke-like
+symptoms</article-title>. <source>Intern Med</source>, <year>2011</year>,
+<volume>50</volume>: <fpage>359</fpage>&#x02013;<lpage>362</lpage>. <pub-id pub-id-type="pmid">21325772</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Baca</surname><given-names>V</given-names></name><name><surname>Lavalle</surname><given-names>C</given-names></name><name><surname>Garc&#x000ed;a</surname><given-names>R</given-names></name><etal>et al.</etal></person-group>: <article-title>Favorable response to intravenous methylprednisolone and
+cyclophosphamide in children with severe neuropsychiatric lupus</article-title>.
+<source>J Rheumatol</source>, <year>1999</year>, <volume>26</volume>:
+<fpage>432</fpage>&#x02013;<lpage>439</lpage>. <pub-id pub-id-type="pmid">9972981</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Cuadrado</surname><given-names>MJ</given-names></name><name><surname>Khamashta</surname><given-names>MA</given-names></name><name><surname>Ballesteros</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Can neurologic manifestations of Hughes (antiphospholipid)
+syndrome be distinguished from multiple sclerosis? Analysis of 27 patients and review of
+the literature</article-title>. <source>Medicine (Baltimore)</source>,
+<year>2000</year>, <volume>79</volume>: <fpage>57</fpage>&#x02013;<lpage>68</lpage>.
+<pub-id pub-id-type="pmid">10670410</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Sanna</surname><given-names>G</given-names></name><name><surname>Bertolaccini</surname><given-names>ML</given-names></name><name><surname>Mathieu</surname><given-names>A</given-names></name></person-group>: <article-title>Central nervous system lupus: a clinical approach to
+therapy</article-title>. <source>Lupus</source>, <year>2003</year>, <volume>12</volume>:
+<fpage>935</fpage>&#x02013;<lpage>942</lpage>. <pub-id pub-id-type="pmid">14714914</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Sun</surname><given-names>SS</given-names></name><name><surname>Huang</surname><given-names>WS</given-names></name><name><surname>Chen</surname><given-names>JJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Evaluation of the effects of methylprednisolone pulse
+therapy in patients with systemic lupus erythematosus with brain involvement by Tc-99m
+HMPAO brain SPECT</article-title>. <source>Eur Radiol</source>, <year>2004</year>,
+<volume>14</volume>: <fpage>1311</fpage>&#x02013;<lpage>1315</lpage>. <pub-id pub-id-type="pmid">14663624</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Hashidate</surname><given-names>H</given-names></name><name><surname>Shiomi</surname><given-names>T</given-names></name><name><surname>Sasamoto</surname><given-names>N</given-names></name></person-group>: <article-title>Effects of 6 months combined functional training on muscle
+strength, postural balance and gait performance in community-dwelling individuals with
+chronic stroke hemiplegia</article-title>. <source>J Phys Ther Sci</source>,
+<year>2011</year>, <volume>23</volume>: <fpage>617</fpage>&#x02013;<lpage>623</lpage>.
+</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Bobath</surname><given-names>B</given-names></name></person-group>: <article-title>The treatment of neuromuscular disorders by improving
+patterns of co-ordination</article-title>. <source>Physiotherapy</source>,
+<year>1969</year>, <volume>55</volume>: <fpage>18</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">5763363</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Cherry</surname><given-names>DB</given-names></name></person-group>: <article-title>Review of physical therapy alternatives for reducing
+muscle contracture</article-title>. <source>Phys Ther</source>, <year>1980</year>,
+<volume>60</volume>: <fpage>877</fpage>&#x02013;<lpage>881</lpage>. <pub-id pub-id-type="pmid">7413731</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Berg</surname><given-names>KO</given-names></name><name><surname>Wood-Dauphinee</surname><given-names>SL</given-names></name><name><surname>Williams</surname><given-names>JI</given-names></name><etal>et al.</etal></person-group>: <article-title>Measuring balance in the elderly: validation of an
+instrument</article-title>. <source>Can J Public Health</source>, <year>1992</year>,
+<volume>83</volume>: <fpage>S7</fpage>&#x02013;<lpage>S11</lpage>. <pub-id pub-id-type="pmid">1468055</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Bhagchandani</surname><given-names>N</given-names></name><name><surname>Schindler-Ivens</surname><given-names>S</given-names></name></person-group>: <article-title>Reciprocal inhibition post-stroke is related to reflex
+excitability and movement ability</article-title>. <source>Clin Neurophysiol</source>,
+<year>2012</year>, <volume>123</volume>: <fpage>2239</fpage>&#x02013;<lpage>2246</lpage>.
+<pub-id pub-id-type="pmid">22613030</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Graham</surname><given-names>LA</given-names></name></person-group>: <article-title>Management of spasticity revisited</article-title>.
+<source>Age Ageing</source>, <year>2013</year>, <volume>42</volume>:
+<fpage>435</fpage>&#x02013;<lpage>441</lpage>. <pub-id pub-id-type="pmid">23775030</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Stevenson</surname><given-names>VL</given-names></name></person-group>: <article-title>Rehabilitation in practice: spasticity
+management</article-title>. <source>Clin Rehabil</source>, <year>2010</year>,
+<volume>24</volume>: <fpage>293</fpage>&#x02013;<lpage>304</lpage>. <pub-id pub-id-type="pmid">20360150</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Mazzaro</surname><given-names>N</given-names></name><name><surname>Grey</surname><given-names>MJ</given-names></name><name><surname>Sinkjaer</surname><given-names>T</given-names></name></person-group>: <article-title>Contribution of afferent feedback to the soleus muscle
+activity during human locomotion</article-title>. <source>J Neurophysiol</source>,
+<year>2005</year>, <volume>93</volume>: <fpage>167</fpage>&#x02013;<lpage>177</lpage>.
+<pub-id pub-id-type="pmid">15356177</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Simonsen</surname><given-names>EB</given-names></name><name><surname>Dyhre-Poulsen</surname><given-names>P</given-names></name></person-group>: <article-title>Amplitude of the human soleus H reflex during walking and
+running</article-title>. <source>J Physiol</source>, <year>1999</year>,
+<volume>515</volume>: <fpage>929</fpage>&#x02013;<lpage>939</lpage>. <pub-id pub-id-type="pmid">10066917</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Stein</surname><given-names>RB</given-names></name><name><surname>Thompson</surname><given-names>AK</given-names></name></person-group>: <article-title>Muscle reflexes in motion: how, what, and
+why?</article-title><source>Exerc Sport Sci Rev</source>, <year>2006</year>,
+<volume>34</volume>: <fpage>145</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="pmid">17031251</pub-id></mixed-citation></ref></ref-list></back></article>

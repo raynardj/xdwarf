@@ -1,0 +1,202 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-218</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1729</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The Reference Values for the Chair Stand Test in Healthy Japanese Older
+People: Determination by Meta-analysis</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nakazono</surname><given-names>Tetsuharu</given-names></name><degrees>RPT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kamide</surname><given-names>Naoto</given-names></name><degrees>RPT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Ando</surname><given-names>Masataka</given-names></name><degrees>RPT</degrees><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Rehabilitation, Kitasato University East
+Hospital, Japan</aff><aff id="aff2"><label>2)</label> School of Allied Health Sciences, Kitasato University, Japan</aff><aff id="aff3"><label>3)</label> Graduate School of Medical Sciences, Kitasato University,
+Japan</aff><aff id="aff4"><label>4)</label> Department of Rehabilitation, Ushioda General Hospital,
+Japan</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Naoto Kamide, School of Allied Health Sciences, Kitasato University:
+1-15-1 Kitasato, Minami-Ku, Sagamihara, Kanagawa 252-0373, Japan. (E-mail: <email xlink:href="naokami@kitasato-u.ac.jp">naokami@kitasato-u.ac.jp</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1729</fpage><lpage>1731</lpage><history><date date-type="received"><day>10</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>11</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to determine the reference values for the chair stand
+test (CST) in healthy older Japanese people. [Methods] Relevant research articles for the
+5-repetition chair stand test (CS-5) and the 30-second chair stand test (CS-30) were
+identified by electronic database and manual searching. Research articles involving
+healthy Japanese people aged 60&#x02005;years and older were included in a meta-analysis. Weighted
+means of the CS-5 and CS-30 were estimated by the random effect model as the reference
+values for the CST. Further, the effects of age and sex on the reference values were
+analyzed by a meta-regression analysis. [Results] Seven articles (21 data) and three
+articles (14 data) were included in the meta-analyses for the CS-5 and CS-30,
+respectively. The reference value for the CS-5 was estimated as 8.50 sec [95% confidence
+interval (CI): 7.93&#x02013;9.07]; age and sex were not associated with this reference value. The
+reference value for the CS-30 was estimated as 17.26 times [95%CI: 15.98&#x02013;18.55], and age
+was significantly associated with this value. [Conclusion] When the CS-5 and CS-30 are
+used to evaluate elderly Japanese people, the reference values for the CS-5 and CS-30
+determined in this study would be useful indices.</p></abstract><kwd-group><title>Key words</title><kwd>Chair stand test</kwd><kwd>Meta-analysis</kwd><kwd>Older people</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>The chair stand test (CST)<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup> is one of the physical performance tests for older people,
+and it is reported to be associated with muscle strength around the knee joint<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. It is believed that the CST is able to
+assess muscle strength around the knee joint in older people in the clinical setting without
+a hand-held dynamometer. The CST has been demonstrated to be a simple and feasible physical
+performance test, even for evaluating older people with limited mobility<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Furthermore, prospective cohort studies
+have demonstrated that the CST is a predictor of decreased activities of daily living (ADL)
+and falls in older people<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>.</p><p>A previous study, a meta-analysis, reported a reference value as an assessment criterion
+for the CST<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. On the other hand, the
+results of the CST and the muscle strength around the knee joint have been reported to show
+ethnic differences<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. Nevertheless, the reference value<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> reported previously did not consider ethnic differences. The aim of
+this study was to determine the reference values for the CST in healthy older Japanese
+people by meta-analysis taking ethnicity into account.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>Research articles published from January 1994 to September 2013 that reported data for the
+CST were searched. For the CST, data including the CS-5<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup> and the CS-30<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>
+were analyzed in the meta-analysis. The CS-5 is a task that involves standing up from a
+chair 5 times as fast as possible, and the time that it takes to complete the task is
+measured. On the other hand, the CS-30 is a task that involves repeatedly standing up from a
+chair for 30 seconds as fast as possible, and the number of stand-ups completed during 30
+seconds is counted.</p><p>Relevant research articles were sought from electronic databases: PubMed, Embase,
+Cumulative Index to Nursing and Allied Health Literature (CINAHL), and Igaku Chuou Zasshi
+(an electronic database that consists of medical research articles in Japan). Furthermore, a
+manual search was also conducted from the indices of relevant scientific journals
+(Geriatrics &#x00026; Gerontology International, Japanese Journal of Geriatrics, Japanese
+Journal of Public Health). The terms &#x0201c;sit to stand&#x0201d;, &#x0201c;5-repetition Chair Stand test (CS-5)&#x0201d;,
+&#x0201c;30-second Chair Stand test (CS-30)&#x0201d;, &#x0201c;chair stand test&#x0201d;, &#x0201c;chair rising test&#x0201d;, &#x0201c;elderly&#x0201d;,
+&#x0201c;older people&#x0201d;, and &#x0201c;aged&#x0201d; were used in combination for the search.</p><p>The searches were limited to peer-reviewed research articles published in English or
+Japanese. The retrieved articles were examined by three reviewers (TN, MA, NK) based on the
+following inclusion criteria determined according to previous studies<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>: (1) the
+articles involved Japanese people; (2) the articles involved community-dwelling people who
+were aged 60&#x02005;years and older; (3) the articles involved older people with good functioning,
+defined as those with independent ADL, independent instrumental ADL (IADL), and
+participation in social activities; (4) the articles did not involve frail older people and
+patients who had specific diseases, such as neuromuscular diseases and hip fractures; (5)
+the sample size and the mean and standard deviation (SD) of the CST were all described in
+the text; and (6) information about the CST measurement method was described. The
+functioning of subjects was judged by the same criteria as in previous studies<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. The above inclusion criteria were adopted to minimize data variation
+among the studies.</p><p>The articles fulfilling the above criteria were summarized to obtain the article
+information (title, authors, and citation), information about the participants (age, sex,
+and functioning), CST measurement method, sample size, and the mean and SD of the CST. All
+information was tabulated and input into a computer database to perform further statistical
+analysis (described below). When multiple CST values were reported in an article (e.g., data
+reported by sex and age group), the data for each group were entered into the database.</p><p>Weighted means and 95% confidence intervals (95%CIs) were calculated from the data that
+fulfilled the inclusion criteria for the analysis as reference values for the CST. Weighted
+means were calculated by the DerSimonian-Laird method. Furthermore, the effects of age and
+sex on the reference values for the CST were analyzed by a mixed effect model
+(meta-regression analysis). Statistical analysis was performed using R programming language
+and environment (R version 2.15.3)<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> and
+the metaphor package for R (version 1.8-0)<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. The significance level was set at 5%.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>A total of 1,169 articles were identified from electronic database and manual searching.
+However, 1,060 articles that did not fulfill the inclusion criteria were excluded after
+checking their titles and abstracts. Furthermore, 99 articles were excluded after checking
+their full texts, as they did not fulfill the inclusion criteria. Thus, 7 articles (21
+groups)<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r18" ref-type="bibr">18</xref>,<xref rid="r19" ref-type="bibr">19</xref>,<xref rid="r20" ref-type="bibr">20</xref>,<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup> and 3 articles (14
+groups)<xref rid="r22" ref-type="bibr">22</xref>,<xref rid="r23" ref-type="bibr">23</xref>,<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup> were included for
+estimation of the reference values for the CS-5 and the CS-30, respectively. For the
+measurement methods of the CS-5 and CS-30 in all articles fulfilling the criteria,
+participants were instructed to sit in a chair with their feet fixed shoulder-width apart
+and repeatedly stand up from the chair as fast as possible.</p><p>Studies with CS-5 data involved 6,050 subjects (men 494, women 1,659, unknown 3,897; mean
+age 69.0&#x02013;80.7&#x02005;years). The reference value for the CS-5 was 8.50 sec (95%CI=7.93&#x02013;9.07 sec)
+(<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>The reference values for the chair stand test</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="center" rowspan="1" colspan="1">Model</th><th colspan="2" valign="top" align="center" rowspan="1">Test</th><th valign="top" align="center" rowspan="1" colspan="1">Reference values [95%CI]</th><th valign="top" align="center" rowspan="1" colspan="1">Heterogeneity</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Random effect</td><td align="left" rowspan="1" colspan="1">CS-5<sup>&#x02020;</sup></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">8.50 [7.93&#x02013;9.07] sec</td><td align="left" valign="top" rowspan="1" colspan="1">Q =1413.92 (df=20), p&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Random effect</td><td align="left" rowspan="1" colspan="1">CS-30<sup>&#x02021;</sup></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">17.26 [15.98&#x02013;18.55] times</td><td align="left" valign="top" rowspan="1" colspan="1">Q=189.42 (df=13), p&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Mixed effect</td><td align="left" rowspan="1" colspan="1">CS-30</td><td align="left" rowspan="1" colspan="1">60s<sup>&#x000a7;</sup></td><td align="left" rowspan="1" colspan="1">22.15 [14.35&#x02013;29.95] times</td><td align="left" valign="top" rowspan="1" colspan="1">QE=55.62 (df=10), p&#x0003c; 0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">70s<sup>&#x000a7;</sup></td><td align="left" rowspan="1" colspan="1">18.45 [9.35&#x02013;27.55] times</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">80s<sup>&#x000a7;</sup></td><td align="left" rowspan="1" colspan="1">14.75 [4.35&#x02013;25.15] times</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><p><sup>&#x02020;</sup>Five-repetition chair stand test, <sup>&#x02021;</sup>Thirty-second chair stand
+test, <sup>&#x000a7;</sup>The value was estimated by the following formula: 44.35 &#x02212; 0.37
+[95%CI: &#x02212;0.50 to &#x02212;0.24] * age.</p></table-wrap-foot></table-wrap>). Age and sex were not significantly associated with the reference value for
+the CS-5 in the mixed effect model analysis. Studies with CS-30 data involved 661 subjects
+(men 209, women 317, unknown 135; mean age 62.6&#x02013;83.2&#x02005;years). The reference value for the
+CS-30 was 17.26 times (95%CI=15.98&#x02013;18.55 times) (<xref rid="tbl_001" ref-type="table">Table
+1</xref>). Age was significantly associated with the reference value for the CS-30 in the
+mixed effect model analysis, but sex was not. The reference value for each age group shown
+in <xref rid="tbl_001" ref-type="table">Table 1</xref> was estimated using the formula
+determined from the mixed effect model.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The reference values for the CS-5 and CS-30 in older Japanese people who were independent
+in ADL were determined using the methodology of meta-analysis in the present study. For the
+CS-5, a reference value has been previously estimated<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>, but ethnic differences in the CS-5 were not considered in that
+study. When the reference values for the CS-5 estimated by the present study and previous
+study<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> were compared, that for the CS-5
+in the present study was 8.50 sec and that for the CS-5 in the previous study was 12.10 sec.
+Thus, the reference value for the CS-5 in the present study tended to be shorter than that
+in the previous study. The present finding is in agreement with the finding of a previous
+report<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup> that suggested ethnic
+differences in the CS-5. This indicates that the reference value for the CS-5 estimated by
+the present study appears to be specific and useful for older Japanese people. On the other
+hand, no reference value for the CS-30 has been previously reported. The reference value for
+the CS-30 found in the present study, also appears to be specific and useful for older
+Japanese people.</p><p>The CS-5 was not significantly associated with age and sex in the present study. On the
+other hand, a significant association was found between the CS-30 and age. Therefore, the
+reference value for the CS-30 in healthy older people appears to decrease with age. A
+previous study indicated that the CS-30 was significantly related to age, as in the present
+study<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. The reason why there is a
+difference in the effect of age between the CS-5 and the CS-30 is not obvious from the data
+and analysis in the present study. In conclusion, when the CS-30 is used as a physical
+performance test in older people, age must be taken into account.</p><p>This study had several limitations. First, the sample size for estimation of the reference
+value for the CS-30 was smaller than that for the CS-5. Therefore, the validity of the
+reference value for the CS-30 may be relatively lower than that for the CS-5. Second, height
+has been shown to affect the CST result<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>. However, the effect of height on the reference values for the CS-5
+and CS-30 could not be clarified in the present study, since the height data were
+insufficient for reliable analysis.</p><p>In this study, the reference values for the CS-5 and the CS-30, variations of the CST, were
+determined for healthy older Japanese people. The CST can be measured using just a chair and
+a stop watch. Therefore, the CST is a simple and feasible physical performance test for
+older people and rehabilitation patients in the clinical setting<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>. When the CS-5 and CS-30 are used to evaluate older
+Japanese people, the reference values for the CS-5 and CS-30 estimated in this study would
+be useful indices.</p></sec></body><back><ack><p>This study was funded by the Ministry of Education, Culture, Sports, Science, and
+Technology (Grant-in-Aid for Young Scientists (B) No. 25870703). The funder had no role in
+study design, data collection and analysis, and the decision to publish.</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Guralnik</surname><given-names>JM</given-names></name><name><surname>Simonsick</surname><given-names>EM</given-names></name><name><surname>Ferrucci</surname><given-names>L</given-names></name><etal>et al.</etal></person-group>: <article-title>A short physical performance battery assessing lower
+extremity function: association with self-reported disability and prediction of
+mortality and nursing home admission</article-title>. <source>J Gerontol</source>,
+<year>1994</year>, <volume>49</volume>: <fpage>M85</fpage>&#x02013;<lpage>M94</lpage>.
+<pub-id pub-id-type="pmid">8126356</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Jones</surname><given-names>CJ</given-names></name><name><surname>Rikli</surname><given-names>RE</given-names></name><name><surname>Beam</surname><given-names>WC</given-names></name></person-group>: <article-title>A 30-s chair-stand test as a measure of lower body
+strength in community-residing older adults</article-title>. <source>Res Q Exerc
+Sport</source>, <year>1999</year>, <volume>70</volume>:
+<fpage>113</fpage>&#x02013;<lpage>119</lpage>. <pub-id pub-id-type="pmid">10380242</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Lord</surname><given-names>SR</given-names></name><name><surname>Murray</surname><given-names>SM</given-names></name><name><surname>Chapman</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>Sit-to-stand performance depends on sensation, speed,
+balance, and psychological status in addition to strength in older
+people</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>,
+<year>2002</year>, <volume>57</volume>: <fpage>M539</fpage>&#x02013;<lpage>M543</lpage>.
+<pub-id pub-id-type="pmid">12145369</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Corrigan</surname><given-names>D</given-names></name><name><surname>Bohannon</surname><given-names>RW</given-names></name></person-group>: <article-title>Relationship between knee extension force and stand-up
+performance in community-dwelling elderly women</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2001</year>, <volume>82</volume>:
+<fpage>1666</fpage>&#x02013;<lpage>1672</lpage>. <pub-id pub-id-type="pmid">11733880</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Yabushita</surname><given-names>N</given-names></name><name><surname>Kim</surname><given-names>MK</given-names></name><etal>et al.</etal></person-group>: <article-title>Alternative items for identifying hierarchical levels of
+physical disability by using physical performance tests in women aged 75 years and
+older</article-title>. <source>Geriatr Gerontol Int</source>, <year>2010</year>,
+<volume>10</volume>: <fpage>302</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="pmid">20345433</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Zhang</surname><given-names>F</given-names></name><name><surname>Ferrucci</surname><given-names>L</given-names></name><name><surname>Culham</surname><given-names>E</given-names></name><etal>et al.</etal></person-group>: <article-title>Performance on five times sit-to-stand task as a predictor
+of subsequent falls and disability in older persons</article-title>. <source>J Aging
+Health</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>478</fpage>&#x02013;<lpage>492</lpage>. <pub-id pub-id-type="pmid">23407343</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>den Ouden</surname><given-names>ME</given-names></name><name><surname>Schuurmans</surname><given-names>MJ</given-names></name><name><surname>Arts</surname><given-names>IE</given-names></name><etal>et al.</etal></person-group>: <article-title>Association between physical performance characteristics
+and independence in activities of daily living in middle-aged and elderly
+men</article-title>. <source>Geriatr Gerontol Int</source>, <year>2013</year>,
+<volume>13</volume>: <fpage>274</fpage>&#x02013;<lpage>280</lpage>. <pub-id pub-id-type="pmid">22686630</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Tiedemann</surname><given-names>A</given-names></name><name><surname>Shimada</surname><given-names>H</given-names></name><name><surname>Sherrington</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>The comparative ability of eight functional mobility tests
+for predicting falls in community-dwelling older people</article-title>. <source>Age
+Ageing</source>, <year>2008</year>, <volume>37</volume>:
+<fpage>430</fpage>&#x02013;<lpage>435</lpage>. <pub-id pub-id-type="pmid">18487264</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Bohannon</surname><given-names>RW</given-names></name></person-group>: <article-title>Reference values for the five-repetition sit-to-stand
+test: a descriptive meta-analysis of data from elders</article-title>. <source>Percept
+Mot Skills</source>, <year>2006</year>, <volume>103</volume>:
+<fpage>215</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="pmid">17037663</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Aoyagi</surname><given-names>K</given-names></name><name><surname>Ross</surname><given-names>PD</given-names></name><name><surname>Nevitt</surname><given-names>MC</given-names></name><etal>et al.</etal></person-group>: <article-title>Comparison of performance-based measures among native
+Japanese, Japanese-Americans in Hawaii and Caucasian women in the United States, ages 65
+years and over: a cross-sectional study</article-title>. <source>BMC Geriatr</source>,
+<year>2001</year>, <volume>1</volume>: <fpage>3</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">11696243</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Liang</surname><given-names>MT</given-names></name><name><surname>Bassin</surname><given-names>S</given-names></name><name><surname>Dutto</surname><given-names>D</given-names></name><etal>et al.</etal></person-group>: <article-title>Bone mineral density and leg muscle strength in young
+Caucasian, Hispanic, and Asian women</article-title>. <source>J Clin Densitom</source>,
+<year>2007</year>, <volume>10</volume>: <fpage>157</fpage>&#x02013;<lpage>164</lpage>.
+<pub-id pub-id-type="pmid">17485032</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Kamide</surname><given-names>N</given-names></name><name><surname>Takahashi</surname><given-names>K</given-names></name><name><surname>Shiba</surname><given-names>Y</given-names></name></person-group>: <article-title>Reference values for the Timed Up and Go test in healthy
+Japanese elderly people: determination using the methodology of
+meta-analysis</article-title>. <source>Geriatr Gerontol Int</source>, <year>2011</year>,
+<volume>11</volume>: <fpage>445</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="pmid">21554510</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Kamide</surname><given-names>N</given-names></name><name><surname>Takahashi-Narita</surname><given-names>K</given-names></name><name><surname>Kawamura</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Determination of the reference value and systematic bias
+of the functional reach test in Japanese elderly people by
+mete-analysis</article-title>. <source>J Clin Gerontol Geriatr</source>,
+<year>2012</year>, <volume>3</volume>: <fpage>122</fpage>&#x02013;<lpage>126</lpage>.
+</mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="eref">R Core Team:
+(<year>2013</year>):R: A language and environment for statistical computing. R Foundation
+for statistical Computing, Veinna, Austria. <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org/">http://www.R-project.org/</ext-link> (Accessed
+Nov. 8, 2013)</mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Viechtbauer</surname><given-names>W</given-names></name></person-group>: <article-title>Conducting meta-analyses in R with the metafor
+package</article-title>. <source>J Stat Softw</source>, <year>2010</year>,
+<volume>36</volume>: <fpage>1</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Seino</surname><given-names>S</given-names></name><name><surname>Kim</surname><given-names>MK</given-names></name><etal>et al.</etal></person-group>: <article-title>Validation of lower extremity performance tests for
+determining the mobility limitation levels in community-dwelling older
+women</article-title>. <source>Aging Clin Exp Res</source>, <year>2009</year>,
+<volume>21</volume>: <fpage>437</fpage>&#x02013;<lpage>444</lpage>. <pub-id pub-id-type="pmid">20154513</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Yabushita</surname><given-names>N</given-names></name><name><surname>Kim</surname><given-names>MK</given-names></name><etal>et al.</etal></person-group>: <article-title>Mobility performance tests for discriminating high risk of
+frailty in community-dwelling older women</article-title>. <source>Arch Gerontol
+Geriatr</source>, <year>2010</year>, <volume>51</volume>:
+<fpage>192</fpage>&#x02013;<lpage>198</lpage>. <pub-id pub-id-type="pmid">19939477</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Yabushita</surname><given-names>N</given-names></name><name><surname>Tanaka</surname><given-names>K</given-names></name></person-group>: <article-title>Exploring effective items of physical function in slow
+walking speed and self-reported mobility limitation in community-dwelling older
+adults</article-title>. <source>Geriatr Gerontol Int</source>, <year>2012</year>,
+<volume>12</volume>: <fpage>50</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="pmid">21729226</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Shimada</surname><given-names>H</given-names></name><name><surname>Suzuki</surname><given-names>T</given-names></name><name><surname>Suzukawa</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Performance-based assessments and demand for personal care
+in older Japanese people: a cross-sectional study</article-title>. <source>BMJ
+Open</source>, <year>2013</year>, <volume>3</volume>: <fpage>1</fpage>&#x02013;<lpage>7</lpage>.
+</mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Takai</surname><given-names>I</given-names></name></person-group>: <article-title>[A study of factors influenced by self-efficacy for
+exercise among community-dwelling elderly men in urban areas]</article-title>.
+<source>Nippon Ronen Igakkai Zasshi</source>, <year>2012</year>, <volume>49</volume>:
+<fpage>740</fpage>&#x02013;<lpage>745</lpage><comment>(in Japanese, English abstract)</comment>.
+<pub-id pub-id-type="pmid">23883638</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Morita</surname><given-names>M</given-names></name><name><surname>Takamura</surname><given-names>N</given-names></name><name><surname>Kusano</surname><given-names>Y</given-names></name><etal>et al.</etal></person-group>: <article-title>Relationship between falls and physical performance
+measures among community-dwelling elderly women in Japan</article-title>. <source>Aging
+Clin Exp Res</source>, <year>2005</year>, <volume>17</volume>:
+<fpage>211</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="pmid">16110734</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Cao</surname><given-names>ZB</given-names></name><name><surname>Maeda</surname><given-names>A</given-names></name><name><surname>Shima</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>The effect of a 12-week combined exercise intervention
+program on physical performance and gait kinematics in community-dwelling elderly
+women</article-title>. <source>J Physiol Anthropol</source>, <year>2007</year>,
+<volume>26</volume>: <fpage>325</fpage>&#x02013;<lpage>332</lpage>. <pub-id pub-id-type="pmid">17641451</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Kawabata</surname><given-names>Y</given-names></name><name><surname>Hiura</surname><given-names>M</given-names></name></person-group>: <article-title>The CS-30 test is a useful assessment tool for predicting
+falls in community-dwelling elderly people</article-title>. <source>Rigakuryoho
+Kagaku</source>, <year>2008</year>, <volume>23</volume>:
+<fpage>441</fpage>&#x02013;<lpage>445</lpage><comment>(in Japanese, English
+abstract).</comment></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Nakatani</surname><given-names>T</given-names></name><name><surname>Nadamoto</surname><given-names>M</given-names></name><name><surname>Miura</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>validation of a 30-sec chair-stand test for evaluating
+lower extremity muscle strength in Japanese elderly adults</article-title>. <source>Jpn
+J Phys Educ Hlth Sport Sci</source>, <year>2002</year>, <volume>47</volume>:
+<fpage>451</fpage>&#x02013;<lpage>461</lpage><comment>(in Japanese, English
+abstract)</comment>.</mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Bohannon</surname><given-names>RW</given-names></name><name><surname>Eriksrud</surname><given-names>O</given-names></name></person-group>: <article-title>What measure of lower extremity muscle strength best
+explains walking indepedency?</article-title><source>J Phys Ther Sci</source>,
+<year>2001</year>, <volume>13</volume>: <fpage>1</fpage>&#x02013;<lpage>3</lpage>.
+</mixed-citation></ref></ref-list></back></article>

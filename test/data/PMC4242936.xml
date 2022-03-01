@@ -1,0 +1,378 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-198</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1701</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effects of Home Exercise on Physical Function and Activity in Home Care
+Patients with Parkinson&#x02019;s Disease</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nakae</surname><given-names>Hideyuki</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Tsushima</surname><given-names>Hitoshi</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><aff id="aff1"><label>1)</label> Course of Physical Therapy, Department of Rehabilitation,
+Faculty of Health Sciences, Tohoku Fukushi University, Japan</aff><aff id="aff2"><label>2)</label> Hirosaki University Graduate School of Health Sciences,
+Japan</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Hideyuki Nakae, Course of Physical Therapy, Department of Rehabilitation,
+Faculty of Health Sciences, Tohoku Fukushi University: 6-149-1 Kunimigaoka Aoba-ku,
+Sendai, Miyagi 989-3201, Japan. (E-mail: <email xlink:href="hide-n@tfu-mail.tfu.ac.jp">hide-n@tfu-mail.tfu.ac.jp</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1701</fpage><lpage>1706</lpage><history><date date-type="received"><day>28</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>06</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to clarify the effects of guidance in home exercise
+on physical function and the amount of activity in home care patients with Parkinson&#x02019;s
+disease (PD). [Subjects and Methods] A 2-month home exercise intervention consisting of
+self-administered exercise by patients (self-exercise) and home visit exercise therapy
+guided by a physical therapist (home visit exercise) was conducted in 10 home care
+patients with PD to compare changes in physical function, activities of daily living, and
+postural status between before and after the intervention. [Results] A decreased number of
+chief complaints and alleviation of fear of falling were observed after the intervention.
+In terms of physical function, a significant increase in flexibility and muscle strength
+were observed, although no significant changes were found in activities of daily living,
+gait, and balance. Although there was no significant change in the total amount of daily
+physical activity, the analysis of daily posture changes revealed a significant reduction
+in the percentage of time spent lying down and a significant increase in the percentage of
+time spent sitting after the intervention. [Conclusion] Guidance in home exercise in home
+care patients with PD can be effective in making self-exercise a habit, improving range of
+motion and muscle strength, and reducing the time spent in a supine position.</p></abstract><kwd-group><title>Key words</title><kwd>Exercise therapy</kwd><kwd>Home care patients with Parkinson&#x02019;s disease</kwd><kwd>Physical activity</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Parkinson&#x02019;s disease (PD) is a neurodegenerative disease of the extrapyramidal system. A
+curative therapy has not been established for PD, and a combination of drug therapy,
+surgical treatment, and physical therapy is recognized as the standard treatment<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>.</p><p>The estimated incidence of PD in Japan is 50 per 100,000 in the overall population and 200
+per 100,000 in the population aged 64 or older<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. The number of patients with PD is expected to additionally increase
+with the aging of the population in the future<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. Rates of discharge to home in patients with PD are high despite
+heavy dependence on medical treatment<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>,
+and 85.4% of all patients are under care at home<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Accordingly, any support system or intervention to maintain
+physical function in home care patients is important. In Japan, the nursing care insurance
+service seems to play a major role under the current social security system in regard to
+health insurance and nursing care insurance. One survey of outpatients with PD revealed that
+75% of PD have been certified as being in need of care, and that the use of ambulatory care
+and ambulatory rehabilitation services by PD patients has increased by 38% and 23%,
+respectively, compared with a survey conducted 8&#x02005;years previously<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. The number of users of nursing care insurance is also
+increasing, although the service contents do not satisfy their needs<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>; tailored intervention is necessary because of great
+variations in symptoms and severity among patients<xref rid="r2" ref-type="bibr">2</xref>,
+<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. In addition, in our study of exercise
+therapy in home care patients with PD<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>, we
+found that a demand existed for intervention tailored to symptoms and their severity,
+because the rehabilitation service provided by nursing care insurance is centered on group
+exercise and exercise therapy using machines.</p><p>Intervention by guidance or by personal or group exercise therapy in patients with PD has
+been reported in several studies to improve activities of daily living (ADLs)<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>, increase exercise capacity and improve
+gait<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>, extend range of motion<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>, and improve balance<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. However, few reports are available on the effectiveness of home
+visit guidance on home exercise performed voluntarily by home care patients with PD. In
+addition, it is not known how interventions in which home visit guidance is provided affect
+aspects of daily living in home care patients with PD, a disease that is characterized by
+daily fluctuations such as the on-off phenomenon and wearing-off phenomenon.</p><p>Our aim was to clarify the effect of home exercise consisting of daily self-administered
+exercise by patients (self-exercise) and weekly home visit exercise therapy guided by a
+physical therapist (home visit exercise) on physical function, ADLs, and postural status in
+home care patients with PD.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>This cohort study design was based on the performance of a 2-month home exercise
+intervention in home care patients with PD and a comparison of physical function and
+physical activity between before and after the intervention. Fourteen home care patients
+with PD who belonged to the Miyagi Branch of the Japan Parkinson Disease Association
+participated in the study. The inclusion criteria for the PD group were as follows: patients
+with no change in antiparkinsonian drugs for &#x02265;2 months who were in stage II or III of the
+Hoehn and Yahr severity scale and were capable of independent locomotion and participation
+in the intervention program. The study was divided into three periods to take account of
+seasonal affects on conditions: the first period was from January to February and included
+two patients, the second was from February to March and included seven patients, and the
+third was from May to June and included five patients. One patient in the second period and
+three patients in the third period withdrew from the study because of hospitalization during
+the intervention period, difficulty in conducting the home exercise because of aggravation
+of low back pain, or other reasons; a total of four patients were thus excluded from the
+study. Accordingly, the final analysis set included 10 patients (two male and eight female
+patients). In the PD group, the mean duration of disease was 12.6&#x02005;years (SD, 5.6) and the
+mean number of oral antiparkinsonian drugs being taken was 3.9 (SD, 1.2).</p><p>The home exercise consisted of daily self-exercise by patients and weekly home visit
+exercise guided by a physical therapist (the first author); the intervention period was 2
+months. Self-exercise was composed of the following five types of exercises: 1. stretching;
+2. balancing in a four-points-kneeling position, with muscle strengthening; and 3. postural
+change movements from sitting for a long time to a four-points-kneeling position. At the
+beginning of the intervention, the physical therapist (the first author) provided guidance
+on practice of self-exercise in the form of a self-made booklet with photographs, and the
+patients were challenged to perform self-exercise at least three a week. We asked the
+patients to keep a record of their daily training and falls on a calendar to confirm that
+they had done the exercise and monitor any falling events during the intervention period. In
+order to improve the motivation for self-exercise, guidance of self-exercise by the physical
+therapist was provided to the patients during a visit in the presence of their family. In
+addition, the status of implementation of self-exercise was checked weekly. The home visit
+exercise consisted of 30&#x02005;min of exercise including 1. active-assistive and passive
+stretching, 2. strengthening of the extensor muscles in a prone position, 3. movement from a
+sitting to a standing position, 4. balancing in a standing position, and 5. stepping in a
+standing position. The physical therapist (the first author) visited patients weekly to
+conduct the home visit exercise. Patients performed self-exercise with no fixed schedule,
+and the home visit exercise was conducted 1 to 2&#x02005;h after treatment with antiparkinsonian
+drugs.</p><p>Home exercise was conducted with the approval of the physician attending each patient. The
+study was planned in accordance with the Declaration of Helsinki and was conducted with the
+approval of the Ethics Committee of the Graduate School of Health Sciences, Hirosaki
+University. Prior written informed consent was obtained from the patients, and an encoding
+process was used during the analyses to avoid identifying individuals.</p><p>An interview and assessment of physical function and physical activity were conducted
+before and after the intervention. The assessment of physical function was always conducted
+1 to 2&#x02005;h after treatment with antiparkinsonian drugs.</p><p>We interviewed patients regarding basic issues, including current medical history and
+medications, and the following items:</p><p>Implementation of self-exercise: Before the intervention, we interviewed patients regarding
+their self-exercise habits and the average number of times they had exercised during the
+week preceding the study. After the intervention, the number of self-exercise sessions and
+the daily average duration of self-exercise (in&#x02005;min) were calculated from the written
+records of the patients.</p><p>Chief complaints regarding aspects of daily living: The number of chief complaints
+regarding 37 aspects of daily living in relation to the symptoms and signs of PD, ADLs, and
+instrumental ADLs (IADLs; see below) was surveyed in a multiple-answer manner, in accordance
+with previous studies<xref rid="r14" ref-type="bibr">14</xref>,<xref rid="r15" ref-type="bibr">15</xref>,<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>.</p><p>Falls: Patients were asked to state the number of times they had fallen in the past month
+and to assess their fear of falling during that time. The Modified Falls Efficacy Scale
+(MFES; scores) developed by Hill et al.<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>
+was used to measure fear of falling. The MFES scores 14 activities on a 0 (not confident) to
+10 (completely confident) scale. The maximum total score is 140 points, and higher scores
+indicate greater self-efficacy in falling incidents.</p><p>Parkinson&#x02019;s Disease Rating Scale (PDRS): The PDRS is a scale developed by Webster<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup> that is used to score the severity of
+symptoms in patients with PD. It consists of 10 items, including rigidity, postural
+regulation impairment, tremor, and self-care activities. Each item is scored on a scale of 0
+to 3. The maximum total score is 30 points, and a higher score indicates a greater level of
+severity.</p><p>Instrumental Activities of Daily Living (IADLs): The Tokyo Metropolitan Institute of
+Gerontology Index of Competence (TMIG Index of Competence<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>) was used as an indicator of the performance of IADLs, which are
+non-fundamental ADLs, such as shopping, laundering, telephoning, and medication management,
+that enable an individual to live independently in the community. The maximum total score
+for this assessment is 13 points.</p><p>The following seven items were selected as indicators of physical function:</p><p>Range of motion: The ranges of motion of shoulder flexion, trunk extension, and trunk
+rotation (shoulder flexion angle, trunk extension angle, and trunk rotation angle,
+respectively, in degrees) were measured according to criteria established by the Japanese
+Orthopedic Association and the Japanese Association of Rehabilitation Medicine.</p><p>Muscle strength: The isometric maximum muscle strengths of the hip flexors and knee
+extensors were measured with a handheld dynamometer (&#x003bc;Tas F-1; Anima Corporation, Tokyo,
+Japan); a sensor of the handheld dynamometer was held in the hand to impose manual
+resistance in accordance with the posture required for measurement in Daniel&#x02019;s &#x00026;
+Worthington&#x02019;s Muscle Testing (Hislop<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>).
+Measurements were taken three times, including practice runs, and the maximum value (N) was
+used in the analysis. Because no statistical difference between the sides of the body was
+observed in the results, measurements from the dominant leg (the right foot in all patients)
+were used as representative values.</p><p>Activities of daily living (ADLs): The Functional Independence Measure<xref rid="r23" ref-type="bibr">23</xref><sup>)</sup> (FIM) was used as an indicator of the ability to perform
+basic ADLs such as feeding, going to the toilet, putting on clothes, grooming, and bathing.
+The FIM consists of 13 physical items and five cognitive items, totaling 18 items. The
+maximum total score for the assessment is 126 points.</p><p>Gait: The time and number of steps required to walk 5&#x02005;m at an optimum speed were measured,
+and the walking speed (m/min) and cadence (steps/min) were calculated. Patients walked in
+the principal walking style normally they used at home (with or without a cane). All
+patients could walk without a cane.</p><p>Timed Up and Go (TUG) test: In the TUG test, the time required for an individual to stand
+up from a seated position in a chair, walk toward a mark 3&#x02005;m ahead at their optimum walking
+speed, make either a clockwise or counterclockwise turn around the mark, walk back at their
+optimum walking speed, and sit down was measured twice, and the mean value was used in the
+analysis.</p><p>Functional Reach Test (FRT): With the patient standing in a comfortable position with the
+legs spread approximately shoulder-width apart and with the shoulder on the side of the
+dominant arm flexed 90 degrees and the elbow joint completely extended, the distance moved
+by the third metacarpal bone from its original position to when the individual reached
+forward as far as possible was measured twice, and the mean value was used in the
+analysis.</p><p>Functional Balance Scale (FBS): For the FBS, the Berg Balance Scale<xref rid="r24" ref-type="bibr">24</xref><sup>)</sup>, a 14-item scale with a total score of 56 points, was used
+for assessment. In addition, a 20-cm stool was used to test movement requiring a foot to be
+placed on a stool. The assessment was conducted in the order of movements listed on the test
+sheet.</p><p>As indicators of daily physical activity status, we measured the amount of physical
+activity on the basis of the movements of a site near the center of the body. We also
+recorded the changes in postural state, including the percentages of time spent per 24&#x02005;h
+lying down, sitting, standing, and walking and the number of postural changes.</p><p>A high-capacity triaxial accelerometer (MVP-A3-05A-SD; MicroStone Corporation, Nagano,
+Japan), which had the capacity to record continuously for up to 30 h, was used to measure
+the amount of physical activity. The accelerometer was set with a sampling time of 200&#x02005;ms
+and a low-pass filter of 35&#x02005;Hz. Considering the impact of rhythmic segmentation of the head,
+limbs, and other body parts, the device was placed at the middle of the abdomen near the
+center of the body to quantitatively assess movement ability in terms of full body motion.
+According to the methods proposed by Iwashita<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>, the resultant acceleration was calculated from the left-right (x
+axis), front-back (y axis), and up-down (z axis) acceleration. Furthermore, the sum of all
+impulse values for a 24-h period was obtained through integration with respect to time
+(total impulse,&#x02005;kg m/h) and used as an indicator of the amount of physical activity.</p><p>A behavior recorder (A-MES; Solid Brains Co., Ltd., Kumamoto, Japan) consisting of two
+3-dimensional position and acceleration sensors (sampling time: 200&#x02005;ms) attached to the
+chest and thigh was used to measure the percentages of time spent per 24&#x02005;h in the four
+movements of lying down, sitting, standing, and walking and the numbers of postural changes.
+In addition, the time spent lying down was further categorized into the percentages of time
+spent per 24&#x02005;h in a supine, side-lying, or prone position. The high-capacity triaxial
+accelerometer and behavior recorder were attached together to give measurements for 24&#x02005;h for
+2 consecutive weekdays, when average levels of activity were expected.</p><p>Statistical analyses were conducted using SPSS 18.0 for Windows. The Wilcoxon signed-rank
+test was used to compare data from before and after the intervention, and the statistical
+significance level was set at 5%.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Of the 10 study patients, four had been engaged in self-exercise before the intervention;
+the remaining majority had not. Five patients were users of ambulatory services provided by
+nursing care insurance. Two patients had neither been engaged in self-exercise nor used
+ambulatory services.</p><p>Changes between before and after the 2-month self-exercise and home visit exercise
+intervention are shown in <xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Results of surveys and measurements before and after the intervention (n =
+10)</title></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" valign="top" align="left" colspan="1"/><th rowspan="3" valign="middle" align="center" colspan="1">Units</th><th colspan="2" valign="top" align="center" rowspan="1">Before intervention</th><th colspan="3" valign="top" align="center" rowspan="1">After intervention</th></tr><tr><th colspan="2" valign="top" align="left" rowspan="1"><hr/></th><th colspan="3" valign="top" align="left" rowspan="1"><hr/></th></tr><tr><th valign="top" align="center" rowspan="1" colspan="1">Mean</th><th valign="top" align="center" rowspan="1" colspan="1">(SD)</th><th valign="top" align="center" rowspan="1" colspan="1">Mean</th><th valign="top" align="center" rowspan="1" colspan="1">(SD)</th><th valign="top" align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" valign="top" colspan="7" rowspan="1">Interview item</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Number of self-exercise sessions</td><td align="center" valign="top" rowspan="1" colspan="1">(times)</td><td align="center" valign="top" rowspan="1" colspan="1">2.0</td><td align="center" valign="top" rowspan="1" colspan="1">(2.7)</td><td align="center" valign="top" rowspan="1" colspan="1">4.7</td><td align="center" valign="top" rowspan="1" colspan="1">(1.9)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Duration of self-exercise sessions</td><td align="center" valign="top" rowspan="1" colspan="1">(min)</td><td align="center" valign="top" rowspan="1" colspan="1">8.5</td><td align="center" valign="top" rowspan="1" colspan="1">(12.0)</td><td align="center" valign="top" rowspan="1" colspan="1">20.0</td><td align="center" valign="top" rowspan="1" colspan="1">(9.4)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Number of chief complaints</td><td align="center" valign="top" rowspan="1" colspan="1">(none)</td><td align="center" valign="top" rowspan="1" colspan="1">18.1</td><td align="center" valign="top" rowspan="1" colspan="1">(7.7)</td><td align="center" valign="top" rowspan="1" colspan="1">15.7</td><td align="center" valign="top" rowspan="1" colspan="1">(6.9)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Number of falls</td><td align="center" valign="top" rowspan="1" colspan="1">(times)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9</td><td align="center" valign="top" rowspan="1" colspan="1">(0.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.8</td><td align="center" valign="top" rowspan="1" colspan="1">(1.6)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">MFES</td><td align="center" valign="top" rowspan="1" colspan="1">(points)</td><td align="center" valign="top" rowspan="1" colspan="1">119.0</td><td align="center" valign="top" rowspan="1" colspan="1">(16.4)</td><td align="center" valign="top" rowspan="1" colspan="1">127.4</td><td align="center" valign="top" rowspan="1" colspan="1">(14.2)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">PDRS</td><td align="center" valign="top" rowspan="1" colspan="1">(points)</td><td align="center" valign="top" rowspan="1" colspan="1">17.0</td><td align="center" valign="top" rowspan="1" colspan="1">(7.1)</td><td align="center" valign="top" rowspan="1" colspan="1">16.2</td><td align="center" valign="top" rowspan="1" colspan="1">(6.8)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">TMIG index of competence</td><td align="center" valign="top" rowspan="1" colspan="1">(points)</td><td align="center" valign="top" rowspan="1" colspan="1">10.2</td><td align="center" valign="top" rowspan="1" colspan="1">(2.3)</td><td align="center" valign="top" rowspan="1" colspan="1">11.2</td><td align="center" valign="top" rowspan="1" colspan="1">(2.3)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Range of motion</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Shoulder flexion</td><td align="center" valign="top" rowspan="1" colspan="1">(degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">158.5</td><td align="center" valign="top" rowspan="1" colspan="1">(11.8)</td><td align="center" valign="top" rowspan="1" colspan="1">165.0</td><td align="center" valign="top" rowspan="1" colspan="1">(8.5)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Trunk extension</td><td align="center" valign="top" rowspan="1" colspan="1">(degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">15.5</td><td align="center" valign="top" rowspan="1" colspan="1">(6.9)</td><td align="center" valign="top" rowspan="1" colspan="1">19.5</td><td align="center" valign="top" rowspan="1" colspan="1">(5.5)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Trunk rotation</td><td align="center" valign="top" rowspan="1" colspan="1">(degrees)</td><td align="center" valign="top" rowspan="1" colspan="1">44.5</td><td align="center" valign="top" rowspan="1" colspan="1">(1.6)</td><td align="center" valign="top" rowspan="1" colspan="1">45.0</td><td align="center" valign="top" rowspan="1" colspan="1">(0.0)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Muscle strength</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Hip flexors</td><td align="center" valign="top" rowspan="1" colspan="1">(N)</td><td align="center" valign="top" rowspan="1" colspan="1">115.8</td><td align="center" valign="top" rowspan="1" colspan="1">(28.7)</td><td align="center" valign="top" rowspan="1" colspan="1">151.5</td><td align="center" valign="top" rowspan="1" colspan="1">(24.1)</td><td align="center" valign="top" rowspan="1" colspan="1">**</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Knee extensors</td><td align="center" valign="top" rowspan="1" colspan="1">(N)</td><td align="center" valign="top" rowspan="1" colspan="1">151.7</td><td align="center" valign="top" rowspan="1" colspan="1">(48.9)</td><td align="center" valign="top" rowspan="1" colspan="1">191.3</td><td align="center" valign="top" rowspan="1" colspan="1">(45.3)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Activities of daily living</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">FIM</td><td align="center" valign="top" rowspan="1" colspan="1">(points)</td><td align="center" valign="top" rowspan="1" colspan="1">118.2</td><td align="center" valign="top" rowspan="1" colspan="1">(10.0)</td><td align="center" valign="top" rowspan="1" colspan="1">119.6</td><td align="center" valign="top" rowspan="1" colspan="1">(10.1)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Gait</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Walking speed</td><td align="center" valign="top" rowspan="1" colspan="1">(m/min)</td><td align="center" valign="top" rowspan="1" colspan="1">50.3</td><td align="center" valign="top" rowspan="1" colspan="1">(8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">49.5</td><td align="center" valign="top" rowspan="1" colspan="1">(6.8)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Cadence</td><td align="center" valign="top" rowspan="1" colspan="1">(steps/min)</td><td align="center" valign="top" rowspan="1" colspan="1">136.6</td><td align="center" valign="top" rowspan="1" colspan="1">(16.2)</td><td align="center" valign="top" rowspan="1" colspan="1">136.5</td><td align="center" valign="top" rowspan="1" colspan="1">(14.9)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TUG</td><td align="center" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">(s)</td><td align="center" valign="top" rowspan="1" colspan="1">10.8</td><td align="center" valign="top" rowspan="1" colspan="1">(1.8)</td><td align="center" valign="top" rowspan="1" colspan="1">10.1</td><td align="center" valign="top" rowspan="1" colspan="1">(1.8)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Balance</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">FRT</td><td align="center" valign="top" rowspan="1" colspan="1">(cm)</td><td align="center" valign="top" rowspan="1" colspan="1">25.4</td><td align="center" valign="top" rowspan="1" colspan="1">(8.7)</td><td align="center" valign="top" rowspan="1" colspan="1">28.9</td><td align="center" valign="top" rowspan="1" colspan="1">(8.7)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">FBS</td><td align="center" valign="top" rowspan="1" colspan="1">(points)</td><td align="center" valign="top" rowspan="1" colspan="1">53.6</td><td align="center" valign="top" rowspan="1" colspan="1">(3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">55.6</td><td align="center" valign="top" rowspan="1" colspan="1">(1.0)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="7" rowspan="1">Amount of physical activity</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Total impulse</td><td align="center" valign="top" rowspan="1" colspan="1">(kg m/h)</td><td align="center" valign="top" rowspan="1" colspan="1">509.9</td><td align="center" valign="top" rowspan="1" colspan="1">(103.4)</td><td align="center" valign="top" rowspan="1" colspan="1">523.2</td><td align="center" valign="top" rowspan="1" colspan="1">(113.6)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" colspan="7" rowspan="1">Postural change status</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Lying/day</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">36.7</td><td align="center" valign="top" rowspan="1" colspan="1">(4.8)</td><td align="center" valign="top" rowspan="1" colspan="1">29.3</td><td align="center" valign="top" rowspan="1" colspan="1">(10.5)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Sitting/day</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">24.0</td><td align="center" valign="top" rowspan="1" colspan="1">(8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">31.9</td><td align="center" valign="top" rowspan="1" colspan="1">(10.9)</td><td align="center" valign="top" rowspan="1" colspan="1">*</td></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Standing/day</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">17.7</td><td align="center" valign="top" rowspan="1" colspan="1">(8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">14.8</td><td align="center" valign="top" rowspan="1" colspan="1">(7.7)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Walking/day</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">21.6</td><td align="center" valign="top" rowspan="1" colspan="1">(5.2)</td><td align="center" valign="top" rowspan="1" colspan="1">21.0</td><td align="center" valign="top" rowspan="1" colspan="1">(6.2)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Number of postural changes/day</td><td align="center" valign="top" rowspan="1" colspan="1">(times)</td><td align="center" valign="top" rowspan="1" colspan="1">477.4</td><td align="center" valign="top" rowspan="1" colspan="1">(208.8)</td><td align="center" valign="top" rowspan="1" colspan="1">624.9</td><td align="center" valign="top" rowspan="1" colspan="1">(499.6)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Supine/lying</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">79.7</td><td align="center" valign="top" rowspan="1" colspan="1">(17.3)</td><td align="center" valign="top" rowspan="1" colspan="1">74.0</td><td align="center" valign="top" rowspan="1" colspan="1">(20.9)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Side lying/lying</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">20.2</td><td align="center" valign="top" rowspan="1" colspan="1">(17.4)</td><td align="center" valign="top" rowspan="1" colspan="1">25.9</td><td align="center" valign="top" rowspan="1" colspan="1">(20.9)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" style="padding-left:15pt" rowspan="1" colspan="1">Prone/lying</td><td align="center" valign="top" rowspan="1" colspan="1">(%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.1</td><td align="center" valign="top" rowspan="1" colspan="1">(0.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.1</td><td align="center" valign="top" rowspan="1" colspan="1">(0.1)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><p>*p &#x0003c; 0.05;
+**p &#x0003c; 0.01</p></table-wrap-foot></table-wrap>.</p><p>In the interview survey, a significant change was observed after the intervention compared
+with before in the number and duration of self-exercise sessions; significant increases were
+seen in these items after the intervention. In addition, there was a significant decrease in
+the number of chief complaints and a significant improvement in the MFES after the
+intervention. However, there was no significant change in the PDRS (which indicates the
+severity of PD symptoms) or the TMIG Index of Competence, an indicator of IADL.</p><p>In the physical function tests, a significant difference was observed in shoulder flexion
+angle, trunk extension angle, hip flexion muscle strength, and knee extensor muscle strength
+between before and after the intervention. No significant changes were observed in FIM,
+walking speed, cadence, TUG, FRT, or FBS.</p><p>In the physical activity status testing, a significant change was seen only in the
+percentages of time spent lying down (percentage time decreased) and sitting (percentage
+time increased). No significant change was observed in total impulse (an indicator of the
+amount of physical activity), number of postural changes, or other parameters.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>Four of the 10 patients had been engaged in self-exercise on a regular basis; their main
+exercises were stretching and walking. significant increases in the number and duration of
+self-exercise sessions per week were observed after the intervention compared with before.
+It seemed that this was due to the effects of guidance in self-exercise and of management of
+its implementation by using a self-exercise record book. These results are the same as those
+reported by montgomery et al.<xref rid="r26" ref-type="bibr">26</xref><sup>)</sup>, who
+found an increase in the number of exercise hours after the provision of daily living and
+exercise guidance. In addition, our data on the number and duration of self-exercises before
+the intervention highlight a problem: the duration of self-exercise each day in home care
+patients with pd is insufficient, even if they are in the habit of performing self-exercise;
+patients may not have the chance to exercise, except when they use ambulatory services.</p><p>Meanwhile, the number and duration of self-exercise sessions were increased by the
+intervention. Accordingly, it seems that guidance and management to promote habitual
+self-exercise in home care patients with PD are effective and are needed.</p><p>In the interview surveys, no marked changes were observed between before and after the
+intervention in terms of the number of falls, the PDRS, or the TMIG Index of Competence. In
+other words, the intervention seemed less effective at treating the number of falls in the
+month before the survey, less effective at reducing the severity symptoms of PD, or the
+performance of IADLs. However, a decrease in the number of falls<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> in the absence of improvement in primary functional
+impairment<xref rid="r27" ref-type="bibr">27</xref>, <xref rid="r28" ref-type="bibr">28</xref><sup>)</sup> in response to exercise therapy has also been reported. In this
+respect, further discussion of the content and duration of our home exercise intervention is
+needed. In contrast, the number of chief complaints and the MFES scores were significantly
+improved. In the chief complaint survey, patients were interviewed about how many items were
+true of their PD symptoms and made their ADL difficult; the numbers of items decreased after
+the intervention. It seemed that this was because the patients&#x02019; awareness of the effects of
+guidance on exercise led to subjective changes<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup>. Furthermore, the improved MFES scores showed that fear of falling
+was alleviated. This appeared to result from the patients&#x02019; increased awareness of the
+effectiveness of exercise guidance<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup> and
+from the improvement in fall risk scores because of the exercise intervention<xref rid="r30" ref-type="bibr">30</xref><sup>)</sup>.</p><p>In the physical function testing, shoulder flexion angle, trunk extension angle, hip
+flexion muscle strength, and knee extensor muscle strength significantly increased after the
+intervention. This is likely because the intervention improved flexibility and muscle
+strength<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. The trunk rotation angles in
+our patients were close to the normal reference range of motion, even before the
+intervention. This is apparently the reason why no significant difference in this parameter
+was observed between before and after the intervention.</p><p>In relation to ADL, gait, and balance, no significant difference was observed between
+before and after the intervention in FIM, an indicator of ADL. Some previous studies have
+found an improvement in ADL after an intervention consisting of exercise therapy<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r31" ref-type="bibr">31</xref><sup>)</sup>, whereas others have reported otherwise<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>. Opinions are thus not unified. The following factors were
+considered to be the reasons why the results of this study showed no significant differences
+in FIM before and after the intervention: most of the study patients performed ADL
+independently; the intervention period of two months was too short and insufficient; and the
+program of the intervention focused on stretching, muscle strengthening, and postural
+change. Further study will be required for the reference. Interventional effects using
+treadmills or external cues such as visual and auditory stimulation during gait<xref rid="r33" ref-type="bibr">33</xref>,<xref rid="r34" ref-type="bibr">34</xref>,<xref rid="r35" ref-type="bibr">35</xref>,<xref rid="r36" ref-type="bibr">36</xref>,<xref rid="r37" ref-type="bibr">37</xref><sup>)</sup> have been reported. However, it seems that
+we observed no significant differences in these parameters because neither a treadmill nor
+external cues were used concurrently in the self-exercise and home visit exercises.
+Moreover, our patients had relatively good walking ability and could walk at an optimum
+speed of 50 m/min. The TUG, FRT, and FBS reflect walking ability<xref rid="r38" ref-type="bibr">38</xref><sup>)</sup>. Because no change was observed in the indicators of
+walking ability between before and after the intervention, no significant changes were
+apparent in the TUG, FRT, or FBS either.In the tests of physical activity status,
+significant differences between before and after the intervention were found only in the
+percentages of time spent sitting and lying down. No significant change was observed in
+total impulse as an indicator of the amount of physical activity or in the number of
+postural changes. The significant decrease in the percentage of time spent lying down and
+the increase in the percentage of time spent sitting were likely a result of the guidance in
+self-exercise and the home visit exercise. The decreased time spent lying down is
+particularly suggestive of the effectiveness of the intervention in improving physical
+activity status. Because PD patients have reduced opportunities for walking owing to their
+increased risk of falling<xref rid="r39" ref-type="bibr">39</xref><sup>)</sup>, these
+patients are prone to sedentary living<xref rid="r40" ref-type="bibr">40</xref><sup>)</sup>,
+and their decreased activity can contribute to disuse syndrome<xref rid="r40" ref-type="bibr">40</xref><sup>)</sup>. Furthermore, because many patients with PD experience
+difficulty in rolling over with progression of the disease<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup>, bed rest in a supine position tends to be prolonged. Our
+intervention of personal guidance in exercise therapy and self-exercise attempted to solve
+these problems. However, significant improvements in amount of activity or the number of
+postural changes were not obtained.</p><p>Our study focused on the average daily physical activity status of home care patients with
+PD. However, our consideration of the patient&#x02019;s family and the social environment, which can
+influence activity status, was not sufficient and is a limitation on our study. Furthermore,
+the individual attention we provided was inadequate as guidance on exercise therapy was
+conducted only once a week by a single physical therapist; this is another limitation of our
+study. In addition to these points, tasks such increasing the number of patients to enable
+us to consider disease severity in our investigation, as well as introducing exercise
+guidance strategies proposed in previous studies and collaborating with other health
+professionals, should be considered in a future study.</p><p>A 2-month home exercise intervention consisting of self-exercises and home visit exercises
+was conducted in home care patients with PD. Physical function, ADL, and posture status
+change were used as indicators. The intervention had favorable effects on self-exercise
+frequency and duration and on self-recognition in terms of a reduction in the number of
+chief complaints due to PD symptoms and a reduction in fear of falling. Furthermore, the
+intervention was effective in improving flexibility and muscle strength and decreasing bed
+rest time. However, the intervention did not increase the amount of activity or the number
+of postural changes and thus did not reduce the overall sedentary nature of the patients&#x02019;
+lifestyles. Further improvement of the intervention method, for example by adding group
+exercise therapy or collaborating with other health professionals, will be needed to achieve
+improvements in physical function and activity that reflect improvements in daily
+living.</p></sec></body><back><ack><p>The authors thank the participants for their contribution to this study. This work was
+supported by JSPS KAKENHI Grant Number 22390099.</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Keus</surname><given-names>SH</given-names></name><name><surname>Bloem</surname><given-names>BR</given-names></name><name><surname>Hendriks</surname><given-names>EJ</given-names></name><etal>et al.</etal></person-group>Practice Recommendations Development Group: <article-title>Evidence-based
+analysis of physical therapy in Parkinson&#x02019;s disease with recommendations for practice
+and research</article-title>. <source>Mov Disord</source>, <year>2007</year>,
+<volume>22</volume>: <fpage>451</fpage>&#x02013;<lpage>460</lpage>, quiz 600. <pub-id pub-id-type="pmid">17133526</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Fox</surname><given-names>SH</given-names></name><name><surname>Katzenschlager</surname><given-names>R</given-names></name><name><surname>Lim</surname><given-names>SY</given-names></name><etal>et al.</etal></person-group>: <article-title>The movement disorder society evidence-based medicine
+review update: treatments for the motor symptoms of Parkinson&#x02019;s disease</article-title>.
+<source>Mov Disord</source>, <year>2011</year>, <volume>26</volume>:
+<fpage>S2</fpage>&#x02013;<lpage>S41</lpage>. <pub-id pub-id-type="pmid">22021173</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Yanagisawa</surname><given-names>N</given-names></name></person-group>: <article-title>Initial symptoms and diagnosis of Parkinson&#x02019;s
+disease</article-title>. <source>J Jpn Soc Int Med</source>, <year>1994</year>,
+<volume>83</volume>: <fpage>19</fpage>&#x02013;<lpage>23</lpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>HD</given-names></name><name><surname>Kim</surname><given-names>TY</given-names></name><name><surname>Jae</surname><given-names>HD</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of tai chi based exercise on dynamic postural
+control of Parkinson&#x02019;s disease patients while initiating gait</article-title>. <source>J
+Phys Ther Sci</source>, <year>2011</year>, <volume>23</volume>:
+<fpage>265</fpage>&#x02013;<lpage>269</lpage>. </mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Kawamura</surname><given-names>S</given-names></name></person-group>: <article-title>Intractable diseases and home health care</article-title>.
+<source>Jpn J Phys Ther</source>, <year>1997</year>, <volume>31</volume>:
+<fpage>797</fpage>&#x02013;<lpage>802</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Horikawa</surname><given-names>Y</given-names></name></person-group>: <article-title>Practical use of social resources and home care in
+Parkinson&#x02019;s-disease-associated diseases</article-title>. <source>Geriatr Med</source>,
+<year>2009</year>, <volume>47</volume>:
+<fpage>1015</fpage>&#x02013;<lpage>1019</lpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Nakae</surname><given-names>H</given-names></name><name><surname>Tsushima</surname><given-names>H</given-names></name></person-group>: <article-title>Research on exercise therapy in home-care patients with
+Parkinson&#x02019;s disease: result of home-visit survey on the use of domiciliary service and
+the implementation of self-practice</article-title>. <source>Med Biol</source>,
+<year>2013</year>, <volume>157</volume>:
+<fpage>742</fpage>&#x02013;<lpage>753</lpage>.</mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Taguchi</surname><given-names>T</given-names></name></person-group>: <article-title>Exercise therapy depends on the stage of Parkinson&#x02019;s
+disease</article-title>. <source>Home Health Care People Intractable Dis</source>,
+<year>2005</year>, <volume>11</volume>: <fpage>45</fpage>&#x02013;<lpage>50</lpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Chuma</surname><given-names>T</given-names></name></person-group>: <article-title>The front line of rehabilitation seen from the Parkinson&#x02019;s
+disease treatment guideline</article-title>. <source>Jpn J Phys Ther</source>,
+<year>2009</year>, <volume>43</volume>:
+<fpage>485</fpage>&#x02013;<lpage>492</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Nieuwboer</surname><given-names>A</given-names></name><name><surname>Kwakkel</surname><given-names>G</given-names></name><name><surname>Rochester</surname><given-names>L</given-names></name><etal>et al.</etal></person-group>: <article-title>Cueing training in the home improves gait-related mobility
+in Parkinson&#x02019;s disease: the RESCUE trial</article-title>. <source>J Neurol Neurosurg
+Psychiatry</source>, <year>2007</year>, <volume>78</volume>:
+<fpage>134</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="pmid">17229744</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Morris</surname><given-names>ME</given-names></name><name><surname>Iansek</surname><given-names>R</given-names></name><name><surname>Kirkwood</surname><given-names>B</given-names></name></person-group>: <article-title>A randomized controlled trial of movement strategies
+compared with exercise for people with Parkinson&#x02019;s disease</article-title>. <source>Mov
+Disord</source>, <year>2009</year>, <volume>24</volume>:
+<fpage>64</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="pmid">18942100</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Ellis</surname><given-names>T</given-names></name><name><surname>de Goede</surname><given-names>CJ</given-names></name><name><surname>Feldman</surname><given-names>RG</given-names></name><etal>et al.</etal></person-group>: <article-title>Efficacy of a physical therapy program in patients with
+Parkinson&#x02019;s disease: a randomized controlled trial</article-title>. <source>Arch Phys
+Med Rehabil</source>, <year>2005</year>, <volume>86</volume>:
+<fpage>626</fpage>&#x02013;<lpage>632</lpage>. <pub-id pub-id-type="pmid">15827910</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Ashburn</surname><given-names>A</given-names></name><name><surname>Fazakarley</surname><given-names>L</given-names></name><name><surname>Ballinger</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>A randomised controlled trial of a home based exercise
+programme to reduce the risk of falling among people with Parkinson&#x02019;s
+disease</article-title>. <source>J Neurol Neurosurg Psychiatry</source>,
+<year>2007</year>, <volume>78</volume>: <fpage>678</fpage>&#x02013;<lpage>684</lpage>.
+<pub-id pub-id-type="pmid">17119004</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Chuma</surname><given-names>T</given-names></name><name><surname>Kobayashi</surname><given-names>Y</given-names></name><name><surname>Nakajima</surname><given-names>T</given-names></name></person-group>: <article-title>Survey of rehabilitation in outpatients with Parkinson&#x02019;s
+disease</article-title>. <source>Jpn J Rehab Med</source>, <year>2012</year>,
+<volume>49</volume>: <fpage>5188</fpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Yamamoto</surname><given-names>Y</given-names></name></person-group>: <article-title>Disorder of urination in Parkinson&#x02019;s
+disease</article-title>. <source>Home Health Care People Intractable Dis</source>,
+<year>2011</year>, <volume>16</volume>: <fpage>37</fpage>&#x02013;<lpage>39</lpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Koura</surname><given-names>A</given-names></name><name><surname>Takashima</surname><given-names>C</given-names></name><name><surname>Uchiyama</surname><given-names>M</given-names></name><etal>et al.</etal></person-group>: <article-title>Falls in patients with Parkinson&#x02019;s disease: a
+questionnaire investigation</article-title>. <source>Jpn J Occup Ther</source>,
+<year>2005</year>, <volume>24</volume>:
+<fpage>539</fpage>&#x02013;<lpage>600</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Yuasa</surname><given-names>T</given-names></name><name><surname>Maiya</surname><given-names>F</given-names></name><name><surname>Tsunoda</surname><given-names>H</given-names></name><etal>et al.</etal></person-group>: <article-title>Chronic pain in patients with Parkinson&#x02019;s
+disease</article-title>. <source>Iryo</source>, <year>2008</year>, <volume>62</volume>:
+<fpage>381</fpage>&#x02013;<lpage>385</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Tushima</surname><given-names>H</given-names></name></person-group>: <article-title>Signification and tasks of functional training program for
+home care patients with Parkinson&#x02019;s disease in consulting service for intractable
+diseases in Aomori. Bull School Allied Med Sci</article-title><source>Hirosaki
+Univ</source>, <year>1997</year>, <volume>21</volume>:
+<fpage>75</fpage>&#x02013;<lpage>79</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Hill</surname><given-names>KD</given-names></name><name><surname>Schwarz</surname><given-names>JA</given-names></name><name><surname>Kalogeropoulos</surname><given-names>AJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Fear of falling revisited</article-title>. <source>Arch
+Phys Med Rehabil</source>, <year>1996</year>, <volume>77</volume>:
+<fpage>1025</fpage>&#x02013;<lpage>1029</lpage>. <pub-id pub-id-type="pmid">8857881</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Webster</surname><given-names>DD</given-names></name></person-group>: <article-title>Critical analysis of the disability in Parkinson&#x02019;s
+disease</article-title>. <source>Mod Treat</source>, <year>1968</year>,
+<volume>5</volume>: <fpage>257</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="pmid">5655944</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Furuyano</surname><given-names>W</given-names></name><name><surname>Shibata</surname><given-names>H</given-names></name><name><surname>Nakasato</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>Measurement of competence for life: development of Tokyo
+Metropolitan Institute of Gerontology index of competence</article-title>.
+<source>Nippon Koshu Eisei Zasshi</source>, <year>1987</year>, <volume>34</volume>:
+<fpage>109</fpage>&#x02013;<lpage>114</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="book"><person-group><name><surname>Hislop</surname><given-names>H</given-names></name><name><surname>Montgomery</surname><given-names>J</given-names></name></person-group>: Daniels and Worthingham&#x02019;s Muscle Testing: Techniques of Manual
+Examination, 8th ed. W.B. Saunders St. Louis: <year>2007</year>, p 496.</mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="book"><person-group><name><surname>Hamilton</surname><given-names>BB</given-names></name><name><surname>Granger</surname><given-names>CV</given-names></name><name><surname>Sherwin</surname><given-names>FS</given-names></name><etal>et al.</etal></person-group>: A Uniform National Data System for Medical Rehabilitation. In: Fuhrer MJ
+(ed): Rehabilitation Outcomes; Analysis and Measurement. Baltimore: Paul H Brookes,
+<year>1987</year>, pp 137&#x02013;147.</mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Berg</surname><given-names>K</given-names></name><name><surname>Wood-Dauphinee</surname><given-names>S</given-names></name><name><surname>Williams</surname><given-names>JI</given-names></name><etal>et al.</etal></person-group>: <article-title>Measuring balance in the elderly: preliminary development
+of an instrument</article-title>. <source>Physiother Can</source>, <year>1989</year>,
+<volume>41</volume>: <fpage>304</fpage>&#x02013;<lpage>311</lpage>. </mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Iwashita</surname><given-names>S</given-names></name></person-group>: <article-title>Measurement of the amount of physical activity? Method
+using portable triaxial accelerometer</article-title>. <source>Rigakuryoho</source>,
+<year>2005</year>, <volume>22</volume>:
+<fpage>144</fpage>&#x02013;<lpage>148</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Montgomery</surname><given-names>EB</given-names><suffix>Jr</suffix></name><name><surname>Lieberman</surname><given-names>A</given-names></name><name><surname>Singh</surname><given-names>G</given-names></name><etal>et al.</etal></person-group>PROPATH Advisory Board: <article-title>Patient education and health
+promotion can be effective in Parkinson&#x02019;s disease: a randomized controlled
+trial</article-title>. <source>Am J Med</source>, <year>1994</year>,
+<volume>97</volume>: <fpage>429</fpage>&#x02013;<lpage>435</lpage>. <pub-id pub-id-type="pmid">7977431</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Deane</surname><given-names>KH</given-names></name><name><surname>Jones</surname><given-names>D</given-names></name><name><surname>Playford</surname><given-names>ED</given-names></name><etal>et al.</etal></person-group>: <article-title>Physiotherapy for patients with Parkinson&#x02019;s Disease: a
+comparison of techniques</article-title>. <source>Cochrane Database Syst Rev</source>,
+<year>2001</year>, <volume>3</volume>: <fpage>CD002817</fpage>. <pub-id pub-id-type="pmid">11687029</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Horstink</surname><given-names>M</given-names></name><name><surname>Tolosa</surname><given-names>E</given-names></name><name><surname>Bonuccelli</surname><given-names>U</given-names></name><etal>et al.</etal></person-group>European Federation of Neurological SocietiesMovement Disorder
+Society-European Section: <article-title>Review of the therapeutic management of
+Parkinson&#x02019;s disease. Report of a joint task force of the European Federation of
+Neurological Societies and the Movement Disorder Society-European Section. Part I: early
+(uncomplicated) Parkinson&#x02019;s disease</article-title>. <source>Eur J Neurol</source>,
+<year>2006</year>, <volume>13</volume>: <fpage>1170</fpage>&#x02013;<lpage>1185</lpage>.
+<pub-id pub-id-type="pmid">17038031</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Chuma</surname><given-names>T</given-names></name><name><surname>Kawakami</surname><given-names>J</given-names></name><name><surname>Sagara</surname><given-names>A</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of self-exercise for Parkinson&#x02019;s
+disease</article-title>. <source>Jpn J Rehab Med</source>, <year>2010</year>,
+<volume>47</volume>: <fpage>488</fpage>&#x02013;<lpage>489</lpage><comment>(in
+Japanese)</comment>.</mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Allen</surname><given-names>NE</given-names></name><name><surname>Canning</surname><given-names>CG</given-names></name><name><surname>Sherrington</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of an exercise program on fall risk factors in
+people with Parkinson&#x02019;s disease: a randomized controlled trial</article-title>.
+<source>Mov Disord</source>, <year>2010</year>, <volume>25</volume>:
+<fpage>1217</fpage>&#x02013;<lpage>1225</lpage>. <pub-id pub-id-type="pmid">20629134</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group><name><surname>Comella</surname><given-names>CL</given-names></name><name><surname>Stebbins</surname><given-names>GT</given-names></name><name><surname>Brown-Toms</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Physical therapy and Parkinson&#x02019;s disease: a controlled
+clinical trial</article-title>. <source>Neurology</source>, <year>1994</year>,
+<volume>44</volume>: <fpage>376</fpage>&#x02013;<lpage>378</lpage>. <pub-id pub-id-type="pmid">8145901</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group><name><surname>Burini</surname><given-names>D</given-names></name><name><surname>Farabollini</surname><given-names>B</given-names></name><name><surname>Iacucci</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>A randomised controlled cross-over trial of aerobic
+training versus Qigong in advanced Parkinson&#x02019;s disease</article-title>. <source>Eura
+Medicophys</source>, <year>2006</year>, <volume>42</volume>:
+<fpage>231</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="pmid">17039221</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group><name><surname>Kurtais</surname><given-names>Y</given-names></name><name><surname>Kutlay</surname><given-names>S</given-names></name><name><surname>Tur</surname><given-names>BS</given-names></name><etal>et al.</etal></person-group>: <article-title>Does treadmill training improve lower-extremity tasks in
+Parkinson disease? A randomized controlled trial</article-title>. <source>Clin J Sport
+Med</source>, <year>2008</year>, <volume>18</volume>:
+<fpage>289</fpage>&#x02013;<lpage>291</lpage>. <pub-id pub-id-type="pmid">18469574</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group><name><surname>Morris</surname><given-names>ME</given-names></name><name><surname>Iansek</surname><given-names>R</given-names></name><name><surname>Matyas</surname><given-names>TA</given-names></name><etal>et al.</etal></person-group>: <article-title>Ability to modulate walking cadence remains intact in
+Parkinson&#x02019;s disease</article-title>. <source>J Neurol Neurosurg Psychiatry</source>,
+<year>1994</year>, <volume>57</volume>: <fpage>1532</fpage>&#x02013;<lpage>1534</lpage>.
+<pub-id pub-id-type="pmid">7798986</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group><name><surname>Dam</surname><given-names>M</given-names></name><name><surname>Tonin</surname><given-names>P</given-names></name><name><surname>Casson</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of conventional and sensory-enhanced physiotherapy
+on disability of Parkinson&#x02019;s disease patients</article-title>. <source>Adv
+Neurol</source>, <year>1996</year>, <volume>69</volume>:
+<fpage>551</fpage>&#x02013;<lpage>555</lpage>. <pub-id pub-id-type="pmid">8615180</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group><name><surname>McIntosh</surname><given-names>GC</given-names></name><name><surname>Brown</surname><given-names>SH</given-names></name><name><surname>Rice</surname><given-names>RR</given-names></name><etal>et al.</etal></person-group>: <article-title>Rhythmic auditory-motor facilitation of gait patterns in
+patients with Parkinson&#x02019;s disease</article-title>. <source>J Neurol Neurosurg
+Psychiatry</source>, <year>1997</year>, <volume>62</volume>:
+<fpage>22</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="pmid">9010395</pub-id></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group><name><surname>Pacchetti</surname><given-names>C</given-names></name><name><surname>Aglieri</surname><given-names>R</given-names></name><name><surname>Mancini</surname><given-names>F</given-names></name><etal>et al.</etal></person-group>: <article-title>Active music therapy and Parkinson&#x02019;s disease:
+methods</article-title>. <source>Funct Neurol</source>, <year>1998</year>,
+<volume>13</volume>: <fpage>57</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="pmid">9584875</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group><name><surname>Podsiadlo</surname><given-names>D</given-names></name><name><surname>Richardson</surname><given-names>S</given-names></name></person-group>: <article-title>The timed &#x0201c;Up &#x00026; Go&#x0201d;: a test of basic functional
+mobility for frail elderly persons</article-title>. <source>J Am Geriatr Soc</source>,
+<year>1991</year>, <volume>39</volume>: <fpage>142</fpage>&#x02013;<lpage>148</lpage>.
+<pub-id pub-id-type="pmid">1991946</pub-id></mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>HD</given-names></name><name><surname>Je</surname><given-names>HD</given-names></name><name><surname>Jeong</surname><given-names>JH</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of obstacle crossing on dynamic postural control
+of Parkinson&#x02019;s disease patients</article-title>. <source>J Phys Ther Sci</source>,
+<year>2012</year>, <volume>24</volume>: <fpage>395</fpage>&#x02013;<lpage>400</lpage>.
+</mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group><name><surname>Nakae</surname><given-names>H</given-names></name><name><surname>Tsushima</surname><given-names>H</given-names></name></person-group>: <article-title>Analysis of 24-h physical activities of patients with
+Parkinson&#x02019;s disease at home</article-title>. <source>J Phys Ther Sci</source>,
+<year>2011</year>, <volume>23</volume>: <fpage>509</fpage>&#x02013;<lpage>513</lpage>.
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,197 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-214</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1767</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The Effectiveness of Intensive Mobilization Techniques Combined with Capsular
+Distension for Adhesive Capsulitis of the Shoulder</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Park</surname><given-names>Sun Wook</given-names></name><degrees>MS, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Han Suk</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Jun Ho</given-names></name><degrees>PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Faculty of Health Science,
+Eulji University: 212 Yangji-dong, Sujeong-gu, Seongnam-si, Gyeonggi-do 461-815, Republic
+of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Han Suk Lee (E-mail: <email xlink:href="leehansuk21@hanmail.net">leehansuk21@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1767</fpage><lpage>1770</lpage><history><date date-type="received"><day>08</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to determine the synergistic effect of intensive
+mobilization techniques combined with capsular distension for patients with adhesive
+capsulitis (AC). [Subjects] The subjects were 53 patients with AC (mean age, 56.0 &#x000b1;
+7.6&#x02005;years). [Methods] Patients were randomized to one of four treatment groups: intensive
+mobilization after one steroid injection with capsular distension (IMSID); intensive
+mobilization (IM); one steroid injection with capsular distension (SID); and general
+physical therapy only (GPT). The IMSID, IM, and SID groups also received general physical
+therapy for 20 minutes. All treatments were performed twice per week for 4 weeks. Patients
+were assessed using the Shoulder Pain and Disability Index (SPADI), Constant-Murley
+Shoulder Function Assessment Score (CS), Active Range of Motion (AROM), and Verbal Numeric
+Score (VNS). [Results] There were significant post-intervention differences in all the
+measured values in each of the groups, except for external rotation ROM in the SID group.
+The IMSID group showed the greatest differences among the groups. There were significant
+differences among the means of all the groups. [Conclusion] The most effective treatment
+for AC was the combination of the intensive mobilization and steroid injection with
+capsular distension, which helped to control inflammation, extend joint space, and recover
+ROM.</p></abstract><kwd-group><title>Key words</title><kwd>Adhesive capsulitis</kwd><kwd>Intensive mobilization</kwd><kwd>Capsular distension</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Adhesive capsulitis (AC) is a shoulder condition characterized by gradual and painful loss
+of both active and passive range of motion (ROM) in all planes of the glenohumeral
+joint<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Shoulder pain and stiffness are
+accompanied by severe disability. Often, this results in absenteeism from work, inability to
+perform leisure activities, and utilization of health care resources. Although it is
+generally believed to be a self-limiting condition lasting 2&#x02013;3&#x02005;years, some studies have
+reported that up to 40% of patients have persistent symptoms and stiffness beyond 3&#x02005;years.
+Therefore, effective treatment that shortens the duration of symptoms and disability has the
+potential to be of significant value in terms of reduced morbidity and costs<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Many treatments have been advocated for AC:
+rest, analgesia, active and passive mobilization, physical therapy, oral and injected
+corticosteroids, capsular distension, manipulation under anesthetic, and arthroscopic
+capsular release. Currently, there is no consensus as to which is the most effective
+treatment<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>.</p><p>Physical therapy following joint distension provides no additional benefits in terms of
+pain, function, or quality of life, but results in sustained greater active range of
+shoulder movement and participant-perceived improvement up to 6 months. Capsular distension
+and subsequent intensive rehabilitation has a beneficial effect, and this combination
+enables rapid, significant improvement from the first week onwards<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>. It has been reported that general physical therapy plus
+distension with intra-articular (IA) steroid injection is superior to physical therapy alone
+for the functional improvement of frozen shoulder; however, the pain score difference was
+not significant between the two groups<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>.</p><p>The efficacy of AC treatment is still being debated. Steroid injection with distension is
+currently recommended for the treatment of AC. It also has been demonstrated that a variety
+of mobilization therapies show the same clinical outcome with less risk<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Nevertheless, the synergistic effect of an intensive
+mobilization technique combined with capsular distension and steroid injection for AC in
+improving pain, shoulder ROM, and shoulder function is unclear. Therefore, we conducted a
+randomized controlled trial for 4 weeks, focusing on the effectiveness of an intensive
+mobilization technique combined with distension for AC of the shoulder.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>Using patient medical records, this study retrospectively analyzed treatment effects.
+Patients with shoulder pain and limitation in motion visiting the outpatient rehabilitation
+department were initially selected. The inclusion criteria of this study were as follows:
+stage 1 or 2 AC, with a symptom duration of 3&#x02013;9 months, and difficulties in two or more of
+the following: flexion, abduction, external rotation, and/or hands behind the body
+presenting limitation of more than 30 degrees in active ranges of motion, compared to the
+normal side with regard to range of motion<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>.</p><p>Prior to participation, all participants were informed about the study&#x02019;s aims and
+procedures, and signed in formed consent forms. This study conformed to the ethical
+principles of the Declaration of Helsinki.</p><p>Patients in the intensive mobilization after steroid injection with distension (IMSID)
+group received an injection once before treatment was started. Under fluoroscopic guidance,
+all patients received 40&#x02005;mg of triamcinolone, 3&#x02005;ml of 1% lidocaine, and 10&#x02005;ml of normal
+saline given by the anterior route. All injections were performed by the same doctor of
+rehabilitation medicine, who is well-trained. After injection, the IMSID group received
+intensive mobilization therapy for 20 minutes which was performed by one physical therapist.
+Specific intensive mobilization techniques included: 1) glenohumeral joint passive accessory
+glides, including the Maitland mobilization technique (MMT)<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>, End-Range Mobilization (ERM)<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> and Kaltenborn&#x02019;s convex-concave gliding<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>; and 2) glenohumeral joint physiologic mobilization,
+including Mobilization with Movement (MWM)<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>. The Intensive Mobilization (IM) was treated only with the
+intensive mobilization technique. The Steroid Injection with Distension (SID) group received
+only a single capsular distension at the times of steroid injection. The General Physical
+Therapy (GPT) group received physical therapy for 20 minutes, which included moisture hot
+pack, transcutaneous electrical nerve stimulation, and ultrasound diathermy. The IMSID, IM,
+and SID groups also received general physical therapy for 20 minutes. At the beginning of
+the intervention, participants were instructed to maintain their program of 10 minutes of
+daily home exercise. All treatments were performed twice per week for 4 weeks.</p><p>Patients were assessed using the Shoulder Pain and Disability Index (SPADI),
+Constant-Murley Shoulder Function Assessment Score (CS), Range of Motion (ROM), and Verbal
+Numeric Score (VNS) before treatment and at 4 weeks, after the final treatment. The primary
+outcome measure, the SPADI, is a self-administered assessment tool that assesses pain and
+disability related to shoulder disease<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>.
+Functional disability of the shoulder was also assessed using the CS, which includes an
+analysis of pain, shoulder motion, strength, and function<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. The degree of shoulder pain was graded using the Verbal Numeric
+Scale (VNS). When using the VNS, the patients were asked to rate their pain on a scale from
+0 to 10, with 0 representing no pain and 10 the worst pain possible<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>. The shoulder active ROM was measured with a goniometer
+that demonstrated good reliability (ICC &#x02265;0.80)<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. In the sitting position, shoulder flexion, abduction, and external
+rotation were measured (in degrees) with the goniometer, and internal rotation was measured
+as the distance (in cm) from the base of the occiput to the highest point the hand could
+reach up behind the back (HBB) with a tape measure.</p><p>We performed the Wilcoxon rank test to compare differences before and after intervention in
+each group. Comparisons of the mean values of SPADI, CS, VNS, and ROM across all groups were
+performed using the Kruskal Wallis test. When statistical significance was found, multiple
+comparisons were performed using the Mann-Whitney U test. Statistical analysis was performed
+using SPSS 18.0, and significance was accepted for values of p&#x0003c;0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>The demographic characteristics of the participants (n = 53) were as follows. Their mean
+age was 56 &#x000b1; 7.6&#x02005;years; the number of the female participants (n = 40) was more than the
+number of male participants (n = 13); and 24 patients had AC on the right side and 29
+patients had AC on the left side.</p><p>There were significant post-intervention differences (p &#x0003c; 0.05) in VNS, AROM, SPADI, and
+CS in each of the groups, except for external rotation ROM in the SID group. The IMSID group
+showed the greatest differences in all measured values among the groups. There were
+significant differences (p &#x0003c; 0.05) among the means of the groups (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Comparison of VNS, AROM, SPADI and CS among the groups</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">IMSID (n=16)</th><th align="center" rowspan="1" colspan="1">IM (n=14)</th><th align="center" rowspan="1" colspan="1">SID (n=12)</th><th align="center" rowspan="1" colspan="1">GPT (n=11)</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="2" colspan="1">VNS</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">8.1&#x000b1;1.0</td><td align="center" rowspan="1" colspan="1">7.8&#x000b1;0.8</td><td align="center" rowspan="1" colspan="1">7.8&#x000b1;0.8</td><td align="center" rowspan="1" colspan="1">7.6&#x000b1;1.0</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">2.9&#x000b1;1.4 *</td><td align="center" rowspan="1" colspan="1">3.5&#x000b1;1.6 *</td><td align="center" rowspan="1" colspan="1">5.5&#x000b1;1.5 *</td><td align="center" rowspan="1" colspan="1">5.6&#x000b1;1.4 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">Fl (&#x002da;)</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">116.3&#x000b1;19.3</td><td align="center" rowspan="1" colspan="1">120.0&#x000b1;26.6</td><td align="center" rowspan="1" colspan="1">115.0&#x000b1;23.2</td><td align="center" rowspan="1" colspan="1">126.8&#x000b1;27.4</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">161.9&#x000b1;12.2 *</td><td align="center" rowspan="1" colspan="1">157.5&#x000b1;21.2 *</td><td align="center" rowspan="1" colspan="1">127.5&#x000b1;26.0 *</td><td align="center" rowspan="1" colspan="1">139.0&#x000b1;32.0 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">Abd (&#x002da;)</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">84.4&#x000b1;8.9</td><td align="center" rowspan="1" colspan="1">94.3&#x000b1;30.6</td><td align="center" rowspan="1" colspan="1">101.2&#x000b1;32.5</td><td align="center" rowspan="1" colspan="1">103.1&#x000b1;28.1</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">149.4&#x000b1;22.9 *</td><td align="center" rowspan="1" colspan="1">145.7&#x000b1;30.6 *</td><td align="center" rowspan="1" colspan="1">117.5&#x000b1;33.7 *</td><td align="center" rowspan="1" colspan="1">121.3&#x000b1;40.2 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">ER (&#x002da;)</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">28.3&#x000b1;15.2</td><td align="center" rowspan="1" colspan="1">34.3&#x000b1;21.4</td><td align="center" rowspan="1" colspan="1">37.5&#x000b1;14.8</td><td align="center" rowspan="1" colspan="1">40.9&#x000b1;20.2</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">71.9&#x000b1;8.3 *</td><td align="center" rowspan="1" colspan="1">64.3&#x000b1;16.9 *</td><td align="center" rowspan="1" colspan="1">42.1&#x000b1;19.7</td><td align="center" rowspan="1" colspan="1">55.0&#x000b1;24.7 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">HBB (cm)</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">51.8&#x000b1;8.2</td><td align="center" rowspan="1" colspan="1">51.0&#x000b1;9.1</td><td align="center" rowspan="1" colspan="1">50.2&#x000b1;6.3</td><td align="center" rowspan="1" colspan="1">50.4&#x000b1;9.4</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">33.6&#x000b1;8.1 *</td><td align="center" rowspan="1" colspan="1">34.9&#x000b1;9.5 *</td><td align="center" rowspan="1" colspan="1">46.7&#x000b1;6.9 *</td><td align="center" rowspan="1" colspan="1">43.7&#x000b1;9.9 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">SPADI</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">64.3&#x000b1;12.8</td><td align="center" rowspan="1" colspan="1">60.6&#x000b1;12.9</td><td align="center" rowspan="1" colspan="1">56.6&#x000b1;9.6</td><td align="center" rowspan="1" colspan="1">55.4&#x000b1;11.7</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">32.2&#x000b1;9.4 *</td><td align="center" rowspan="1" colspan="1">37.4&#x000b1;11.0 *</td><td align="center" rowspan="1" colspan="1">44.3&#x000b1;12.2 *</td><td align="center" rowspan="1" colspan="1">44.5&#x000b1;10.4 *</td></tr><tr><td align="left" valign="top" rowspan="2" colspan="1">CS</td><td align="left" rowspan="1" colspan="1">pre</td><td align="center" rowspan="1" colspan="1">39.8&#x000b1;6.9</td><td align="center" rowspan="1" colspan="1">45.1&#x000b1;10.9</td><td align="center" rowspan="1" colspan="1">42.9&#x000b1;11</td><td align="center" rowspan="1" colspan="1">45.4&#x000b1;9.8</td></tr><tr><td align="left" rowspan="1" colspan="1">post</td><td align="center" rowspan="1" colspan="1">71.4&#x000b1;10.1 *</td><td align="center" rowspan="1" colspan="1">67.1&#x000b1;11.3 *</td><td align="center" rowspan="1" colspan="1">52.2&#x000b1;12.8 *</td><td align="center" rowspan="1" colspan="1">55.2&#x000b1;14.9 *</td></tr></tbody></table><table-wrap-foot><p>Mean &#x000b1; SD, * p&#x0003c;0.05. VNS, verbal numeral scale; Fl, flexion; Abd, abduction; ER,
+external rotation; HBB, hand behind the back to occiput; SPADI, Shoulder Pain and
+Disability Index; CS, Constant-Murley Shoulder Function Assessment Score; IMSID,
+intensive mobilization after steroid injection with distension; IM, intensive
+mobilization; SID, steroid injection with distension; GPT, general physical
+therapy</p></table-wrap-foot></table-wrap>).</p><p>The post hoc Mann-Whitney U test revealed that there were no significant differences
+between the IMSID and IM groups or between the SID and GPT groups (p &#x0003e; 0.01). There were
+significant differences in all values between the IMSID and SID groups. There were
+significant differences in VNS, HBB, SPADI, and CS between the IMSID and GPT groups (p &#x0003c;
+0.01). There were significant differences in all values between the MI and SID groups,
+except SPADI. There were significant differences in VNS, HBB, and CS between the MI and GPT
+groups (p &#x0003c; 0.01).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>There have been many studies of AC, but there is still debate about the most effective
+treatment. In general, intra-articular steroid injections, capsular distension, and joint
+mobilization therapy are known to be effective in the treatment of AC. While, joint
+mobilization techniques improve the mobility of the joint and soft tissues<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>, researchers have reported different
+results with regards to pain management. Steroid injection therapy is very effective for
+pain reduction, but results in a relatively small improvement in ROM. This study
+demonstrated that additional intensive mobilization techniques after distension with steroid
+injection are the most effective intervention for AC.</p><p>Capsular distension is a method of separating the adherent synovium using hydrostatic
+pressure by injecting a large amount of fluid. Rizk et al.<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup> explained that capsular distension shares a mechanism similar to
+manipulation under anesthesia. Intra-articular steroid injection in AC also shows efficacy
+by reducing the inflammatory response to the pathological process. Steroid injection is
+frequently used together with capsular distension, in order to reduce the symptoms and to
+increase the treatment effect during the inflammation phase. In this study, the IMSID and
+SID groups received capsular distension and steroid injection. They both showed improvements
+in all the measured values, and the IMSID group had a higher variation than the SID group.
+In a systematic review, Buchbinder et al.<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup> reported the same results, suggesting that short term benefits with
+regard to pain, range of movement, and function can be achieved with capsular distension
+using saline and steroids.</p><p>Several studies have demonstrated the effectiveness of joint mobilization for patients with
+AC<xref rid="r19" ref-type="bibr">19</xref>, <xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. The accumulated evidence indicates that not only passive joint
+mobilization, but also active mobilization, such as Kaltenborn&#x02019;s convex-concave rule and MWM
+may need to be considered to improve pain, ROM, and shoulder function. In this study, the
+IMSID and IM groups received intensive mobilization and showed improvement in all outcome
+measures.</p><p>Khan et al.<xref rid="r5" ref-type="bibr">5</xref><sup>)</sup> reported greater improvement
+in pain and ROM in patients receiving distension with steroid injection and physical
+therapy, such as therapeutic exercises, than participants receiving physical therapy alone;
+however, they reported no difference in the VAS pain score. According to our present
+results, there were significant differences in pain, AROM, and shoulder function scores
+between the IMSID and SID groups, as well as between the IMSID and GPT groups. Although
+there were significant differences between the IM and SID groups, and between the IM and GPT
+groups, the improvements were greater in the IMSID group than in the IM group. These results
+support our hypothesis that intensive mobilization techniques combined with capsular
+distension and steroid injection would improve pain, AROM, and the shoulder function of
+patients with AC, more than among those receiving only one kind of therapeutic approach.</p><p>In this study, only capsular distension treatment, including steroid injection without
+intensive mobilization, or simple conservative treatment, such as thermoelectric therapy,
+was effective. However, there is not yet enough evidence to suggest that this method is
+optimal for the treatment of frozen shoulder.</p><p>The results of this study suggest that the most effective treatment for subacute AC is a
+combination of intensive mobilization and steroid injection with capsular distension, and
+helped to control inflammation, extend joint space, and recover ROM. Therefore, intensive
+mobilization should be conducted by a skilled physical therapist after steroid injection
+with capsular distension to optimize the treatment effect for patients with AC.</p><p>In this study, the intervention period was only 4 weeks. It will be necessary to
+investigate the long-term treatment effects because of the unique aspects of AC. Further
+studies according to the stage of AC should also be undertaken.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Rizk</surname><given-names>TE</given-names></name><name><surname>Pinals</surname><given-names>RS</given-names></name></person-group>: <article-title>Frozen shoulder</article-title>. <source>Semin Arthritis
+Rheum</source>, <year>1982</year>, <volume>11</volume>:
+<fpage>440</fpage>&#x02013;<lpage>452</lpage>. <pub-id pub-id-type="pmid">7048533</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Buchbinder</surname><given-names>R</given-names></name><name><surname>Youd</surname><given-names>JM</given-names></name><name><surname>Green</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Efficacy and cost-effectiveness of physiotherapy following
+glenohumeral joint distension for adhesive capsulitis: a randomized
+trial</article-title>. <source>Arthritis Rheum</source>, <year>2007</year>,
+<volume>57</volume>: <fpage>1027</fpage>&#x02013;<lpage>1037</lpage>. <pub-id pub-id-type="pmid">17665470</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Dias</surname><given-names>R</given-names></name><name><surname>Cutts</surname><given-names>S</given-names></name><name><surname>Massoud</surname><given-names>S</given-names></name></person-group>: <article-title>Frozen shoulder</article-title>. <source>BMJ</source>,
+<year>2005</year>, <volume>331</volume>: <fpage>1453</fpage>&#x02013;<lpage>1456</lpage>.
+<pub-id pub-id-type="pmid">16356983</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Elleuch</surname><given-names>MH</given-names></name><name><surname>Yahia</surname><given-names>A</given-names></name><name><surname>Ghroubi</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>[The contribution of capsular distension to the treatment
+of primary adhesive capsulitis of the shoulder: a comparative study versus
+rehabilitation]</article-title>. <source>Ann Readapt Med Phys</source>,
+<year>2008</year>, <volume>51</volume>: <fpage>722</fpage>&#x02013;<lpage>728</lpage>.
+<pub-id pub-id-type="pmid">18926581</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Khan</surname><given-names>AA</given-names></name><name><surname>Mowla</surname><given-names>A</given-names></name><name><surname>Shakoor</surname><given-names>MA</given-names></name><etal>et al.</etal></person-group>: <article-title>Arthrographic distension of the shoulder joint in the
+management of frozen shoulder</article-title>. <source>Mymensingh Med J</source>,
+<year>2005</year>, <volume>14</volume>: <fpage>67</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="pmid">15695959</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Jacobs</surname><given-names>LG</given-names></name><name><surname>Smith</surname><given-names>MG</given-names></name><name><surname>Khan</surname><given-names>SA</given-names></name><etal>et al.</etal></person-group>: <article-title>Manipulation or intra-articular steroids in the management
+of adhesive capsulitis of the shoulder? A prospective randomized trial</article-title>.
+<source>J Shoulder Elbow Surg</source>, <year>2009</year>, <volume>18</volume>:
+<fpage>348</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="pmid">19393928</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Calis</surname><given-names>M</given-names></name><name><surname>Demir</surname><given-names>H</given-names></name><name><surname>Ulker</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Is intraarticular sodium hyaluronate injection an
+alternative treatment in patients with adhesive
+capsulitis?</article-title><source>Rheumatol Int</source>, <year>2006</year>,
+<volume>26</volume>: <fpage>536</fpage>&#x02013;<lpage>540</lpage>. <pub-id pub-id-type="pmid">16091920</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Maitland</surname><given-names>GD</given-names></name></person-group>: <article-title>Treatment of the glenohumeral joint by passive
+movement</article-title>. <source>Physiotherapy</source>, <year>1983</year>,
+<volume>69</volume>: <fpage>3</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="pmid">6836050</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Vermeulen</surname><given-names>HM</given-names></name><name><surname>Obermann</surname><given-names>WR</given-names></name><name><surname>Burger</surname><given-names>BJ</given-names></name><etal>et al.</etal></person-group>: <article-title>End-range mobilization techniques in adhesive capsulitis
+of the shoulder joint: A multiple-subject case report</article-title>. <source>Phys
+Ther</source>, <year>2000</year>, <volume>80</volume>:
+<fpage>1204</fpage>&#x02013;<lpage>1213</lpage>. <pub-id pub-id-type="pmid">11087307</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="book"><person-group><name><surname>Kaltenborn</surname><given-names>FM</given-names></name></person-group>: Manual Therapy for the Extremity Joints. Oslo: Olaf Norlis Bokhandel,
+<year>1997</year>.</mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="book"><person-group><name><surname>Mulligan</surname><given-names>BR</given-names></name></person-group>: Manual Therapy: &#x0201c;NAGS,&#x0201d; &#x0201c;SNAGS,&#x0201d; &#x0201c;MWMS,&#x0201d; etc., 4th ed. Wellington: Plane
+View Services Ltd., <year>1999</year>.</mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Roach</surname><given-names>KE</given-names></name><name><surname>Budiman-Mak</surname><given-names>E</given-names></name><name><surname>Songsiridej</surname><given-names>N</given-names></name><etal>et al.</etal></person-group>: <article-title>Development of a shoulder pain and disability
+index</article-title>. <source>Arthritis Care Res</source>, <year>1991</year>,
+<volume>4</volume>: <fpage>143</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="pmid">11188601</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Rocourt</surname><given-names>MH</given-names></name><name><surname>Radlinger</surname><given-names>L</given-names></name><name><surname>Kalberer</surname><given-names>F</given-names></name><etal>et al.</etal></person-group>: <article-title>Evaluation of intratester and intertester reliability of
+the Constant-Murley shoulder assessment</article-title>. <source>J Shoulder Elbow
+Surg</source>, <year>2008</year>, <volume>17</volume>:
+<fpage>364</fpage>&#x02013;<lpage>369</lpage>. <pub-id pub-id-type="pmid">18329560</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Hartrick</surname><given-names>CT</given-names></name><name><surname>Kovan</surname><given-names>JP</given-names></name><name><surname>Shapiro</surname><given-names>S</given-names></name></person-group>: <article-title>The numeric rating scale for clinical pain measurement: a
+ratio measure?</article-title><source>Pain Pract</source>, <year>2003</year>,
+<volume>3</volume>: <fpage>310</fpage>&#x02013;<lpage>316</lpage>. <pub-id pub-id-type="pmid">17166126</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Boone</surname><given-names>DC</given-names></name><name><surname>Azen</surname><given-names>SP</given-names></name><name><surname>Lin</surname><given-names>CM</given-names></name><etal>et al.</etal></person-group>: <article-title>Reliability of goniometric measurements</article-title>.
+<source>Phys Ther</source>, <year>1978</year>, <volume>58</volume>:
+<fpage>1355</fpage>&#x02013;<lpage>1360</lpage>. <pub-id pub-id-type="pmid">704684</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Gong</surname><given-names>WT</given-names></name><name><surname>Park</surname><given-names>GD</given-names></name><name><surname>Kim</surname><given-names>CS</given-names></name></person-group>: <article-title>Effects of Gong&#x02019;s mobilization in the side-lying position
+on shoulder abduction</article-title>. <source>J Phys Ther Sci</source>,
+<year>2012</year>, <volume>24</volume>: <fpage>307</fpage>&#x02013;<lpage>309</lpage>.
+</mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Rizk</surname><given-names>TE</given-names></name><name><surname>Gavant</surname><given-names>ML</given-names></name><name><surname>Pinals</surname><given-names>RS</given-names></name></person-group>: <article-title>Treatment of adhesive capsulitis (frozen shoulder) with
+arthrographic capsular distension and rupture</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>1994</year>, <volume>75</volume>:
+<fpage>803</fpage>&#x02013;<lpage>807</lpage>. <pub-id pub-id-type="pmid">8024429</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Buchbinder</surname><given-names>R</given-names></name><name><surname>Green</surname><given-names>S</given-names></name><name><surname>Youd</surname><given-names>JM</given-names></name><etal>et al.</etal></person-group>: <article-title>Arthrographic distension for adhesive capsulitis (frozen
+shoulder)</article-title><comment>(Review)</comment>
+<source>Cochrane Database Syst
+Rev</source>, <year>2008</year>, <volume>23</volume>: <fpage>CD007005</fpage>.
+<pub-id pub-id-type="pmid">18254123</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Yang</surname><given-names>JL</given-names></name><name><surname>Chang</surname><given-names>CW</given-names></name><name><surname>Chen</surname><given-names>SY</given-names></name><etal>et al.</etal></person-group>: <article-title>Mobilization techniques in subjects with frozen shoulder
+syndrome: randomized multiple-treatment trial</article-title>. <source>Phys
+Ther</source>, <year>2007</year>, <volume>87</volume>:
+<fpage>1307</fpage>&#x02013;<lpage>1315</lpage>. <pub-id pub-id-type="pmid">17684085</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Ohtsuki</surname><given-names>K</given-names></name></person-group>: <article-title>The immediate effect of humerus anatomical neck-shaft
+rotation on glenohumeral joint contracture</article-title>. <source>J Phys Ther
+Sci</source>, <year>2014</year>, <volume>26</volume>:
+<fpage>505</fpage>&#x02013;<lpage>507</lpage>. <pub-id pub-id-type="pmid">24764621</pub-id></mixed-citation></ref></ref-list></back></article>

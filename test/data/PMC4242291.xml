@@ -1,0 +1,536 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nucl Recept Signal</journal-id><journal-id journal-id-type="iso-abbrev">Nucl Recept Signal</journal-id><journal-id journal-id-type="publisher-id">NRS</journal-id><journal-title-group><journal-title>Nuclear Receptor Signaling</journal-title></journal-title-group><issn pub-type="epub">1550-7629</issn><publisher><publisher-name>Nuclear Receptor Signaling Atlas</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25422594</article-id><article-id pub-id-type="publisher-id">nrs12004</article-id><article-id pub-id-type="doi">10.1621/nrs.12004</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Inactivation of RAR&#x003b2; inhibits Wnt1-induced mammary tumorigenesis by
+suppressing epithelial-mesenchymal transition</article-title><alt-title alt-title-type="left-running">Running Head: RAR&#x003b2; and EMT</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Xingxing</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gigu&#x000e8;re</surname><given-names>Vincent</given-names></name></contrib><aff id="aff1">Goodman Cancer Research Centre, 1160 Pine Avenue West, McGill University,
+Montr&#x000e9;al, Qu&#x000e9;bec H3A 1A3 (XL, VG) and Departments of Biochemistry, Medicine and
+Oncology, 3655 Promenade Sir William Osler, McGill University, Montr&#x000e9;al, Qu&#x000e9;bec H3G
+1Y6 (VG), <country>Canada</country>.</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: VG, <email xlink:href="vincent.giguere@mcgill.ca">vincent.giguere@mcgill.ca</email></corresp><fn id="afn1"><p>Public Datasets: NCBI Gene Expression Omnibus database (GEO, GSE56391)</p></fn><fn id="afn2"><p>Author Contributions: XL carried out the molecular and genetic studies, participated in the
+design of the study, performed the statistical analysis and helped to draft the manuscript. VG
+conceived of the study, participated in its design and coordination and wrote the manuscript. The
+two authors read and approved the final manuscript.</p></fn></author-notes><pub-date pub-type="collection"><year>2014</year></pub-date><pub-date pub-type="epub"><day>4</day><month>11</month><year>2014</year></pub-date><volume>12</volume><elocation-id>e004</elocation-id><history><date date-type="received"><day>2</day><month>7</month><year>2014</year></date><date date-type="accepted"><day>18</day><month>9</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 Liu and Gigu&#x000e8;re</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Liu and Giguere et al.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/2.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Non-Commercial
+Attribution License, which permits unrestricted non-commercial use distribution and reproduction in any medium, provided the
+original work is properly cited.</license-p></license></permissions><abstract><p>Retinoic acid receptor &#x003b2; (RAR&#x003b2;) has been proposed to act as a tumor suppressor in
+breast cancer. In contrast, recent data have shown that RAR&#x003b2; promotes ERBB2-induced mammary
+gland tumorigenesis through remodeling of the stromal compartment and activation of
+cancer-associated fibroblasts. However, it is currently unknown whether RAR&#x003b2; oncogenic
+activity is specific to ERBB2-induced tumors, or whether it influences the initiation and
+progression of other breast cancer subtypes. Accordingly, we set out to investigate the involvement
+of RAR&#x003b2; in basal-like breast cancer using mouse mammary tumor virus (MMTV)-wingless-related
+integration site 1 (Wnt1)-induced mammary gland tumorigenesis as a model system. We found that
+compared with wild type mice, inactivation of <italic>Rarb</italic> resulted in a lengthy delay in
+<italic>Wnt1</italic>-induced mammary gland tumorigenesis and in a significantly slower tumor growth
+rate. Ablation of <italic>Rarb</italic> altered the composition of the stroma, repressed the
+activation of cancer-associated fibroblasts, and reduced the recruitment of inflammatory cells and
+angiogenesis. Reduced expression of IGF-1 and activity of its downstream signaling pathway
+contribute to attenuate EMT in the <italic>Rarb</italic>-null tumors. Our results show that, in the
+absence of retinoid signaling via RAR&#x003b2;, reduced IGF-1 signaling results in suppression of
+epithelial-mesenchymal transition and delays tumorigenesis induced by the <italic>Wnt1</italic>
+oncogene. Accordingly, our work reinforces the concept that antagonizing RAR&#x003b2;-dependent
+retinoid signaling could provide a therapeutic avenue to treat poor outcome breast cancers.</p></abstract><kwd-group kwd-group-type="author"><title>Keywords: </title><kwd>Breast cancer</kwd><kwd>IGF-1</kwd><kwd>nuclear receptor</kwd><kwd>oncogene</kwd><kwd>retinoid</kwd></kwd-group></article-meta><notes><def-list list-type="simple" list-content="abbreviations"><title>Abbreviations: </title><def-item><term>AKT</term><def><p>thymoma viral proto-oncogene 1</p></def></def-item><def-item><term>CAFs</term><def><p>cancer associated fibroblasts</p></def></def-item><def-item><term>EMT</term><def><p>epithelial mesenchymal transition</p></def></def-item><def-item><term>GITC</term><def><p>guanidinium isothiocyanate</p></def></def-item><def-item><term>IGF-1</term><def><p>insulin-like growth factor-1</p></def></def-item><def-item><term>IHC</term><def><p>immunohistochemistry</p></def></def-item><def-item><term>LCM</term><def><p>laser capture microdissection</p></def></def-item><def-item><term>MMTV</term><def><p>mouse mammary tumor virus</p></def></def-item><def-item><term>RA</term><def><p>retinoic acid</p></def></def-item><def-item><term>RAR&#x003b2;</term><def><p>retinoic acid receptor &#x003b2;</p></def></def-item><def-item><term>RT-PCR</term><def><p>reverse transcription-polymerase chain reaction</p></def></def-item><def-item><term>Wnt-1</term><def><p>wingless-related MMTV integration site 1</p></def></def-item></def-list></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>Retinoic acid (RA), which is derived from dietary vitamin A, plays an essential role in the
+maintenance of the differentiated state of epithelial cells and tissue remodeling [<xref rid="r1" ref-type="bibr">1</xref>-<xref rid="r3" ref-type="bibr">3</xref>]. The family of retinoic
+acid receptors (RARs) that includes the RAR&#x003b1;, &#x003b2; and &#x003b3; subtypes and associated
+alternatively spliced isoforms are the main mediators for the biologic effects of RA [<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>]. RA and other natural and
+synthetic RAR agonists are well known to inhibit the growth of human breast tumor cell lines
+<italic>in vitro</italic> and in mouse xenograft models, a process that generally involves the
+induction of both apoptosis and cell-cycle arrest [<xref rid="r6" ref-type="bibr">6</xref>-<xref rid="r12" ref-type="bibr">12</xref>]. In addition, the absence of RAR&#x003b2;-dependent retinoid
+signaling has been associated with the development of carcinomas, including breast cancer, and
+resistance to the anti-cancer activity of RA [<xref rid="r13" ref-type="bibr">13</xref>]. Despite
+the potent growth-suppressing activity of retinoids on human breast cancer cell lines, this class of
+compounds has not shown relevant anti-cancer activity in the treatment of breast cancer [<xref rid="r14" ref-type="bibr">14</xref>,<xref rid="r15" ref-type="bibr">15</xref>].</p><p>Recently, RAR-null mice have been used to address the role of the RARs in mammary gland
+development and the response of the gland to specific oncogenic insults [<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>]. Ablation of RAR&#x003b1;1 led to an
+increase in the density of the mammary epithelial tree and the content of luminal mammary
+progenitors, in addition to reducing the size of the mammary stem cell-containing compartment [<xref rid="r17" ref-type="bibr">17</xref>]. In contrast, loss of RAR&#x003b2; resulted in a delay in
+mammary tree development in the pubertal stage as a significant shortening of the distance between
+the lymph node and the terminal end buds were observed in the RAR&#x003b2;-null gland [<xref rid="r16" ref-type="bibr">16</xref>]. The developmental abnormalities observed in both RAR-deficient
+mouse models were transient since, as previously reported [<xref rid="r18" ref-type="bibr">18</xref>-<xref rid="r20" ref-type="bibr">20</xref>], the glands were fully functional at later
+stages of development. While ablation of RAR&#x003b1;1 and &#x003b2; resulted in distinct
+developmental mammary gland abnormalities, the absence of RA signaling transduced by either receptor
+resulted in a delay in mammary gland tumorigenesis. In the RAR&#x003b1;1-null model, the reduction
+observed in the mammary stem cell-containing compartment might be a factor in the delay in tumor
+formation by the <italic>Wnt1</italic> oncogene, but the exact mechanism responsible for the
+pro-oncogenic property of RAR&#x003b1;1 in this context remains to be determined. On the other hand,
+absence of RAR&#x003b2; led to a remodeling of the stroma during tumor progression induced by the
+<italic>Erbb2</italic> oncogene that was marked by a decrease in angiogenesis, in the recruitment of
+inflammatory cells and in the number of myofibroblasts [<xref rid="r16" ref-type="bibr">16</xref>].
+In agreement with this observation, tissue recombination experiments demonstrated that the presence
+of RAR&#x003b2; in the stromal compartment is essential for the growth of mammary carcinoma, and that
+RA-dependent activity of the Cxcl12/Cxcr4/Erbb2 signaling axis played a significant role in this
+process. Together, these studies suggest that retinoid-based approaches for the prevention and
+treatment of breast cancer should be re-evaluated and that a better understanding of the mechanisms
+of retinoid action in mammary gland tumorigenesis is required to achieve this goal.</p><p>In the current study, we further tested the specificity of the RAR/oncogene interaction in the
+development of mammary gland carcinoma using bigenic mice generated by crossing the RAR&#x003b2;-null
+mice with the MMTV-<italic>Wnt1</italic> transgenic mice. The <italic>Wnt1</italic> oncogene targets
+mammary stem cells or early progenitor cells as transformation cells [<xref rid="r21" ref-type="bibr">21</xref>]. Accordingly, <italic>Wnt1</italic>-induced tumors show a co-existence of both
+luminal cells and basal/myoepithelial cells, which is reminiscent of human basal-like breast cancer
+that is associated with poor prognosis and lack of effective treatment [<xref rid="r22" ref-type="bibr">22</xref>]. <italic>Wnt1</italic>-induced tumors have also been reported to have abundant
+activated stroma that correlated with more aggressive tumor development [<xref rid="r23" ref-type="bibr">23</xref>]. Therefore, we sought to investigate the influence of RAR&#x003b2; on
+<italic>Wnt1</italic>-induced mammary carcinoma. We found that inactivation of RAR&#x003b2; resulted
+in a protective effect against <italic>Wnt1</italic>-induced mammary gland tumorigenesis, abrogation
+of Wnt signaling in both the epithelial and stromal compartments, and suppression of
+epithelial-mesenchymal transition (EMT) in the tumors. Our work indicates therefore that RAR&#x003b2;
+is essential for the bi-directional interaction between tumor and stromal cells and that RAR&#x003b2;
+specific antagonists may represent a novel therapeutic strategy to treat poor outcome breast
+cancer.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Mice</title><p>All animals were FVB/NJ background and housed in a pathogen-free facility at McGill University
+and were given a standard rodent diet and water ad libitum. MMTV-<italic>Wnt1</italic> mice were
+purchased from the Jackson Laboratory [<xref rid="r24" ref-type="bibr">24</xref>]. To determine the
+initiation of mammary tumor formation, mice were palpated weekly (sensitive to 1-mm tumor masses).
+All mouse manipulations were performed in accordance with the McGill Facility Animal Care Committee
+and the Canadian Council on Animal Care.</p></sec><sec><title>Cell culture</title><p>Mouse mammary fibroblast cell lines were generated from the MMTV-<italic>Wnt1</italic> animals as
+described before [<xref rid="r16" ref-type="bibr">16</xref>]. To generate tumor cells, tumors were
+dissected, mechanically dissociated, and forced through 40 &#x003bc;m mesh. Viable cells were plated,
+grown in DMEM supplemented with 10% FBS and penicillin/streptomycin. The cells had virtually
+identical epithelial morphology under microscope and had similar cell surface marker expression. All
+cultured cells were maintained in DMEM supplemented with 10% FBS and incubated in 5% CO<sub>2</sub>
+at 37<sup>o</sup>C. The fibroblasts were treated with all-trans RA (Sigma #R2625) at a concentration
+of 0.5 &#x003bc;M for 2 days to generate conditioned media. Conditioned media from
+<italic>Rarb</italic>-null or wild-type mouse mammary gland fibroblasts were also supplemented with
+either IGF-1 or anti-IGF-1 antibody (R&#x00026;D Systems) at final concentrations of 10 ng/ml and 40
+&#x003bc;g/ml, respectively.</p></sec><sec><title>Reactive stroma index</title><p>Hematoxylin and eosin staining was carried out in the histology service core of the Goodman
+Cancer Research Centre. Stained sections were examined in a blinded manner and scored for the
+reactive stroma index based on the percentage contribution of a stroma area in tumor mass (i.e.,
+0&#x02013;10% stroma area = 0, 11&#x02013;20% stroma area = 1, and so on, &#x0003e;50% stroma area = 5).
+The average of five areas was used as the reactive stroma index for each sample.</p></sec><sec><title>Histological analyses</title><p>Immunohistochemical analyses were performed on 4-&#x003bc;m formalin-fixed paraffin-embedded
+sections of tumors from mice killed one month after tumor initiation. Immunostaining was done using
+the VECTASTAIN avidin-biotin complex kit (Vector Laboratories) as previously described [<xref rid="r25" ref-type="bibr">25</xref>]. Immunofluorescence staining was conducted on formalin-fixed
+paraffin-embedded tumor sections. Five random areas per section from 3 separate sections obtained
+from different mice for each group were analyzed. The following dilutions of primary antibodies were
+used: rabbit polyclonal anti&#x02013;human-RAR&#x003b2; (Abcam), 1:100; mouse monoclonal anti-human
+Ki67 (clone B56; BD Pharmingen), 1:100; rabbit polyclonal anti-mouse Wnt1 (Upstate), 1:50; rabbit
+polyclonal anti&#x02013;human-caspase-3 (Cell Signaling), 1:50; rat monoclonal anti&#x02013;mouse-CD31
+(clone Mec13.3; Biocare), 1:50; mouse monoclonal anti-CD45, 1:100, and rabbit polyclonal anti-mouse
+collagen I, 1:100 (Abcam Inc.), horse polyclonal anti-human smooth muscle actin-&#x003b1;
+(&#x003b1;-SMA) (Abcam), 1:100, ; rabbit polyclonal anti-mouse IGF1 (Abcam), 1:100. For the negative
+control, primary antibody was replaced with non-immunized rabbit or mouse IgG (Vector Laboratories).
+All images were taken with 10&#x000d7; objectives (100&#x000d7; magnification). For multiple antigen
+labeling the VECTASTAIN System (Vector ABCDAB kit, Vector ABC-AP kit, and Vector ImmPRESSNovaRED and
+VIP kit) (Vector Laboratories) was used. Peroxidase and alkaline phosphatase substrates were used to
+develop color of the antigens with different localization. To compare positive cell numbers, 10
+random fields per section were documented in the Aperio Image System and were analyzed using the
+Spectrum software (Aperio Technologies). Mean values shown beside the corresponding images were
+determined from results from at least six different mice for each genotype.</p></sec><sec><title>Apoptosis analysis</title><p>The number of TUNEL-positive or caspase 3-postive tumor cell nuclei was calculated relative to
+the total number of 1,000 cancer cell nuclei, which was analyzed with the Spectrum software. Mean
+values were determined from results from at least six different mice.</p></sec><sec><title>Western blotting</title><p>Lysates were prepared from the mammary tumors of three <italic>Rarb</italic><sup>-/-</sup> and
+three wild-type mice. Antibodies against phospho-GSK3&#x003b2; (Ser9, 07-835), GSK3&#x003b2;
+(07-1413), Snail (ABD38), phospho-AKT (9611), and AKT (9272) were purchased from Cell Signaling
+Technology. Antibodies against RAR&#x003b2; (SC-552), Wnt-1 (SC-5630), Wisp1 (SC-13316), E-cadherin
+(SC-7870), integrin &#x003b1;5 (SC-10719), LAMA1 (SC-56145), vimentin (SC-373717), cytokeratin
+(SC-529), IGF1 (SC-7144), IGFBP5 (SC-6006), and actin (SC-1616) were purchased from Santa Cruz
+Biotechnology.</p></sec><sec><title>Laser capture microdissection, RNA extraction and linear amplification</title><p>All tissues included in this study were re-examined by an animal pathologist dedicated to the
+project. Tissue specimens were micro-dissected into epithelium and stroma using a PixCell IIe laser
+micro-dissection (LCM) system (Arcturus). All micro-dissections were performed within two hours
+following tissue staining. Total RNA was extracted from each population of micro-dissected cells
+using a guanidinium isothiocyanate (GITC) extraction protocol. Briefly, LCM caps were incubated for
+5 minutes (room temperature) in 200 &#x003bc;l GITC extraction buffer (4 M GITC, 25 mM sodium citrate
+pH 7.0, 0.1 M &#x003b2;-mercaptoethanol, 0.5% N-lauroylsarcosine) supplemented with 1.6 &#x003bc;l
+&#x003b2;-mercaptoethanol. Subsequently, 20 &#x003bc;l of 2 M NaOAc, pH 4.0, 220 &#x003bc;l of
+water-saturated phenol and 60 &#x003bc;l of chloroform-isoamyl alcohol (23:1) were added to the
+extraction buffer. Following a 15 minute incubation on ice and centrifugation (12,000 rpm, 15
+minutes) the aqueous phase was removed and RNA was precipitated with 2 &#x003bc;l glycogen
+(GenHunter, Nashville, Tennessee, USA) and 200 &#x003bc;l isopropanol. Samples were placed at -
+80&#x000b0;C for 30 minutes and centrifuged at 4&#x000b0;C (12,000 rpm) for 30 minutes to pellet RNA.
+Pellets were washed with 70% ethanol, air-dried and subjected to DNase I treatment (Roche, Basel,
+Switzerland). DNAse treatment was performed in the presence of an RNase inhibitor (Invitrogen,
+Carlsbad, California, USA). Subsequently, samples were re-extracted as described above and
+re-suspended in 10 &#x003bc;l of diethylpyrocarbonate-treated water. RNA was quantified using a
+RiboGreen assay (Molecular Probes, Carlsbad, California, USA). Subsequently, 2 to 4 ng of total RNA
+was subjected to two rounds of T7 linear amplification using Ambion Amino Allyl MessageAmp kit
+(Ambion, Austin, Texas, USA) and labeled with Cy3 and Cy5 dyes according to the manufacturer's
+procedure. Prior to microarray hybridizations, amplified products were quantified using a
+spectrophotometer (Nanodrop, Wilmington, Delaware, USA) and analyzed using a BioAnalyzer to assay
+for quality (Agilent Technologies, Santa Clara, California, USA).</p></sec><sec><title>RNA microarrays</title><p>SurePrint G3 mouse Genome 8x60 K arrays (Agilent Technologies, product G4852A) were used for all
+experiments. RNA samples (500 ng) were subjected to fragmentation followed by 18 hours
+hybridization, washing, and scanning (Agilent Technologies, model G2505B) according to the
+manufacturer's protocol (manual ID #G4140-90030). Samples were hybridized against Universal
+mouse Reference RNA (Stratagene, ID #750600, La Jolla, California, USA). Duplicate hybridizations
+were performed for all samples using reverse-dye labeling. Microarray data were feature extracted
+using Feature Extraction Software (v. 7.11) from Agilent with the default parameters. Raw data were
+uploaded to the NCBI Gene Expression Omnibus database (GEO, GSE#56391). Outlier features on arrays
+were flagged by the software. Arrays were required to have an average raw signal intensity of 1,000
+in each channel, and a signal to noise ratio above 16 per channel. MvA plots were examined for signs
+of hybridization or labeling problems. Replicate arrays were required to have a concordance above
+0.944. This level was established empirically using sets of known good replicate arrays in our
+database.</p></sec><sec><title>Real-time PCR for Igf1 expression</title><p>Total RNA from LCM samples was amplified using Amino Allyl MessageAmp II aRNA Kit (Ambion #1753).
+cDNA was made from 2 &#x003bc;g of RNA by reverse transcription with Oligo(dT) primer, dNTPs, 5X 1st
+strand buffer, DTT, RNase inhibitor, and Superscript II RNase H Reverse Transcriptase (Invitrogen).
+cDNA was amplified by qRT-PCR using the specific forward 5&#x02019;-TTCTACCTGGCGCTCTGCTTGC and
+reverse 5&#x02019;-CCCTCCGAATGCTGGAGCCATA primers, a QuantiTect SYBR Green PCR Kit (Qiagen) and a
+LightCycler instrument (Roche) following the Qiagen software protocol.</p></sec><sec><title>ELISA</title><p>Submandibular venous blood was collected into microcentrifuge tubes using a sterile lancet
+(Medipoint, Mineola, NY) according to the manufacturer&#x02019;s instructions. Whole blood was
+centrifuged at 2500&#x000d7;<italic>g</italic> for 20 minutes at 4&#x000b0;C to collect serum, which
+was then stored at &#x02212;80&#x000b0;C. Serum was processed for ELISA of IGF-1 (R&#x00026;D Systems,
+Minneapolis, MN) according to the manufacturer&#x02019;s protocol. Serum IGF-1 levels are reported in
+ng/ml. An IGF-1 control sample, with aliquots stored at -80&#x000b0;C, was included on each plate,
+and all data are reported using simple ratio normalization to the initial reading of the control
+sample.</p></sec><sec><title>Statistical analysis</title><p>Two-tailed paired Student <italic>t</italic> test was calculated by Excel software. Prism
+software was used for one or 2-way ANOVA and log-rank (Mantel-Cox) test.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Global ablation of Rarb in mice delays Wnt1-induced mammary gland tumorigenesis and alters
+the stromal compartment</title><p>To further study the potential role of RAR&#x003b2; as a tumor promoter in mammary gland
+tumorigenesis, we used the well-characterized mouse model of human breast cancer expressing the
+oncogene <italic>Wnt1</italic> in combination with the <italic>Rarb</italic>-null allele [<xref rid="r18" ref-type="bibr">18</xref>,<xref rid="r24" ref-type="bibr">24</xref>]. While both
+<italic>Rarb</italic><sup>-/-</sup> and wild-type mice displayed similar high penetrance for tumor
+formation (78% and 83%, respectively), the <italic>Rarb</italic><sup>-/-</sup> mice showed a
+significant delay (~12 weeks, P&#x0003c;0.01) in tumor formation when strong expression of
+<italic>Wnt1</italic> was driven by the MMTV promoter (<xref ref-type="fig" rid="f1">Figure
+1A</xref>). In addition, the tumors in mice with the <italic>Rarb</italic><sup>-/-</sup> genetic
+background grew at a significantly slower rate than tumors induced in their wild-type siblings (6.3
+vs 4.0 weeks, P&#x0003c;0.05) (<xref ref-type="fig" rid="f1">Figure 1B</xref>). Consistent with these
+results, examination of mammary gland sections taken from MMTV-<italic>Wnt1</italic> mice by
+immunohistochemistry (IHC) showed a significant decrease in Ki67 labeling in
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> tumor cells compared to
+MMTV-<italic>Wnt1</italic> wild type tumor cells (<xref ref-type="fig" rid="f1">Figure 1C</xref>).
+On the other hand, TUNEL staining showed significantly increased apoptotic cell death in the tumors
+growing in <italic>Rarb</italic>-null animals (<xref ref-type="fig" rid="f1">Figure 1D</xref>).
+Concurrently, caspase 3 IHC also displayed more apoptotic enzyme activity in
+<italic>Rarb</italic>-null tumor cells (<xref ref-type="fig" rid="f1">Figure 1E</xref>). As the
+absence of RAR&#x003b2; had a major impact on the composition of the stroma surrounding ERBB2-induced
+mammary tumors [<xref rid="r16" ref-type="bibr">16</xref>], we next measured the grade of stromal
+activation in <italic>Wnt1</italic>-induced tumors generated in the
+<italic>Rarb</italic><sup>-/-</sup> and wild type genotypes. Indeed, the MMTV-<italic>Wnt1</italic>
+tumors in the wild type background had a 31% higher reactive stroma index than tumors developing in
+<italic>Rarb</italic>-null siblings (3.8&#x000b1;0.7 vs 2.9&#x000b1;1.1 P&#x0003c;0.05) (<xref ref-type="fig" rid="f1">Figure 1F</xref>). To determine whether the absence of RAR&#x003b2; affected
+the growth potential of cancer associated fibroblasts (CAFs), we generated stromal fibroblasts from
+control and <italic>Rarb</italic><sup>-/-</sup> mammary glands as previously described [<xref rid="r16" ref-type="bibr">16</xref>] and compared their growth rate <italic>in vitro</italic>. In
+low serum conditions (2% FBS), the <italic>Rarb</italic><sup>-/-</sup> fibroblasts displayed growth
+arrest whereas wild type fibroblasts survived and divided indicating that
+<italic>Rarb</italic><sup>-/-</sup> CAFs have less aggressive malignant properties that persists
+<italic>ex vivo</italic> (<xref ref-type="fig" rid="f1">Figure 1G</xref>).</p><fig id="f1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Ablation of <italic>Rarb</italic> suppresses Wnt1-induced mammary tumorigenesis and affects
+the composition of the stroma.</title><p>(a) <italic>Rarb</italic>-null mice show a significant delay in tumor formation when the
+expression of <italic>Wnt1</italic> is driven by the MMTV-LTR promoter (n=25
+<italic>Rarb</italic><sup>-/-</sup> and 26 wild-type mice). Insets: Western blot analysis of
+RAR&#x003b2; and Wnt1 expression in wild-type and <italic>Rarb</italic><sup>-/-</sup> mice;
+immunostaining of RAR&#x003b2; in tumor (T) and stroma (S) in wild-type tissue. (b) Tumor growth rate
+as measured as time to end point (tumor burden total of 2 cm<sup>3</sup>), n=24. (c) Cell
+proliferation rate was identified by Ki67 expression (red signal), which is significantly lower in
+the tumors from <italic>Rarb</italic> null mice. (d) TUNEL analysis showed significantly increased
+apoptotic cells in <italic>Rarb</italic> null mice. (e) Caspase 3 is detected in tumor cells with a
+significant increase in <italic>Rarb</italic> null animals. (f) Mammary tumor paraffin sections
+stained for collagen 1 (Col3a1) show a decrease in matrix stiffness. Quantification of reactive
+stroma index (RSI) is shown on the right panel. (g) Growth rate of CAFs generated from control and
+<italic>Rarb</italic>-null mammary glands <italic>in vitro</italic>.. For panels c, d and e, scale
+bars, 50 and 20 &#x003bc;m for low (left) and high magnification (right), respectively. For panel f,
+scale bar, 50 &#x003bc;m. *<italic>P</italic> &#x0003c; 0.05, **<italic>P</italic> &#x0003c; 0.01,
+***<italic>P</italic> &#x0003c;0.001</p></caption><graphic xlink:href="nrs-12-004-g1"/></fig></sec><sec><title>Loss of <italic>Rarb</italic> results in remodeling of the stromal compartment in
+Wnt1-induced mammary gland tumors</title><p>Stroma may initiate a desmoplastic reaction that includes activation of CAFs and
+trans-differentiation of tumor or epithelial cells into myofibroblasts, infiltration of immune
+cells, increased secretion of growth factors and cytokines as well as elevated matrix synthesis and
+remodeling that manifests as matrix stiffening. Analysis of differential gene expression in the
+stroma and epithelial compartments using laser capture microdissection (LCM) showed that several
+genes associated with activation of fibroblasts such as <italic>Col3a1</italic>,
+<italic>Col5a1</italic>, <italic>Col5a3</italic>, <italic>Col6a2</italic>, <italic>Col6a3</italic>,
+<italic>Fn1</italic>, <italic>Fap</italic> and <italic>Vim</italic> are down-regulated in the
+stromal compartment of MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> animals
+compared to their wild type siblings (<xref ref-type="fig" rid="f2">Figure 2A</xref>).
+Morphologically, IHC analysis indicated reduced collagen deposition in
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> tumor sections (<xref ref-type="fig" rid="f2">Figure 2B</xref>), indicating decreased matrix stiffening. Moreover, significantly
+decreased smooth muscle actin (&#x003b1;-SMA) positive cells were found in
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> tumor sections (<xref ref-type="fig" rid="f2">Figure 2C</xref>), further indicating that fibroblast activation was suppressed in these
+animals. In addition, a reduction in the recruitment of inflammatory cells as measured by CD45
+staining was observed in the peritumoral stroma of <italic>Rarb</italic>-null mice relative to their
+wild type siblings (<xref ref-type="fig" rid="f2">Figure 2D</xref>). LCM-RNA microarray data also
+showed that several genes involved in angiogenesis, including <italic>Angpt2</italic>,
+<italic>Angptl4</italic> and <italic>Bmper</italic>, were down regulated in the stroma of
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> animals (<xref ref-type="fig" rid="f2">Figure 2A</xref>). Consistent with the gene expression data, non-uniformly distributed
+blood vessels with irregular shape were observed in sections obtained from the mammary tumors of
+wild type mice and stained for CD31 expression (<xref ref-type="fig" rid="f2">Figure 2E</xref>).
+These abnormal blood vessels were inappropriately branched, dilated and usually ended blindly. In
+contrast, we found significantly fewer blood vessels in the <italic>Rarb</italic>-null tumors.</p><fig id="f2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Loss of <italic>Rarb</italic> alters the gene expression profile of the stromal compartment
+and its composition.</title><p>(a) Differential gene expression analysis of the microdissected stromal compartment of
+MMTV-<italic>Wnt1</italic> and MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+tumors. Data are presented as relative fold change (log2) <italic>vs.</italic> wild-type stroma. (b)
+Mammary tumor paraffin sections stained for collagen 1 (COL3A1) show a decrease in matrix stiffness
+and indicate reduced activity of the CAFs in the <italic>Rarb</italic>-null tumor microenvironment.
+Quantification of positive area is shown on the right panel. (c) Paraffin sections stained for
+&#x003b1;-SMA (red, cytoplasmic). Quantification of positive area is shown on the right. (d) Mammary
+tumor paraffin sections stained for CD45 demonstrate a decreased infiltration of inflammatory cells
+in the <italic>Rarb</italic>-null stroma. Quantification of positive cells is shown on the right
+panel. (e) Mammary tumor paraffin sections stained for CD31 demonstrate a reduction of angiogenesis
+in the <italic>Rarb</italic>-null tumor microenvironment. Quantification of positive area is shown
+on the right panel. For all panels, scale bars, 50 and 20 &#x003bc;m for low (left) and high
+magnification (right), respectively.</p></caption><graphic xlink:href="nrs-12-004-g2"/></fig></sec><sec><title>Inhibition of epithelial-mesenchymal transition in Wnt1-induced <italic>Rarb</italic>-null
+tumors</title><p>Besides activation from local fibroblasts, emerging evidence indicates that matrix-producing
+myofibroblasts also arise through epithelial-mesenchymal transition (EMT) [<xref rid="r26" ref-type="bibr">26</xref>]. Interestingly, LCM-mRNA microarray data showed that several genes involved in
+EMT, such as <italic>Ecm2</italic>, <italic>Mmp3</italic>, <italic>Fgf2</italic>, and
+<italic>Igf1</italic>, were significantly down regulated in
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> tumors (<xref ref-type="fig" rid="f3">Figure 3A</xref>). We observed that the expression of markers of epithelium undergoing EMT,
+including E-cadherin, cytokeratin and laminin, were significantly increased at the protein level,
+whereas the expression of vimentin and integrin (ITGA5) were decreased in
+MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup> animals (<xref ref-type="fig" rid="f3">Figure 3B</xref>). This observation was further confirmed by immunofluorescence showing
+higher E-cadherin levels in sections obtained from <italic>Rarb</italic><sup>-/-</sup> mice (<xref ref-type="fig" rid="f3">Figure 3C</xref>), as well as increased translocation of &#x003b2;-catenin
+into the nucleus in wild type cells (<xref ref-type="fig" rid="f3">Figure 3D</xref>). Collectively,
+these data indicate that <italic>Rarb</italic> ablation results in suppression of EMT in the
+<italic>Wnt1</italic>-induced tumors.</p><fig id="f3" fig-type="figure" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Inhibition of epithelial-mesenchymal transition in Wnt1-induced <italic>Rarb</italic>-null
+tumors.</title><p>(a) Differential gene expression analysis of the microdissected epithelial compartment of
+MMTV-<italic>Wnt1</italic> and MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+tumors. Data are presented as relative fold change (log2) <italic>vs.</italic> wild-type stroma. (b)
+Western blot analysis of markers of epithelium undergoing EMT in lysates derived from
+MMTV-<italic>Wnt1</italic> and MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+tumors. (c) Expression of E-cadherin (red) and Ki67 (green) as monitored by immunofluorescence in
+MMTV-<italic>Wnt1</italic> and MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+tumors. (d) Nuclear localization of &#x003b2;-catenin (green) as monitored by immunofluorescence.</p></caption><graphic xlink:href="nrs-12-004-g3"/></fig></sec><sec><title>Down regulation of the IGF1/AKT axis in Wnt1-induced <italic>Rarb</italic>-null
+tumors</title><p>IGF-1 plays a central role in cell growth, differentiation, survival, transformation and
+metastasis, and deregulation of the IGF signaling pathway is well recognized as a key contributor to
+the progression of multiple cancers including mammary gland tumors. The IGF-1 signaling axis can
+also affect EMT. IGF-1 binds IGF1R to induce PI3K and activates AKT to repress GSK3&#x003b2;.
+GSK3&#x003b2; is a repressor of &#x003b2;-catenin and Snail able of inhibiting E-cadherin expression
+and subsequently promotes EMT and tumor progression. While we observed a reduction in the expression
+of <italic>Igf1</italic> in the tumor compartment, IGF-1 is also produced by stromal cells. Western
+blotting using protein lysates obtained from whole tumors showed a decrease in endogenous IGF-1
+levels and an increase in the expression of <italic>IGFBP5</italic>, an antagonist of IGF signaling,
+in the <italic>Rarb</italic>-null samples (<xref ref-type="fig" rid="f4">Figure 4A</xref>). We next
+investigated whether the reduced levels of IGF-1 had an impact on AKT expression and activity in the
+tumors. Indeed, tumors obtained from MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+animals displayed a small decrease in total AKT levels and a sharp reduction of phosphorylated AKT
+at serine 473 (<xref ref-type="fig" rid="f4">Figure 4A</xref>). In addition, we found increased
+phosphorylation of GSK3&#x003b2; and decreased expression of Snail, both of which are downstream
+components of the IGF-1/AKT axis (<xref ref-type="fig" rid="f4">Figure 4A</xref>). While no
+significant difference in the serum concentration of IGF-1 between <italic>Rarb</italic>-null
+animals and their wild type siblings was detected by ELISA (<xref ref-type="fig" rid="f4">Figure
+4B</xref>), we found significantly lower IGF-1 concentrations in the supernatants collected from
+<italic>Rarb</italic>-null CAFs in culture compared to the supernatants obtained from wild type
+fibroblasts (<xref ref-type="fig" rid="f4">Figure 4C</xref>). These results indicate that changes in
+local IGF-1 levels are not due to a systemic effect of the absence of RAR&#x003b2; but intrinsic to
+the tumor microenvironment. Furthermore, retinoic acid induced the expression of IGF-1 mRNA from
+wild type fibroblasts (<xref ref-type="fig" rid="f4">Figure 4D</xref>). Finally, tumor cells
+isolated from the <italic>Wnt1</italic>-induced tumors in wild type mice were cultured in the
+presence of conditioned media obtained from <italic>Rarb</italic>-null and wild type CAFs to measure
+growth rate. <italic>Wnt1</italic>-induced tumor cells cultured in the presence of conditioned media
+derived from <italic>Rarb</italic>-null fibroblasts showed a significant decreased cell growth rate
+(<xref ref-type="fig" rid="f4">Figure 4E</xref>). In addition, immune-neutralization of IGF-1 in the
+conditioned medium derived from wild-type fibroblasts also reduced cellular growth rate, whereas
+supplementation of IGF-1 to the conditioned medium obtained from <italic>Rarb</italic>-null
+fibroblasts reversed the slow growth phenotype (<xref ref-type="fig" rid="f4">Figure 4E</xref>).
+Taken together, these data indicate that in the absence of RAR&#x003b2;, reduced expression of IGF-1
+and activity of its downstream signaling pathway contribute to attenuate EMT in
+<italic>Rarb</italic>-null tumors.</p><fig id="f4" fig-type="figure" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Down regulation of the IGF1/AKT axis in Wnt1-induced <italic>Rarb</italic>-null
+tumors.</title><p>(a) Western blot analysis of components of the IGF-1/AKT signaling axis in lysates derived from
+MMTV-<italic>Wnt1</italic> and MMTV-<italic>Wnt1</italic>/<italic>Rarb</italic><sup>-/-</sup>
+tumors. (b) Serum concentration of IGF-1 in <italic>Rarb</italic>-null and wild-type mice. N=5 for
+each group. (c) IGF-1 concentrations in the supernatant collected from <italic>Rarb</italic>-null
+CAFs in culture compared to the supernatant obtained from wild type fibroblasts. N=5 for each group.
+(d) Effect of RA (100 nM) on the expression of <italic>Igf1</italic> mRNA from wild-type
+fibroblasts. N=4 for each group. (e) Growth curves of tumor cells cultured in the presence of
+conditioned media derived from wild-type (WT) or RAR&#x003b2;<sup>-/-</sup> mammary fibroblasts and
+immunoneutralized with an antibody (Ab) against IGF-1 or supplemented with IGF-1.
+*<italic>P</italic> &#x0003c; 0.05, ***<italic>P</italic> &#x0003c; 0.001.</p></caption><graphic xlink:href="nrs-12-004-g4"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The antitumor activities of retinoids and their receptors have been investigated extensively and
+one of the receptors, RAR&#x003b2;, has been suggested to possess many of the functional
+characteristics of a tumor suppressor [<xref rid="r13" ref-type="bibr">13</xref>]. However, previous
+work from our laboratory showed that in the context of the whole organism, <italic>Rarb</italic> is
+not a tumor suppressor, but rather that its presence is required for the full oncogenic potential of
+<italic>Erbb2/neu</italic> [<xref rid="r16" ref-type="bibr">16</xref>]. Tissue recombination studies
+indicated that it is the absence of RAR&#x003b2; in the tumor microenvironment, rather than the
+status of <italic>Rarb</italic> in mammary epithelial cells, that affects the initiation and
+progression of <italic>Erbb2/neu</italic>-induced mammary gland carcinoma. In the current study, we
+monitored the influence of <italic>Rarb</italic> deletion on the induction of mammary tumors by the
+<italic>Wnt1</italic> oncogene to test whether the absence of retinoid signaling via RAR&#x003b2;
+affects mammary tumor formation driven by a different oncogenic pathway. As previously observed with
+the MMTV-<italic>erbb2/neu</italic> model, ablation of <italic>Rarb</italic> in the
+MMTV-<italic>Wnt1</italic> model showed extensive remodeling of the stroma during tumor progression
+through suppression of the activation and trans-differentiation of CAFs, reduction in matrix
+stiffness, decreased tumor angiogenesis and reduced inflammatory cell infiltration. Despite these
+similarities, the molecular mechanism underlining the interactions by which <italic>Rarb</italic>
+confers its effects on tumor cells is distinct between the two mouse models of human breast cancer.
+Clinically, these results imply that modulation of RAR&#x003b2; activity could have important
+applications to treat breast cancers of different cellular origin and/or driven by distinct
+oncogenic pathways.</p><p>In the <italic>Wnt1</italic> model, oncogenic transformation has been proposed to target mammary
+gland stem cells or early progenitor cells. Therefore, <italic>Wnt1</italic>-induced tumors are
+morphologically composed of a variety of cell types, including distinct tumor luminal epithelial,
+basal/myoepithelial cells and host-derived stroma cells [<xref rid="r27" ref-type="bibr">27</xref>-<xref rid="r29" ref-type="bibr">29</xref>]. Wnt1 ligand produced by tumor cells can
+directly activate the surrounding stromal cells in a paracrine manner [<xref rid="r30" ref-type="bibr">30</xref>]. In return, stromal cells can affect tumor cells by expressing IGF-1, which
+activates IGF1R signaling in tumor cells [<xref rid="r31" ref-type="bibr">31</xref>]. This important
+molecular cross talk between tumor and stromal cells is severely weakened in the absence of
+RAR&#x003b2;. Deletion of <italic>Rarb</italic> down-regulated Wnt1 signaling as indicated by
+E-cadherin expression and nuclear localization of &#x003b2;-catenin resulting in lower IGF-1
+expression in the stroma and suppression of the IGF-1/AKT axis in the tumor cells. Notably, reports
+demonstrated the importance of Wnt1 signaling in mammary stroma of human breast cancer which has
+been linked to EMT and poor clinical outcome [<xref rid="r32" ref-type="bibr">32</xref>-<xref rid="r34" ref-type="bibr">34</xref>].</p><p>Besides affecting stromal cells, Wnt1 ligand secreted by luminal epithelia can also target
+myoepithelial cells [<xref rid="r30" ref-type="bibr">30</xref>]. A recent report indicates that the
+<italic>Wnt1</italic>-driven tumor growth can be inhibited by a soluble Wnt receptor inhibitor
+[<xref rid="r31" ref-type="bibr">31</xref>]. The mechanism through which this effect is mediated
+involves the induction of IGFBP5, an antagonist of IGF signaling that has been shown to facilitate
+tumor growth by paracrine communication. The regulation of IGFBP5 is mediated by the
+&#x003b2;-catenin-dependent Wnt pathway. Strikingly, we observed that <italic>Igfbp5</italic> was
+up-regulated about 2-fold in transcript levels while <italic>Igf1</italic> was down regulated in the
+<italic>Rarb</italic>-null tumors. It has also been reported that overexpression of IGFBP5 results
+in an increase in apoptotic cells in the mammary glands, whereas mice with mutant
+<italic>Igfbp5</italic> exhibit a decrease in apoptotic cells and a delay in mammary gland
+involution [<xref rid="r35" ref-type="bibr">35</xref>-<xref rid="r37" ref-type="bibr">37</xref>].
+IGF-1 is a known growth and survival factor in mammary epithelial cells, and hyperactive IGF-1
+signaling is found in various human tumors including breast cancer [<xref rid="r38" ref-type="bibr">38</xref>,<xref rid="r39" ref-type="bibr">39</xref>]. Moreover, IGF1R activation has been shown to
+induce EMT by a PI3K/AKT-mediated mechanism and a concomitant increase in the expression of Snail
+and suppression of E-cadherin expression [<xref rid="r40" ref-type="bibr">40</xref>-<xref rid="r45" ref-type="bibr">45</xref>]. In agreement with these reports, we observed increased and
+decreased levels of E-cadherin and Snail proteins, respectively, as well as decrease cell
+proliferation and more apoptosis in <italic>Rarb</italic>-null tumors. Accordingly, both suppression
+of Wnt1 signaling pathway and repression of the IGF1/AKT axis in the absence of
+<italic>Rarb</italic> have an important negative impact on CAF activation and EMT in the
+<italic>Wnt1</italic>-induced tumors.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>The failure of retinoid-based therapies to treat breast cancer led us and others to hypothesize
+that retinoic acid receptor isoform might have distinct and perhaps antagonistic functions in
+mammary gland development and in oncogenesis. Indeed, while activation or inhibition of the
+RAR&#x003b1; isoform in mice are consistent with the anti-proliferative action of this receptor
+[<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r46" ref-type="bibr">46</xref>], the activity
+of the RAR&#x003b2; and RAR&#x003b3; suggests that these isoforms act as proto-oncogenes in the
+context of the whole gland [<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r46" ref-type="bibr">46</xref>]. In this work, we extended these findings by demonstrating that
+<italic>Rarb</italic> is crucial for the interaction between tumor cells and stromal cells. We found
+that <italic>Rarb</italic> expression has an important impact on Wnt signaling in both tumor and
+stromal cells. Specifically, inactivation of <italic>Rarb</italic> resulted in suppression of Wnt1
+signaling which further inhibited the IGF-1/AKT/Snail/E-cadherin pathway and consequently repressed
+EMT (<xref ref-type="fig" rid="f5">Figure 5</xref>). Since <italic>Wnt1</italic>-induced tumors in
+the mouse resemble triple negative breast cancer or basal-like breast cancer in which the Wnt and
+IGF-1 signaling pathways are known to be activated, this work suggests that specific RAR&#x003b2;
+antagonists could have useful clinical application in the treatment of poor outcome breast
+cancer.</p><fig id="f5" fig-type="figure" orientation="portrait" position="float"><label>Figure 5</label><caption><title><italic>Rarb</italic> is crucial for the interaction between tumor cells and stromal
+cells.</title><p>Schematic representation of perturbed signaling pathways in <italic>Wnt1</italic>-induced tumors
+and their microenvironments in wild-type and <italic>Rarb</italic><sup>-/-</sup> mice. Loss of
+<italic>Rarb</italic> leads to remodeling of the stroma (bars), reduced Wnt-1 signaling in CAFs,
+decreased IGF-1 levels and inhibition of EMT in the tumor as assessed by lower expression of Snail,
+decreased and increased AKT and GSK-&#x003b2; phosphorylation, respectively.</p></caption><graphic xlink:href="nrs-12-004-g5"/></fig></sec><sec><title>Acknowledgements</title><p>We thank Carlo Ouellet for technical help with handling of the animals and Catherine R. Dufour
+for assistance in the analysis of microarray expression datasets and preparation of the manuscript.
+This work was funded by a Terry Fox New Frontiers Program Group Grant administered by the Canadian
+Cancer Society Research Institute and by an operating grant from the Canadian Institutes of Health
+Research (MOP-64275).</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p>Competing Interests: The authors declare that they have no competing interests.</p></fn></fn-group><ref-list><title>References</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duester</surname><given-names>G</given-names></name></person-group>: <article-title>Retinoic acid synthesis and signaling during early
+organogenesis.</article-title>
+<source>Cell</source>
+<year>2008</year>, <volume>134</volume>:<fpage>921</fpage>-<lpage>931</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2008.09.002</pub-id><?supplied-pmid 18805086?><pub-id pub-id-type="pmid">18805086</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Noy</surname><given-names>N</given-names></name></person-group>: <article-title>Between death and survival: retinoic acid in regulation of
+apoptosis.</article-title>
+<source>Annu Rev Nutr</source>
+<year>2010</year>, <volume>30</volume>:<fpage>201</fpage>-<lpage>217</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.nutr.28.061807.155509</pub-id><?supplied-pmid 20415582?><pub-id pub-id-type="pmid">20415582</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maden</surname><given-names>M</given-names></name><name><surname>Hind</surname><given-names>M</given-names></name></person-group>: <article-title>Retinoic acid, a regeneration-inducing
+molecule.</article-title>
+<source>Dev Dyn</source>
+<year>2003</year>, <volume>226</volume>:<fpage>237</fpage>-<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1002/dvdy.10222</pub-id><?supplied-pmid 12557202?><pub-id pub-id-type="pmid">12557202</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gigu&#x000e8;re</surname><given-names>V</given-names></name></person-group>: <article-title>Retinoic acid receptors and cellular retinoid binding
+proteins: complex interplay in retinoid signaling.</article-title>
+<source>Endocr Rev</source>
+<year>1994</year>, <volume>15</volume>:<fpage>61</fpage>-<lpage>79</lpage>.<?supplied-pmid 8156940?><pub-id pub-id-type="pmid">8156940</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mark</surname><given-names>M</given-names></name><name><surname>Ghyselinck</surname><given-names>NB</given-names></name><name><surname>Chambon</surname><given-names>P</given-names></name></person-group>: <article-title>Function of retinoid nuclear receptors: lessons from genetic
+and pharmacological dissections of the retinoic acid signaling pathway during mouse
+embryogenesis.</article-title>
+<source>Annu Rev Pharmacol Toxicol</source>
+<year>2006</year>, <volume>46</volume>:<fpage>451</fpage>-<lpage>480</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.pharmtox.46.120604.141156</pub-id><?supplied-pmid 16402912?><pub-id pub-id-type="pmid">16402912</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenauer</surname><given-names>A</given-names></name><name><surname>Nervi</surname><given-names>C</given-names></name><name><surname>Davison</surname><given-names>K</given-names></name><name><surname>Lamph</surname><given-names>WW</given-names></name><name><surname>Mader</surname><given-names>S</given-names></name><name><surname>Miller</surname><given-names>WH</given-names><suffix>Jr</suffix></name></person-group>.: <article-title>Estrogen receptor expression activates the transcriptional
+and growth- inhibitory response to retinoids without enhanced retinoic acid receptor alpha
+expression.</article-title>
+<source>Cancer Res</source>
+<year>1998</year>, <volume>58</volume>:<fpage>5110</fpage>-<lpage>5116</lpage>.<?supplied-pmid 9823320?><pub-id pub-id-type="pmid">9823320</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donato</surname><given-names>LJ</given-names></name><name><surname>Noy</surname><given-names>N</given-names></name></person-group>: <article-title>Suppression of mammary carcinoma growth by retinoic acid:
+proapoptotic genes are targets for retinoic acid receptor and cellular retinoic acid-binding protein
+II signaling.</article-title>
+<source>Cancer Res</source>
+<year>2005</year>, <volume>65</volume>:<fpage>8193</fpage>-<lpage>8199</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-1177</pub-id><?supplied-pmid 16166294?><pub-id pub-id-type="pmid">16166294</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donato</surname><given-names>LJ</given-names></name><name><surname>Suh</surname><given-names>JH</given-names></name><name><surname>Noy</surname><given-names>N</given-names></name></person-group>: <article-title>Suppression of mammary carcinoma cell growth by retinoic
+acid: the cell cycle control gene Btg2 is a direct target for retinoic acid receptor
+signaling.</article-title>
+<source>Cancer Res</source>
+<year>2007</year>, <volume>67</volume>:<fpage>609</fpage>-<lpage>615</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-06-0989</pub-id><?supplied-pmid 17234770?><pub-id pub-id-type="pmid">17234770</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Q</given-names></name><name><surname>Yang</surname><given-names>W</given-names></name><name><surname>Uytingco</surname><given-names>MS</given-names></name><name><surname>Christakos</surname><given-names>S</given-names></name><name><surname>Wieder</surname><given-names>R</given-names></name></person-group>: <article-title>1,25-Dihydroxyvitamin D3 and all-trans-retinoic acid
+sensitize breast cancer cells to chemotherapy-induced cell death.</article-title>
+<source>Cancer Res</source>
+<year>2000</year>, <volume>60</volume>:<fpage>2040</fpage>-<lpage>2048</lpage>.<?supplied-pmid 10766196?><pub-id pub-id-type="pmid">10766196</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moon</surname><given-names>RC</given-names></name><name><surname>Constantinou</surname><given-names>AI</given-names></name></person-group>: <article-title>Dietary retinoids and carotenoids in rodent models of mammary
+tumorigenesis.</article-title>
+<source>Breast Cancer Res Treat</source>
+<year>1997</year>, <volume>46</volume>:<fpage>181</fpage>-<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1023/A:1005995925246</pub-id><?supplied-pmid 9478273?><pub-id pub-id-type="pmid">9478273</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Lee</surname><given-names>M-O</given-names></name><name><surname>Wang</surname><given-names>H-G</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Hashimoto</surname><given-names>Y</given-names></name><name><surname>Klaus</surname><given-names>M</given-names></name><name><surname>Reed</surname><given-names>JC</given-names></name><name><surname>Zhang</surname><given-names>X-K</given-names></name></person-group>: <article-title>Retinoic acid receptor &#x000df; mediates the
+growth-inhibitory effects of retinoic acid by promoting apoptosis in human breast cancer
+cells.</article-title>
+<source>Mol Cell Biol</source>
+<year>1996</year>, <volume>16</volume>:<fpage>1138</fpage>-<lpage>1149</lpage>.<?supplied-pmid 8622658?><pub-id pub-id-type="pmid">8622658</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fontana</surname><given-names>JA</given-names></name><name><surname>Nervi</surname><given-names>C</given-names></name><name><surname>Shao</surname><given-names>ZM</given-names></name><name><surname>Jetten</surname><given-names>AM</given-names></name></person-group>: <article-title>Retinoid antagonism of estrogen-responsive transforming
+growth factor a and pS2 gene expression in breast carcinoma cells.</article-title>
+<source>Cancer Res</source>
+<year>1992</year>, <volume>52</volume>:<fpage>3938</fpage>-<lpage>3945</lpage>.<?supplied-pmid 1319834?><pub-id pub-id-type="pmid">1319834</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alvarez</surname><given-names>S</given-names></name><name><surname>Germain</surname><given-names>P</given-names></name><name><surname>Alvarez</surname><given-names>R</given-names></name><name><surname>Rodriguez-Barrios</surname><given-names>F</given-names></name><name><surname>Gronemeyer</surname><given-names>H</given-names></name><name><surname>de Lera</surname><given-names>AR</given-names></name></person-group>: <article-title>Structure, function and modulation of retinoic acid receptor
+beta, a tumor suppressor.</article-title>
+<source>Int J Biochem Cell Biol</source>
+<year>2007</year>, <volume>39</volume>:<fpage>1406</fpage>-<lpage>1415</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocel.2007.02.010</pub-id><?supplied-pmid 17433757?><pub-id pub-id-type="pmid">17433757</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiesa</surname><given-names>MD</given-names></name><name><surname>Passalacqua</surname><given-names>R</given-names></name><name><surname>Michiara</surname><given-names>M</given-names></name><name><surname>Franciosi</surname><given-names>V</given-names></name><name><surname>Di Costanzo</surname><given-names>F</given-names></name><name><surname>Bisagni</surname><given-names>G</given-names></name><name><surname>Camisa</surname><given-names>R</given-names></name><name><surname>Buti</surname><given-names>S</given-names></name><name><surname>Tomasello</surname><given-names>G</given-names></name><name><surname>Cocconi</surname><given-names>G</given-names></name></person-group>: <article-title>Tamoxifen vs Tamoxifen plus 13-cis-retinoic acid vs Tamoxifen
+plus Interferon alpha-2a as first-line endocrine treatments in advanced breast cancer: updated
+results of a phase II, prospective, randomised multicentre trial.</article-title>
+<source>Acta Biomed</source>
+<year>2007</year>, <volume>78</volume>:<fpage>204</fpage>-<lpage>209</lpage>.<?supplied-pmid 18330080?><pub-id pub-id-type="pmid">18330080</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singletary</surname><given-names>SE</given-names></name><name><surname>Atkinson</surname><given-names>EN</given-names></name><name><surname>Hoque</surname><given-names>A</given-names></name><name><surname>Sneige</surname><given-names>N</given-names></name><name><surname>Sahin</surname><given-names>AA</given-names></name><name><surname>Fritsche</surname><given-names>HA</given-names><suffix>Jr</suffix></name><name><surname>Lotan</surname><given-names>R</given-names></name><name><surname>Lu</surname><given-names>T</given-names></name><name><surname>Hittelman</surname><given-names>WN</given-names></name><name><surname>Bevers</surname><given-names>TB</given-names></name><etal/></person-group>: <article-title>Phase II clinical trial of
+N-(4-Hydroxyphenyl)retinamide and tamoxifen administration before definitive surgery for breast
+neoplasia.</article-title>
+<source>Clin Cancer Res</source>
+<year>2002</year>, <volume>8</volume>:<fpage>2835</fpage>-<lpage>2842</lpage>.<?supplied-pmid 12231524?><pub-id pub-id-type="pmid">12231524</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Nugoli</surname><given-names>M</given-names></name><name><surname>Laferriere</surname><given-names>J</given-names></name><name><surname>Saleh</surname><given-names>SM</given-names></name><name><surname>Rodrigue-Gervais</surname><given-names>IG</given-names></name><name><surname>Saleh</surname><given-names>M</given-names></name><name><surname>Park</surname><given-names>M</given-names></name><name><surname>Hallett</surname><given-names>MT</given-names></name><name><surname>Muller</surname><given-names>WJ</given-names></name><name><surname>Gigu&#x000e8;re</surname><given-names>V</given-names></name></person-group>: <article-title>Stromal retinoic acid receptor &#x003b2; promotes mammary
+gland tumorigenesis.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>2011</year>, <volume>108</volume>:<fpage>774</fpage>-<lpage>779</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1011845108</pub-id><?supplied-pmid 21187396?><pub-id pub-id-type="pmid">21187396</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cohn</surname><given-names>E</given-names></name><name><surname>Ossowski</surname><given-names>L</given-names></name><name><surname>Bertran</surname><given-names>S</given-names></name><name><surname>Marzan</surname><given-names>C</given-names></name><name><surname>Farias</surname><given-names>EF</given-names></name></person-group>: <article-title>RARalpha1 control of mammary gland ductal morphogenesis and
+Wnt1-tumorigenesis.</article-title>
+<source>Breast Cancer Res</source>
+<year>2010</year>, <volume>12</volume>:<fpage>R79</fpage>. <pub-id pub-id-type="doi">10.1186/bcr2724</pub-id><?supplied-pmid 20923554?><pub-id pub-id-type="pmid">20923554</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luo</surname><given-names>J</given-names></name><name><surname>Pasceri</surname><given-names>P</given-names></name><name><surname>Conlon</surname><given-names>RA</given-names></name><name><surname>Rossant</surname><given-names>J</given-names></name><name><surname>Gigu&#x000e8;re</surname><given-names>V</given-names></name></person-group>: <article-title>Mice lacking all isoforms of retinoic acid receptor &#x000df;
+develop normally and are susceptible to the teratogenic effects of retinoic acid.</article-title>
+<source>Mech Dev</source>
+<year>1995</year>, <volume>53</volume>:<fpage>61</fpage>-<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1016/0925-4773(95)00424-6</pub-id><?supplied-pmid 8555112?><pub-id pub-id-type="pmid">8555112</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>E</given-names></name><name><surname>Sucov</surname><given-names>HM</given-names></name><name><surname>Lee</surname><given-names>K-H</given-names></name><name><surname>Evans</surname><given-names>RM</given-names></name><name><surname>Jaenisch</surname><given-names>R</given-names></name></person-group>: <article-title>Normal development and growth of mice carrying a targeted
+disruption of the a1 retinoic acid receptor gene.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>1993</year>, <volume>90</volume>:<fpage>1590</fpage>-<lpage>1594</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.90.4.1590</pub-id><?supplied-pmid 7679509?><pub-id pub-id-type="pmid">7679509</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mendelsohn</surname><given-names>C</given-names></name><name><surname>Mark</surname><given-names>M</given-names></name><name><surname>Doll&#x000e9;</surname><given-names>P</given-names></name><name><surname>Dierich</surname><given-names>A</given-names></name><name><surname>Gaub</surname><given-names>M-P</given-names></name><name><surname>Krust</surname><given-names>A</given-names></name><name><surname>Lampron</surname><given-names>C</given-names></name><name><surname>Chambon</surname><given-names>P</given-names></name></person-group>: <article-title>Retinoic acid receptor &#x000df;2 (RAR&#x000df;2) null mutant
+mice appear normal.</article-title>
+<source>Dev Biol</source>
+<year>1994</year>, <volume>166</volume>:<fpage>246</fpage>-<lpage>258</lpage>. <pub-id pub-id-type="doi">10.1006/dbio.1994.1311</pub-id><?supplied-pmid 7958449?><pub-id pub-id-type="pmid">7958449</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khramtsov</surname><given-names>AI</given-names></name><name><surname>Khramtsova</surname><given-names>GF</given-names></name><name><surname>Tretiakova</surname><given-names>M</given-names></name><name><surname>Huo</surname><given-names>D</given-names></name><name><surname>Olopade</surname><given-names>OI</given-names></name><name><surname>Goss</surname><given-names>KH</given-names></name></person-group>: <article-title>Wnt/beta-catenin pathway activation is enriched in basal-like
+breast cancers and predicts poor outcome.</article-title>
+<source>Am J Pathol</source>
+<year>2010</year>, <volume>176</volume>:<fpage>2911</fpage>-<lpage>2920</lpage>. <pub-id pub-id-type="doi">10.2353/ajpath.2010.091125</pub-id><?supplied-pmid 20395444?><pub-id pub-id-type="pmid">20395444</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sims</surname><given-names>AH</given-names></name><name><surname>Howell</surname><given-names>A</given-names></name><name><surname>Howell</surname><given-names>SJ</given-names></name><name><surname>Clarke</surname><given-names>RB</given-names></name></person-group>: <article-title>Origins of breast cancer subtypes and therapeutic
+implications.</article-title>
+<source>Nat Clin Pract Oncol</source>
+<year>2007</year>, <volume>4</volume>:<fpage>516</fpage>-<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1038/ncponc0908</pub-id><?supplied-pmid 17728710?><pub-id pub-id-type="pmid">17728710</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Howe</surname><given-names>LR</given-names></name><name><surname>Brown</surname><given-names>AM</given-names></name></person-group>: <article-title>Wnt signaling and breast cancer.</article-title>
+<source>Cancer Biol Ther</source>
+<year>2004</year>, <volume>3</volume>:<fpage>36</fpage>-<lpage>41</lpage>. <pub-id pub-id-type="doi">10.4161/cbt.3.1.561</pub-id><?supplied-pmid 14739782?><pub-id pub-id-type="pmid">14739782</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tsukamoto</surname><given-names>AS</given-names></name><name><surname>Grosschedl</surname><given-names>R</given-names></name><name><surname>Guzman</surname><given-names>RC</given-names></name><name><surname>Parslow</surname><given-names>T</given-names></name><name><surname>Varmus</surname><given-names>HE</given-names></name></person-group>: <article-title>Expression of the int-1 gene in transgenic mice is associated
+with mammary gland hyperplasia and adenocarcinomas in male and female mice.</article-title>
+<source>Cell</source>
+<year>1988</year>, <volume>55</volume>:<fpage>619</fpage>-<lpage>625</lpage>. <pub-id pub-id-type="doi">10.1016/0092-8674(88)90220-6</pub-id><?supplied-pmid 3180222?><pub-id pub-id-type="pmid">3180222</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Jiang</surname><given-names>N</given-names></name><name><surname>Hughes</surname><given-names>B</given-names></name><name><surname>Bigras</surname><given-names>E</given-names></name><name><surname>Shoubridge</surname><given-names>E</given-names></name><name><surname>Hekimi</surname><given-names>S</given-names></name></person-group>: <article-title>Evolutionary conservation of the clk-1-dependent mechanism of
+longevity: loss of mclk1 increases cellular fitness and lifespan in mice.</article-title>
+<source>Genes Dev</source>
+<year>2005</year>, <volume>19</volume>:<fpage>2424</fpage>-<lpage>2434</lpage>. <pub-id pub-id-type="doi">10.1101/gad.1352905</pub-id><?supplied-pmid 16195414?><pub-id pub-id-type="pmid">16195414</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Radisky</surname><given-names>DC</given-names></name><name><surname>Kenny</surname><given-names>PA</given-names></name><name><surname>Bissell</surname><given-names>MJ</given-names></name></person-group>: <article-title>Fibrosis and cancer: do myofibroblasts come also from
+epithelial cells via EMT?</article-title>
+<source>J Cell Biochem</source>
+<year>2007</year>, <volume>101</volume>:<fpage>830</fpage>-<lpage>839</lpage>. <pub-id pub-id-type="doi">10.1002/jcb.21186</pub-id><?supplied-pmid 17211838?><pub-id pub-id-type="pmid">17211838</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prat</surname><given-names>A</given-names></name><name><surname>Parker</surname><given-names>JS</given-names></name><name><surname>Karginova</surname><given-names>O</given-names></name><name><surname>Fan</surname><given-names>C</given-names></name><name><surname>Livasy</surname><given-names>C</given-names></name><name><surname>Herschkowitz</surname><given-names>JI</given-names></name><name><surname>He</surname><given-names>X</given-names></name><name><surname>Perou</surname><given-names>CM</given-names></name></person-group>: <article-title>Phenotypic and molecular characterization of the claudin-low
+intrinsic subtype of breast cancer.</article-title>
+<source>Breast Cancer Res</source>
+<year>2010</year>, <volume>12</volume>:<fpage>R68</fpage>. <pub-id pub-id-type="doi">10.1186/bcr2635</pub-id><?supplied-pmid 20813035?><pub-id pub-id-type="pmid">20813035</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Herschkowitz</surname><given-names>JI</given-names></name><name><surname>Simin</surname><given-names>K</given-names></name><name><surname>Weigman</surname><given-names>VJ</given-names></name><name><surname>Mikaelian</surname><given-names>I</given-names></name><name><surname>Usary</surname><given-names>J</given-names></name><name><surname>Hu</surname><given-names>Z</given-names></name><name><surname>Rasmussen</surname><given-names>KE</given-names></name><name><surname>Jones</surname><given-names>LP</given-names></name><name><surname>Assefnia</surname><given-names>S</given-names></name><name><surname>Chandrasekharan</surname><given-names>S</given-names></name><etal/></person-group>: <article-title>Identification of conserved gene expression features
+between murine mammary carcinoma models and human breast tumors.</article-title>
+<source>Genome Biol</source>
+<year>2007</year>, <volume>8</volume>:<fpage>R76</fpage>. <pub-id pub-id-type="doi">10.1186/gb-2007-8-5-r76</pub-id><?supplied-pmid 17493263?><pub-id pub-id-type="pmid">17493263</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>XR</given-names></name><name><surname>Chang-Claude</surname><given-names>J</given-names></name><name><surname>Goode</surname><given-names>EL</given-names></name><name><surname>Couch</surname><given-names>FJ</given-names></name><name><surname>Nevanlinna</surname><given-names>H</given-names></name><name><surname>Milne</surname><given-names>RL</given-names></name><name><surname>Gaudet</surname><given-names>M</given-names></name><name><surname>Schmidt</surname><given-names>MK</given-names></name><name><surname>Broeks</surname><given-names>A</given-names></name><name><surname>Cox</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Associations of breast cancer risk factors with tumor
+subtypes: a pooled analysis from the Breast Cancer Association Consortium studies.</article-title>
+<source>J Natl Cancer Inst</source>
+<year>2011</year>, <volume>103</volume>:<fpage>250</fpage>-<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/djq526</pub-id><?supplied-pmid 21191117?><pub-id pub-id-type="pmid">21191117</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>YC</given-names></name><name><surname>Clark</surname><given-names>RJ</given-names></name><name><surname>Ranheim</surname><given-names>EA</given-names></name><name><surname>Alexander</surname><given-names>CM</given-names></name></person-group>: <article-title>Wnt1 expression induces short-range and long-range cell
+recruitments that modify mammary tumor development and are not induced by a cell-autonomous
+beta-catenin effector.</article-title>
+<source>Cancer Res</source>
+<year>2008</year>, <volume>68</volume>:<fpage>10145</fpage>-<lpage>10153</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-2992</pub-id><?supplied-pmid 19074881?><pub-id pub-id-type="pmid">19074881</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>BY</given-names></name><name><surname>Soloviev</surname><given-names>I</given-names></name><name><surname>Huang</surname><given-names>X</given-names></name><name><surname>Chang</surname><given-names>P</given-names></name><name><surname>Ernst</surname><given-names>JA</given-names></name><name><surname>Polakis</surname><given-names>P</given-names></name><name><surname>Sakanaka</surname><given-names>C</given-names></name></person-group>: <article-title>Mammary tumor regression elicited by Wnt signaling inhibitor
+requires IGFBP5.</article-title>
+<source>Cancer Res</source>
+<year>2012</year>, <volume>72</volume>:<fpage>1568</fpage>-<lpage>1578</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-11-3668</pub-id><?supplied-pmid 22307840?><pub-id pub-id-type="pmid">22307840</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yoshida</surname><given-names>H</given-names></name><name><surname>Broaddus</surname><given-names>R</given-names></name><name><surname>Cheng</surname><given-names>W</given-names></name><name><surname>Xie</surname><given-names>S</given-names></name><name><surname>Naora</surname><given-names>H</given-names></name></person-group>: <article-title>Deregulation of the HOXA10 homeobox gene in endometrial
+carcinoma: role in epithelial-mesenchymal transition.</article-title>
+<source>Cancer Res</source>
+<year>2006</year>, <volume>66</volume>:<fpage>889</fpage>-<lpage>897</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-2828</pub-id><?supplied-pmid 16424022?><pub-id pub-id-type="pmid">16424022</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>AY</given-names></name><name><surname>He</surname><given-names>B</given-names></name><name><surname>You</surname><given-names>L</given-names></name><name><surname>Dadfarmay</surname><given-names>S</given-names></name><name><surname>Xu</surname><given-names>Z</given-names></name><name><surname>Mazieres</surname><given-names>J</given-names></name><name><surname>Mikami</surname><given-names>I</given-names></name><name><surname>McCormick</surname><given-names>F</given-names></name><name><surname>Jablons</surname><given-names>DM</given-names></name></person-group>: <article-title>Expression of the secreted frizzled-related protein gene
+family is downregulated in human mesothelioma.</article-title>
+<source>Oncogene</source>
+<year>2004</year>, <volume>23</volume>:<fpage>6672</fpage>-<lpage>6676</lpage>. <pub-id pub-id-type="doi">10.1038/sj.onc.1207881</pub-id><?supplied-pmid 15221014?><pub-id pub-id-type="pmid">15221014</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Finak</surname><given-names>G</given-names></name><name><surname>Bertos</surname><given-names>N</given-names></name><name><surname>Pepin</surname><given-names>F</given-names></name><name><surname>Sadekova</surname><given-names>S</given-names></name><name><surname>Souleimanova</surname><given-names>M</given-names></name><name><surname>Zhao</surname><given-names>H</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Omeroglu</surname><given-names>G</given-names></name><name><surname>Meterissian</surname><given-names>S</given-names></name><name><surname>Omeroglu</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Stromal gene expression predicts clinical outcome in
+breast cancer.</article-title>
+<source>Nat Med</source>
+<year>2008</year>, <volume>14</volume>:<fpage>518</fpage>-<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1038/nm1764</pub-id><?supplied-pmid 18438415?><pub-id pub-id-type="pmid">18438415</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tonner</surname><given-names>E</given-names></name><name><surname>Barber</surname><given-names>MC</given-names></name><name><surname>Allan</surname><given-names>GJ</given-names></name><name><surname>Beattie</surname><given-names>J</given-names></name><name><surname>Webster</surname><given-names>J</given-names></name><name><surname>Whitelaw</surname><given-names>CB</given-names></name><name><surname>Flint</surname><given-names>DJ</given-names></name></person-group>: <article-title>Insulin-like growth factor binding protein-5 (IGFBP-5)
+induces premature cell death in the mammary glands of transgenic mice.</article-title>
+<source>Development</source>
+<year>2002</year>, <volume>129</volume>:<fpage>4547</fpage>-<lpage>4557</lpage>.<?supplied-pmid 12223411?><pub-id pub-id-type="pmid">12223411</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ning</surname><given-names>Y</given-names></name><name><surname>Hoang</surname><given-names>B</given-names></name><name><surname>Schuller</surname><given-names>AG</given-names></name><name><surname>Cominski</surname><given-names>TP</given-names></name><name><surname>Hsu</surname><given-names>MS</given-names></name><name><surname>Wood</surname><given-names>TL</given-names></name><name><surname>Pintar</surname><given-names>JE</given-names></name></person-group>: <article-title>Delayed mammary gland involution in mice with mutation of the
+insulin-like growth factor binding protein 5 gene.</article-title>
+<source>Endocrinology</source>
+<year>2007</year>, <volume>148</volume>:<fpage>2138</fpage>-<lpage>2147</lpage>. <pub-id pub-id-type="doi">10.1210/en.2006-0041</pub-id><?supplied-pmid 17255210?><pub-id pub-id-type="pmid">17255210</pub-id></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marshman</surname><given-names>E</given-names></name><name><surname>Green</surname><given-names>KA</given-names></name><name><surname>Flint</surname><given-names>DJ</given-names></name><name><surname>White</surname><given-names>A</given-names></name><name><surname>Streuli</surname><given-names>CH</given-names></name><name><surname>Westwood</surname><given-names>M</given-names></name></person-group>: <article-title>Insulin-like growth factor binding protein 5 and apoptosis in
+mammary epithelial cells.</article-title>
+<source>J Cell Sci</source>
+<year>2003</year>, <volume>116</volume>:<fpage>675</fpage>-<lpage>682</lpage>. <pub-id pub-id-type="doi">10.1242/jcs.00263</pub-id><?supplied-pmid 12538768?><pub-id pub-id-type="pmid">12538768</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>RA</given-names></name><name><surname>Moorehead</surname><given-names>RA</given-names></name></person-group>: <article-title>The impact of transgenic IGF-IR overexpression on mammary
+development and tumorigenesis.</article-title>
+<source>J Mammary Gland Biol Neoplasia</source>
+<year>2008</year>, <volume>13</volume>:<fpage>407</fpage>-<lpage>413</lpage>. <pub-id pub-id-type="doi">10.1007/s10911-008-9097-1</pub-id><?supplied-pmid 19002570?><pub-id pub-id-type="pmid">19002570</pub-id></mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lann</surname><given-names>D</given-names></name><name><surname>LeRoith</surname><given-names>D</given-names></name></person-group>: <article-title>The role of endocrine insulin-like growth factor-I and
+insulin in breast cancer.</article-title>
+<source>J Mammary Gland Biol Neoplasia</source>
+<year>2008</year>, <volume>13</volume>:<fpage>371</fpage>-<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1007/s10911-008-9100-x</pub-id><?supplied-pmid 19030972?><pub-id pub-id-type="pmid">19030972</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Irie</surname><given-names>HY</given-names></name><name><surname>Pearline</surname><given-names>RV</given-names></name><name><surname>Grueneberg</surname><given-names>D</given-names></name><name><surname>Hsia</surname><given-names>M</given-names></name><name><surname>Ravichandran</surname><given-names>P</given-names></name><name><surname>Kothari</surname><given-names>N</given-names></name><name><surname>Natesan</surname><given-names>S</given-names></name><name><surname>Brugge</surname><given-names>JS</given-names></name></person-group>: <article-title>Distinct roles of Akt1 and Akt2 in regulating cell migration
+and epithelial-mesenchymal transition.</article-title>
+<source>J Cell Biol</source>
+<year>2005</year>, <volume>171</volume>:<fpage>1023</fpage>-<lpage>1034</lpage>. <pub-id pub-id-type="doi">10.1083/jcb.200505087</pub-id><?supplied-pmid 16365168?><pub-id pub-id-type="pmid">16365168</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>HJ</given-names></name><name><surname>Litzenburger</surname><given-names>BC</given-names></name><name><surname>Cui</surname><given-names>X</given-names></name><name><surname>Delgado</surname><given-names>DA</given-names></name><name><surname>Grabiner</surname><given-names>BC</given-names></name><name><surname>Lin</surname><given-names>X</given-names></name><name><surname>Lewis</surname><given-names>MT</given-names></name><name><surname>Gottardis</surname><given-names>MM</given-names></name><name><surname>Wong</surname><given-names>TW</given-names></name><name><surname>Attar</surname><given-names>RM</given-names></name><etal/></person-group>: <article-title>Constitutively active type I insulin-like growth
+factor receptor causes transformation and xenograft growth of immortalized mammary epithelial cells
+and is accompanied by an epithelial-to-mesenchymal transition mediated by NF-kappaB and
+snail.</article-title>
+<source>Mol Cell Biol</source>
+<year>2007</year>, <volume>27</volume>:<fpage>3165</fpage>-<lpage>3175</lpage>. <pub-id pub-id-type="doi">10.1128/MCB.01315-06</pub-id><?supplied-pmid 17296734?><pub-id pub-id-type="pmid">17296734</pub-id></mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gibson</surname><given-names>SL</given-names></name><name><surname>Ma</surname><given-names>Z</given-names></name><name><surname>Shaw</surname><given-names>LM</given-names></name></person-group>: <article-title>Divergent roles for IRS-1 and IRS-2 in breast cancer
+metastasis.</article-title>
+<source>Cell Cycle</source>
+<year>2007</year>, <volume>6</volume>:<fpage>631</fpage>-<lpage>637</lpage>. <pub-id pub-id-type="doi">10.4161/cc.6.6.3987</pub-id><?supplied-pmid 17361103?><pub-id pub-id-type="pmid">17361103</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Savagner</surname><given-names>P</given-names></name><name><surname>Yamada</surname><given-names>KM</given-names></name><name><surname>Thiery</surname><given-names>JP</given-names></name></person-group>: <article-title>The zinc-finger protein slug causes desmosome dissociation,
+an initial and necessary step for growth factor-induced epithelial-mesenchymal
+transition.</article-title>
+<source>J Cell Biol</source>
+<year>1997</year>, <volume>137</volume>:<fpage>1403</fpage>-<lpage>1419</lpage>. <pub-id pub-id-type="doi">10.1083/jcb.137.6.1403</pub-id><?supplied-pmid 9182671?><pub-id pub-id-type="pmid">9182671</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nieto</surname><given-names>MA</given-names></name></person-group>: <article-title>The snail superfamily of zinc-finger transcription
+factors.</article-title>
+<source>Nat Rev Mol Cell Biol</source>
+<year>2002</year>, <volume>3</volume>:<fpage>155</fpage>-<lpage>166</lpage>. <pub-id pub-id-type="doi">10.1038/nrm757</pub-id><?supplied-pmid 11994736?><pub-id pub-id-type="pmid">11994736</pub-id></mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barrallo-Gimeno</surname><given-names>A</given-names></name><name><surname>Nieto</surname><given-names>MA</given-names></name></person-group>: <article-title>The Snail genes as inducers of cell movement and survival:
+implications in development and cancer.</article-title>
+<source>Development</source>
+<year>2005</year>, <volume>132</volume>:<fpage>3151</fpage>-<lpage>3161</lpage>. <pub-id pub-id-type="doi">10.1242/dev.01907</pub-id><?supplied-pmid 15983400?><pub-id pub-id-type="pmid">15983400</pub-id></mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lu</surname><given-names>Y</given-names></name><name><surname>Bertran</surname><given-names>S</given-names></name><name><surname>Samuels</surname><given-names>TA</given-names></name><name><surname>Mira-y-Lopez</surname><given-names>R</given-names></name><name><surname>Farias</surname><given-names>EF</given-names></name></person-group>: <article-title>Mechanism of inhibition of MMTV-neu and MMTV-Wnt1 induced
+mammary oncogenesis by RARalpha agonist AM580.</article-title>
+<source>Oncogene</source>
+<year>2010</year>, <volume>29</volume>:<fpage>3665</fpage>-<lpage>3676</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2010.119</pub-id><?supplied-pmid 20453882?><pub-id pub-id-type="pmid">20453882</pub-id></mixed-citation></ref></ref-list></back></article>

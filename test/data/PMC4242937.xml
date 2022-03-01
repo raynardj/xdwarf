@@ -1,0 +1,199 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-203</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1707</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Isometric Contraction of an Upper Extremity and Its Effects on the
+Contralateral Lower Extremity</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Daehee</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Jungseo</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Sangyong</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Youngdong University, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Sangyong Lee, Department of Physical Therapy, Youngdong University: 12
+Youngdong-eup, Youngdong-gun, Chungbuk 370-701, Republic of Korea. (E-mail: <email xlink:href="lsy8275@hanmail.net">lsy8275@hanmail.net</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1707</fpage><lpage>1709</lpage><history><date date-type="received"><day>02</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>06</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The aim of this study was to examine effects of the isometric contraction of an
+upper limb in a supine position on the muscle activity of a healthy adult in the
+contralateral lower limb. [Subjects] The subjects were 40 healthy adults (35 males and 5
+females). [Methods] The muscle activity of the rectus femoris (RF), biceps femoris,
+anterior tibialis, and medial gastrocnemius (MG) of the contralateral lower limb was
+measured using electromyography while the subjects flexed, extended, abducted, and
+adducted the shoulder joint of an upper limb. [Results] The muscle activity of the RF of
+the contralateral lower limb was significantly high when the subject flexed the shoulder
+joint of an upper limb, and the muscle activity of the MG of the contralateral lower limb
+was significantly high when the subject adducted the shoulder joint of an upper limb.
+[Conclusion] The isometric contraction that results from flexion and adduction of the
+shoulder joint of an upper limb in a supine position is considered to selectively affect
+the RF and MG activity of the contralateral lower limb.</p></abstract><kwd-group><title>Key words</title><kwd>Muscle activity</kwd><kwd>Isometric contraction</kwd><kwd>Contralateral lower extremity</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>In general, different direct therapeutic approaches have been used as exercise treatment
+methods for the neurological forms of some conditions to improve the functions of the
+affected side; however, indirect therapeutic approaches aimed at helping the affected side
+recover using the body parts on the unaffected side have also been said to be effective<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. With regard to indirect treatment,
+Hellebrandt et al.<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup> reported that maximal
+exercise of the unilateral limbs triggered muscle tone in the contralateral body part
+without exercise and that the flexion pattern of the upper limb accompanying contraction of
+the abdominal muscles indirectly activated the trunk muscles. In addition, Devine et
+al.<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup> observed that contralateral
+exercise was conducive to reducing muscular atrophy, maintaining motor coordination, and
+enhancing the muscle strength of damaged lower extremities, and therapists were able to
+improve the treatment and rehabilitation of patients with neuromuscular system diseases and
+musculoskeletal problems. In the clinical field, the application of indirect treatment is
+explained by the concept of cross education, and it is now being supported by research, as
+research results indicated that training on the unaffected side influences the functions of
+the affected side<xref rid="r4" ref-type="bibr">4</xref>, <xref rid="r5" ref-type="bibr">5</xref><sup>)</sup>. Using electromyography (EMG), Shima et al.<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup> verified that resistance training on one side triggered
+changes in muscle strength on the opposite side, and Bemben and Murphy<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup> reported that short-term unilateral side resistance training
+resulted in increased muscle strength in the untrained extremities. Therefore, indirect
+treatment using cross education has been proposed as a method to help patients with
+hemiparesis, patients who have undergone hip or knee joint replacement, and patients with
+plaster fixation of the unilateral limbs for muscular and functional recovery of the paretic
+side<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Prior studies have noted that
+muscle training with the paretic side lower limb increased the muscle strength of the
+contralateral lower limb<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>, but other studies did not
+obtain such effects<xref rid="r9" ref-type="bibr">9</xref>,<xref rid="r10" ref-type="bibr">10</xref>,<xref rid="r11" ref-type="bibr">11</xref>,<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>.</p><p>As in previous studies, it is difficult to examine precise and detailed changes in the
+muscle activity of the lower extremities using EMG, and Korean studies that look at the
+muscle activity of the contralateral lower limb through isometric contraction of an upper
+limb are lacking, and there are conflicting opinions about the effects of indirect
+treatment. Accordingly, this study was conducted to examine changes the lower-limb muscle
+activity of healthy subjects based on the movement of the upper limbs. Its aim was to
+examine the muscle activity of the contralateral lower limb according to isometric
+contraction of an upper limb in a supine position and to suggest an efficient means of upper
+limb movement with the aim of increasing the contraction of the contralateral lower limb
+muscles, thereby presenting basic data for rehabilitation treatment of early hemiplegic
+patients who have difficulty with physical postural control.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>The subjects of this study were 40 healthy adults (35 males, 5 females) in their 20s who
+were undergraduates at Y University, Chungcheongbuk-do, Republic of Korea. Their average
+age, weight, and height were 21.6&#x02005;years old, 68.6 kg, and 174.4&#x02005;cm, respectively. Prior to
+the experiment, the subjects were informed about the purpose of this study and exercise
+method, and they voluntarily consented to participate in this experiment and signed an
+agreement according to the ethical Standards of the Declaration of Helsinki. Those who had
+received muscle strengthen training in the previous six months or who had orthopedic or
+neurological damage were excluded.</p><p>The subjects lay in a supine position, spread their legs shoulder-width apart, placed their
+toes in a neutral position, and maintained an anatomical position for initiation of the
+exercise. Muscle activity was recorded while the subjects conducted isometric contraction,
+flexing the shoulder joint at 20&#x02005;cm from the ground for flexion, extension, abduction, and
+adduction of the shoulder joint. All the subjects conducted isometric flexion, extension,
+abduction, and adduction of the shoulder joint using the dominant side upper extremity, to
+ensure consistency in the experimental method, and the muscle activity of the rectus femoris
+(RF), biceps femoris (BF), anterior tibialis (AT), and medial gastrocnemius (MG) was
+recorded. The four kinds of shoulder joint exercise conditions were randomly applied to the
+subjects.</p><p>To provide the same adequate resistance for all subjects, a handheld dynamometer was used.
+Resistance was applied to the proximal part of the front, back, medial, and lateral parts of
+the arm while the subjects conducted isometric flexion, extension, abduction, and adduction
+of the shoulder joint. Visual feedback was provided to the patients and the evaluator with
+the handheld dynamometer, so constant resistance against the subjects could be continuously
+maintained for five seconds. During the measurements, the extension of the elbow joint was
+maintained, and when other compensation appeared, another measurement was taken. The
+subjects rested for one minute between exercises. They performed conducted contraction for
+five seconds and repeated it three times. The average value of the three measurements was
+used for the final analysis. The maximal isometric contraction of each upper extremity
+movement was obtained using the handheld dynamometer (Commander&#x02122;, JTECH Medical, Salt Lake
+City, UT, USA) to provide the same appropriate resistance, and resistance was provided to
+maintain 50% of the maximal contractility<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>.</p><p>Surface EMG (MP150, BIOPAC Systems Inc., Santa Barbara, CA, USA) was employed to measure
+changes in muscle activity, and surface electrodes were attached to the RF, BF, AT, and MG.
+EMG signals were sent to the MP150 system and converted into digital signals. Data were
+processed using the Acqknowledge software (version 4.01) on a personal computer. The average
+value of each subject&#x02019;s EMG signals was expressed as a percentage of the maximal voluntary
+isometric contraction.</p><p>In this study, repeated one-way analysis of variance was conducted in order to examine the
+muscle activity of the contralateral lower limb following isometric contraction of the upper
+limb, and the Bonferroni method was used as a post hoc test. The data for this study were
+statistically processed using SPSS 12.0 for Windows. The significance level was set at &#x003b1; =
+0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>According to the study results, the muscle activity of the RF of the contralateral lower
+limb was significantly high when the shoulder joint of an side upper limb was flexed
+(p&#x0003c;0.05), and the muscle activity of the MG of the contralateral lower limb was
+significantly high when the shoulder joint of an limb was adducted (p&#x0003c;0.05) (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Comparison of the opposite side lower extremity muscles according to isometric
+contraction of the unilateral side upper extremity (Unit: %)</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Flexion**</th><th align="center" rowspan="1" colspan="1">Extension</th><th align="center" rowspan="1" colspan="1">Adduction*</th><th align="center" rowspan="1" colspan="1">Abduction</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">RF</td><td align="center" rowspan="1" colspan="1">8.1&#x000b1;7.7<sup>a</sup></td><td align="center" rowspan="1" colspan="1">1.8&#x000b1;2.7</td><td align="center" rowspan="1" colspan="1">4.7&#x000b1;7.5</td><td align="center" rowspan="1" colspan="1">3.8&#x000b1;5.1</td></tr><tr><td align="left" rowspan="1" colspan="1">BF</td><td align="center" rowspan="1" colspan="1">1.1&#x000b1;0.9</td><td align="center" rowspan="1" colspan="1">3.7&#x000b1;5.5</td><td align="center" rowspan="1" colspan="1">1.7&#x000b1;2.8</td><td align="center" rowspan="1" colspan="1">2.0&#x000b1;2.9</td></tr><tr><td align="left" rowspan="1" colspan="1">AT</td><td align="center" rowspan="1" colspan="1">3.1&#x000b1;7.5</td><td align="center" rowspan="1" colspan="1">2.4&#x000b1;4.7</td><td align="center" rowspan="1" colspan="1">2.6&#x000b1;6.7</td><td align="center" rowspan="1" colspan="1">2.3&#x000b1;4.5</td></tr><tr><td align="left" rowspan="1" colspan="1">MG</td><td align="center" rowspan="1" colspan="1">3.5&#x000b1;3.2</td><td align="center" rowspan="1" colspan="1">2.9&#x000b1;2.8</td><td align="center" rowspan="1" colspan="1">5.3&#x000b1;4.9</td><td align="center" rowspan="1" colspan="1">2.6&#x000b1;1.7</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>: M&#x000b1;SD, RF: rectus femoris, BF: biceps femoris, AT: anterior tibialis,
+MG: medial gastrocnemius, *:p&#x0003c;0.05, **: p&#x0003c;0.01, *: repeated one-way ANOVA</p></table-wrap-foot></table-wrap>).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>In order to examine the effects of isometric contraction of an upper extremity on the
+muscle activity of contralateral the opposite side lower extremity in a healthy adult, this
+study measured the muscle activity of the RF, BF, AT, and MG of the contralateral site lower
+extremity in response to flexion, extension, abduction, and adduction of the shoulder joint
+of the an upper extremity.</p><p>Tarnanen et al.<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup> examined the trunk
+muscle activity of the same and opposite sides in response to isometric contraction of one
+upper extremities, and they reported that the activity of the multifidus muscle of both the
+same and opposite sides increased during the horizontal abduction of the shoulder joint. In
+a study of the activity of the spinal erector muscle when subjects supported a weight loaded
+on the upper extremities in a standing position, Crommert et al.<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup> noted that the activity of the muscle increased more when
+the subjects supported the loaded weight by horizontally extending the arms at the height of
+the knee joint than when they supported the loaded weight without horizontally extending the
+arms, and they asserted that the location of the resistance loaded on the extremities
+significantly affected the activity of the spinal extensor muscle. Park et al.<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup> asserted that isometric contraction of the
+hip joint on one side may increase the trunk muscle activity on the opposite side and that
+the isometric contraction in flexion and abduction of the hip joint on one side influenced
+the relative activity of the muscles, such as the multifidus muscle engaging in trunk
+postural control. In a study of patients with a fixed lower extremity resulting from damage
+it had suffered, Arai et al.<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup> reported
+that exercise of the contralateral lower extremity comprised of proprioceptive neuromuscular
+facilitation exercises increased the contractility of the affected side quadriceps femoris
+muscle more than ordinary exercise consisting of diverse resistance exercises. Sato and
+Maruyama<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup> advised that, among the
+techniques of proprioceptive neuromuscular facilitation (PNF) when isometric resistance
+exercises were performed by an upper extremity in the final position of the
+flexion-abduction-external rotation pattern of PNF, the extension force of the lower
+extremity on the opposite side increased. Yoo et al.<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> reported that during unilateral lower-limb PNF pattern training,
+abdominal hollowing significantly increased the muscle activity of the vastus lateralis, the
+tibialis anterior, the semitendinosus, and the gastrocnemius of contralateral lower
+extremity.</p><p>According to the results of the present study, when the subjects flexed the shoulder joint
+of an upper extremity, the muscle activity of the RF of the contralateral lower extremity
+was significantly high, and when the subjects adducted the shoulder joint of an upper
+extremity, the muscle activity of the MG of the contralateral lower extremity was
+significantly high. Regarding this result, Myers et al.<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup> explained that the human body responded as a whole when one part of
+the body moved, and the only tissue that could perform functional intervention was the
+connective tissue; they approached the interactions and the overall functions of different
+physical systems through the concept of lines, and they expressed interactions using front,
+back, lateral, arm, spinal, and oblique lines. As for the functional connectivity between
+the upper extremity and contralateral opposite side lower extremity applied in the present
+study, flexion and adduction of the shoulder joint of an upper extremity led to high muscle
+activity in the RF and the MG due to anatomical connectivity between the arm line of the
+upper extremity and the spinal line, according to the lines proposed by Myers et al<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>.</p><p>The present study has some limitations. First, it is difficult to discuss long-term
+treatment effects with the present study results because isometric contraction of the upper
+extremity was conducted for a relatively short period of time. Therefore, long-term research
+is necessary. Second, the possibility of latent signals occurring during surface EMG due to
+other nearby soft tissues cannot be excluded because of the characteristics of the
+measurement method. Third, the muscle activity was measured with subjects in a supine
+position only, and the muscle activity according to different postures and locations was ont
+considered. Thus, future research should examine how isometric contraction of an upper
+extremity according to different postures and locations influences the muscle activity of
+healthy adults in the lower extremity on the opposite side.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="book"><person-group><name><surname>Kim</surname><given-names>JM</given-names></name><name><surname>Lee</surname><given-names>CH</given-names></name></person-group>: Neurological physical therapy. Jungdam, Seoul, <year>2001</year>,
+197&#x02013;201.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Hellebrandt</surname><given-names>FA</given-names></name><name><surname>Parrish</surname><given-names>AM</given-names></name><name><surname>Houtz</surname><given-names>SJ</given-names></name></person-group>: <article-title>The influence of unilateral exercise on the contralateral
+limb</article-title>. <source>Arch Phys Med Rehabil</source>, <year>1947</year>,
+<volume>28</volume>: <fpage>76</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="pmid">20283421</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Devine</surname><given-names>KL</given-names></name><name><surname>LeVeau</surname><given-names>BF</given-names></name><name><surname>Yack</surname><given-names>HJ</given-names></name></person-group>: <article-title>Electromyographic activity recorded from an unexercised
+muscle during maximal isometric exercise of the contralateral agonists and
+antagonists</article-title>. <source>Phys Ther</source>, <year>1981</year>,
+<volume>61</volume>: <fpage>898</fpage>&#x02013;<lpage>903</lpage>. <pub-id pub-id-type="pmid">7243889</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Hortob&#x000e1;gyi</surname><given-names>T</given-names></name><name><surname>Scott</surname><given-names>K</given-names></name><name><surname>Lambert</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Cross-education of muscle strength is greater with
+stimulated than voluntary contractions</article-title>. <source>Mot Contr</source>,
+<year>1999</year>, <volume>3</volume>: <fpage>205</fpage>&#x02013;<lpage>219</lpage>.
+</mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Stromberg</surname><given-names>BV</given-names></name></person-group>: <article-title>Contralateral therapy in upper extremity
+rehabilitation</article-title>. <source>Am J Phys Med</source>, <year>1986</year>,
+<volume>65</volume>: <fpage>135</fpage>&#x02013;<lpage>143</lpage>. <pub-id pub-id-type="pmid">3717319</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Shima</surname><given-names>N</given-names></name><name><surname>Ishida</surname><given-names>K</given-names></name><name><surname>Katayama</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>Cross education of muscular strength during unilateral
+resistance training and detraining</article-title>. <source>Eur J Appl Physiol</source>,
+<year>2002</year>, <volume>86</volume>: <fpage>287</fpage>&#x02013;<lpage>294</lpage>.
+<pub-id pub-id-type="pmid">11990741</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Bemben</surname><given-names>MG</given-names></name><name><surname>Murphy</surname><given-names>RE</given-names></name></person-group>: <article-title>Age related neural adaptation following short term
+resistance training in women</article-title>. <source>J Sports Med Phys
+Fitness</source>, <year>2001</year>, <volume>41</volume>:
+<fpage>291</fpage>&#x02013;<lpage>299</lpage>. <pub-id pub-id-type="pmid">11533557</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="ths"><person-group><name><surname>Kim</surname><given-names>KH</given-names></name></person-group>: effect of proprioceptive neuromuscular facilitation applied to the
+unilateral upper extremity on the muscle activation of contralateral lower extremity.
+Eulji University, Dissertation of master&#x02019;s degree, <year>2005</year>.</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Gardner</surname><given-names>GW</given-names></name></person-group>: <article-title>Specificity of strength changes of the exercised and
+nonexercised limb following isometric training</article-title>. <source>Res Q</source>,
+<year>1963</year>, <volume>34</volume>:
+<fpage>98</fpage>&#x02013;<lpage>101</lpage>.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Garfinkel</surname><given-names>S</given-names></name><name><surname>Cafarelli</surname><given-names>E</given-names></name></person-group>: <article-title>Relative changes in maximal force, EMG, and muscle
+cross-sectional area after isometric training</article-title>. <source>Med Sci Sports
+Exerc</source>, <year>1992</year>, <volume>24</volume>:
+<fpage>1220</fpage>&#x02013;<lpage>1227</lpage>. <pub-id pub-id-type="pmid">1435173</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Housh</surname><given-names>DJ</given-names></name><name><surname>Housh</surname><given-names>TJ</given-names></name><name><surname>Johnson</surname><given-names>GO</given-names></name><etal>et al.</etal></person-group>: <article-title>Hypertrophic response to unilateral concentric isokinetic
+resistance training</article-title>. <source>J Appl Physiol 1985</source>,
+<year>1992</year>, <volume>73</volume>: <fpage>65</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="pmid">1506400</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Meyers</surname><given-names>CR</given-names></name></person-group>: <article-title>Effects of two isometric routines on strength, size, and
+endurance in exercised and nonexercised arms</article-title>. <source>Res Q</source>,
+<year>1967</year>, <volume>38</volume>: <fpage>430</fpage>&#x02013;<lpage>440</lpage>.
+<pub-id pub-id-type="pmid">5235501</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Chon</surname><given-names>SC</given-names></name><name><surname>Chang</surname><given-names>KY</given-names></name><name><surname>You</surname><given-names>JS</given-names></name></person-group>: <article-title>Effect of the abdominal draw-in manoeuvre in combination
+with ankle dorsiflexion in strengthening the transverse abdominal muscle in healthy
+young adults: a preliminary, randomised, controlled study</article-title>.
+<source>Physiotherapy</source>, <year>2010</year>, <volume>96</volume>:
+<fpage>130</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="pmid">20420959</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Tarnanen</surname><given-names>SP</given-names></name><name><surname>Ylinen</surname><given-names>JJ</given-names></name><name><surname>Siekkinen</surname><given-names>KM</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of isometric upper-extremity exercises on the
+activation of core stabilizing muscles</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2008</year>, <volume>89</volume>:
+<fpage>513</fpage>&#x02013;<lpage>521</lpage>. <pub-id pub-id-type="pmid">18295631</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Crommert</surname><given-names>ME</given-names></name><name><surname>Ekblom</surname><given-names>MM</given-names></name><name><surname>Thorstensson</surname><given-names>A</given-names></name></person-group>: <article-title>Activation of transversus abdominis varies with postural
+demand in standing</article-title>. <source>Gait Posture</source>, <year>2011</year>,
+<volume>33</volume>: <fpage>473</fpage>&#x02013;<lpage>477</lpage>. <pub-id pub-id-type="pmid">21269831</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Park</surname><given-names>HJ</given-names></name><name><surname>Sim</surname><given-names>SM</given-names></name><name><surname>Choi</surname><given-names>JD</given-names></name><etal>et al.</etal></person-group>: <article-title>The effects of isometric lower limb contraction on the
+activation of contralateral trunk muscles in healthy young adults in supine
+position</article-title>. <source>Phys Ther Kor</source>. <year>2012</year>,
+<volume>19</volume>: <fpage>11</fpage>&#x02013;<lpage>19</lpage>. </mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Arai</surname><given-names>M</given-names></name><name><surname>Shimizu</surname><given-names>H</given-names></name><name><surname>Shimizu</surname><given-names>ME</given-names></name><etal>et al.</etal></person-group>: <article-title>Effects of the use of cross-education to the affected side
+through various resistive exercises of the sound side and settings of the length of the
+affected muscles</article-title>. <source>Hiroshima J Med Sci</source>,
+<year>2001</year>, <volume>50</volume>: <fpage>65</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">11720165</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Sato</surname><given-names>H</given-names></name><name><surname>Maruyama</surname><given-names>H</given-names></name></person-group>: <article-title>The effects of indirect treatment of proprioceptive
+neuromuscular facilitation</article-title>. <source>J Phys Ther Sci</source>,
+<year>2009</year>, <volume>21</volume>: <fpage>189</fpage>&#x02013;<lpage>193</lpage>.
+</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Yoo</surname><given-names>B</given-names></name><name><surname>Park</surname><given-names>H</given-names></name><name><surname>Heo</surname><given-names>K</given-names></name><etal>et al.</etal></person-group>: <article-title>The Effects of Abdominal Hollowing in Lower-limb PNF
+Pattern Training on the Activation of Contralateral Muscles</article-title>. <source>J
+Phys Ther Sci</source>, <year>2013</year>, <volume>25</volume>:
+<fpage>1335</fpage>&#x02013;<lpage>1338</lpage>. <pub-id pub-id-type="pmid">24259788</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="book"><person-group><name><surname>Myers</surname><given-names>TW</given-names></name><name><surname>Juhan</surname><given-names>D</given-names></name><name><surname>Chaitow</surname><given-names>L</given-names></name></person-group>: Anatomy train: Myofascial meridians for manual and movement therapists,
+1st ed. UK: Churchilll Livingstone, Elservier Science Limited,
+<year>2001</year>.</mixed-citation></ref></ref-list></back></article>

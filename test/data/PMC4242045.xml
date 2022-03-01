@@ -1,0 +1,495 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Org Chem</journal-id><journal-id journal-id-type="iso-abbrev">J. Org. Chem</journal-id><journal-id journal-id-type="publisher-id">jo</journal-id><journal-id journal-id-type="coden">joceah</journal-id><journal-title-group><journal-title>The Journal of Organic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">0022-3263</issn><issn pub-type="epub">1520-6904</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1021/jo502260x</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Suzuki&#x02013;Miyaura Cross-Coupling of Brominated
+2,1-Borazaronaphthalenes with Potassium Alkenyltrifluoroborates</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Molander</surname><given-names>Gary A.</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Wisniewski</surname><given-names>Steven R.</given-names></name></contrib><contrib contrib-type="author" id="ath3"><name><surname>Etemadi-Davan</surname><given-names>Elham</given-names></name></contrib><aff id="aff1">Roy and Diana Vagelos Laboratories,
+Department of Chemistry, <institution>University of Pennsylvania</institution>, 231 South 34th Street, Philadelphia, Pennsylvania 19104-6323, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>gmolandr@sas.upenn.edu</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>30</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>30</day><month>10</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>21</day><month>11</month><year>2014</year></pub-date><volume>79</volume><issue>22</issue><fpage>11199</fpage><lpage>11204</lpage><history><date date-type="received"><day>02</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0011" id="ab-tgr1"/></p><p>Conditions
+have been developed for the palladium-catalyzed cross-coupling
+of 3-bromo-2,1-borazaronaphthalenes with potassium alkenyltrifluoroborates.
+Twenty-seven alkenyl-substituted azaborines have been synthesized through
+this method, providing access to a family of 2,1-borazaronaphthalenes
+with alkenyl substitution at the C3 position.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jo502260x</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jo-2014-02260x</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>2,1-Borazaronaphthalenes serve as versatile
+isosteres of all-carbon
+naphthalene substructures, which allows facile emplacement of a variety
+of substituents about the ring in an efficient and selective manner.
+Because of electronic desymmetrization brought about by the incorporation
+of a B&#x02014;N bond in these aromatic systems, borazines have proven
+to be far more easily elaborated than naphthalenes themselves. Previous
+studies have focused on decorating these ring systems by utilizing
+arylation reactions. Alkenylation reactions are herein examined as
+a means to elaborate brominated 2,1-borazaronaphthalenes.</p><p>2-Alkenylnaphthalenes
+can be synthesized through a variety of transition-metal-catalyzed
+transformations, including Heck,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Mizoroki&#x02013;Heck,<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Hiyama,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> and Suzuki&#x02013;Miyaura<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> reactions. However, installation of an alkenyl
+substituent on a functionalized naphthalene is more challenging and
+often requires four or five steps.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> One
+method to afford alkenyl-substituted naphthalenes is to perform free-radical
+bromination of a methyl-substituted derivative followed by a Wittig
+olefination.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Aside from the generation
+of a stoichiometric amount of difficult-to-remove phosphine oxide
+waste, additional substitution on the naphthalene can affect regiochemical
+control of free-radical bromination. Similarly, titanium-mediated
+carbonylation with dichloromethyl methyl ether followed by Wittig
+olefination afforded 2-alkyl-3-alkenylnaphthalene in moderate yield
+over two steps.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> In addition to the drawbacks
+described above, the use of a strong Lewis acid limits functional
+group tolerability in this approach. Further, there is only one example
+demonstrating the installation of an alkenyl substituent on a 2-arylnapthalene through the cross-coupling of naphthyl iodide and alkenylboronic acid,
+which provides 2-aryl-3-alkenylnaphthalene in good yield.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The naphthyl iodide in this case was synthesized
+through gold-catalyzed cyclization/iodination, which required preparation
+of the requisite starting material (1-arylalka-2,3-dienyl acetate).
+Additionally, to the best of our knowledge, installation of an alkenyl
+substituent at the C3 position of a 1,2-disubstituted naphthalene
+has not been reported.</p><p>Accessing 2,1-borazaronaphthalenes, a
+class of azaborines<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> that are BN-isosteres
+of naphthalene, with alkenyl
+substituents at the C3 position under mild reaction conditions would
+therefore serve as an example of how functionalized azaborines could
+be prepared more efficiently than their corresponding all-carbon analogues.
+Recently, we reported the bromination of 2,1-borazaronaphthalenes
+in high yield under mild reaction conditions with complete regiochemical
+control.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Because of the inherent reactivity
+of azaborine, bromination occurs selectively at the C3 position of
+the azaborine in the presence of alkyl/aryl substituents on boron
+and nitrogen. We therefore envisioned these brominated azaborines
+as prefunctionalized electrophilic components in Suzuki&#x02013;Miyaura
+cross-coupling reactions<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> with potassium
+alkenyltrifluoroborates<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> as a route to
+C3-alkenyl-substituted 2,1-borazaronaphthalenes, a compound class
+that has not been previously reported.</p></sec><sec id="sec2"><title>Results and Discussion</title><p>Optimization of the reaction of 3-bromo-2-methyl-2,1-borazaronaphthalene <bold>1</bold> with functionalized alkenyltrifluoroborate <bold>2</bold> was carried out by screening palladium sources, solvents, and bases.
+Side products represent the sum of homocoupling of the azaborine,
+protodebromination of the azaborine, and unidentifiable side products.
+Conditions for the cross-coupling of potassium aryltrifluoroborates with
+brominated 2,1-borazaronaphthalenes did not afford the desired product
+in appreciable yield (Table <xref rid="tbl1" ref-type="other">1</xref>, entry 1). Therefore, several other ligands were
+screened in this reaction (entries 2&#x02013;4 and 7). Of the ligands
+tested, triphenylphosphine (PPh<sub>3</sub>) and 1,1&#x02032;-bis(diphenylphosphino)ferrocene
+(dppf) provided the highest conversions to products. Several solvents/ratios
+were tested for these ligands, and the best result was obtained using
+toluene as the cosolvent and Pd(dppf)Cl<sub>2</sub> as the palladium
+source (entry 7). Attempts to lower palladium loading resulted in
+incomplete conversion of the starting material.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Optimization of Cross-Coupling with
+Potassium Alkenyltrifluoroborates</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0004" id="fx1" position="float"/><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">entry</th><th style="border:none;" align="center">palladium source (loading)</th><th style="border:none;" align="center">base</th><th style="border:none;" align="center">solvent</th><th style="border:none;" align="center">P:SP<xref rid="t1fn1" ref-type="table-fn">a</xref></th></tr></thead><tbody><tr><td style="border:none;" align="left">1</td><td style="border:none;" align="left">XPhos-Pd-G2 (4&#x000a0;mol&#x000a0;%)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 CPME/H<sub>2</sub>O</td><td style="border:none;" align="left">trace product</td></tr><tr><td style="border:none;" align="left">2</td><td style="border:none;" align="left">SPhos-Pd-G2 (4 mol %)</td><td style="border:none;" align="left">K<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 CPME/H<sub>2</sub>O</td><td style="border:none;" align="left">trace product</td></tr><tr><td style="border:none;" align="left">3</td><td style="border:none;" align="left">Pd<sub>2</sub>dba<sub>3</sub>/cataCXium A (4 mol %)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 CPME/H<sub>2</sub>O</td><td style="border:none;" align="left">0.50:1.0</td></tr><tr><td style="border:none;" align="left">4</td><td style="border:none;" align="left">(Ph<sub>3</sub>P)<sub>2</sub>PdCl<sub>2</sub> (6 mol %)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 CPME/H<sub>2</sub>O</td><td style="border:none;" align="left">2.57:1.0</td></tr><tr><td style="border:none;" align="left">5</td><td style="border:none;" align="left">(Ph<sub>3</sub>P)<sub>2</sub>PdCl<sub>2</sub> (6 mol %)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 toluene/H2O</td><td style="border:none;" align="left">2.00:1.0</td></tr><tr><td style="border:none;" align="left">6</td><td style="border:none;" align="left">(Ph<sub>3</sub>P)<sub>2</sub>PdCl<sub>2</sub> (6 mol %)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">9:1 toluene/H<sub>2</sub>O</td><td style="border:none;" align="left">2.50:1.0</td></tr><tr><td style="border:none;" align="left"><bold>7</bold></td><td style="border:none;" align="left"><bold>Pd(dppf)Cl</bold><sub><bold>2</bold></sub><bold>(6 mol %)</bold></td><td style="border:none;" align="left"><bold>Cs</bold><sub><bold>2</bold></sub><bold>CO</bold><sub><bold>3</bold></sub></td><td style="border:none;" align="left"><bold>1:1 toluene/H<sub>2</sub>O</bold></td><td style="border:none;" align="left"><bold>3.10:1.0</bold></td></tr><tr><td style="border:none;" align="left">8</td><td style="border:none;" align="left">Pd(dppf)Cl<sub>2</sub> (6 mol %)</td><td style="border:none;" align="left">Cs<sub>2</sub>CO<sub>3</sub></td><td style="border:none;" align="left">1:1 CPME/H<sub>2</sub>O</td><td style="border:none;" align="left">1.85:1.0</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Product:side products.</p></fn></table-wrap-foot></table-wrap><p>A representative set of potassium
+alkenyltrifluoroborates were
+subjected to the developed reaction conditions with 3-bromo-2-methyl-2,1-borazaronaphthalene
+as the electrophilic partner (Table <xref rid="tbl2" ref-type="other">2</xref>). Cyclic
+alkenyltrifluoroborates were successful nucleophiles in the reaction
+by providing the desired product in yields up to 90% (entries 5, 6,
+8, and 10). Alkenyltrifluoroborates with alkyl substituents afforded
+the desired product in high yields (entries 2, 3, and 9). Vinyltrifluoroborate
+was a suitable nucleophile for the reaction because the azaborine
+was obtained in 70% yield (entry 7). Most importantly, <italic>cis</italic>-1-propenyltrifluoroborate was successfully employed in the reaction,
+affording the product in high yield without isomerization of the alkene
+(entry 3). The scalable nature of the cross-coupling reaction was
+demonstrated by performing the coupling on a 4.5 mmol scale (1 g of
+azaborine) with one-third palladium loading (2 mol %), which provided
+the desired product in similar yield (entry 8).</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Scope of the Cross-Coupling with Potassium
+Alkenyltrifluoroborates<xref rid="t2fn1" ref-type="table-fn">c</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0005" id="fx2" position="float"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0006" id="fx3" position="float"/><table-wrap-foot><fn id="t2fn2"><label>a</label><p>Alkenyltrifluoroborate ratio of
+94:6 cis/trans employed in this reaction.</p></fn><fn id="t2fn3"><label>b</label><p>Reaction completed on a 4.5 mmol
+scale with 2.0 mol % Pd(dppf)Cl<sub>2</sub>.</p></fn><fn id="t2fn1"><label>c</label><p>Reaction conditions (unless otherwise
+noted): 1.0 equiv of 3-bromo-2-methyl-2,1-borazaronaphthalene, 1.1
+equiv of potassium alkenyltrifluoroborate, 6.0 mol % Pd(dppf)Cl<sub>2</sub>, 3.0 equiv of base, 1:1 toluene/H<sub>2</sub>O, and 60 &#x000b0;C
+for 18 h.</p></fn></table-wrap-foot></table-wrap><p>The developed
+reaction conditions were extended to cross-coupling
+of 3-bromo-2-phenyl-2,1-borazaronaphthalene with an array of potassium
+alkenyltrifluoroborates to demonstrate that azaborine can also be
+substituted with an aryl group on the boron. Six different alkenyltrifluoroborates
+were employed in the coupling and provided the desired product in
+yields up to 90%. The mild reaction conditions of the coupling were
+demonstrated in the successful coupling of an alkenyltrifluoroborate
+with an alkyl chloride substituent, affording the desired product
+in 90% yield (Table <xref rid="tbl3" ref-type="other">3</xref>, entry 2). Cyclic alkenyltrifluoroborates were successfully
+engaged in the reaction as the desired products were obtained in high
+yields (entries 3, 4, and 6).</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Scope of the Cross-Coupling
+of Brominated <italic>B</italic>-Phenyl 2,1-Borazaronaphthalenes<xref rid="t3fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0007" id="fx4" position="float"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0008" id="fx5" position="float"/><table-wrap-foot><fn id="t3fn1"><label>a</label><p>Reaction
+conditions (unless otherwise
+noted): 1.0 equiv of 3-bromo-2-phenyl-2,1-borazaronaphthalene, 1.1
+equiv of potassium alkenyltrifluoroborate, 6.0 mol % Pd(dppf)Cl<sub>2</sub>, 3.0 equiv of base, 1:1 toluene/H<sub>2</sub>O, and 60 &#x000b0;C
+for 18 h.</p></fn></table-wrap-foot></table-wrap><p>To demonstrate
+the versatility of this method, an array of brominated
+2,1-borazaronaphthalenes were synthesized and subjected to the developed
+reaction conditions with 1-decenyltrifluoroborate as the nucleophile
+in the reaction. The cross-coupled products were obtained with secondary
+cyclic and acyclic groups on boron in yields up to 90% (Table <xref rid="tbl4" ref-type="other">4</xref>, entries 1
+and 2). Azaborines with various substitution patterns on the arene
+of boron were suitable electrophiles for coupling as the cross-coupled
+products were isolated in high yield (entries 3&#x02013;5). Substitution
+on the nitrogen of the 2,1-borazaronaphthalenes did not affect the
+coupling as reactions with both <italic>N</italic>-allyl and <italic>N</italic>-benzyl substituents provided the desired product in high
+yields (entries 6 and 7).</p><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Scope of the Cross-Coupling
+with Various
+Brominated 2,1-Borazaronaphthalenes<xref rid="t4fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0009" id="fx6" position="float"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0010" id="fx7" position="float"/><table-wrap-foot><fn id="t4fn1"><label>a</label><p>Reaction conditions
+(unless otherwise
+noted): 1.0 equiv of 3-bromo-2,1-borazaronaphthalene, 1.1 equiv of
+potassium alkenyltrifluoroborate, 6.0 mol % Pd(dppf)Cl<sub>2</sub>, 3.0 equiv of base, 1:1 toluene/H<sub>2</sub>O, and 60 &#x000b0;C for
+18 h.</p></fn></table-wrap-foot></table-wrap><p>To demonstrate that
+the developed reaction conditions can be directly
+applied to the functionalization of other azaborines, 6-bromo-2-methyl-3-phenyl-2,1-borazaronaphthalene
+was subjected to the reaction (eq <xref rid="eq1" ref-type="disp-formula">1</xref>). The desired
+product was obtained in 83% yield to afford C6-alkenyl-substituted
+2,1-borazaronaphthalenes, examples of which are absent in the literature.<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0002" id="GRAPHIC-d1527e520-autogenerated" position="float"/><label>1</label></disp-formula></p><p>The reaction conditions were then extended to cross-coupling
+of
+3,6-dibrominated 2,1-borazaronaphthalene. The addition of 2.2 equiv
+of 1-propenyltrifluoroborate provides a doubly cross-coupled product
+in 76% yield (eq <xref rid="eq2" ref-type="disp-formula">2</xref>).<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo-2014-02260x_0003" id="GRAPHIC-d1527e529-autogenerated" position="float"/><label>2</label></disp-formula></p><p>In conclusion, a general method for Suzuki&#x02013;Miyaura
+cross-coupling
+of brominated 2,1-borazaronaphthalenes with potassium alkenyltrifluoroborates
+has been developed. Azaborines with alkyl and aryl groups on boron
+and with or without substitution on nitrogen are suitable reagents
+for the coupling. Through this route, functionalized 2,1-borazaronaphthalenes
+with alkenyl substituents can be easily accessed for the first time.</p></sec><sec id="sec3"><title>Experimental Section</title><sec id="sec3.1"><title>General Considerations</title><p>Toluene was dried over activated
+alumina. Standard benchtop techniques were employed for handling air-sensitive
+reagents. Melting points (&#x000b0;C) are uncorrected. NMR spectra were
+recorded on a 400 or 500 MHz spectrometer. <sup>11</sup>B NMR spectra
+were obtained on a spectrometer equipped with the appropriate decoupling
+accessories. All <sup>11</sup>B NMR chemical shifts were referenced
+to external BF<sub>3</sub>&#x000b7;OEt<sub>2</sub> (0.0 ppm) with a negative
+sign indicating an upfield shift. Data are presented as follows: chemical
+shift (ppm), multiplicity (s = singlet, d = doublet, t = triplet,
+q = quadruplet, m = multiplet, br = broad), coupling constant <italic>J</italic> (Hz), and integration. Analytical thin-layer chromatography
+(TLC) was performed on TLC silica gel plates (0.25 mm) precoated with
+a fluorescent indicator. Visualization of the TLC plates was effected
+with ultraviolet light. Standard flash chromatography procedures were
+followed using 100&#x02013;200 mesh silica gel. HRMS data were obtained
+by either ESI or CI using a TOF mass spectrometer.</p></sec><sec id="sec3.2"><title>Spectral Information
+of 2,1-Borazaronaphthalenes</title><p>2,1-Borazaronaphthalenes
+were synthesized<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> and brominated<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> according to methods previously described in
+the literature.</p></sec><sec id="sec3.3"><title>3-Bromo-2-(4-trifluoromethylphenyl)-2,1-borazaronaphthalene</title><p>The title compound was obtained as a white solid in 90% yield (1.0
+mmol scale, 316.7 mg): mp 98&#x02013;103 &#x000b0;C; <sup>1</sup>H NMR
+(500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.49 (s, 1H), 8.07 (s, 1H), 7.98
+(d, <italic>J</italic> = 7.8 Hz, 2H), 7.72 (d, <italic>J</italic> =
+7.8 Hz, 2H), 7.64 (d, <italic>J</italic> = 7.9 Hz, 1H), 7.51&#x02013;7.49
+(m, 1H), 7.34 (d, <italic>J</italic> = 8.1 Hz, 1H), 7.30&#x02013;7.27
+(m, 1H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+147.3, 139.0, 133.6, 131.2 (d, <italic>J</italic> = 32.5 Hz), 129.7,
+129.2, 126.5 (q, <italic>J</italic> = 275.8 Hz), 125.3, 124.6 (q, <italic>J</italic> = 3.6 Hz), 122.5, 118.4; <sup>11</sup>B NMR (128.38 MHz,
+CDCl<sub>3</sub>) &#x003b4; 32.9; IR (neat) 3367, 2923, 1556, 1427,
+1120, 1070 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M + H]<sup>+</sup> calcd for C<sub>15</sub>H<sub>11</sub>BNF<sub>3</sub>Br 352.9825,
+found 352.9802.</p></sec><sec id="sec3.4"><title>General Procedure for the Palladium-Catalyzed
+Cross-Coupling
+Reaction of Potassium Alkenyltrifluoroborates with Brominated 2,1-Borazaronaphthalenes</title><p>To a Biotage 10 mL microwave vial equipped with a magnetic stir
+bar were added 3-bromo-2,1-alkenyltrifluoroborate (1.1 mmol, 1.1 equiv),
+Cs<sub>2</sub>CO<sub>3</sub> (3.0 mmol, 977 mg), Pd(dppf)Cl<sub>2</sub> (6.0 mol %, 42 mg), and potassium alkenyltrifluoroborate (1.0 mmol,
+1.0 equiv). The vial was sealed with a cap, lined with a Teflon septum,
+and evacuated and purged with argon gas three times. Anhydrous degassed
+toluene (1.0 mL) and deionized H<sub>2</sub>O (1.0 mL) were added
+under argon gas. The reaction mixture was heated at 60 &#x000b0;C for
+18 h. After cooling to rt, the reaction mixture was extracted with
+EtOAc (3 &#x000d7; 10 mL) and dried (MgSO<sub>4</sub>). After being concentrated
+in vacuo, the product was isolated by flash column chromatography
+and eluted with a gradient of EtOAc in hexanes (0 to 10% EtOAc).</p></sec><sec id="sec3.5"><title><italic>N</italic>-(3-(2-Methyl-2,1-borazaronaphth-2-yl)allyl)morpholine
+(<bold>3a</bold>)</title><p>The title compound was obtained as a yellow
+solid in 88% yield (235.8 mg): mp 89&#x02013;93 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.79 (s, 1H), 7.72 (s,
+1H), 7.58 (d, <italic>J</italic> = 7.5 Hz, 1H), 7.34&#x02013;7.37 (m,
+1H), 7.18 (d, <italic>J</italic> = 8.1 Hz, 1H), 7.15&#x02013;7.12 (m,
+1H), 5.24&#x02013;5.23 (m, 1H), 5.12 (d, <italic>J</italic> = 2.5 Hz,
+1H), 3.67 (t, <italic>J</italic> = 4.6 Hz, 4H), 3.31 (s, 2H), 2.48
+(br, 4H), 0.79 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 149.0, 140.1, 129.6, 128.1, 125.0, 121.0, 117.4, 114.2,
+67.3, 64.8, 53.9; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 36.7; IR (neat) 3319, 2928, 1566, 1434, 1109, 891 cm<sup>&#x02013;1</sup>; HRMS (ESI+) <italic>m</italic>/<italic>z</italic> [M + H]<sup>+</sup> calcd for C<sub>16</sub>H<sub>22</sub>BN<sub>2</sub>O 269.1825, found 269.1820.</p></sec><sec id="sec3.6"><title>2-Methyl-3-((<italic>E</italic>)-1-propen-1-yl)-2,1-borazaronaphthalene
+(<bold>3b</bold>)</title><p>The title compound was obtained as a yellow
+solid in 98% yield (179.3 mg): mp 69&#x02013;75 &#x000b0;C;<sup>&#x000a0;1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.76 (s, 1H), 7.65 (s,
+1H), 7.56 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.36&#x02013;7.29 (m,
+1H), 7.16 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.13&#x02013;7.10 (m,
+1H), 6.59 (d, <italic>J</italic> = 15.6 Hz, 1H), 6.19&#x02013;6.12
+(m, 1H), 1.91 (dd, <italic>J</italic> = 6.6, 1.5 Hz, 3H), 0.85 (s,
+3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 139.5,
+138.7, 134.8, 129.3, 127.6, 126.5, 125.6, 121.0, 117.4, 19.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 37.2; IR (neat)
+3364, 2924, 1614, 1457, 1343 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>12</sub>H<sub>14</sub>BN 183.1219, found 183.1216.</p></sec><sec id="sec3.7"><title>2-Methyl-3-((<italic>Z</italic>)-1-propen-1-yl)-2,1-borazaronaphthalene
+(<bold>3c</bold>)</title><p>The title compound was obtained as a brown
+solid in 87% yield (159.2 mg): mp 98&#x02013;103 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.42 (s, 1H), 7.68 (s,
+1H), 7.59 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.37&#x02013;7.34 (m,
+1H), 7.19 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.18&#x02013;7.13 (m,
+1H), 6.57&#x02013;6.54 (m, 1H), 5.72&#x02013;5.79 (m, 1H), 1.85 (dd, <italic>J</italic> = 7.0, 1.8 Hz, 3H), 0.74 (s, 3H); <sup>13</sup>C NMR (125.8
+MHz, CDCl<sub>3</sub>) &#x003b4; 140.8, 139.6, 132.1, 129.4, 127.8,
+125.3, 125.0, 121.0, 117.6, 14.8; <sup>11</sup>B NMR (128.38 MHz,
+CDCl<sub>3</sub>) &#x003b4; 37.3; IR (neat) 3364, 2925, 1611, 1560,
+1454 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>12</sub>H<sub>14</sub>BN 183.1219, found 183.1213.</p></sec><sec id="sec3.8"><title>3-(Isopropen-1-yl)-2-methyl-2,1-borazaronaphthalene
+(<bold>3d</bold>)</title><p>The title compound was obtained as a yellow
+oil in 69%
+yield (126.2 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4;
+7.80 (s, 1H), 7.68 (s, 1H), 7.62 (d, <italic>J</italic> = 7.7 Hz,
+1H), 7.39&#x02013;7.36 (m, 1H), 7.19&#x02013;7.15 (m, 2H), 5.21&#x02013;5.11
+(m, 1H), 5.07 (d, <italic>J</italic> = 1.9 Hz, 1H), 2.16 (s, 3H),
+0.87 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+148.4, 139.6, 139.2, 129.6, 128.0, 125.1, 121.0, 117.4, 113.0, 23.9; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 36.9; IR (neat)
+3368, 2933, 1567, 1462, 1453 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>12</sub>H<sub>14</sub>BN 183.1219, found 183.1220.</p></sec><sec id="sec3.9"><title>4-(2-Methyl-2,1-borazaronaphthyl)-3,6-dihydro-2<italic>H</italic>-pyran (<bold>3e</bold>)</title><p>The title compound was
+obtained
+as a yellow oil in 82% yield (184.5 mg). <sup>1</sup>H NMR (500 MHz,
+CDCl<sub>3</sub>) &#x003b4; 7.75 (s, 1H), 7.73 (s, 1H), 7.59 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.34&#x02013;7.38 (m, 1H), 7.18 (d, <italic>J</italic> = 8.1 Hz, 1H), 7.16&#x02013;7.13 (m, 1H), 5.83&#x02013;5.82
+(m, 1H), 4.36&#x02013;4.35 (m, 2H), 3.97 (t, <italic>J</italic> = 5.4
+Hz, 2H), 2.52&#x02013;2.49 (m, 2H), 0.84 (s, 3H); <sup>13</sup>C NMR
+(125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 138.6, 137.6, 137.5, 128.5,
+127.0, 124.1, 121.9, 120.1, 116.4, 65.2, 63.9, 28.1; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 36.7; IR (neat) 3325,
+2923, 1572, 1458, 1032 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>14</sub>H<sub>16</sub>BNO 225.1325, found 225.1336.</p></sec><sec id="sec3.10"><title>8-[3-(2-Methyl-2,1-borazaronaphthyl)]-1,4-dioxaspiro[4.5]dec-7-ene
+(<bold>3f</bold>)</title><p>The title compound was obtained as a white
+solid in 81% yield (227.6 mg): mp 83&#x02013;88 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.73 (s, 1H), 7.69 (s,
+1H), 7.54&#x02013;7.56 (m, 1H), 7.32&#x02013;7.35 (m, 1H), 7.16 (d, <italic>J</italic> = 8 Hz, 1H), 7.13&#x02013;7.10 (m, 1H), 5.66&#x02013;5.65
+(m, 1H), 4.05&#x02013;4.02 (m, 4H), 2.63&#x02013;2.59 (m, 2H), 2.50&#x02013;2.49
+(m, 2H), 1.93 (t, <italic>J</italic> = 6.5 Hz, 2H), 0.81 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 140.9, 139.5,
+138.7, 129.4, 127.8, 125.2, 121.1, 120.9, 117.3, 108.3, 64.7, 36.5,
+31.8, 28.7; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4;
+37.0; IR (neat) 3308, 2927, 1609, 1460, 1047 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>17</sub>H<sub>20</sub>BNO<sub>2</sub> 281.1587,
+found 281.1593.</p></sec><sec id="sec3.11"><title>2-Methyl-3-vinyl-2,1-borazaronaphthalene
+(<bold>3g</bold>)</title><p>The title compound was obtained as a light
+yellow solid in 70%
+yield (118.3 mg): mp 52&#x02013;56 &#x000b0;C; <sup>1</sup>H NMR (500
+MHz, CDCl<sub>3</sub>) &#x003b4; 7.70 (s, 1H), 7.64 (s, 1H), 7.55 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.33&#x02013;7.30 (m, 1H), 7.15 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.10&#x02013;7.08 (m, 1H), 6.73&#x02013;6.66
+(m, 1H), 5.87&#x02013;5.85 (m, 1H), 5.74&#x02013;5.71, (m, 1H), 0.70
+(s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+140.7, 140.3, 139.9, 129.6, 128.2, 125.3, 121.2, 117.5, 114.8; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 37.2; IR (neat)
+3365, 2927, 1610, 1457 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>11</sub>H<sub>12</sub>BN 169.1063, found 169.1063.</p></sec><sec id="sec3.12"><title>3-(4,4-Difluoro-1-cyclohexen-1-yl)-2-methyl-2,1-borazaronaphthalene
+(<bold>3h</bold>)</title><p>The title compound was obtained as a white
+solid in 90% yield (233.1 mg): mp 72&#x02013;76 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.73 (s, 1H), 7.69 (s,
+1H), 7.60 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.41&#x02013;7.37 (m,
+1H), 7.20&#x02013;7.15 (m, 2H), 5.59&#x02013;5.56 (m, 1H), 2.78&#x02013;2.72
+(m, 2H), 2.67&#x02013;2.64 (m, 2H), 2.25&#x02013;2.17 (m, 2H), 0.82
+(s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+140.8, 139.5, 139.1, 129.4, 128.0, 124.9, 123.3 (t, <italic>J</italic> = 239.6 Hz), 121.0, 118.2 (t, <italic>J</italic> = 4.9 Hz), 117.3,
+35.3 (t, <italic>J</italic> = 26.4 Hz), 31.0 (t, <italic>J</italic> = 24.4 Hz), 27.8 (t, <italic>J</italic> = 5.2 Hz); <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 36.2; IR (neat) 3397,
+2936, 1613, 1560, 1425, 1058, cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>15</sub>H<sub>16</sub>BNF<sub>2</sub> 259.1344, found 259.1327.</p></sec><sec id="sec3.13"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-methyl-2,1-borazaronaphthalene
+(<bold>3i</bold>)</title><p>The title compound was obtained as a yellow
+solid in 75% yield (210.7 mg): mp 58&#x02013;62 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.79 (s, 1H), 7.65 (s,
+1H), 7.57 (d, <italic>J</italic> = 7.75 Hz, 1H), 7.34&#x02013;7.31
+(m, 1H), 7.16&#x02013;7.11 (m, 2H), 6.58 (d, <italic>J</italic> = 15.5
+Hz, 1H), 6.18&#x02013;6.12 (m, 1H), 2.26&#x02013;2.22 (m, 2H), 1.53&#x02013;1.47
+(m, 2H), 1.40&#x02013;1.28 (m, 10H), 0.92 (t, <italic>J</italic> =
+6.9 Hz, 3H), 0.86 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 139.5, 138.8, 133.4, 132.2, 129.3, 127.6, 125.6,
+121.0, 117.4, 34.0, 32.2, 30.0, 29.9, 29.7, 29.6, 23.0, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 37.1; IR (neat)
+3366, 2921, 1556, 1463, 977 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>19</sub>H<sub>28</sub>BN 281.2315, found 281.2328.</p></sec><sec id="sec3.14"><title><italic>tert</italic>-Butyl-4-[3-(2-methyl-2,1-borazaronaphthyl)]-3,6-dihydropyridine-1-(2<italic>H</italic>)-carboxylate (<bold>3j</bold>)</title><p>The title compound
+was obtained as a white solid in 65% yield (210.6 mg): mp 83&#x02013;87
+&#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.75
+(s, 1H), 7.69 (s, 1H), 7.57 (d, <italic>J</italic> = 7.7 Hz, 1H),
+7.36&#x02013;7.33 (m, 1H), 7.17 (d, <italic>J</italic> = 8.0 Hz, 1H),
+7.14&#x02013;7.11 (m, 1H), 5.71 (br, 1H), 4.07 (br, 2H), 3.64 (t, <italic>J</italic> = 5.5 Hz, 2H), 4.47 (br, 2H), 1.52 (s, 9H), 0.80 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 155.3, 139.9,
+139.6, 138.7, 129.5, 128.0, 125.1, 121.1, 120.7, 117.4, 79.7, 44.3,
+40.1, 34.9, 29.4, 28.8; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 32.0; IR (neat) 3327, 2975, 1677, 1563, 1423, 1163 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M
++ H]<sup>+</sup> calcd for C<sub>19</sub>H<sub>26</sub>BN<sub>2</sub>O<sub>2</sub> 325.2087, found 325.2080.</p></sec><sec id="sec3.15"><title>2-Methyl-3-[(<italic>Z</italic>)-4-phenyl-1-buten-1-yl]-2,1-borazaronaphthalene
+(<bold>3k</bold>)</title><p>The title compound was obtained as a yellow
+solid in 83% yield (226.5 mg): mp 74&#x02013;77 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.66 (s, 1H), 7.59 (s,
+1H), 7.55 (d, <italic>J</italic> = 7.7 Hz, 1H), 7.38&#x02013;7.36 (m,
+1H), 7.35&#x02013;7.31 (m, 2H), 7.22&#x02013;7.13 (m, 5H), 6.58 (dd, <italic>J</italic> = 11.5, 1.4 Hz, 1H), 5.69 (dt, <italic>J</italic> = 11.5,
+7.2 Hz, 1H), 2.79 (t, <italic>J</italic> = 7.7 Hz, 2H), 2.70&#x02013;2.45
+(m, 2H), 0.73 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 142.3, 140.6, 139.7, 132.1, 129.9, 129.5, 128.9, 128.6,
+127.9, 126.1, 125.3, 121.0, 117.5, 36.7, 30.6; <sup>11</sup>B NMR
+(128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 37.4; IR (neat) 3373, 2925,
+1556, 1452, 746, 703 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>19</sub>H<sub>20</sub>BN 273.1689, found 273.1683.</p></sec><sec id="sec3.16"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-phenyl-2,1-borazaronaphthalene
+(<bold>4a</bold>)</title><p>The title compound was obtained as a white
+oil in 73% yield (250.3 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.05 (s, 1H), 7.91 (s, 1H), 7.77&#x02013;7.75 (m,
+2H), 7.69 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.51&#x02013;7.47 (m,
+3H), 7.42&#x02013;7.39 (s, 1H), 7.26 (d, <italic>J</italic> = 8.0 Hz,
+1H), 7.22 (t, <italic>J</italic> = 7.5 Hz, 1H), 6.70 (d, <italic>J</italic> = 15.5 Hz, 1H), 6.07 (dt, <italic>J</italic> = 15.4, 7.0 Hz, 1H),
+2.21 (q, <italic>J</italic> = 7.0 Hz, 2H), 1.50&#x02013;1.45 (m, 2H),
+1.40&#x02013;1.35 (m, 10H), 0.96 (t, <italic>J</italic> = 7.0 Hz, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 139.8, 139.6,
+133.2, 132.7, 132.3, 129.5, 128.8, 128.2, 128.0, 125.9, 121.0, 118.0,
+33.7, 32.2, 29.9, 29.8, 29.7, 29.6, 23.0, 14.4; <sup>11</sup>B NMR
+(128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 34.4; IR (neat) 3370, 2923,
+2852, 1421, 749 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M + Na]<sup>+</sup> calcd for C<sub>24</sub>H<sub>30</sub>BNNa 366.2369, found 366.2375.</p></sec><sec id="sec3.17"><title>3-(6-Chloro-1-hexen-1-yl)-2-phenyl-2,1-borazaronaphthalene
+(<bold>4b</bold>)</title><p>The title compound was obtained as a brown
+oil
+in 90% yield (288.9 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.03 (s, 1H), 7.92 (s, 1H), 7.72 (dd, <italic>J</italic> = 7.25, 1.5 Hz, 2H), 7.68 (d, <italic>J</italic> = 7.5 Hz, 1H),
+7.50&#x02013;7.46 (m, 3H), 7.42&#x02013;7.39 (m, 1H), 7.26 (d, <italic>J</italic> = 8 Hz, 1H), 7.23&#x02013;7.20 (m, 1H), 6.68 (d, <italic>J</italic> = 15.5 Hz, 1H), 6.00 (dt, <italic>J</italic> = 15.4, 7.0
+Hz, 1H), 3.57 (t, <italic>J</italic> = 6.5 Hz, 2H), 2.23&#x02013;2.19
+(m, 2H), 1.86&#x02013;1.83 (m, 2H), 1.62&#x02013;1.58 (m, 2H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 140.1, 139.6,
+133.4, 133.1, 131.1, 129.5, 128.8, 128.2, 128.1, 125.7, 121.7, 118.0,
+45.3, 32.7, 32.3, 27.0; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 35.0; IR (neat) 3373, 2933, 1558, 1421, 969, 752 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>20</sub>H<sub>21</sub>BNCl 321.1456, found
+321.1463.</p></sec><sec id="sec3.18"><title>3-(1-Cyclohexen-1-yl)-2-phenyl-2,1-borazaronaphthalene
+(<bold>4c</bold>)</title><p>The title compound was obtained as a yellow
+solid
+in 79% yield (225.1 mg): mp 88&#x02013;92 &#x000b0;C; <sup>1</sup>H NMR
+(500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.95 (s, 1H), 7.85 (s, 1H), 7.79&#x02013;7.7.78
+(m, 2H), 7.66 (d, <italic>J</italic> = 7.5 Hz, 1H), 7.45&#x02013;7.39
+(m, 4H), 7.28 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.22&#x02013;7.19
+(m, 1H), 5.73&#x02013;5.71 (m, 1H), 2.19&#x02013;2.13 (m, 4H), 1.66&#x02013;1.65
+(m, 4H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+142.3, 140.5, 139.6, 132.8, 129.5, 128.9, 128.1, 128.0, 125.6, 124.2,
+121.5, 117.9, 29.9, 26.1, 23.5, 22.6; <sup>11</sup>B NMR (128.38 MHz,
+CDCl<sub>3</sub>) &#x003b4; 34.0; IR (neat) 3375, 2920, 1558, 1451,
+751 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>20</sub>H<sub>20</sub>BN 285.1689,
+found 285.1705.</p></sec><sec id="sec3.19"><title>4-(2-Phenyl-2,1-borazaronaphthyl)-3,6-dihydro-2<italic>H</italic>-pyran (<bold>4d</bold>)</title><p>The title compound was
+obtained
+as a white solid in 86% yield (246.8 mg): mp 112&#x02013;115 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.02 (s, 1H), 7.91
+(s, 1H), 7.76&#x02013;7.68 (m, 2H), 7.69 (d, <italic>J</italic> = 7.5
+Hz, 1H), 7.47&#x02013;7.42 (m, 4H), 7.29 (d, <italic>J</italic> = 8.1
+Hz, 1H), 7.24&#x02013;7.21 (m, 1H), 5.75&#x02013;5.73 (m, 1H), 4.31&#x02013;4.29
+(m, 2H), 3.84 (t, <italic>J</italic> = 5.5 Hz, 2H), 2.30 (td, <italic>J</italic> = 5.3, 2.7 Hz, 2H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 140.9, 139.7, 139.4, 132.7, 129.6, 128.9, 128.4,
+128.2, 125.3, 122.8, 121.7, 118.0, 66.2, 64.9, 29.5; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 34.0; IR (neat) 3287,
+2930, 1564, 1455, 1229, 758 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>19</sub>H<sub>18</sub>BNO 287.1481, found 287.1487.</p></sec><sec id="sec3.20"><title>2-Phenyl-3-(isopropen-1-yl)-2,1-borazaronaphthalene
+(<bold>4e</bold>)</title><p>The title compound was obtained as a brown
+oil in 76%
+yield (186.2 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4;
+7.96 (br, 2H), 7.92&#x02013;7.81 (m, 2H), 7.70 (d, <italic>J</italic> = 7.5 Hz, 1H), 7.47&#x02013;7.43 (m, 4H), 7.29 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.25&#x02013;7.22 (m, 1H), 5.06&#x02013;5.02 (m, 2H),
+1.99 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+149.2, 140.9, 139.5, 132.6, 129.5, 128.7, 128.2, 128.0, 125.2, 121.5,
+117.8, 113.0, 24.1; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 33.6; IR (neat) 3367, 2925, 1573, 1463, 757 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>17</sub>H<sub>16</sub>BN 245.1376, found 245.1377.</p></sec><sec id="sec3.21"><title>8-(2-Phenyl-2,1-borazaronaphthyl)-1,4-dioxaspiro[4.5]dec-7-ene
+(<bold>4f</bold>)</title><p>The title compound was obtained as a white
+solid in 81% yield (277.8 mg): mp 108&#x02013;112 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.98 (s, 1H), 7.90 (s,
+1H), 7.80&#x02013;7.78 (m, 2H), 7.65 (d, <italic>J</italic> = 7.5 Hz,
+1H), 7.45&#x02013;7.39 (m, 4H), 7.28 (d, <italic>J</italic> = 8.0 Hz,
+1H), 7.21&#x02013;7.18 (m, 1H), 6.62&#x02013;5.60 (m, 1H), 4.05&#x02013;3.98
+(m, 4H), 2.47&#x02013;2.46 (m, 2H), 2.38 (td, <italic>J</italic> =
+6.3, 1.6 Hz, 2H), 1.79 (t, <italic>J</italic> = 6.5 Hz, 2H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 141.9, 141.1,
+139.6, 132.7, 129.4, 128.9, 128.1, 128.1, 125.3, 121.5, 121.1, 117.8,
+108.2, 64.5, 36.4, 31.6, 29.0; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 34.4; IR (neat) 3326, 1560, 1421, 1112, 755 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>22</sub>H<sub>22</sub>BNO<sub>2</sub> 343.1744,
+found 343.1756.</p></sec><sec id="sec3.22"><title>2-Isopropyl-3-[(<italic>E</italic>)-1-decen-1-yl]-2,1-borazaronaphthalene
+(<bold>5a</bold>)</title><p>The title compound was obtained as a colorless
+oil in 81% yield (247.8 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.92 (s, 1H), 7.67 (s, 1H), 7.62 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.39&#x02013;7.35 (m, 1H), 7.24 (d, <italic>J</italic> = 8.0 Hz, 1H), 7.18&#x02013;7.15 (m, 1H), 6.69 (dd, <italic>J</italic> = 15.6, 0.4 Hz, 1H), 6.13&#x02013;6.18 (m, 1H), 2.31&#x02013;2.26
+(m, 2H), 1.96&#x02013;1.92 (m, 1H), 1.57&#x02013;1.54 (m, 2H), 1.43&#x02013;1.35
+(m, 10H), 1.23 (d, <italic>J</italic> = 7.3 Hz, 6H), 0.97 (t, <italic>J</italic> = 6.9 Hz, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 139.6, 138.4, 132.2, 131.1, 129.3, 127.6, 125.7,
+121.2, 117.7, 33.8, 32.2, 30.0, 29.9, 29.7, 29.6, 23.0, 19.6, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 38.8; IR (neat)
+3424, 2924, 1560, 1427, 969 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>21</sub>H<sub>32</sub>BN 309.2628, found 309.2633.</p></sec><sec id="sec3.23"><title>2-Cyclopropyl-3-[(<italic>E</italic>)-1-decen-1-yl]-2,1-borazaronaphthalene
+(<bold>5b</bold>)</title><p>The title compound was obtained as a yellow
+solid in 90% yield (276.3 mg): mp 51&#x02013;55 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.92 (s, 1H), 7.56 (d, <italic>J</italic> = 7.7 Hz, 1H), 7.32&#x02013;7.29 (m, 1H), 7.18 (s, 1H),
+7.11 (t, <italic>J</italic> = 7.9 Hz, 2H), 6.69 (d, <italic>J</italic> = 15.6 Hz, 1H), 6.38&#x02013;6.24 (m, 1H), 2.25 (q, <italic>J</italic> = 7.2 Hz, 2H), 1.52&#x02013;1.48 (m, 2H), 1.39&#x02013;1.28 (m, 10H),
+0.92&#x02013;0.89 (m, 5H), 0.66&#x02013;0.55 (m, 3H); <sup>13</sup>C
+NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 139.5, 138.5, 132.8, 132.4,
+129.3, 127.6, 125.5, 121.0, 117.4, 34.0, 32.2, 30.0, 29.9, 29.7, 29.6,
+23.0, 14.4, 6.0; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>)
+&#x003b4; 37.1; IR (neat) 3374, 3010, 2920, 1557, 1428, 1105 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>21</sub>H<sub>30</sub>BN 307.2471, found
+307.2484.</p></sec><sec id="sec3.24"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-(4-fluorophenyl)-2,1-borazaronaphthalene
+(<bold>5c</bold>)</title><p>The title compound was obtained as a yellow
+oil in 88% yield (317.6 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.01 (s, 1H), 7.85 (s, 1H), 7.71&#x02013;7.65 (m,
+3H), 7.41&#x02013;7.37 (m, 1H), 7.25 (d, <italic>J</italic> = 8.5 Hz,
+1H), 7.22&#x02013;7.19 (m, 1H), 7.17&#x02013;7.14 (m, 2H), 6.62 (dd, <italic>J</italic> = 15.6, 0.7 Hz, 1H), 6.01 (dt, <italic>J</italic> = 15.5,
+7.0 Hz, 1H), 2.17 (qd, <italic>J</italic> = 7.3, 1.3 Hz, 2H), 1.48&#x02013;1.49
+(m, 2H), 1.36&#x02013;1.29 (m, 10H), 0.92 (t, <italic>J</italic> =
+7.0 Hz, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4;
+163.6 (d, <italic>J</italic> = 252 Hz), 139.8, 139.3, 134.9 (d, <italic>J</italic> = 7.4 Hz), 132.4, 132.3, 129.3, 127.9, 125.7, 121.6, 117.8,
+115.1 (d, <italic>J</italic> = 19.6 Hz), 33.5, 32.0, 29.7, 29.6, 29.5,
+29.4, 22.8, 14.2; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 33.9; IR (neat) 3375, 2923, 1595, 1224, 832 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>24</sub>H<sub>29</sub>BNF 361.2377, found 361.2368.</p></sec><sec id="sec3.25"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-(3-methoxyphenyl)-2,1-borazaronaphthalene
+(<bold>5d</bold>)</title><p>The title compound was obtained as a colorless
+oil in 81% yield (302.1 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.04 (s, 1H), 7.94 (s, 1H), 7.68 (d, <italic>J</italic> = 7.7 Hz, 1H), 7.43&#x02013;7.40 (m, 2H), 7.32 (d, <italic>J</italic> = 7.2 Hz, 1H), 7.29&#x02013;7.27 (m, 2H), 7.22 (t, <italic>J</italic> = 7.5 Hz, 1H), 7.01 (dd, <italic>J</italic> = 8.2, 2.7 Hz, 1H),
+6.68 (d, <italic>J</italic> = 15.6 Hz, 1H), 6.10&#x02013;6.04 (m, 1H),
+3.89 (s, 3H), 2.21&#x02013;2.16 (m, 2H), 1.47&#x02013;1.43 (m, 2H),
+1.36&#x02013;1.28 (m, 10H), 0.93 (t, <italic>J</italic> = 6.9 Hz, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 159.4, 139.8,
+139.5, 132.5, 132.3, 129.5, 129.4, 128.0, 125.9, 125.5, 121.7, 118.3,
+118.0, 114.4, 55.4, 33.7, 32.2, 29.9, 29.8, 29.6, 29.6, 23.0, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 34.8; IR (neat)
+3366, 2924, 1558, 1451, 1236, 971, 761 cm<sup>&#x02013;1</sup>; HRMS
+(CI) <italic>m</italic>/<italic>z</italic> [M + H]<sup>+</sup> calcd
+for C<sub>25</sub>H<sub>33</sub>BNO 374.2655, found 374.2661.</p></sec><sec id="sec3.26"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-(4-trifluorophenyl)-2,1-borazaronaphthalene
+(<bold>5e</bold>)</title><p>The title compound was obtained as a light
+brown oil in 83% yield (341.3 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.03 (s, 1H), 7.91 (s, 1H), 7.80 (d, <italic>J</italic> = 7.7 Hz, 2H), 7.70&#x02013;7.68 (m, 3H), 7.42&#x02013;7.39 (m, 1H),
+7.27 (d, <italic>J</italic> = 8.1 Hz, 1H), 7.22&#x02013;7.21 (m, 1H),
+6.56 (dd, <italic>J</italic> = 15.6, 1.0 Hz, 1H), 5.60&#x02013;5.94
+(m, 1H), 2.14 (m, 2H), 1.42&#x02013;1.39 (m, 2H), 1.27&#x02013;1.32
+(m, 10H), 0.90 (t, <italic>J</italic> = 5.1 Hz, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 140.1, 139.1, 133.1,
+132.8, 131.9, 130.4 (d, <italic>J</italic> = 32.3 Hz), 129.4, 128.1,
+126.3 (q, <italic>J</italic> = 272.2 Hz), 125.8, 124.6 (q, <italic>J</italic> = 3.7 Hz), 121.9, 117.9, 33.5, 32.0, 29.6, 29.5, 29.3,
+22.8, 14.2; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4;
+34.5; IR (neat) 3395, 2924, 1559, 1323, 969, 836 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>25</sub>H<sub>29</sub>BNF<sub>3</sub> 411.2345,
+found 411.2353.</p></sec><sec id="sec3.27"><title>1-Allyl-3-[(<italic>E</italic>)-1-decen-1-yl]-2-methyl-2,1-borazaronaphthalene
+(<bold>5f</bold>)</title><p>The title compound was obtained as a light
+yellow oil in 62% yield (199.0 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.84 (s, 1H), 7.61 (d, <italic>J</italic> = 7.0
+Hz, 1H), 7.39 (dd, <italic>J</italic> = 4.7, 1.2 Hz, 2H), 7.17&#x02013;7.13
+(m, 1H), 6.66 (dd, <italic>J</italic> = 15.5, 1.0 Hz, 1H), 6.10&#x02013;6.01
+(m, 2H), 5.15 (dd, <italic>J</italic> = 10.5, 1.4 Hz, 1H), 4.99 (dd, <italic>J</italic> = 17.2, 1.3 Hz, 1H), 4.72 (dd, <italic>J</italic> = 4.1,
+2.0 Hz, 2H), 2.27&#x02013;2.22 (m, 2H), 1.54&#x02013;1.49 (m, 2H), 1.41&#x02013;1.27
+(m, 10H), 0.93&#x02013;0.89 (m, 6H); <sup>13</sup>C NMR (125.8 MHz,
+CDCl<sub>3</sub>) &#x003b4; 141.2, 137.7, 134.7, 132.7, 131.3, 130.2,
+127.8, 126.7, 120.8, 115.9, 115.5, 49.8, 33.8, 32.2, 30.1, 29.9, 29.7,
+29.6, 23.0, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 38.7; IR (neat) 2923, 1556, 1405, 1212, 968 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>22</sub>H<sub>32</sub>BN 321.2628, found 321.2633.</p></sec><sec id="sec3.28"><title>1-Benzyl-3-[(<italic>E</italic>)-1-decen-1-yl]-2-methyl-2,1-borazaronaphthalene
+(<bold>5g</bold>)</title><p>The title compound was obtained as a light
+brown oil in 90% yield (333.9 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.97 (s, 1H), 7.68 (d, <italic>J</italic> = 7.0
+Hz, 1H), 7.35&#x02013;7.27 (m, 5H), 7.19&#x02013;7.16 (m, 3H), 6.78
+(dd, <italic>J</italic> = 15.6, 0.6 Hz, 1H), 6.19 (dt, <italic>J</italic> = 15.5, 6.9 Hz, 1H), 5.38 (s, 2H), 2.36&#x02013;2.37 (m, 2H), 1.63&#x02013;1.57
+(m, 2H), 1.50&#x02013;1.39 (m, 10H), 1.00&#x02013;0.98 (m, 6H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 141.3, 138.8,
+138.02, 132.7, 131.4, 130.2, 129.0, 127.9, 127.1, 126.9, 126.1, 120.9,
+115.9, 51.4, 33.8, 32.2, 30.1, 29.9, 29.8, 29.7, 23.0, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 39.0; IR (neat)
+2924, 2853, 1610, 1492, 1402, 1360, 967 cm<sup>&#x02013;1</sup>; HRMS
+(CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for
+C<sub>26</sub>H<sub>34</sub>BN 371.2784, found 371.2791.</p></sec><sec id="sec3.29"><title>3-[(<italic>E</italic>)-1-Decen-1-yl]-2-(4-methylphenyl)-2,1-borazaronaphthalene
+(<bold>5h</bold>)</title><p>The title compound was obtained as a light
+yellow oil in 80% yield (285.6 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 8.04 (s, 1H), 7.91 (s, 1H), 7.68 (d, <italic>J</italic> = 7.5 Hz, 1H), 7.57&#x02013;7.52 (m, 2H), 7.42&#x02013;7.37 (m, 2H),
+7.29&#x02013;7.25 (m, 2H), 7.21 (t, <italic>J</italic> = 7.5 Hz, 1H),
+6.68 (d, <italic>J</italic> = 15.5 Hz, 1H), 6.07 (dt, <italic>J</italic> = 15.4, 7.0 Hz, 1H), 2.47 (s, 3H), 2.20 (q, <italic>J</italic> =
+6.9 Hz, 2H), 1.49&#x02013;1.46 (m, 2H), 1.39&#x02013;1.33 (m, 10H),
+0.94 (t, <italic>J</italic> = 6.9 Hz, 3H); <sup>13</sup>C NMR (125.8
+MHz, CDCl<sub>3</sub>) &#x003b4; 139.7, 137.5, 133.9, 132.7, 132.2,
+130.3, 129.5, 128.1, 128.0, 125.9, 121.6, 117.9, 33.7, 32.2, 30.0,
+29.9, 29.7, 29.6, 23.0, 21.9, 14.4; <sup>11</sup>B NMR (128.38 MHz,
+CDCl<sub>3</sub>) &#x003b4; 34.7; IR (neat) 3369, 2923, 2852, 1612,
+1557, 1450, 969 cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>25</sub>H<sub>32</sub>BN 357.2628, found 357.2632.</p></sec><sec id="sec3.30"><title>6-[(<italic>E</italic>)-1-Decen-1-yl]-2-methyl-3-phenyl-2,1-borazaronaphthalene
+(<bold>6</bold>)</title><p>The title compound was obtained as a brown
+oil in 83% yield (296.3 mg). <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.85 (s, 1H), 7.77 (s, 1H), 7.57 (d, <italic>J</italic> = 1.5 Hz, 1H), 7.47&#x02013;7.41 (m, 5H), 7.33&#x02013;7.31 (m, 1H),
+7.16 (d, <italic>J</italic> = 8.5 Hz, 1H), 6.46 (d, <italic>J</italic> = 16.0 Hz, 1H), 6.23 (dt, <italic>J</italic> = 15.7, 6.9 Hz, 1H),
+2.27&#x02013;2.22 (m, 2H), 1.52&#x02013;1.48 (m, 2H), 1.39&#x02013;1.28
+(m, 10H), 0.92 (t, <italic>J</italic> = 7.0 Hz, 3H), 0.83 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 145.1, 141.8,
+139.0, 131.3, 130.0, 129.6, 128.5, 128.4, 127.2, 126.3, 126.0, 125.3,
+117.7, 33.4, 32.2, 29.8, 29.8, 29.6, 29.6, 23.0, 14.4; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 36.4; IR (neat) 3372,
+2924, 2853, 1617, 1577, 1456, 962, 762 cm<sup>&#x02013;1</sup>; HRMS
+(CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for
+C<sub>25</sub>H<sub>32</sub>BN 357.2628, found 357.2621.</p></sec><sec id="sec3.31"><title>2-Methyl-3,6-di[(<italic>E</italic>)-1-propen-1-yl]-2,1-borazaronaphthalene
+(<bold>7</bold>)</title><p>The title compound was obtained as a yellow
+solid in 76% yield (169.4 mg): mp 106&#x02013;110 &#x000b0;C; <sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) &#x003b4; 7.75 (s, 1H), 7.60 (s,
+1H), 7.48 (d, <italic>J</italic> = 1.5 Hz, 1H), 7.38 (dd, <italic>J</italic> = 8.3, 1.9 Hz, 1H), 7.07 (d, <italic>J</italic> = 8.4
+Hz, 1H), 6.62 (dd, <italic>J</italic> = 15.7, 0.7 Hz, 1H), 6.48 (dd, <italic>J</italic> = 15.7, 1.5 Hz, 1H), 6.26&#x02013;6.14 (m, 2H), 1.95&#x02013;1.93
+(m, 6H), 0.86 (s, 3H); <sup>13</sup>C NMR (125.8 MHz, CDCl<sub>3</sub>) &#x003b4; 137.4, 137.6, 133.9, 130.1, 130.0, 125.7, 125.4, 124.5,
+124.3, 123.1, 116.6, 18.3, 17.8; <sup>11</sup>B NMR (128.38 MHz, CDCl<sub>3</sub>) &#x003b4; 37.2; IR (neat) 3371, 2957, 2910, 1610, 1557, 1436
+cm<sup>&#x02013;1</sup>; HRMS (CI) <italic>m</italic>/<italic>z</italic> [M]<sup>+</sup> calcd for C<sub>15</sub>H<sub>18</sub>BN 223.1532,
+found 223.1532.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Copies of <sup>1</sup>H, <sup>13</sup>C, and <sup>11</sup>B NMR
+spectra for all compounds. This material is available free of charge
+via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jo502260x_si_001.pdf"><caption><p>jo502260x_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d1527e2351-autogenerated" notes-type="conflict-of-interest"><p>The authors
+declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research
+was supported by the NIGMS (R01 GM-081376) and
+Eli Lilly. Frontier Scientific is acknowledged for their generous
+donation of potassium organotrifluoroborates. Frontier Scientific
+and Johnson Matthey are acknowledged for their donation of palladium
+salts. Dr. Rakesh Kohli (University of Pennsylvania) is acknowledged
+for obtaining the HRMS data.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ehle</surname><given-names>A. R.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Watson</surname><given-names>M. P.</given-names></name>
+<source>Org. Lett.</source>
+<year>2012</year>, <volume>14</volume>, <fpage>1202</fpage>.<pub-id pub-id-type="pmid">22335199</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Martinez</surname><given-names>R.</given-names></name>; <name><surname>Voica</surname><given-names>F.</given-names></name>; <name><surname>Genet</surname><given-names>J.-P.</given-names></name>; <name><surname>Darses</surname><given-names>S.</given-names></name>
+<source>Org. Lett.</source>
+<year>2007</year>, <volume>9</volume>, <fpage>3213</fpage>.<pub-id pub-id-type="pmid">17637026</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Grirrane</surname><given-names>A.</given-names></name>; <name><surname>Garcia</surname><given-names>H.</given-names></name>; <name><surname>Corma</surname><given-names>A.</given-names></name>
+<source>J. Catal.</source>
+<year>2013</year>, <volume>302</volume>, <fpage>49</fpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Kuroda</surname><given-names>J.</given-names></name>; <name><surname>Inamoto</surname><given-names>K.</given-names></name>; <name><surname>Hiroya</surname><given-names>K.</given-names></name>; <name><surname>Doi</surname><given-names>T.</given-names></name>
+<source>Eur. J. Org. Chem.</source>
+<year>2009</year>, <fpage>2251</fpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5a"><label>a</label><name><surname>Green</surname><given-names>I. R.</given-names></name>; <name><surname>Hugo</surname><given-names>V. I.</given-names></name>; <name><surname>Oosthuizen</surname><given-names>G.</given-names></name>; <name><surname>Giles</surname><given-names>R. G. F.</given-names></name>
+<source>Synth. Commun.</source>
+<year>1996</year>, <volume>26</volume>, <fpage>867</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit5b"><label> b</label><name><surname>Giles</surname><given-names>R. G. F.</given-names></name>; <name><surname>Green</surname><given-names>I. R.</given-names></name>; <name><surname>Hugo</surname><given-names>V. I.</given-names></name>; <name><surname>Mitchell</surname><given-names>P. R. K.</given-names></name>; <name><surname>Yorke</surname><given-names>S. C.</given-names></name>
+<source>J. Chem. Soc.,
+Perkin Trans. 1</source>
+<year>1984</year>, <fpage>2383</fpage>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6a"><label>a</label><name><surname>Sun</surname><given-names>Y.-P.</given-names></name>; <name><surname>Sears</surname><given-names>D. F.</given-names><suffix>Jr.</suffix></name>; <name><surname>Saltiel</surname><given-names>J.</given-names></name>; <name><surname>Mallory</surname><given-names>F. B.</given-names></name>; <name><surname>Mallory</surname><given-names>C. W.</given-names></name>; <name><surname>Buser</surname><given-names>C. A.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>1988</year>, <volume>110</volume>, <fpage>6974</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit6b"><label> b</label><name><surname>Saltiel</surname><given-names>J.</given-names></name>; <name><surname>Choi</surname><given-names>J.-O.</given-names></name>; <name><surname>Sears</surname><given-names>D. F.</given-names><suffix>Jr.</suffix></name>; <name><surname>Eaker</surname><given-names>D. W.</given-names></name>; <name><surname>Mallory</surname><given-names>F. B.</given-names></name>; <name><surname>Mallory</surname><given-names>C. W.</given-names></name>
+<source>J. Phys. Chem.</source>
+<year>1994</year>, <volume>98</volume>, <fpage>13162</fpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Ito</surname><given-names>T.</given-names></name>; <name><surname>Ikemoto</surname><given-names>T.</given-names></name>; <name><surname>Yamano</surname><given-names>T.</given-names></name>; <name><surname>Mizuno</surname><given-names>Y.</given-names></name>; <name><surname>Tomimatsu</surname><given-names>K.</given-names></name>
+<source>Tetrahedron: Asymmetry</source>
+<year>2013</year>, <volume>14</volume>, <fpage>3525</fpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Kong</surname><given-names>W.</given-names></name>; <name><surname>Fu</surname><given-names>C.</given-names></name>; <name><surname>Ma</surname><given-names>S.</given-names></name>
+<source>Eur. J. Org. Chem.</source>
+<year>2010</year>, <fpage>6545</fpage>.</mixed-citation></ref><ref id="ref9"><note><p>For recent reviews of azaborines, see:</p></note><mixed-citation publication-type="journal" id="cit9a"><label>a</label><name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Marder</surname><given-names>T. B.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2008</year>, <volume>47</volume>, <fpage>242</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9b"><label> b</label><name><surname>Campbell</surname><given-names>P. G.</given-names></name>; <name><surname>Marwitz</surname><given-names>A. J. V.</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<source>Angew. Chem.,
+Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>6074</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9c"><label> c</label><name><surname>Bosdet</surname><given-names>M. J. D.</given-names></name>; <name><surname>Piers</surname><given-names>W. E.</given-names></name>
+<source>Can. J. Chem.</source>
+<year>2009</year>, <volume>87</volume>, <fpage>8</fpage>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Wisniewski</surname><given-names>S. R.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2014</year>, <volume>79</volume>, <fpage>6663</fpage>.<pub-id pub-id-type="pmid">24984003</pub-id></mixed-citation></ref><ref id="ref11"><note><p>For
+reviews of the Suzuki&#x02013;Miyaura
+reaction, see:</p></note><mixed-citation publication-type="journal" id="cit11a"><label>a</label><name><surname>Miyaura</surname><given-names>N.</given-names></name>; <name><surname>Suzuki</surname><given-names>A.</given-names></name>
+<source>Chem. Rev.</source>
+<year>1995</year>, <volume>95</volume>, <fpage>2457</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit11b"><label> b</label><name><surname>Bellina</surname><given-names>F.</given-names></name>; <name><surname>Carpita</surname><given-names>A.</given-names></name>; <name><surname>Rossi</surname><given-names>R.</given-names></name>
+<source>Synthesis</source>
+<year>2004</year>, <fpage>2419</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit11c"><label> c</label><name><surname>Kotha</surname><given-names>S.</given-names></name>; <name><surname>Lahiri</surname><given-names>K.</given-names></name>; <name><surname>Kashinath</surname><given-names>D.</given-names></name>
+<source>Tetrahedron</source>
+<year>2002</year>, <volume>58</volume>, <fpage>9633</fpage>.</mixed-citation><mixed-citation publication-type="book" id="cit11d"><label>d</label><person-group person-group-type="allauthors"><name><surname>Sandrock</surname><given-names>D. L.</given-names></name></person-group><article-title>Alkylboron
+Reagents</article-title>. In <source>Science of Synthesis, Cross Coupling
+and Heck-Type Reactions 1</source>; <person-group person-group-type="editor"><name><surname>Molander</surname><given-names>G. A.</given-names></name></person-group>, Ed.; <publisher-name>Georg
+Thieme Verlag</publisher-name>: <publisher-loc>Stuttgart, Germany</publisher-loc>, <year>2013</year>; <volume>Vol. 1</volume>.</mixed-citation><mixed-citation publication-type="book" id="cit11e"><label>e</label><person-group person-group-type="allauthors"><name><surname>Miyaura</surname><given-names>N.</given-names></name></person-group><article-title>Metal-Catalyzed
+Cross-Coupling Reactions of Organoboron Compounds with Organic Halides</article-title>. In <source>Metal-Catalyzed Cross-Coupling Reactions</source>; <person-group person-group-type="editor"><name><surname>de Meijere</surname><given-names>A.</given-names></name>, <name><surname>Diederich</surname><given-names>F.</given-names></name></person-group>, Eds.; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>2003</year>; <volume>Vol. 1</volume>.</mixed-citation><mixed-citation publication-type="book" id="cit11f"><label>f</label><source>Boronic Acids</source>; <person-group person-group-type="editor"><name><surname>Hall</surname><given-names>D. G.</given-names></name></person-group>, Ed.; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>2005</year>.</mixed-citation><mixed-citation publication-type="journal" id="cit11g"><label> g</label><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Canturk</surname><given-names>B. C.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2009</year>, <volume>48</volume>, <fpage>9240</fpage>.</mixed-citation></ref><ref id="ref12"><note><p>For reviews of potassium organotrifluoroborates,
+see:</p></note><mixed-citation publication-type="journal" id="cit12a"><label>a</label><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Figueroa</surname><given-names>R.</given-names></name>
+<source>Aldrichimica Acta</source>
+<year>2005</year>, <volume>38</volume>, <fpage>49</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit12b"><label> b</label><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Ellis</surname><given-names>N.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2007</year>, <volume>40</volume>, <fpage>275</fpage>.<pub-id pub-id-type="pmid">17256882</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit12c"><label> c</label><name><surname>Stefani</surname><given-names>H. A.</given-names></name>; <name><surname>Cella</surname><given-names>R.</given-names></name>; <name><surname>Vieira</surname><given-names>A. S.</given-names></name>
+<source>Tetrahedron</source>
+<year>2007</year>, <volume>63</volume>, <fpage>3623</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit12d"><label> d</label><name><surname>Darses</surname><given-names>S.</given-names></name>; <name><surname>Genet</surname><given-names>J. P.</given-names></name>
+<source>Chem. Rev.</source>
+<year>2008</year>, <volume>108</volume>, <fpage>288</fpage>.<pub-id pub-id-type="pmid">18095714</pub-id></mixed-citation><mixed-citation publication-type="book" id="cit12e"><label>e</label><person-group person-group-type="allauthors"><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Jean-Gerard</surname><given-names>L.</given-names></name></person-group><article-title>Organotrifluoroborates:
+Organoboron Reagents for the Twenty-First Century</article-title>.
+In <source>Boronic Acids: Preparation and Applications in Organic
+Synthesis, Medicine and Materials</source>; <person-group person-group-type="editor"><name><surname>Hall</surname><given-names>D. G.</given-names></name></person-group>, Ed.; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>2011</year>; <volume>Vol. 2</volume>, pp <fpage>507</fpage>&#x02013;<lpage>550</lpage>.</mixed-citation><mixed-citation publication-type="book" id="cit12f"><label>f</label><person-group person-group-type="allauthors"><name><surname>Molander</surname><given-names>G. A.</given-names></name>; <name><surname>Jean-Gerard</surname><given-names>L.</given-names></name></person-group><article-title>Cross-Coupling
+Reactions of Organotrifluoroborate Salts</article-title>. In <source>Organic Reactions</source>; <person-group person-group-type="editor"><name><surname>Denmark</surname><given-names>S. E.</given-names></name></person-group>, Ed.; <publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2013</year>; <volume>Vol. 79</volume>, pp <fpage>1</fpage>&#x02013;<lpage>316</lpage>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Wisniewski</surname><given-names>S. R.</given-names></name>; <name><surname>Guenther</surname><given-names>C. G.</given-names></name>; <name><surname>Argintaru</surname><given-names>O. A.</given-names></name>; <name><surname>Molander</surname><given-names>G. A.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>2014</year>, <volume>79</volume>, <fpage>365</fpage>&#x02013;<lpage>378</lpage>.<pub-id pub-id-type="pmid">24328074</pub-id></mixed-citation></ref></ref-list></back></article>

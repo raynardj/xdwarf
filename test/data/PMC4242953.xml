@@ -1,0 +1,161 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">jpts-2014-236</article-id><article-id pub-id-type="doi">10.1589/jpts.26.1775</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Psychometric Properties of the Lower Extremity Subscale of the Fugl-Myer
+Assessment for Community-dwelling Hemiplegic Stroke Patients</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Park</surname><given-names>Eun Young</given-names></name><degrees>PT, PhD</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Choi</surname><given-names>Yoo Im</given-names></name><degrees>OT, PhD</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Secondary Special Education, College of
+Education, Jeonju University, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Occupational Therapy, School of Medicine,
+Wonkwang University, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Yoo Im Choi, Department of Occupational Therapy, School of Medicine,
+Wonkwang University: 460 Iksandae-ro, Iksan, Jeollabuk-do 570-749, Republic of Korea. (E-mail: <email xlink:href="tiffaniey@wku.ac.kr">tiffaniey@wku.ac.kr</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>26</volume><issue>11</issue><fpage>1775</fpage><lpage>1777</lpage><history><date date-type="received"><day>17</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>2014&#x000a9;by the Society of Physical Therapy Science</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] The purpose of this study was to investigate the psychometric properties of the
+lower extremity subscale of the Fugl-Meyer Assessment lower extremity (FMA-LE) for
+community-dwelling hemiplegic stroke patients. [Subjects] The participants were 140
+community-dwelling hemiplegic stroke patients. [Methods] To determine the psychometric
+properties of the FMA-LE, we examined construct validity, response characteristics, item
+discrimination, and internal consistency. [Results] Factor analysis of the FMA-LE revealed
+that the first factor explained 61.73% of the variance and provided evidence of
+unidimensionality. The FMA-LE did not show ceiling or floor effects; Cronbach&#x02019;s &#x003b1; was
+0.935 (95% CI: 0.919&#x02013;0.950). [Conclusion] Because the FMA-LE seems to be both valid and
+reliable, we conclude that it is appropriate for the measurement of the lower extremity
+motor impairment of community-dwelling hemiplegic stroke patients.</p></abstract><kwd-group><title>Key words</title><kwd>Fugl-Meyer Assessment</kwd><kwd>Hemiplegic stroke</kwd><kwd>Lower extremity</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Motor impairment is one of the most common stroke symptoms<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Evidence of relationships between motor impairment and disability,
+daily activities, and social participation following stroke has been reported. Motor
+impairment at the time of hospital admission has been reported to be a good predictor of
+physical disability after stroke rehabilitation. Chae et al.<xref rid="r2" ref-type="bibr">2</xref><sup>)</sup> investigated motor impairment, assessed using the Fugl-Myer
+Assessment (FMA) Motor Impairment Scale, as a predictor of physical independence following
+inpatient stroke rehabilitation, and reported that dependency in physical activities of
+daily living was primarily determined by the degree of motor impairment. Independent walking
+has been correlated with lower extremity strength<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. Therefore, stroke rehabilitation focuses on the recovery of
+impaired movement and its associated function<xref rid="r4" ref-type="bibr">4</xref><sup>)</sup>.</p><p>More attention has been paid to the evaluation of motor impairments in the upper
+extremities than in the lower extremities<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>, despite lower-extremity motor functions
+being frequently impaired following stroke and functional mobility deterioration<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. This tendency also appears in the FMA
+assessment, and the FMA, which is considered to be one of the most comprehensive
+quantitative measures of post-stroke motor impairment, suffers from this drawback. The
+psychometric properties of the FMA with regard to the upper extremities have been verified
+through various analyses, and it is widely used to assess upper extremity function<xref rid="r8" ref-type="bibr">8</xref>,<xref rid="r9" ref-type="bibr">9</xref>,<xref rid="r10" ref-type="bibr">10</xref><sup>)</sup>.</p><p>Although the FMA is commonly used in clinical trials to assess motor impairment and
+determine treatment efficacy, no study has yet verified the psychometric properties of the
+lower extremity subscales. Studies of FMA results for lower-extremities have not provided
+separate data for this subscale<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. The psychometric properties of the upper
+extremity subscale, however, have been thoroughly established. Woodbury et al.<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup> reported on the dimensionality and construct
+validity of the FMA upper extremity scale; we note that as a result, 3 reflex items were
+removed, based on factor loadings and item infit statistics and a modified 30-item
+assessment was recommended.</p><p>The existing research on the psychometric properties of the FMA has another limitation. To
+date, most studies have employed heterogeneous samples, and the FMA&#x02019;s psychometric
+properties may differ among subjects. More sophisticated methodology is needed<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Therefore, recent research has
+investigated whether hierarchical properties of the FMA scale are the same in acute and
+chronic stroke patients<xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>.</p><p>Choosing an appropriate measure is the foundation for planning an appropriate course of
+therapy and assessing the effects of an intervention. Lower extremity motor function of
+chronic stroke patients is important, and its improvement is a central aim of physical
+therapy. However, evidence supporting the use of the FMA for lower extremity motor
+impairment in chronic stroke patients is insufficient. Therefore, the purpose of this study
+was to investigate the psychometric properties of the FMA-LE subscale for community-dwelling
+hemiplegic stroke patients.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>This study followed a cross-sectional design. The sample was chosen from a group of
+community-dwelling stroke patients visiting convalescence or rehabilitation centers for
+disabled individuals in South Korea. Patients scoring 18 or below on the Korean version of
+the Mini Mental State Examination (MMSE-K) were excluded from the study. Approval was
+received from the ethics review board of our affiliated university. Informed written consent
+was received from all the participants prior to their participation in the study.
+Questionnaire responses and measurements of the 140 participants were analyzed; none had
+missing data. Participants&#x02019; ages ranged from 42 to 86&#x02005;years, with an average age of
+57.07&#x02005;years (SD = 9.88). Of the participants, 37.1% were female. The diagnoses included 66
+hemorrhagic strokes and 74 ischemic strokes. The time since diagnosis of stroke ranged from
+12 to 269 months, with an average of 50.48 months (SD = 47.06). The mean score on the MMSE-K
+was 26.63, and ranged from 18 to 30.</p><p>We administered the FMA-LE, which consists of 17 items, with a maximum possible score of 34
+points. Each item was answered using a 3-point ordinal scale (0 = cannot perform, 1 = can
+partially perform, 2 = can fully perform). The assessment was completed by trained
+registered physical therapists.</p><p>Construct validity, response characteristics, item discrimination and internal consistency
+were assessed. We employed factor analysis to identify unidimensionality. The suitability of
+the collected data for factor analysis was examined using Bartlett&#x02019;s test of sphericity and
+the Kaiser-Meyer-Olkin (KMO) test. The KMO value was 0.918 and the &#x003c7;<sup>2</sup> of
+Barlett&#x02019;s test was 2,841.56 (p &#x0003c; 0.001). The criteria for determining unidimensionality
+through factor analysis were as follows: 1) the scree plot shows one clear factor, 2) the
+eigenvalue of this factor is significantly larger than those of other factors, and 3) this
+factor explains over 20% of the total variance<xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>.</p><p>We found that the collected data were appropriate for factor analysis. Item discrimination
+was analyzed by calculating the correlations between items and total scores. We employed the
+SPSS 20 for the analysis.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>Factor analysis results are presented in <xref rid="tbl_001" ref-type="table">Table
+1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Results of factor analysis</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1">Category</th><th align="center" rowspan="1" colspan="1">Factor 1</th><th align="center" rowspan="1" colspan="1">Factor 2</th><th align="center" rowspan="1" colspan="1">1:2 Ratio</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Eigenvalue</td><td align="center" rowspan="1" colspan="1">10.494</td><td align="center" rowspan="1" colspan="1">1.580</td><td align="center" rowspan="1" colspan="1">6.642</td></tr><tr><td align="left" rowspan="1" colspan="1">Explained variance (%)</td><td align="center" rowspan="1" colspan="1">61.731</td><td align="center" rowspan="1" colspan="1">71.023</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap> and <xref ref-type="fig" rid="fig_001">Fig.
+1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig. 1.</label><caption><p>Scree plot</p></caption><graphic xlink:href="jpts-26-1775-g001"/></fig>.</p><p>The first factor explained 61.73% of the variance meeting the &#x0003e; 20% criterion. The ratio
+between the eigenvalues of the first and second factors was 6.642 times the cutoff for
+unidimensionality reported previously<xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>.
+The scree plot also showed the unidimensionality of the FMA-LE.</p><p>Response characteristics were examined through ceiling and floor effects. The lowest value
+(0) occurred in 2.9% of the responses, and the highest value (34) occurred in 7.9%.</p><p><xref rid="tbl_002" ref-type="table">Table 2</xref><table-wrap id="tbl_002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Item discrimination</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1">Items</th><th align="center" rowspan="1" colspan="1">Correlation</th><th align="center" rowspan="1" colspan="1">Items</th><th align="center" rowspan="1" colspan="1">Correlation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Hip flexion</td><td align="center" rowspan="1" colspan="1">0.784**</td><td align="left" rowspan="1" colspan="1">Ankle dorsiflexion (sitting)</td><td align="center" rowspan="1" colspan="1">0.850**</td></tr><tr><td align="left" rowspan="1" colspan="1">Hip extension</td><td align="center" rowspan="1" colspan="1">0.789**</td><td align="left" rowspan="1" colspan="1">Ankle dorsiflexion (standing)</td><td align="center" rowspan="1" colspan="1">0.784**</td></tr><tr><td align="left" rowspan="1" colspan="1">Hip adduction</td><td align="center" rowspan="1" colspan="1">0.818**</td><td align="left" rowspan="1" colspan="1">Ankle plantar flexion</td><td align="center" rowspan="1" colspan="1">0.806**</td></tr><tr><td align="left" rowspan="1" colspan="1">Knee flexion (supine)</td><td align="center" rowspan="1" colspan="1">0.846**</td><td align="left" rowspan="1" colspan="1">Heel-shine speed</td><td align="center" rowspan="1" colspan="1">0.746**</td></tr><tr><td align="left" rowspan="1" colspan="1">Knee flexion (sitting)</td><td align="center" rowspan="1" colspan="1">0.840**</td><td align="left" rowspan="1" colspan="1">Heel-shin tremor</td><td align="center" rowspan="1" colspan="1">0.800**</td></tr><tr><td align="left" rowspan="1" colspan="1">Knee flexion (standing)</td><td align="center" rowspan="1" colspan="1">0.835**</td><td align="left" rowspan="1" colspan="1">Heel-sheen dysmetria</td><td align="center" rowspan="1" colspan="1">0.679**</td></tr><tr><td align="left" rowspan="1" colspan="1">Knee extension</td><td align="center" rowspan="1" colspan="1">0.859**</td><td align="left" rowspan="1" colspan="1">Knee reflex</td><td align="center" rowspan="1" colspan="1">0.765**</td></tr><tr><td align="left" rowspan="2" colspan="1">Ankle dorsiflexion (supine)</td><td align="center" rowspan="2" colspan="1">0.489**</td><td align="left" rowspan="1" colspan="1">Hamstring reflex</td><td align="center" rowspan="1" colspan="1">0.703**</td></tr><tr><td align="left" rowspan="1" colspan="1">Ankle reflex</td><td align="center" rowspan="1" colspan="1">0.850**</td></tr></tbody></table><table-wrap-foot><p>**p &#x0003c; 0.01</p></table-wrap-foot></table-wrap> shows item discrimination results.</p><p>Cronbach&#x02019;s &#x003b1; of the FMA-LE was 0.935 (95% CI: 0.919&#x02013;0.950).</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>The purpose of the present study was to evaluate the reliability and validity of the FMA&#x02019;s
+lower extremity subscale. Although the FMA is widely used to measure motor impairment and
+recovery of stroke patients, the psychometric properties of the lower extremity subscale
+have not been separately examined until now.</p><p>The 50-item FMA motor scale is a widely used assessment of motor function of both the upper
+and lower extremities following stroke, and has been recommended as an outcome measure for
+stroke rehabilitation<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>. Nevertheless,
+although the construct validity of the FMA has been reported in previous studies,
+confirmation of unidimensionality of the FMA has only been reported for the upper extremity
+subscale<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Our results verified the
+unidemensionality of the FMA-LE, which suggests that the scale has a utility similar to that
+of the upper extremity subscale.</p><p>The acceptable level of ceiling and floor effects is below 30%<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>. We found no ceiling or floor effects, with the lowest
+score percentage being 2.9% and the highest score percentage being 7.9%. Concern about the
+FMA&#x02019;s ceiling effect was raised in a previous review<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>; however, this effect has not been examined objectively. In the
+present study, the FMA-LE showed no ceiling or floor effects in community-dwelling
+hemiplegic stroke patients.</p><p>Although there is no absolute standard for judging item discrimination, correlations above
+0.40, between 0.30&#x02013;0.40, and below 0.30 have been deemed to have high, moderate, and low
+discriminant ability, respectively<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. If
+items scored below 0.20, they were considered for removal in a previous study<xref rid="r20" ref-type="bibr">20</xref><sup>)</sup>. We found that the FMA-LE item-total
+correlations were all above 0.40.</p><p>The FMA-LE demonstrated high internal consistency. According to Nunnally and Bernstein<xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>, the classifications for the strength of
+Cronbach&#x02019;s &#x003b1; coefficients are: poor = below 0.50, moderate from 0.50 to 0.75, good = 0.75 to
+0.90, and high above 0.90. Our result for internal consistency was similar to the value of
+0.96 found in the study by Duncan et al<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>. Methodological shortcomings related to a small number of subjects
+being tested have been raised in previous research examining the reliability of the FMA<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. Our participants were 140 hemiplegic
+community-dwelling patients. The present results suggest that the FMA-LE is a reliable
+assessment tool for this group.</p><p>The FMA has been deemed to have appropriate validity and reliability; however, physical
+therapists should bear its limitations in mind. Our results suggest that the FMA-LE can be
+used as a separate assessment for measuring the motor impairment of community-dwelling
+stroke patients with hemiplegia. Further studies should explore the various psychometric
+properties among homogenous subjects.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Sullivan</surname><given-names>KJ</given-names></name><name><surname>Tilson</surname><given-names>JK</given-names></name><name><surname>Cen</surname><given-names>SY</given-names></name><etal>et al.</etal></person-group>: <article-title>Fugl-Meyer assessment of sensorimotor function after
+stroke: standardized training procedure for clinical practice and clinical
+trials</article-title>. <source>Stroke</source>, <year>2011</year>, <volume>42</volume>:
+<fpage>427</fpage>&#x02013;<lpage>432</lpage>. <pub-id pub-id-type="pmid">21164120</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Chae</surname><given-names>J</given-names></name><name><surname>Johnston</surname><given-names>M</given-names></name><name><surname>Kim</surname><given-names>H</given-names></name><etal>et al.</etal></person-group>: <article-title>Admission motor impairment as a predictor of physical
+disability after stroke rehabilitation</article-title>. <source>Am J Phys Med
+Rehabil</source>, <year>1995</year>, <volume>74</volume>:
+<fpage>218</fpage>&#x02013;<lpage>223</lpage>. <pub-id pub-id-type="pmid">7779333</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>J&#x000f8;rgensen</surname><given-names>HS</given-names></name><name><surname>Nakayama</surname><given-names>H</given-names></name><name><surname>Raaschou</surname><given-names>HO</given-names></name><etal>et al.</etal></person-group>: <article-title>Recovery of walking function in stroke patients: the
+Copenhagen Stroke Study</article-title>. <source>Arch Phys Med Rehabil</source>,
+<year>1995</year>, <volume>76</volume>: <fpage>27</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="pmid">7811170</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Langhorne</surname><given-names>P</given-names></name><name><surname>Coupar</surname><given-names>F</given-names></name><name><surname>Pollock</surname><given-names>A</given-names></name></person-group>: <article-title>Motor recovery after stroke: a systematic
+review</article-title>. <source>Lancet Neurol</source>, <year>2009</year>,
+<volume>8</volume>: <fpage>741</fpage>&#x02013;<lpage>754</lpage>. <pub-id pub-id-type="pmid">19608100</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Page</surname><given-names>SJ</given-names></name><name><surname>Levine</surname><given-names>P</given-names></name><name><surname>Hade</surname><given-names>E</given-names></name></person-group>: <article-title>Psychometric properties and administration of the
+wrist/hand subscales of the Fugl-Meyer Assessment in minimally impaired upper extremity
+hemiparesis in stroke</article-title>. <source>Arch Phys Med Rehabil</source>,
+<year>2012</year>, <volume>93</volume>: <fpage>2373</fpage>&#x02013;<lpage>2376, e5</lpage>.
+<pub-id pub-id-type="pmid">22759831</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Woodbury</surname><given-names>ML</given-names></name><name><surname>Velozo</surname><given-names>CA</given-names></name><name><surname>Richards</surname><given-names>LG</given-names></name><etal>et al.</etal></person-group>: <article-title>Dimensionality and construct validity of the Fugl-Meyer
+Assessment of the upper extremity</article-title>. <source>Arch Phys Med
+Rehabil</source>, <year>2007</year>, <volume>88</volume>:
+<fpage>715</fpage>&#x02013;<lpage>723</lpage>. <pub-id pub-id-type="pmid">17532892</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Perry</surname><given-names>J</given-names></name><name><surname>Garrett</surname><given-names>M</given-names></name><name><surname>Gronley</surname><given-names>JK</given-names></name><etal>et al.</etal></person-group>: <article-title>Classification of walking handicap in the stroke
+population</article-title>. <source>Stroke</source>, <year>1995</year>,
+<volume>26</volume>: <fpage>982</fpage>&#x02013;<lpage>989</lpage>. <pub-id pub-id-type="pmid">7762050</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Malouin</surname><given-names>F</given-names></name><name><surname>Pichard</surname><given-names>L</given-names></name><name><surname>Bonneau</surname><given-names>C</given-names></name><etal>et al.</etal></person-group>: <article-title>Evaluating motor recovery early after stroke: comparison
+of the Fugl-Meyer Assessment and the Motor Assessment Scale</article-title>.
+<source>Arch Phys Med Rehabil</source>, <year>1994</year>, <volume>75</volume>:
+<fpage>1206</fpage>&#x02013;<lpage>1212</lpage>. <pub-id pub-id-type="pmid">7979930</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>van der Lee</surname><given-names>JH</given-names></name><name><surname>Beckerman</surname><given-names>H</given-names></name><name><surname>Lankhorst</surname><given-names>GJ</given-names></name><etal>et al.</etal></person-group>: <article-title>The responsiveness of the Action Research Arm test and the
+Fugl-Meyer Assessment scale in chronic stroke patients</article-title>. <source>J
+Rehabil Med</source>, <year>2001</year>, <volume>33</volume>:
+<fpage>110</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="pmid">11482350</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Rabadi</surname><given-names>MH</given-names></name><name><surname>Rabadi</surname><given-names>FM</given-names></name></person-group>: <article-title>Comparison of the action research arm test and the
+Fugl-Meyer assessment as measures of upper-extremity motor weakness after
+stroke</article-title>. <source>Arch Phys Med Rehabil</source>, <year>2006</year>,
+<volume>87</volume>: <fpage>962</fpage>&#x02013;<lpage>966</lpage>. <pub-id pub-id-type="pmid">16813784</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Kim</surname><given-names>H</given-names></name><name><surname>Her</surname><given-names>J</given-names></name><name><surname>Ko</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Reliability, concurrent validity, and responsiveness of
+the Fugl-Meyer Assessment (FMA) for hemiplegic patients</article-title>. <source>J Phys
+Ther Sci</source>, <year>2012</year>, <volume>24</volume>:
+<fpage>893</fpage>&#x02013;<lpage>899</lpage>. </mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Crow</surname><given-names>JL</given-names></name><name><surname>Harmeling-van der Wel</surname><given-names>BC</given-names></name></person-group>: <article-title>Hierarchical properties of the motor function sections of
+the Fugl-Meyer assessment scale for people after stroke: a retrospective
+study</article-title>. <source>Phys Ther</source>, <year>2008</year>,
+<volume>88</volume>: <fpage>1554</fpage>&#x02013;<lpage>1567</lpage>. <pub-id pub-id-type="pmid">18927197</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Gladstone</surname><given-names>DJ</given-names></name><name><surname>Danells</surname><given-names>CJ</given-names></name><name><surname>Black</surname><given-names>SE</given-names></name></person-group>: <article-title>The fugl-meyer assessment of motor recovery after stroke:
+a critical review of its measurement properties</article-title>. <source>Neurorehabil
+Neural Repair</source>, <year>2002</year>, <volume>16</volume>:
+<fpage>232</fpage>&#x02013;<lpage>240</lpage>. <pub-id pub-id-type="pmid">12234086</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Crow</surname><given-names>JL</given-names></name><name><surname>Kwakkel</surname><given-names>G</given-names></name><name><surname>Bussmann</surname><given-names>JB</given-names></name><etal>et al.</etal></person-group>: <article-title>Are hierarchical properties of the Fugl-Meyer Assessment
+Scale (FM Motor Scale) the same in acute and chronic stroke?</article-title><source>Phys
+Ther</source>, <year>2014</year>, <comment>Advance online publication</comment>.
+</mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="book"><person-group><name><surname>Hambleton</surname><given-names>RK</given-names></name><name><surname>Swaminatha</surname><given-names>H</given-names></name><name><surname>Rogers</surname><given-names>HJ</given-names></name></person-group>: Fundamentals of Item Response Theory. Newbury Park: Sage,
+<year>1991</year>, pp 50&#x02013;160.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Waller</surname><given-names>NG</given-names></name><name><surname>Kojetin</surname><given-names>BA</given-names></name><name><surname>Bouchard</surname><given-names>TJ</given-names></name><etal>et al.</etal></person-group>: <article-title>Genetic and environmental influences on religious
+interests, attitudes, and values: a study of twins reared apart and
+together</article-title>. <source>Psychol Sci</source>, <year>1990</year>,
+<volume>1</volume>: <fpage>138</fpage>&#x02013;<lpage>142</lpage>. </mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Chen</surname><given-names>KL</given-names></name><name><surname>Chen</surname><given-names>CT</given-names></name><name><surname>Chou</surname><given-names>YT</given-names></name><etal>et al.</etal></person-group>: <article-title>Is the long form of the Fugl-Meyer Motor Scale more
+responsive than the short form in patients with wtroke?</article-title><source>Arch Phys
+Med Rehabil</source>, <year>2014</year>, <comment>Advance online publication</comment>.
+</mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="book"><person-group><name><surname>Kane</surname><given-names>RL</given-names></name></person-group>: Understanding Health Care Outcomes Research, 2nd ed. Massachusetts: Jones
+and Bartlett, <year>2006</year>, pp 60&#x02013;193.</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="book"><person-group><name><surname>Ebel</surname><given-names>RL</given-names></name></person-group>: Measuring Educational Acheivement. NJ: Prentice-Hall, <year>1972</year>,
+p 399.</mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="book"><person-group><name><surname>Sung</surname><given-names>TJ</given-names></name></person-group>: The Theory and Practice of Item Development and Analysis. Seoul: Hakjisa,
+<year>2004</year>, pp 193&#x02013;218.</mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="book"><person-group><name><surname>Nunnally</surname><given-names>JS</given-names></name><name><surname>Bernstein</surname><given-names>IH</given-names></name></person-group>: Psychometric Theory, 3rd ed. USA: McGraw-Hill, <year>1994</year>, pp
+264&#x02013;265.</mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Duncan</surname><given-names>PW</given-names></name><name><surname>Propst</surname><given-names>M</given-names></name><name><surname>Nelson</surname><given-names>SG</given-names></name></person-group>: <article-title>Reliability of the Fugl-Meyer assessment of sensorimotor
+recovery following cerebrovascular accident</article-title>. <source>Phys Ther</source>,
+<year>1983</year>, <volume>63</volume>: <fpage>1606</fpage>&#x02013;<lpage>1610</lpage>.
+<pub-id pub-id-type="pmid">6622535</pub-id></mixed-citation></ref></ref-list></back></article>

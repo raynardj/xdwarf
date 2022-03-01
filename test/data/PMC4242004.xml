@@ -1,0 +1,406 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem B</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem B</journal-id><journal-id journal-id-type="publisher-id">jp</journal-id><journal-id journal-id-type="coden">jpcbfk</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry. B</journal-title></journal-title-group><issn pub-type="ppub">1520-6106</issn><issn pub-type="epub">1520-5207</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1021/jp5106423</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Disorder
+in Cholesterol-Binding Functionality of CRAC
+Peptides: A Molecular Dynamics Study</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Miller</surname><given-names>Cayla
+M.</given-names></name></contrib><contrib contrib-type="author" id="ath2"><name><surname>Brown</surname><given-names>Angela C.</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><name><surname>Mittal</surname><given-names>Jeetain</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Department of Chemical and
+Biomolecular Engineering, <institution>Lehigh University</institution>, Bethlehem, Pennsylvania 18015, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>jeetain@lehigh.edu</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>27</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>27</day><month>10</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>20</day><month>11</month><year>2014</year></pub-date><volume>118</volume><issue>46</issue><fpage>13169</fpage><lpage>13174</lpage><history><date date-type="received"><day>22</day><month>10</month><year>2014</year></date><date date-type="rev-recd"><day>27</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-106423_0007" id="ab-tgr1"/></p><p>The
+cholesterol recognition/interaction amino acid consensus (CRAC)
+motif is a primary structure pattern used to identify regions that
+may be responsible for preferential cholesterol binding in many proteins.
+The leukotoxin LtxA, which is produced by a pathogenic bacterium,
+contains two CRAC seqences, only one of which is responsible for cholesterol
+binding, and the binding is required for cytotoxicity. The factors,
+in addition to the CRAC definition, that may be responsible for cholesterol-binding
+functionality and atomistic interactions between the CRAC region and
+cholesterol are as yet unknown. This study uses molecular dynamics
+simulations to identify structural characteristics and specific interactions
+of the two LtxA CRAC peptides with both pure phospholipid and binary
+cholesterol&#x02013;phospholipid bilayers. We have identified changes
+in the secondary structure of these peptides that occur upon cholesterol
+binding, which are not seen when it is associated with a cholesterol-devoid
+membrane, and which show salient coupling of structural disorder and
+function. Additionally, the central tyrosine residue of the CRAC motif
+was found to play a significant role in cholesterol binding, though
+residues outside of the CRAC motif also influence membrane interactions
+and functionality of the CRAC region.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jp5106423</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jp-2014-106423</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>Biological membranes
+are complex, dynamic systems that are responsible
+for an array of cellular processes. Interactions between various membrane
+components, including lipid&#x02013;lipid, lipid&#x02013;protein, and
+protein&#x02013;protein interactions, all contribute to the structure
+and function of cell membranes.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The study of membrane-bound
+proteins is relevant to understanding many native cell processes as
+well as the cytotoxic effects of some proteins, and much research
+has been done to elucidate these details;<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> however, mechanisms of membrane binding by proteins remain perplexing.
+The difficulty of experimentally determining structural characteristics
+of membrane-bound proteins and the small-scale interactions of peptides
+with membranes makes molecular dynamics simulations a promising technique
+for the study of membrane&#x02013;peptide interactions.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Furthermore, biological membranes have been found to have
+significant and varied effects on protein structure. While inducing
+or stabilizing an &#x003b1;-helical structure in some intrinsically
+disordered proteins (IDPs), such as &#x003b1;-synuclein and islet amyloid
+polypeptide (IAPP),<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> near-membrane environments can also cause structural
+loss of folded proteins; this loss of structure near membranes is
+associated with the functionality of many proteins, including several
+protein toxins.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>One area of particular
+interest in protein&#x02013;membrane interactions
+is binding of proteins to membrane-bound cholesterol, which has led
+to the definition of the cholesterol recognition/interaction amino
+acid consensus (CRAC) motif.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Highly conserved
+among cholesterol-interacting proteins, the CRAC motif takes the form
+-L/V-X<sub>1&#x02013;5</sub>-Y-X<sub>1&#x02013;5</sub>-R/K-, where X<sub>1&#x02013;5</sub> may be any sequence of amino acids from one to five
+residues in length. However, the liberal constraints of the CRAC algorithm
+overpredict actual cholesterol-binding functionality. For example,
+a leukotoxin (LtxA) produced by the pathogenic bacterium <italic>Aggregatibacter
+actinomycetemcomitans</italic> exhibits binding specific to cholesterol
+and contains two CRAC sequences, termed CRAC<sup>336</sup> (LEEYSKRFKK)
+and CRAC<sup>503</sup> (VDYLKK).<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Of the
+two CRAC sites, only CRAC<sup>336</sup> was shown to be responsible
+for cholesterol binding of LtxA.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Furthermore,
+CRAC<sup>336</sup> is highly conserved among the repeats-in-toxin
+family of proteins, which includes <italic>Escherichia coli </italic>&#x003b1;-hemolysin and <italic>Mannheimia hemolytica</italic> leukotoxin,
+in addition to LtxA. The differences that exist between the two CRAC
+regions that lead to their differing levels of functionality are unkown
+but may provide insight into cholesterol binding not only by LtxA
+but also by other toxins that conserve this functional CRAC region
+and require cholesterol binding for toxicity.</p><p>We have performed
+simulations of the peptides corresponding to
+the CRAC<sup>336</sup> and CRAC<sup>503</sup> sequences (acetyl-FDRARMLEEYSKRFKKFGY-NH<sub>2</sub> and acetyl-QSGKAYVDYLKKGEELA-NH<sub>2</sub>, respectively) used in the experiments by Brown et al.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> By comparing simulations carried out both in
+solution and near membrane bilayers, we are able to identify differences
+in the interactions of the two peptides with a lipid bilayer in the
+presence and absence of cholesterol. Consistent with former experiments,
+CRAC<sup>336</sup>, but not CRAC<sup>503</sup>, showed strong membrane
+affinity specific to the cholesterol-bearing bilayer. Additionally,
+significant loss of the peptide&#x02019;s secondary structure was also
+correlatively associated with its interaction with this membrane.</p></sec><sec id="sec2"><title>Computational
+Methods</title><p>Simulation of each of the two peptides in solution
+was first performed
+using Gromacs 4.5.6<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> with the Amber03d
+force field<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> and the TIP3P water model.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Each peptide was solvated in a truncated octahedron
+box with 3.7 nm between the nearest faces, and ions were added to
+neutralize charge. Replica-exchange molecular dynamics (REMD)<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> was performed using an NVT ensemble with 24
+replicas from 300 to 499 K. Temperatures for each replica were 300,
+304, 308, 313, 318, 324, 330, 337, 344, 352, 360, 369, 378, 388, 398,
+409, 420, 431, 444, 455, 466, 477, 488, and 499 K. Electrostatic interactions
+were calculated using the particle mesh Ewald method<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> with a real space cutoff of 0.9 nm. For van der Waals interactions,
+a 1.2 nm cutoff was used. The simulation was initiated from a random-coil-like
+conformation. Each replica was simulated for 151 ns, with a time step
+of 2 fs, and exchange attempted every 1000 steps. The first 51 ns
+were discarded as equilibration. Though frames that allowed the peptide
+to interact with its periodic image were not significant (less than
+4% of frames for CRAC<sup>503</sup> with a minimum distance between
+periodic images of less than 0.6 nm), they were discarded from the
+analysis.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>Both peptides were also simulated
+near a pure DMPC bilayer composed
+of 64 lipid molecules (32 in each leaflet) and a 40% cholesterol bilayer
+composed of 128 molecules (26 cholesterol and 38 DMPC molecules in
+each leaflet), both of which were obtained from the Slipids Web site
+(<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://people.su.se/&#x0223c;jjm/">http://people.su.se/&#x0223c;jjm/</uri>). The starting configurations
+for these simulations were taken from the equilibrium trajectory of
+the solution simulations. To enhance conformational sampling of the
+peptide, these simulations utilized replica exchange with solute tempering
+(REST)<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> using Gromacs (4.6.5)<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> patched with the PLUMED plugin (version 2.0.2).<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> The Amber03d force field and the TIP3P water model were
+used for protein and solvent parameters, and the Slipids force field
+was used for the lipid parameters.</p><p>The Amber03d force field<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> has been
+found to accurately balance helix and coil populations and to fold
+both &#x003b1;-helix and &#x003b2;-sheet structures,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> and the Slipids force field with TIP3P water has been validated
+for the simulation of lipids, including binary bilayers.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> Force-field accuracy continues to be an ongoing endeavor, and agreement
+between our simulation and experimental results suggests that our
+force-field parameters are appropriate. However, further work comparing
+results from different force fields is needed in the future.</p><p>Electrostatics were calculated using the particle mesh Ewald method
+with a real space cutoff of 1.0 nm. For van der Waals interactions,
+a 1.0 nm cutoff was also used. Eight replicas were used to scale the
+protein energy with effective temperatures of 300, 331.227, 365.704,
+403.77, 445.798, 492.201, 543.434, and 600 K as described previously.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Each replica was simulated for 100 ns, with
+a time step of 2 fs, and exchange attempted every 500 steps. Though
+sufficient for the CRAC<sup>503</sup> peptide, eight replicas were
+found to limit the exchange of the lowest-temperature replicas in
+the case of the CRAC<sup>336</sup> peptide. As a result, the final
+configurations of this 100 ns run were used to populate 12 replicas
+to scale the protein energy with effective temperatures of 300, 319.512,
+340.294, 362.427, 385.999, 411.105, 437.844, 466.322, 496.652, 528.955,
+563.359, and 600 K. Each of the 12 replicas was simulated for an additional
+100 ns, again with a time step of 2 fs, and exchange attempted every
+500 steps. Percolation of replicas demonstrates movement of replicas
+from lowest to highest temperature nodes and is shown for the CRAC<sup>336</sup> peptide with the 40% cholesterol membrane system in the <xref rid="notes-1" ref-type="notes">Supporting Information</xref>. Semi-isotropic pressure
+coupling was maintained with the Parrinello&#x02013;Rahman barostat<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> using a coupling time of 5 ps. In each case,
+the first 5 ns of the trajectory of interest (300 K) were discarded
+as equilibration time. Equilibration times were determined from cumulative
+averaging of secondary structure properties; these cumulative averages
+of secondary structure propensities for the CRAC<sup>336</sup> DMPC
+membrane system are available in the <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>.</p><p>The CRAC<sup>336</sup> Y19A mutant peptide
+was simulated near the
+40% cholesterol membrane for 50 ns using eight replicas and discarding
+5 ns of equilibration time as described above. The CRAC<sup>336</sup> Y10A mutant required greater equilibration time and was simulated
+for 150 ns, using the last 100 ns for analysis, and using 12 replicas.</p></sec><sec id="sec3"><title>Results
+and Discussion</title><p>Both CRAC<sup>336</sup> and CRAC<sup>503</sup> were simulated in
+three environments: in solution, near a 1,2-dimyristoyl-<italic>sn</italic>-glycero-3-phosphocholine (DMPC) bilayer, and near a bilayer composed
+of 60 mol % DMPC and 40 mol % cholesterol (DMPC/CHO). When comparing
+LtxA binding to membranes with 0, 20, 40, and 60% cholesterol, Brown
+et al. found that the protein had the greatest affinity for membranes
+composed of 40% cholesterol.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> In the same
+study, it was found that LtxA&#x02019;s affinity for the 40% cholesterol
+membrane was not attributable merely to its raft-like nature because
+cholesterol binding of LtxA to a non-raft-like bilayer composed of
+60 mol % 1,2-dioleoyl-<italic>sn</italic>-glycero-3-phosphocholine
+(DOPC) and 40 mol % cholesterol (60:40 DOPC/CHO) was not significantly
+different from its binding to the raft-like DMPC/CHO bilayer.</p><p>The extent to which each of the CRAC peptides interacted with the
+membrane in our simulations varied between both the membrane environments
+and the peptides. To compare each peptide&#x02019;s propensity to remain
+close to or even penetrate the membrane surface, the time-averaged
+density profile along the membrane normal for each case is plotted
+in Figure <xref rid="fig1" ref-type="fig">1</xref>. Near the pure DMPC bilayer, both
+CRAC<sup>336</sup> and CRAC<sup>503</sup> show sampling of space both
+at the membrane interface and throughout the aqueous region. However,
+the density profile of CRAC<sup>336</sup> near the 40% cholesterol
+bilayer shows strong localization of the peptide close to the bilayer
+surface. Though CRAC<sup>503</sup> shows some increase in near-membrane
+density near the 40% cholesterol membrane, this peptide continues
+to show significant sampling of space throughout the aqueous region
+as well.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Density profiles of each CRAC peptide/membrane system along the
+membrane normal. CRAC<sup>336</sup> and CRAC<sup>503</sup> systems
+are in the left and right columns, respectively, and density profiles
+near the 60:40 DMPC/CHO and pure DMPC bilayer are represented in the
+top and bottom rows, respectively. Peptide density is shown in red;
+cholesterol density is magenta, and DMPC densities are broken into
+hydrocarbon, carbonyl, glycerol, phosphate, and choline groups (see
+legend for color definitions).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-106423_0002" id="gr1" position="float"/></fig><p>To identify whether the inherent structural characteristics
+of
+the two peptides are responsible for their cholesterol interaction,
+secondary structure assignments were determined for each 300 K solution
+trajectory using the DSSP algorithm.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Averaging
+the number of residues assigned to each secondary structure over the
+trajectory yields similar results for the two peptides, with both
+sharing comparable tendencies toward each secondary structure assignment
+(Figure <xref rid="fig2" ref-type="fig">2</xref>A, black). Secondary structure assignments
+per residue are plotted in Figure <xref rid="fig2" ref-type="fig">2</xref>B, again
+showing similar results for both peptides in solution. Both peptides
+share an overall high coil, low-to-moderate &#x003b2;-sheet propensity
+as well as a helical propensity over their central residues. CRAC<sup>336</sup> does show greater &#x003b2;-sheet and lower &#x003b1;-helix
+propensity than CRAC<sup>503</sup>, and it is possible that these
+structural differences may contribute to the cholesterol-binding activity
+of the peptides. However, greater structural differences are seen
+in the near-membrane environments.</p><p>To determine whether membrane
+interactions induce structural changes
+in either of the two CRAC peptides, DSSP secondary structure assignments
+were determined for the ensemble of each peptide near both the DMPC/CHO
+and the pure DMPC bilayers (Figure <xref rid="fig2" ref-type="fig">2</xref>, red and
+green, respectively). Despite a quantitative change in &#x003b2;-sheet
+propensity, the qualitative structural characteristics of CRAC<sup>503</sup> near both bilayers remain similar to those in aqueous solution,
+which could be expected based on the relatively weak interaction between
+the peptide and the bilayers. In the secondary structure of all three
+environments, the average number of residues shows some &#x003b2;-sheet
+propensity in addition to a more considerable helical propensity.
+However, we observe significant changes in secondary structure of
+CRAC<sup>336</sup> near the 40% cholesterol membrane compared to its
+secondary structure in solution. Near the cholesterol-bearing membrane,
+the average number of total residues in &#x003b1;- and 3<sub>10</sub>-helical structures and in summed &#x003b2;-sheet and &#x003b2;-bridge
+structures drops to less than 20 and 10%, respectively, of their original
+values in solution. The secondary structure of this peptide per residue
+reveals diminished helicity and &#x003b2;-sheet propensity in favor
+of increased coil conformation across the entire sequence. This effect
+is not attributable merely to the presence of a membrane because CRAC<sup>336</sup> maintains both helical and &#x003b2;-sheet structures near
+the pure DMPC membrane. In contrast to this marked difference in secondary
+structure propensities near the cholesterol-bearing membrane, CRAC<sup>336</sup> and CRAC<sup>503</sup> share similar structural characteristics
+near the pure DMPC membrane. These results provide a striking example
+of the functionality of disorder. Of the two CRAC peptides in both
+bilayer environments, only CRAC<sup>336</sup> near the 40% cholesterol
+membrane shows a strong singular affinity for the peptide to remain
+close to the bilayer interface, and the cholesterol-binding functionality
+of this peptide is coupled to its secondary structure loss.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Secondary structure
+comparison of CRAC<sup>336</sup> (left) and
+CRAC<sup>503</sup> (right) in solution (black), near a DMPC/CHO (red)
+membrane, and near a pure DMPC membrane (green). (A) Average number
+of residues assigned to coil, &#x003b2;-sheet, &#x003b2;-bridge, bend,
+turn, &#x003b1;-helix, and 3<sub>10</sub>-helix over each trajectory.
+Not shown, &#x003c0;-helix averaged less than 0.1% of residues in each
+case. Error bars represent statistical uncertainty based on block
+averaging. (B) Average fraction of time spent in coil (including random
+coil, bend, and turn), helix (&#x003b1;-, &#x003c0;-, and 3<sub>10</sub>-helix), and &#x003b2;-sheet (&#x003b2;-sheet and &#x003b2;-bridge) conformations
+per residue. </p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-106423_0003" id="gr2" position="float"/></fig><p>By the definition of
+a CRAC motif (-L/V-X<sub>1&#x02013;5</sub>-Y-X<sub>1&#x02013;5</sub>-R/K-), the sole residue that is always required
+is the central tyrosine, and CRAC<sup>336</sup> near the 40% cholesterol
+bilayer shows insertion of this residue at the membrane interface
+during our equilibrium trajectory. Initial interactions between the
+CRAC<sup>336</sup> peptide and the 40% cholesterol bilayer show insertion
+of not only this central Tyr but also a C-terminal Tyr at the bilayer
+interface. Near-membrane structures of the CRAC<sup>336</sup> peptide
+near the pure DMPC bilayer frequently display insertion of the N-terminal
+Phe or C-terminal Tyr; there is no preference for interaction between
+the central Tyr residue and the membrane (Figure <xref rid="fig3" ref-type="fig">3</xref>). To explore the role of both tyrosine residues in the interation
+of CRAC<sup>336</sup> with the 40% cholesterol membrane, two tyrosine-to-alanine
+single point mutants, CRAC<sup>336</sup> Y10A and CRAC<sup>336</sup> Y19A, were also simulated near the 40% cholesterol membrane. The
+Y10A and Y19A mutants have an average of 2.8 &#x000b1; 0.7 and 3.8 &#x000b1;
+0.6 residues, respectively, in the summed helical secondary structure
+versus an average of 0.22 &#x000b1; 0.09 for the wild-type (WT) CRAC<sup>336</sup> peptide, indicating that unlike the WT peptide, neither
+mutant loses its &#x003b1;-helical propensity near the 40% cholesterol
+bilayer. Furthermore, density profiles of each system show that the
+CRAC<sup>336</sup> single point mutants sample structures both near
+the membrane and in the aqueous solution region (Figure <xref rid="fig4" ref-type="fig">4</xref>).</p><p>Together with the observed interactions between the
+central Tyr
+and the cholesterol-bearing membrane and between the terminal Tyr
+and the pure DMPC membrane, the results of the Y10A and Y19A mutation
+simulations described above suggest that the central Tyr of the CRAC
+motif plays a significant role in cholesterol binding. However, the
+terminal Tyr of CRAC<sup>336</sup> may function in stabilizing near-membrane
+structures, thereby allowing the central Tyr to interact with the
+membrane. Additionally, the lack of interaction between the central
+Tyr and the pure DMPC membrane further suggests that the characteristic
+interaction of the peptide near the 40% cholesterol membrane is cholesterol-specific.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Snapshots
+from the trajectories of CRAC<sup>336</sup> near a DMPC/CHO
+(left) and pure DMPC bilayer (right). Near the DMPC/CHO membrane,
+a characteristic interaction takes place between Tyr336 (green) and
+the membrane. Near the pure DMPC membrane, other residues, including
+Phe327 (blue), Phe343 (orange), and Tyr345 (red), interact with the
+membrane more frequently than Tyr336, and helical structures continue
+to be present during the interaction of the peptide with the membrane.
+DMPC carbons are cyan; cholesterol carbons are magenta. </p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-106423_0004" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Density profiles along the membrane normal of CRAC<sup>336</sup> Y10A and Y19A near the DMPC/CHO bilayer. Peptide density
+is shown
+in red; cholesterol density is magenta, and DMPC densities are broken
+into hydrocarbon, carbonyl, glycerol, phosphate, and choline groups
+(see legend for color definitions).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-106423_0005" id="gr4" position="float"/></fig></sec><sec sec-type="conclusions" id="sec4"><title>Conclusions</title><p>In conclusion, we have used replica-exchange
+molecular dynamics
+simulations to compare the effects of lipid bilayer environment on
+two peptides. Consistent with a previous experimental study,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> our results show a decided preference for the
+membrane only in the case of CRAC<sup>336</sup> near a 40% cholesterol,
+60% DMPC bilayer. This preference is not seen for the same peptide
+near a pure DMPC bilayer or for CRAC<sup>503</sup> near either bilayer.
+Furthermore, our work adds to ongoing experimental work in two key
+ways: by identifying the role of disorder in cholesterol interactions
+and by examining the role of the central Tyr in the CRAC motif. As
+the CRAC<sup>336</sup> peptide moves from solution to interact with
+the 40% cholesterol bilayer, the peptide loses its helical propensity
+and adopts a random coil conformation. The significance of disorder
+in protein behavior is becoming more clear; numerous studies have
+contributed examples of proteins that are disordered in their bound
+state.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Our work here highlights the role
+of disorder in protein&#x02013;membrane interactions. A single point
+mutation of the central Tyr, converting it to Ala, resulted in loss
+of the characteristic behavior of CRAC<sup>336</sup> near the 40%
+cholesterol bilayer, and though the central Tyr of the WT CRAC<sup>336</sup> peptide interacts significantly with the cholesterol-bearing
+bilayer, the same residue does not show the same high propensity for
+interaction with the cholesterol-devoid bilayer. Furthermore, the
+context dependence of the functionality of the CRAC domain is demonstrated
+through a single-point mutation of the CRAC<sup>336</sup> peptide
+outside of the CRAC motif.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Percolation
+of replicas of
+CRAC<sup>336</sup> near the 40% bilayer system and cumulative averaging
+of secondary structure characteristics of CRAC<sup>336</sup> near
+the pure DMPC bilayer system, which were used to determine equilibration
+time. This material is available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp5106423_si_001.pdf"><caption><p>jp5106423_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d46e516-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank
+Giovanni Bussi for providing the necessary scripts
+to perform Hamiltonian-exchange simulations with Gromacs. This work
+was supported by National Institutes of Health Grant R00DE022795 (A.C.B.).
+Use of the high-performance computing capabilities of the Extreme
+Science and Engineering Discovery Environment (XSEDE), which is supported
+by National Science Foundation Grant TG-MCB-120014, is also gratefully
+acknowledged.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Singer</surname><given-names>S. J.</given-names></name>; <name><surname>Nicolson</surname><given-names>G. L.</given-names></name>
+<article-title>The Fluid Mosaic
+Model of the Structure of Cell Membranes</article-title>. <source>Science</source>
+<year>1972</year>, <volume>175</volume>, <fpage>720</fpage>&#x02013;<lpage>731</lpage>.<pub-id pub-id-type="pmid">4333397</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Engelman</surname><given-names>D. M.</given-names></name>
+<article-title>Membranes
+are More Mosaic than Fluid</article-title>. <source>Nature</source>
+<year>2005</year>, <volume>438</volume>, <fpage>578</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">16319876</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Cho</surname><given-names>W.</given-names></name>; <name><surname>Stahelin</surname><given-names>R. V.</given-names></name>
+<article-title>Membrane&#x02013;Protein
+Interactions in Cell Signaling
+and Membrane Trafficking</article-title>. <source>Annu. Rev. Biophys.
+Biomol. Struct.</source>
+<year>2005</year>, <volume>34</volume>, <fpage>119</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">15869386</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Dror</surname><given-names>R. O.</given-names></name>; <name><surname>Jensen</surname><given-names>M. &#x000d8;.</given-names></name>; <name><surname>Borhani</surname><given-names>D. W.</given-names></name>; <name><surname>Shaw</surname><given-names>D. E.</given-names></name>
+<article-title>Exploring Atomic
+Resolution Physiology on a Femtosecond to Millisecond Timescale Using
+Molecular Dynamics Simulations</article-title>. <source>J. Gen. Physiol.</source>
+<year>2010</year>, <volume>135</volume>, <fpage>555</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">20513757</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Dyson</surname><given-names>H. J.</given-names></name>; <name><surname>Wright</surname><given-names>P. E.</given-names></name>
+<article-title>Coupling of Folding
+and Binding for Unstructured Proteins</article-title>. <source>Curr.
+Opin. Struct. Biol.</source>
+<year>2002</year>, <volume>12</volume>, <fpage>54</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">11839490</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Uversky</surname><given-names>V. N.</given-names></name>
+<article-title>Intrinsically
+Disordered Proteins and Their Environment: Effects of Strong Denaturants,
+Temperature, pH, Counter Ions, Membranes, Binding Partners, Osmolytes,
+and Macromolecular Crowding</article-title>. <source>Protein J.</source>
+<year>2009</year>, <volume>28</volume>, <fpage>305</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">19768526</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Morriss-Andrews</surname><given-names>A.</given-names></name>; <name><surname>Shea</surname><given-names>J.-E.</given-names></name>
+<article-title>Simulations of Protein
+Aggregation: Insights from Atomistic
+and Coarse-Grained Models</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>1899</fpage>&#x02013;<lpage>1908</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Jakob</surname><given-names>U.</given-names></name>; <name><surname>Kriwacki</surname><given-names>R.</given-names></name>; <name><surname>Uversky</surname><given-names>V. N.</given-names></name>
+<article-title>Conditionally
+and Transiently Disordered
+Proteins: Awakening Cryptic Disorder To Regulate Protein Function</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>6779</fpage>&#x02013;<lpage>6805</lpage>.<pub-id pub-id-type="pmid">24502763</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Papadopoulos</surname><given-names>V.</given-names></name>
+<article-title>Peripheral-Type
+Benzodiazepine Receptor Function in
+Cholesterol Transport. Identification of a Putative Cholesterol Recognition/Interaction
+Amino Acid Sequence and Consensus Pattern 1</article-title>. <source>Endocrinology</source>
+<year>1998</year>, <volume>139</volume>, <fpage>4991</fpage>&#x02013;<lpage>4997</lpage>.<pub-id pub-id-type="pmid">9832438</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Brown</surname><given-names>A. C.</given-names></name>; <name><surname>Balashova</surname><given-names>N. V.</given-names></name>; <name><surname>Epand</surname><given-names>R. M.</given-names></name>; <name><surname>Epand</surname><given-names>R. F.</given-names></name>; <name><surname>Bragin</surname><given-names>A.</given-names></name>; <name><surname>Kachlany</surname><given-names>S. C.</given-names></name>; <name><surname>Walters</surname><given-names>M. J.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>; <name><surname>Boesze-Battaglia</surname><given-names>K.</given-names></name>; <name><surname>Lally</surname><given-names>E. T.</given-names></name>
+<article-title><italic>Aggregatibacter actinomycetemcomitans</italic> Leukotoxin Utilizes a Cholesterol Recognition/Amino Acid Consensus
+Site for Membrane Association</article-title>. <source>J. Biol. Chem.</source>
+<year>2013</year>, <volume>288</volume>, <fpage>23607</fpage>&#x02013;<lpage>23621</lpage>.<pub-id pub-id-type="pmid">23792963</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Hess</surname><given-names>B.</given-names></name>; <name><surname>Kutzner</surname><given-names>C.</given-names></name>; <name><surname>Van Der
+Spoel</surname><given-names>D.</given-names></name>; <name><surname>Lindahl</surname><given-names>E.</given-names></name>
+<article-title>GROMACS 4: Algorithms
+for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation</article-title>. <source>J. Chem. Theory Comput.</source>
+<year>2008</year>, <volume>4</volume>, <fpage>435</fpage>&#x02013;<lpage>447</lpage>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Best</surname><given-names>R. B.</given-names></name>; <name><surname>Hummer</surname><given-names>G.</given-names></name>
+<article-title>Optimized Molecular Dynamics Force Fields Applied to
+the Helix&#x02013;Coil Transition of Polypeptides</article-title>. <source>J. Phys. Chem. B</source>
+<year>2009</year>, <volume>113</volume>, <fpage>9004</fpage>&#x02013;<lpage>9015</lpage>.<pub-id pub-id-type="pmid">19514729</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>; <name><surname>Chandrasekhar</surname><given-names>J.</given-names></name>; <name><surname>Madura</surname><given-names>J. D.</given-names></name>; <name><surname>Impey</surname><given-names>R. W.</given-names></name>; <name><surname>Klein</surname><given-names>M. L.</given-names></name>
+<article-title>Comparison
+of Simple Potential Functions for Simulating Liquid Water</article-title>. <source>J. Chem. Phys.</source>
+<year>1983</year>, <volume>79</volume>, <fpage>926</fpage>&#x02013;<lpage>935</lpage>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Sugita</surname><given-names>Y.</given-names></name>; <name><surname>Okamoto</surname><given-names>Y.</given-names></name>
+<article-title>Replica-Exchange Molecular Dynamics Method for Protein
+Folding</article-title>. <source>Chem. Phys. Lett.</source>
+<year>1999</year>, <volume>314</volume>, <fpage>141</fpage>&#x02013;<lpage>151</lpage>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Essmann</surname><given-names>U.</given-names></name>; <name><surname>Perera</surname><given-names>L.</given-names></name>; <name><surname>Berkowitz</surname><given-names>M. L.</given-names></name>; <name><surname>Darden</surname><given-names>T.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Pedersen</surname><given-names>L. G.</given-names></name>
+<article-title>A Smooth Particle
+Mesh Ewald Method</article-title>. <source>J. Chem. Phys.</source>
+<year>1995</year>, <volume>103</volume>, <fpage>8577</fpage>&#x02013;<lpage>8593</lpage>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Knott</surname><given-names>M.</given-names></name>; <name><surname>Best</surname><given-names>R. B.</given-names></name>
+<article-title>A Preformed Binding
+Interface in the Unbound Ensemble
+of an Intrinsically Disordered Protein: Evidence from Molecular Simulations</article-title>. <source>PLoS Comput. Biol.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>e1002605</fpage>.<pub-id pub-id-type="pmid">22829760</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Ensign</surname><given-names>D.
+L.</given-names></name>; <name><surname>Kasson</surname><given-names>P. M.</given-names></name>; <name><surname>Pande</surname><given-names>V. S.</given-names></name>
+<article-title>Heterogeneity Even at the Speed Limit
+of Folding: Large-Scale Molecular Dynamics Study of a Fast-Folding
+Variant of the Villin Headpiece</article-title>. <source>J. Mol. Biol.</source>
+<year>2007</year>, <volume>374</volume>, <fpage>806</fpage>&#x02013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">17950314</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Liu</surname><given-names>P.</given-names></name>; <name><surname>Kim</surname><given-names>B.</given-names></name>; <name><surname>Friesner</surname><given-names>R. A.</given-names></name>; <name><surname>Berne</surname><given-names>B.</given-names></name>
+<article-title>Replica Exchange with Solute Tempering:
+A Method for Sampling Biological Systems in Explicit Water</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2005</year>, <volume>102</volume>, <fpage>13749</fpage>&#x02013;<lpage>13754</lpage>.<pub-id pub-id-type="pmid">16172406</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Friesner</surname><given-names>R. A.</given-names></name>; <name><surname>Berne</surname><given-names>B.</given-names></name>
+<article-title>Replica Exchange with Solute Scaling:
+A More Efficient Version of Replica Exchange with Solute Tempering
+(REST2)</article-title>. <source>J. Phys. Chem. B</source>
+<year>2011</year>, <volume>115</volume>, <fpage>9431</fpage>&#x02013;<lpage>9438</lpage>.<pub-id pub-id-type="pmid">21714551</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Bussi</surname><given-names>G.</given-names></name>
+<article-title>Hamiltonian
+Replica Exchange in GROMACS: A Flexible Implementation</article-title>. <source>Mol. Phys.</source>
+<year>2014</year>, <volume>112</volume>, <fpage>379</fpage>&#x02013;<lpage>384</lpage>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Bonomi</surname><given-names>M.</given-names></name>; <name><surname>Branduardi</surname><given-names>D.</given-names></name>; <name><surname>Bussi</surname><given-names>G.</given-names></name>; <name><surname>Camilloni</surname><given-names>C.</given-names></name>; <name><surname>Provasi</surname><given-names>D.</given-names></name>; <name><surname>Raiteri</surname><given-names>P.</given-names></name>; <name><surname>Donadio</surname><given-names>D.</given-names></name>; <name><surname>Marinelli</surname><given-names>F.</given-names></name>; <name><surname>Pietrucci</surname><given-names>F.</given-names></name>; <name><surname>Broglia</surname><given-names>R. A.</given-names></name>; et al. <article-title>PLUMED: A Portable Plugin
+for Free-Energy Calculations with Molecular Dynamics</article-title>. <source>Comput. Phys. Commun.</source>
+<year>2009</year>, <volume>180</volume>, <fpage>1961</fpage>&#x02013;<lpage>1972</lpage>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Best</surname><given-names>R. B.</given-names></name>; <name><surname>Mittal</surname><given-names>J.</given-names></name>
+<article-title>Balance Between &#x003b1; and &#x003b2; Structures in Ab
+Initio Protein Folding</article-title>. <source>J. Phys. Chem. B</source>
+<year>2010</year>, <volume>114</volume>, <fpage>8790</fpage>&#x02013;<lpage>8798</lpage>.<pub-id pub-id-type="pmid">20536262</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Mittal</surname><given-names>J.</given-names></name>; <name><surname>Best</surname><given-names>R. B.</given-names></name>
+<article-title>Tackling Force-Field
+Bias in Protein Folding Simulations:
+Folding of Villin HP35 and Pin WW Domains in Explicit Water</article-title>. <source>Biophys. J.</source>
+<year>2010</year>, <volume>99</volume>, <fpage>L26</fpage>&#x02013;<lpage>L28</lpage>.<pub-id pub-id-type="pmid">20682244</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>J&#x000e4;mbeck</surname><given-names>J. P.</given-names></name>; <name><surname>Lyubartsev</surname><given-names>A. P.</given-names></name>
+<article-title>Derivation and Systematic Validation of a Refined All-Atom
+Force Field for Phosphatidylcholine Lipids</article-title>. <source>J. Phys. Chem. B</source>
+<year>2012</year>, <volume>116</volume>, <fpage>3164</fpage>&#x02013;<lpage>3179</lpage>.<pub-id pub-id-type="pmid">22352995</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>J&#x000e4;mbeck</surname><given-names>J. P.</given-names></name>; <name><surname>Lyubartsev</surname><given-names>A. P.</given-names></name>
+<article-title>An Extension and Further Validation of an All-Atomistic
+Force Field for Biological Membranes</article-title>. <source>J. Chem.
+Theory Comput.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>2938</fpage>&#x02013;<lpage>2948</lpage>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>J&#x000e4;mbeck</surname><given-names>J. P.</given-names></name>; <name><surname>Lyubartsev</surname><given-names>A. P.</given-names></name>
+<article-title>Another
+Piece of the Membrane Puzzle: Extending Slipids
+Further</article-title>. <source>J. Chem. Theory Comput.</source>
+<year>2013</year>, <volume>9</volume>, <fpage>774</fpage>&#x02013;<lpage>784</lpage>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Parrinello</surname><given-names>M.</given-names></name>; <name><surname>Rahman</surname><given-names>A.</given-names></name>
+<article-title>Polymorphic Transitions
+in Single Crystals: A New Molecular
+Dynamics Method</article-title>. <source>J. Appl. Phys.</source>
+<year>1981</year>, <volume>52</volume>, <fpage>7182</fpage>&#x02013;<lpage>7190</lpage>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Kabsch</surname><given-names>W.</given-names></name>; <name><surname>Sander</surname><given-names>C.</given-names></name>
+<article-title>Dictionary of Protein
+Secondary Structure: Pattern
+Recognition of Hydrogen-Bonded and Geometrical Features</article-title>. <source>Biopolymers</source>
+<year>1983</year>, <volume>22</volume>, <fpage>2577</fpage>&#x02013;<lpage>2637</lpage>.<pub-id pub-id-type="pmid">6667333</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>van
+der Lee</surname><given-names>R.</given-names></name>; <name><surname>Buljan</surname><given-names>M.</given-names></name>; <name><surname>Lang</surname><given-names>B.</given-names></name>; <name><surname>Weatheritt</surname><given-names>R. J.</given-names></name>; <name><surname>Daughdrill</surname><given-names>G. W.</given-names></name>; <name><surname>Dunker</surname><given-names>A. K.</given-names></name>; <name><surname>Fuxreiter</surname><given-names>M.</given-names></name>; <name><surname>Gough</surname><given-names>J.</given-names></name>; <name><surname>Gsponer</surname><given-names>J.</given-names></name>; <name><surname>Jones</surname><given-names>D. T.</given-names></name>; et al. <article-title>Classification
+of Intrinsically Disordered Regions and Proteins</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>6589</fpage>&#x02013;<lpage>6631</lpage>.<pub-id pub-id-type="pmid">24773235</pub-id></mixed-citation></ref></ref-list></back></article>
