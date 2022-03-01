@@ -2,7 +2,7 @@ from xdwarf import Dwarf
 from xdwarf import Treasure
 
 
-dwarf = Dwarf.from_glob("./data/*.xml", "PMC",2)
+dwarf = Dwarf.from_glob("./test/data/*.xml", "PMC",2)
 
 dwarf.find_one('article-meta > article-id[pub-id-type=pmid]' , "pmid")
 dwarf.find_one("abstract", "abstract").find_many("p", "paragraph")
