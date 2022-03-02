@@ -4,6 +4,7 @@ Mining XML to tabular data, FAAAAAAST
 [![PyPI version](https://img.shields.io/pypi/v/xdwarf)](https://pypi.org/project/xdwarf)
 ![Python version](https://img.shields.io/pypi/pyversions/xdwarf)
 ![License](https://img.shields.io/github/license/raynardj/xdwarf)
+[![Test xdwarf](https://github.com/raynardj/xdwarf/actions/workflows/test.yml/badge.svg)](https://github.com/raynardj/xdwarf/actions/workflows/test.yml)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/xdwarf)
 
 ## Install
